@@ -26,6 +26,7 @@ jobs:
           cd ${{ github.workspace }}/scripts
           echo "Running typescript application..."
           npm install
+          npm install @types/node --save-dev
           npm install -g typescript ts-node
           npm run start
 
