@@ -1,0 +1,206 @@
+{
+  "gainers": [
+    {
+      "time": "3:38:00 PM",
+      "data": [
+        {
+          "company": "BPCL",
+          "high": "370.50",
+          "low": "346.35",
+          "lastPrice": "367.30",
+          "prevClose": "345.10",
+          "change": "22.20",
+          "percentGain": "6.43"
+        },
+        {
+          "company": "Cipla",
+          "high": "1,679.05",
+          "low": "1,630.00",
+          "lastPrice": "1,672.50",
+          "prevClose": "1,621.80",
+          "change": "50.70",
+          "percentGain": "3.13"
+        },
+        {
+          "company": "Sun Pharma",
+          "high": "1,959.30",
+          "low": "1,915.25",
+          "lastPrice": "1,948.70",
+          "prevClose": "1,898.40",
+          "change": "50.30",
+          "percentGain": "2.65"
+        },
+        {
+          "company": "Coal India",
+          "high": "517.85",
+          "low": "504.90",
+          "lastPrice": "516.10",
+          "prevClose": "506.55",
+          "change": "9.55",
+          "percentGain": "1.89"
+        },
+        {
+          "company": "Reliance",
+          "high": "3,066.95",
+          "low": "2,984.00",
+          "lastPrice": "3,052.35",
+          "prevClose": "2,995.90",
+          "change": "56.45",
+          "percentGain": "1.88"
+        }
+      ]
+    },
+    {
+      "time": "3:43:36 PM",
+      "data": [
+        {
+          "company": "BPCL",
+          "high": "370.50",
+          "low": "346.35",
+          "lastPrice": "367.30",
+          "prevClose": "345.10",
+          "change": "22.20",
+          "percentGain": "6.43"
+        },
+        {
+          "company": "Cipla",
+          "high": "1,679.05",
+          "low": "1,630.00",
+          "lastPrice": "1,672.50",
+          "prevClose": "1,621.80",
+          "change": "50.70",
+          "percentGain": "3.13"
+        },
+        {
+          "company": "Sun Pharma",
+          "high": "1,959.30",
+          "low": "1,915.25",
+          "lastPrice": "1,948.70",
+          "prevClose": "1,898.40",
+          "change": "50.30",
+          "percentGain": "2.65"
+        },
+        {
+          "company": "Coal India",
+          "high": "517.85",
+          "low": "504.90",
+          "lastPrice": "516.10",
+          "prevClose": "506.55",
+          "change": "9.55",
+          "percentGain": "1.89"
+        },
+        {
+          "company": "Reliance",
+          "high": "3,066.95",
+          "low": "2,984.00",
+          "lastPrice": "3,052.35",
+          "prevClose": "2,995.90",
+          "change": "56.45",
+          "percentGain": "1.88"
+        }
+      ]
+    }
+  ],
+  "losers": [
+    {
+      "time": "3:38:00 PM",
+      "data": [
+        {
+          "company": "Power Grid Corp",
+          "high": "363.30",
+          "low": "353.35",
+          "lastPrice": "354.25",
+          "prevClose": "365.45",
+          "change": "-11.20",
+          "percentGain": "-3.06"
+        },
+        {
+          "company": "Bharti Airtel",
+          "high": "1,763.45",
+          "low": "1,722.50",
+          "lastPrice": "1,734.60",
+          "prevClose": "1,771.10",
+          "change": "-36.50",
+          "percentGain": "-2.06"
+        },
+        {
+          "company": "HDFC Bank",
+          "high": "1,778.20",
+          "low": "1,750.00",
+          "lastPrice": "1,752.65",
+          "prevClose": "1,783.45",
+          "change": "-30.80",
+          "percentGain": "-1.73"
+        },
+        {
+          "company": "ICICI Bank",
+          "high": "1,333.00",
+          "low": "1,303.85",
+          "lastPrice": "1,306.60",
+          "prevClose": "1,329.05",
+          "change": "-22.45",
+          "percentGain": "-1.69"
+        },
+        {
+          "company": "Kotak Mahindra",
+          "high": "1,910.00",
+          "low": "1,866.30",
+          "lastPrice": "1,872.45",
+          "prevClose": "1,902.30",
+          "change": "-29.85",
+          "percentGain": "-1.57"
+        }
+      ]
+    },
+    {
+      "time": "3:43:36 PM",
+      "data": [
+        {
+          "company": "Power Grid Corp",
+          "high": "363.30",
+          "low": "353.35",
+          "lastPrice": "354.25",
+          "prevClose": "365.45",
+          "change": "-11.20",
+          "percentGain": "-3.06"
+        },
+        {
+          "company": "Bharti Airtel",
+          "high": "1,763.45",
+          "low": "1,722.50",
+          "lastPrice": "1,734.60",
+          "prevClose": "1,771.10",
+          "change": "-36.50",
+          "percentGain": "-2.06"
+        },
+        {
+          "company": "HDFC Bank",
+          "high": "1,778.20",
+          "low": "1,750.00",
+          "lastPrice": "1,752.65",
+          "prevClose": "1,783.45",
+          "change": "-30.80",
+          "percentGain": "-1.73"
+        },
+        {
+          "company": "ICICI Bank",
+          "high": "1,333.00",
+          "low": "1,303.85",
+          "lastPrice": "1,306.60",
+          "prevClose": "1,329.05",
+          "change": "-22.45",
+          "percentGain": "-1.69"
+        },
+        {
+          "company": "Kotak Mahindra",
+          "high": "1,910.00",
+          "low": "1,866.30",
+          "lastPrice": "1,872.45",
+          "prevClose": "1,902.30",
+          "change": "-29.85",
+          "percentGain": "-1.57"
+        }
+      ]
+    }
+  ]
+}

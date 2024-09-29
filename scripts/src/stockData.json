@@ -1,0 +1,336 @@
+{
+  "gainers": [
+    {
+      "time": "3:24:33 PM",
+      "data": [
+        {
+          "company": "BPCL",
+          "high": "370.50",
+          "low": "346.35",
+          "lastPrice": "367.30",
+          "prevClose": "345.10",
+          "change": "22.20",
+          "percentGain": "6.43",
+          "time": "2024-09-29T07:24:33.391Z"
+        },
+        {
+          "company": "Cipla",
+          "high": "1,679.05",
+          "low": "1,630.00",
+          "lastPrice": "1,672.50",
+          "prevClose": "1,621.80",
+          "change": "50.70",
+          "percentGain": "3.13",
+          "time": "2024-09-29T07:24:33.392Z"
+        },
+        {
+          "company": "Sun Pharma",
+          "high": "1,959.30",
+          "low": "1,915.25",
+          "lastPrice": "1,948.70",
+          "prevClose": "1,898.40",
+          "change": "50.30",
+          "percentGain": "2.65",
+          "time": "2024-09-29T07:24:33.393Z"
+        },
+        {
+          "company": "Coal India",
+          "high": "517.85",
+          "low": "504.90",
+          "lastPrice": "516.10",
+          "prevClose": "506.55",
+          "change": "9.55",
+          "percentGain": "1.89",
+          "time": "2024-09-29T07:24:33.394Z"
+        },
+        {
+          "company": "Reliance",
+          "high": "3,066.95",
+          "low": "2,984.00",
+          "lastPrice": "3,052.35",
+          "prevClose": "2,995.90",
+          "change": "56.45",
+          "percentGain": "1.88",
+          "time": "2024-09-29T07:24:33.396Z"
+        }
+      ]
+    },
+    {
+      "time": "3:26:00 PM",
+      "data": [
+        {
+          "company": "BPCL",
+          "high": "370.50",
+          "low": "346.35",
+          "lastPrice": "367.30",
+          "prevClose": "345.10",
+          "change": "22.20",
+          "percentGain": "6.43",
+          "time": "2024-09-29T07:26:00.332Z"
+        },
+        {
+          "company": "Cipla",
+          "high": "1,679.05",
+          "low": "1,630.00",
+          "lastPrice": "1,672.50",
+          "prevClose": "1,621.80",
+          "change": "50.70",
+          "percentGain": "3.13",
+          "time": "2024-09-29T07:26:00.334Z"
+        },
+        {
+          "company": "Sun Pharma",
+          "high": "1,959.30",
+          "low": "1,915.25",
+          "lastPrice": "1,948.70",
+          "prevClose": "1,898.40",
+          "change": "50.30",
+          "percentGain": "2.65",
+          "time": "2024-09-29T07:26:00.335Z"
+        },
+        {
+          "company": "Coal India",
+          "high": "517.85",
+          "low": "504.90",
+          "lastPrice": "516.10",
+          "prevClose": "506.55",
+          "change": "9.55",
+          "percentGain": "1.89",
+          "time": "2024-09-29T07:26:00.336Z"
+        },
+        {
+          "company": "Reliance",
+          "high": "3,066.95",
+          "low": "2,984.00",
+          "lastPrice": "3,052.35",
+          "prevClose": "2,995.90",
+          "change": "56.45",
+          "percentGain": "1.88",
+          "time": "2024-09-29T07:26:00.337Z"
+        }
+      ]
+    },
+    {
+      "time": "3:27:27 PM",
+      "data": [
+        {
+          "company": "BPCL",
+          "high": "370.50",
+          "low": "346.35",
+          "lastPrice": "367.30",
+          "prevClose": "345.10",
+          "change": "22.20",
+          "percentGain": "6.43",
+          "time": "2024-09-29T07:27:26.953Z"
+        },
+        {
+          "company": "Cipla",
+          "high": "1,679.05",
+          "low": "1,630.00",
+          "lastPrice": "1,672.50",
+          "prevClose": "1,621.80",
+          "change": "50.70",
+          "percentGain": "3.13",
+          "time": "2024-09-29T07:27:26.955Z"
+        },
+        {
+          "company": "Sun Pharma",
+          "high": "1,959.30",
+          "low": "1,915.25",
+          "lastPrice": "1,948.70",
+          "prevClose": "1,898.40",
+          "change": "50.30",
+          "percentGain": "2.65",
+          "time": "2024-09-29T07:27:26.956Z"
+        },
+        {
+          "company": "Coal India",
+          "high": "517.85",
+          "low": "504.90",
+          "lastPrice": "516.10",
+          "prevClose": "506.55",
+          "change": "9.55",
+          "percentGain": "1.89",
+          "time": "2024-09-29T07:27:26.957Z"
+        },
+        {
+          "company": "Reliance",
+          "high": "3,066.95",
+          "low": "2,984.00",
+          "lastPrice": "3,052.35",
+          "prevClose": "2,995.90",
+          "change": "56.45",
+          "percentGain": "1.88",
+          "time": "2024-09-29T07:27:26.958Z"
+        }
+      ]
+    }
+  ],
+  "losers": [
+    {
+      "time": "3:24:33 PM",
+      "data": [
+        {
+          "company": "BPCL",
+          "high": "370.50",
+          "low": "346.35",
+          "lastPrice": "367.30",
+          "prevClose": "345.10",
+          "change": "22.20",
+          "percentGain": "6.43",
+          "time": "2024-09-29T07:24:33.581Z"
+        },
+        {
+          "company": "Cipla",
+          "high": "1,679.05",
+          "low": "1,630.00",
+          "lastPrice": "1,672.50",
+          "prevClose": "1,621.80",
+          "change": "50.70",
+          "percentGain": "3.13",
+          "time": "2024-09-29T07:24:33.582Z"
+        },
+        {
+          "company": "Sun Pharma",
+          "high": "1,959.30",
+          "low": "1,915.25",
+          "lastPrice": "1,948.70",
+          "prevClose": "1,898.40",
+          "change": "50.30",
+          "percentGain": "2.65",
+          "time": "2024-09-29T07:24:33.582Z"
+        },
+        {
+          "company": "Coal India",
+          "high": "517.85",
+          "low": "504.90",
+          "lastPrice": "516.10",
+          "prevClose": "506.55",
+          "change": "9.55",
+          "percentGain": "1.89",
+          "time": "2024-09-29T07:24:33.583Z"
+        },
+        {
+          "company": "Reliance",
+          "high": "3,066.95",
+          "low": "2,984.00",
+          "lastPrice": "3,052.35",
+          "prevClose": "2,995.90",
+          "change": "56.45",
+          "percentGain": "1.88",
+          "time": "2024-09-29T07:24:33.583Z"
+        }
+      ]
+    },
+    {
+      "time": "3:26:00 PM",
+      "data": [
+        {
+          "company": "BPCL",
+          "high": "370.50",
+          "low": "346.35",
+          "lastPrice": "367.30",
+          "prevClose": "345.10",
+          "change": "22.20",
+          "percentGain": "6.43",
+          "time": "2024-09-29T07:26:00.504Z"
+        },
+        {
+          "company": "Cipla",
+          "high": "1,679.05",
+          "low": "1,630.00",
+          "lastPrice": "1,672.50",
+          "prevClose": "1,621.80",
+          "change": "50.70",
+          "percentGain": "3.13",
+          "time": "2024-09-29T07:26:00.505Z"
+        },
+        {
+          "company": "Sun Pharma",
+          "high": "1,959.30",
+          "low": "1,915.25",
+          "lastPrice": "1,948.70",
+          "prevClose": "1,898.40",
+          "change": "50.30",
+          "percentGain": "2.65",
+          "time": "2024-09-29T07:26:00.505Z"
+        },
+        {
+          "company": "Coal India",
+          "high": "517.85",
+          "low": "504.90",
+          "lastPrice": "516.10",
+          "prevClose": "506.55",
+          "change": "9.55",
+          "percentGain": "1.89",
+          "time": "2024-09-29T07:26:00.505Z"
+        },
+        {
+          "company": "Reliance",
+          "high": "3,066.95",
+          "low": "2,984.00",
+          "lastPrice": "3,052.35",
+          "prevClose": "2,995.90",
+          "change": "56.45",
+          "percentGain": "1.88",
+          "time": "2024-09-29T07:26:00.506Z"
+        }
+      ]
+    },
+    {
+      "time": "3:27:27 PM",
+      "data": [
+        {
+          "company": "BPCL",
+          "high": "370.50",
+          "low": "346.35",
+          "lastPrice": "367.30",
+          "prevClose": "345.10",
+          "change": "22.20",
+          "percentGain": "6.43",
+          "time": "2024-09-29T07:27:27.162Z"
+        },
+        {
+          "company": "Cipla",
+          "high": "1,679.05",
+          "low": "1,630.00",
+          "lastPrice": "1,672.50",
+          "prevClose": "1,621.80",
+          "change": "50.70",
+          "percentGain": "3.13",
+          "time": "2024-09-29T07:27:27.162Z"
+        },
+        {
+          "company": "Sun Pharma",
+          "high": "1,959.30",
+          "low": "1,915.25",
+          "lastPrice": "1,948.70",
+          "prevClose": "1,898.40",
+          "change": "50.30",
+          "percentGain": "2.65",
+          "time": "2024-09-29T07:27:27.163Z"
+        },
+        {
+          "company": "Coal India",
+          "high": "517.85",
+          "low": "504.90",
+          "lastPrice": "516.10",
+          "prevClose": "506.55",
+          "change": "9.55",
+          "percentGain": "1.89",
+          "time": "2024-09-29T07:27:27.163Z"
+        },
+        {
+          "company": "Reliance",
+          "high": "3,066.95",
+          "low": "2,984.00",
+          "lastPrice": "3,052.35",
+          "prevClose": "2,995.90",
+          "change": "56.45",
+          "percentGain": "1.88",
+          "time": "2024-09-29T07:27:27.164Z"
+        }
+      ]
+    }
+  ]
+}
