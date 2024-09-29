@@ -23,7 +23,7 @@ jobs:
       - name: Install dependencies and run application
         run: |
           ls -la
-          cd ${{ github.workspace }}/script
+          cd ${{ github.workspace }}/scripts
           echo "Running typescript application..."
           npm install
           npm install -g typescript ts-node
