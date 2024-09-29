@@ -81,7 +81,8 @@ async function fetchData(type: 'gainer'| 'loser'): Promise<Stock[]> {
 
 export async function appendData(): Promise<void> {
 
-    const filePath: string = path.join(__dirname, fileName);
+    // check if the file exists
+    const filePath: string = path.join(process.cwd()+'/data', fileName);
 
     const gainers: Stock[] = await fetchData('gainer');
     const losers: Stock[] = await fetchData('loser');
@@ -105,8 +106,10 @@ export async function appendData(): Promise<void> {
     };
 
     if (fs.existsSync(filePath)) {
+        console.log("Reading data from file");
         const data = fs.readFileSync(filePath, 'utf-8');
         stockData = JSON.parse(data);
+        console.log("Data read from file");
     }
 
     stockData.gainers.push(timeWiseGainerData);
@@ -116,6 +119,8 @@ export async function appendData(): Promise<void> {
 }
 
 function saveToFile(stockData: StockData): void {
+
+    console.log("Saving data to file");
     const filePath: string = path.join(process.cwd()+'/data', fileName);
     fs.writeFileSync(filePath, JSON.stringify(stockData, null, 2));
     console.log(`Data saved to ${fileName}`);
