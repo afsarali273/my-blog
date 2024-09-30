@@ -207,6 +207,56 @@
           "percentGain": "1.35"
         }
       ]
+    },
+    {
+      "time": "5:39:23 AM",
+      "data": [
+        {
+          "company": "JSW Steel",
+          "high": "1,025.90",
+          "low": "1,004.00",
+          "lastPrice": "1,025.40",
+          "prevClose": "1,001.55",
+          "change": "23.85",
+          "percentGain": "2.38"
+        },
+        {
+          "company": "Adani Enterpris",
+          "high": "3,206.90",
+          "low": "3,120.40",
+          "lastPrice": "3,204.55",
+          "prevClose": "3,130.30",
+          "change": "74.25",
+          "percentGain": "2.37"
+        },
+        {
+          "company": "Hindalco",
+          "high": "764.45",
+          "low": "749.45",
+          "lastPrice": "760.70",
+          "prevClose": "747.15",
+          "change": "13.55",
+          "percentGain": "1.81"
+        },
+        {
+          "company": "Tata Steel",
+          "high": "170.18",
+          "low": "167.26",
+          "lastPrice": "169.30",
+          "prevClose": "166.55",
+          "change": "2.75",
+          "percentGain": "1.65"
+        },
+        {
+          "company": "Tata Steel",
+          "high": "170.18",
+          "low": "167.26",
+          "lastPrice": "169.30",
+          "prevClose": "166.55",
+          "change": "2.75",
+          "percentGain": "1.65"
+        }
+      ]
     }
   ],
   "losers": [
@@ -415,6 +465,56 @@
           "prevClose": "1,273.15",
           "change": "-24.55",
           "percentGain": "-1.93"
+        }
+      ]
+    },
+    {
+      "time": "5:39:23 AM",
+      "data": [
+        {
+          "company": "Hero Motocorp",
+          "high": "5,890.00",
+          "low": "5,729.00",
+          "lastPrice": "5,741.90",
+          "prevClose": "5,957.35",
+          "change": "-215.45",
+          "percentGain": "-3.62"
+        },
+        {
+          "company": "Bharat Elec",
+          "high": "294.60",
+          "low": "284.15",
+          "lastPrice": "285.70",
+          "prevClose": "293.45",
+          "change": "-7.75",
+          "percentGain": "-2.64"
+        },
+        {
+          "company": "Reliance",
+          "high": "3,049.95",
+          "low": "2,975.00",
+          "lastPrice": "2,979.05",
+          "prevClose": "3,052.35",
+          "change": "-73.30",
+          "percentGain": "-2.40"
+        },
+        {
+          "company": "Bajaj Auto",
+          "high": "12,651.15",
+          "low": "12,311.00",
+          "lastPrice": "12,364.95",
+          "prevClose": "12,666.40",
+          "change": "-301.45",
+          "percentGain": "-2.38"
+        },
+        {
+          "company": "M&M",
+          "high": "3,179.00",
+          "low": "3,104.25",
+          "lastPrice": "3,111.95",
+          "prevClose": "3,183.65",
+          "change": "-71.70",
+          "percentGain": "-2.25"
         }
       ]
     }
