@@ -49,6 +49,56 @@
           "percentGain": "1.24"
         }
       ]
+    },
+    {
+      "time": "4:16:19 AM",
+      "data": [
+        {
+          "company": "Hindalco",
+          "high": "764.45",
+          "low": "749.45",
+          "lastPrice": "759.25",
+          "prevClose": "747.15",
+          "change": "12.10",
+          "percentGain": "1.62"
+        },
+        {
+          "company": "Tata Steel",
+          "high": "170.18",
+          "low": "167.26",
+          "lastPrice": "168.96",
+          "prevClose": "166.55",
+          "change": "2.41",
+          "percentGain": "1.45"
+        },
+        {
+          "company": "Tata Steel",
+          "high": "170.18",
+          "low": "167.26",
+          "lastPrice": "168.96",
+          "prevClose": "166.55",
+          "change": "2.41",
+          "percentGain": "1.45"
+        },
+        {
+          "company": "JSW Steel",
+          "high": "1,024.15",
+          "low": "1,004.00",
+          "lastPrice": "1,015.30",
+          "prevClose": "1,001.55",
+          "change": "13.75",
+          "percentGain": "1.37"
+        },
+        {
+          "company": "Titan Company",
+          "high": "3,863.55",
+          "low": "3,786.00",
+          "lastPrice": "3,855.00",
+          "prevClose": "3,816.70",
+          "change": "38.30",
+          "percentGain": "1.00"
+        }
+      ]
     }
   ],
   "losers": [
@@ -99,6 +149,56 @@
           "prevClose": "516.10",
           "change": "-6.40",
           "percentGain": "-1.24"
+        }
+      ]
+    },
+    {
+      "time": "4:16:19 AM",
+      "data": [
+        {
+          "company": "Hero Motocorp",
+          "high": "5,890.00",
+          "low": "5,756.00",
+          "lastPrice": "5,780.55",
+          "prevClose": "5,957.35",
+          "change": "-176.80",
+          "percentGain": "-2.97"
+        },
+        {
+          "company": "Coal India",
+          "high": "513.25",
+          "low": "503.45",
+          "lastPrice": "503.55",
+          "prevClose": "516.10",
+          "change": "-12.55",
+          "percentGain": "-2.43"
+        },
+        {
+          "company": "Bharat Elec",
+          "high": "294.60",
+          "low": "287.00",
+          "lastPrice": "287.10",
+          "prevClose": "293.45",
+          "change": "-6.35",
+          "percentGain": "-2.16"
+        },
+        {
+          "company": "BPCL",
+          "high": "376.00",
+          "low": "360.70",
+          "lastPrice": "360.85",
+          "prevClose": "367.30",
+          "change": "-6.45",
+          "percentGain": "-1.76"
+        },
+        {
+          "company": "Tech Mahindra",
+          "high": "1,606.00",
+          "low": "1,570.05",
+          "lastPrice": "1,581.70",
+          "prevClose": "1,609.25",
+          "change": "-27.55",
+          "percentGain": "-1.71"
         }
       ]
     }
