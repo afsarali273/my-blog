@@ -307,6 +307,56 @@
           "percentGain": "1.78"
         }
       ]
+    },
+    {
+      "time": "6:22:55 AM",
+      "data": [
+        {
+          "company": "JSW Steel",
+          "high": "1,028.90",
+          "low": "1,004.00",
+          "lastPrice": "1,026.05",
+          "prevClose": "1,001.55",
+          "change": "24.50",
+          "percentGain": "2.45"
+        },
+        {
+          "company": "Hindalco",
+          "high": "764.45",
+          "low": "749.45",
+          "lastPrice": "760.70",
+          "prevClose": "747.15",
+          "change": "13.55",
+          "percentGain": "1.81"
+        },
+        {
+          "company": "Tata Steel",
+          "high": "170.18",
+          "low": "167.26",
+          "lastPrice": "169.52",
+          "prevClose": "166.55",
+          "change": "2.97",
+          "percentGain": "1.78"
+        },
+        {
+          "company": "Tata Steel",
+          "high": "170.18",
+          "low": "167.26",
+          "lastPrice": "169.52",
+          "prevClose": "166.55",
+          "change": "2.97",
+          "percentGain": "1.78"
+        },
+        {
+          "company": "Adani Enterpris",
+          "high": "3,209.90",
+          "low": "3,120.40",
+          "lastPrice": "3,184.10",
+          "prevClose": "3,130.30",
+          "change": "53.80",
+          "percentGain": "1.72"
+        }
+      ]
     }
   ],
   "losers": [
@@ -615,6 +665,56 @@
           "prevClose": "3,052.35",
           "change": "-69.65",
           "percentGain": "-2.28"
+        }
+      ]
+    },
+    {
+      "time": "6:22:55 AM",
+      "data": [
+        {
+          "company": "Hero Motocorp",
+          "high": "5,890.00",
+          "low": "5,716.05",
+          "lastPrice": "5,732.00",
+          "prevClose": "5,957.35",
+          "change": "-225.35",
+          "percentGain": "-3.78"
+        },
+        {
+          "company": "M&M",
+          "high": "3,179.00",
+          "low": "3,093.05",
+          "lastPrice": "3,103.10",
+          "prevClose": "3,183.65",
+          "change": "-80.55",
+          "percentGain": "-2.53"
+        },
+        {
+          "company": "Trent",
+          "high": "7,833.95",
+          "low": "7,635.00",
+          "lastPrice": "7,636.95",
+          "prevClose": "7,833.70",
+          "change": "-196.75",
+          "percentGain": "-2.51"
+        },
+        {
+          "company": "Reliance",
+          "high": "3,049.95",
+          "low": "2,975.00",
+          "lastPrice": "2,979.90",
+          "prevClose": "3,052.35",
+          "change": "-72.45",
+          "percentGain": "-2.37"
+        },
+        {
+          "company": "ICICI Bank",
+          "high": "1,296.80",
+          "low": "1,275.45",
+          "lastPrice": "1,276.20",
+          "prevClose": "1,306.60",
+          "change": "-30.40",
+          "percentGain": "-2.33"
         }
       ]
     }
