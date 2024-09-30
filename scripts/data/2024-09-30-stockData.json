@@ -157,6 +157,56 @@
     {
       "time": "4:51:51 AM",
       "data": []
+    },
+    {
+      "time": "5:15:29 AM",
+      "data": [
+        {
+          "company": "JSW Steel",
+          "high": "1,025.90",
+          "low": "1,004.00",
+          "lastPrice": "1,022.80",
+          "prevClose": "1,001.55",
+          "change": "21.25",
+          "percentGain": "2.12"
+        },
+        {
+          "company": "Hindalco",
+          "high": "764.45",
+          "low": "749.45",
+          "lastPrice": "760.85",
+          "prevClose": "747.15",
+          "change": "13.70",
+          "percentGain": "1.83"
+        },
+        {
+          "company": "Adani Enterpris",
+          "high": "3,177.00",
+          "low": "3,120.40",
+          "lastPrice": "3,177.00",
+          "prevClose": "3,130.30",
+          "change": "46.70",
+          "percentGain": "1.49"
+        },
+        {
+          "company": "Tata Steel",
+          "high": "170.18",
+          "low": "167.26",
+          "lastPrice": "168.80",
+          "prevClose": "166.55",
+          "change": "2.25",
+          "percentGain": "1.35"
+        },
+        {
+          "company": "Tata Steel",
+          "high": "170.18",
+          "low": "167.26",
+          "lastPrice": "168.80",
+          "prevClose": "166.55",
+          "change": "2.25",
+          "percentGain": "1.35"
+        }
+      ]
     }
   ],
   "losers": [
@@ -317,6 +367,56 @@
     {
       "time": "4:51:51 AM",
       "data": []
+    },
+    {
+      "time": "5:15:29 AM",
+      "data": [
+        {
+          "company": "Hero Motocorp",
+          "high": "5,890.00",
+          "low": "5,736.65",
+          "lastPrice": "5,758.30",
+          "prevClose": "5,957.35",
+          "change": "-199.05",
+          "percentGain": "-3.34"
+        },
+        {
+          "company": "Bharat Elec",
+          "high": "294.60",
+          "low": "284.15",
+          "lastPrice": "285.15",
+          "prevClose": "293.45",
+          "change": "-8.30",
+          "percentGain": "-2.83"
+        },
+        {
+          "company": "Reliance",
+          "high": "3,049.95",
+          "low": "2,976.30",
+          "lastPrice": "2,980.95",
+          "prevClose": "3,052.35",
+          "change": "-71.40",
+          "percentGain": "-2.34"
+        },
+        {
+          "company": "Bajaj Auto",
+          "high": "12,651.15",
+          "low": "12,370.00",
+          "lastPrice": "12,385.85",
+          "prevClose": "12,666.40",
+          "change": "-280.55",
+          "percentGain": "-2.21"
+        },
+        {
+          "company": "Axis Bank",
+          "high": "1,275.00",
+          "low": "1,243.55",
+          "lastPrice": "1,248.60",
+          "prevClose": "1,273.15",
+          "change": "-24.55",
+          "percentGain": "-1.93"
+        }
+      ]
     }
   ]
 }
