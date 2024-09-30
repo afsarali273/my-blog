@@ -103,6 +103,56 @@
     {
       "time": "4:19:22 AM",
       "data": []
+    },
+    {
+      "time": "4:42:07 AM",
+      "data": [
+        {
+          "company": "JSW Steel",
+          "high": "1,024.15",
+          "low": "1,004.00",
+          "lastPrice": "1,022.50",
+          "prevClose": "1,001.55",
+          "change": "20.95",
+          "percentGain": "2.09"
+        },
+        {
+          "company": "Tata Steel",
+          "high": "170.18",
+          "low": "167.26",
+          "lastPrice": "170.02",
+          "prevClose": "166.55",
+          "change": "3.47",
+          "percentGain": "2.08"
+        },
+        {
+          "company": "Tata Steel",
+          "high": "170.18",
+          "low": "167.26",
+          "lastPrice": "170.02",
+          "prevClose": "166.55",
+          "change": "3.47",
+          "percentGain": "2.08"
+        },
+        {
+          "company": "Hindalco",
+          "high": "764.45",
+          "low": "749.45",
+          "lastPrice": "761.30",
+          "prevClose": "747.15",
+          "change": "14.15",
+          "percentGain": "1.89"
+        },
+        {
+          "company": "Asian Paints",
+          "high": "3,358.00",
+          "low": "3,305.15",
+          "lastPrice": "3,351.25",
+          "prevClose": "3,310.75",
+          "change": "40.50",
+          "percentGain": "1.22"
+        }
+      ]
     }
   ],
   "losers": [
@@ -209,6 +259,56 @@
     {
       "time": "4:19:22 AM",
       "data": []
+    },
+    {
+      "time": "4:42:07 AM",
+      "data": [
+        {
+          "company": "Hero Motocorp",
+          "high": "5,890.00",
+          "low": "5,756.00",
+          "lastPrice": "5,773.90",
+          "prevClose": "5,957.35",
+          "change": "-183.45",
+          "percentGain": "-3.08"
+        },
+        {
+          "company": "Bharat Elec",
+          "high": "294.60",
+          "low": "285.05",
+          "lastPrice": "286.25",
+          "prevClose": "293.45",
+          "change": "-7.20",
+          "percentGain": "-2.45"
+        },
+        {
+          "company": "Coal India",
+          "high": "513.25",
+          "low": "502.50",
+          "lastPrice": "505.15",
+          "prevClose": "516.10",
+          "change": "-10.95",
+          "percentGain": "-2.12"
+        },
+        {
+          "company": "Axis Bank",
+          "high": "1,275.00",
+          "low": "1,246.00",
+          "lastPrice": "1,249.00",
+          "prevClose": "1,273.15",
+          "change": "-24.15",
+          "percentGain": "-1.90"
+        },
+        {
+          "company": "Reliance",
+          "high": "3,049.95",
+          "low": "2,992.00",
+          "lastPrice": "2,995.00",
+          "prevClose": "3,052.35",
+          "change": "-57.35",
+          "percentGain": "-1.88"
+        }
+      ]
     }
   ]
 }
