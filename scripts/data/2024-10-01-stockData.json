@@ -49,6 +49,56 @@
           "percentGain": "0.73"
         }
       ]
+    },
+    {
+      "time": "4:19:18 AM",
+      "data": [
+        {
+          "company": "Tech Mahindra",
+          "high": "1,642.90",
+          "low": "1,580.00",
+          "lastPrice": "1,633.55",
+          "prevClose": "1,577.20",
+          "change": "56.35",
+          "percentGain": "3.57"
+        },
+        {
+          "company": "Bajaj Finserv",
+          "high": "2,007.10",
+          "low": "1,969.05",
+          "lastPrice": "2,003.95",
+          "prevClose": "1,973.40",
+          "change": "30.55",
+          "percentGain": "1.55"
+        },
+        {
+          "company": "Bajaj Finserv",
+          "high": "2,007.10",
+          "low": "1,969.05",
+          "lastPrice": "2,003.95",
+          "prevClose": "1,973.40",
+          "change": "30.55",
+          "percentGain": "1.55"
+        },
+        {
+          "company": "Shriram Finance",
+          "high": "3,623.10",
+          "low": "3,557.80",
+          "lastPrice": "3,623.00",
+          "prevClose": "3,576.95",
+          "change": "46.05",
+          "percentGain": "1.29"
+        },
+        {
+          "company": "Bajaj Finance",
+          "high": "7,810.00",
+          "low": "7,651.00",
+          "lastPrice": "7,791.70",
+          "prevClose": "7,703.00",
+          "change": "88.70",
+          "percentGain": "1.15"
+        }
+      ]
     }
   ],
   "losers": [
@@ -99,6 +149,56 @@
           "prevClose": "168.55",
           "change": "-0.96",
           "percentGain": "-0.57"
+        }
+      ]
+    },
+    {
+      "time": "4:19:18 AM",
+      "data": [
+        {
+          "company": "Asian Paints",
+          "high": "3,328.95",
+          "low": "3,271.15",
+          "lastPrice": "3,276.65",
+          "prevClose": "3,329.10",
+          "change": "-52.45",
+          "percentGain": "-1.58"
+        },
+        {
+          "company": "Titan Company",
+          "high": "3,837.95",
+          "low": "3,773.65",
+          "lastPrice": "3,782.00",
+          "prevClose": "3,823.95",
+          "change": "-41.95",
+          "percentGain": "-1.10"
+        },
+        {
+          "company": "Hindalco",
+          "high": "758.00",
+          "low": "745.20",
+          "lastPrice": "748.30",
+          "prevClose": "756.20",
+          "change": "-7.90",
+          "percentGain": "-1.04"
+        },
+        {
+          "company": "Eicher Motors",
+          "high": "5,045.95",
+          "low": "4,972.55",
+          "lastPrice": "4,974.25",
+          "prevClose": "5,026.25",
+          "change": "-52.00",
+          "percentGain": "-1.03"
+        },
+        {
+          "company": "Bajaj Auto",
+          "high": "12,500.00",
+          "low": "12,236.10",
+          "lastPrice": "12,248.95",
+          "prevClose": "12,345.95",
+          "change": "-97.00",
+          "percentGain": "-0.79"
         }
       ]
     }
