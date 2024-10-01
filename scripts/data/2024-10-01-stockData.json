@@ -603,6 +603,56 @@
     {
       "time": "8:20:31 AM",
       "data": []
+    },
+    {
+      "time": "8:43:54 AM",
+      "data": [
+        {
+          "company": "Tech Mahindra",
+          "high": "1,642.90",
+          "low": "1,580.00",
+          "lastPrice": "1,617.80",
+          "prevClose": "1,577.20",
+          "change": "40.60",
+          "percentGain": "2.57"
+        },
+        {
+          "company": "M&M",
+          "high": "3,185.45",
+          "low": "3,095.80",
+          "lastPrice": "3,167.15",
+          "prevClose": "3,094.90",
+          "change": "72.25",
+          "percentGain": "2.33"
+        },
+        {
+          "company": "Kotak Mahindra",
+          "high": "1,881.25",
+          "low": "1,847.00",
+          "lastPrice": "1,881.25",
+          "prevClose": "1,853.95",
+          "change": "27.30",
+          "percentGain": "1.47"
+        },
+        {
+          "company": "Adani Ports",
+          "high": "1,472.85",
+          "low": "1,448.00",
+          "lastPrice": "1,467.30",
+          "prevClose": "1,448.20",
+          "change": "19.10",
+          "percentGain": "1.32"
+        },
+        {
+          "company": "Infosys",
+          "high": "1,908.95",
+          "low": "1,875.00",
+          "lastPrice": "1,900.25",
+          "prevClose": "1,875.60",
+          "change": "24.65",
+          "percentGain": "1.31"
+        }
+      ]
     }
   ],
   "losers": [
@@ -1209,6 +1259,56 @@
     {
       "time": "8:20:31 AM",
       "data": []
+    },
+    {
+      "time": "8:43:54 AM",
+      "data": [
+        {
+          "company": "IndusInd Bank",
+          "high": "1,450.30",
+          "low": "1,408.80",
+          "lastPrice": "1,409.95",
+          "prevClose": "1,447.60",
+          "change": "-37.65",
+          "percentGain": "-2.60"
+        },
+        {
+          "company": "Asian Paints",
+          "high": "3,328.95",
+          "low": "3,244.05",
+          "lastPrice": "3,263.90",
+          "prevClose": "3,329.10",
+          "change": "-65.20",
+          "percentGain": "-1.96"
+        },
+        {
+          "company": "Titan Company",
+          "high": "3,837.95",
+          "low": "3,757.00",
+          "lastPrice": "3,766.60",
+          "prevClose": "3,823.95",
+          "change": "-57.35",
+          "percentGain": "-1.50"
+        },
+        {
+          "company": "HDFC Life",
+          "high": "723.35",
+          "low": "706.60",
+          "lastPrice": "707.45",
+          "prevClose": "718.00",
+          "change": "-10.55",
+          "percentGain": "-1.47"
+        },
+        {
+          "company": "ONGC",
+          "high": "299.15",
+          "low": "293.45",
+          "lastPrice": "294.15",
+          "prevClose": "297.60",
+          "change": "-3.45",
+          "percentGain": "-1.16"
+        }
+      ]
     }
   ]
 }
