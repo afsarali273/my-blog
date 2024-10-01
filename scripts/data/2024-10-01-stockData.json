@@ -249,6 +249,56 @@
           "percentGain": "1.04"
         }
       ]
+    },
+    {
+      "time": "5:39:11 AM",
+      "data": [
+        {
+          "company": "Tech Mahindra",
+          "high": "1,642.90",
+          "low": "1,580.00",
+          "lastPrice": "1,624.10",
+          "prevClose": "1,577.20",
+          "change": "46.90",
+          "percentGain": "2.97"
+        },
+        {
+          "company": "M&M",
+          "high": "3,146.50",
+          "low": "3,095.80",
+          "lastPrice": "3,137.70",
+          "prevClose": "3,094.90",
+          "change": "42.80",
+          "percentGain": "1.38"
+        },
+        {
+          "company": "Bajaj Finance",
+          "high": "7,814.65",
+          "low": "7,651.00",
+          "lastPrice": "7,790.00",
+          "prevClose": "7,703.00",
+          "change": "87.00",
+          "percentGain": "1.13"
+        },
+        {
+          "company": "SBI",
+          "high": "796.80",
+          "low": "788.00",
+          "lastPrice": "795.75",
+          "prevClose": "787.90",
+          "change": "7.85",
+          "percentGain": "1.00"
+        },
+        {
+          "company": "Bajaj Finserv",
+          "high": "2,007.10",
+          "low": "1,969.05",
+          "lastPrice": "1,990.90",
+          "prevClose": "1,973.40",
+          "change": "17.50",
+          "percentGain": "0.89"
+        }
+      ]
     }
   ],
   "losers": [
@@ -499,6 +549,56 @@
           "prevClose": "13,238.00",
           "change": "-189.90",
           "percentGain": "-1.43"
+        }
+      ]
+    },
+    {
+      "time": "5:39:11 AM",
+      "data": [
+        {
+          "company": "Asian Paints",
+          "high": "3,328.95",
+          "low": "3,244.05",
+          "lastPrice": "3,254.90",
+          "prevClose": "3,329.10",
+          "change": "-74.20",
+          "percentGain": "-2.23"
+        },
+        {
+          "company": "Bajaj Auto",
+          "high": "12,500.00",
+          "low": "12,125.00",
+          "lastPrice": "12,125.00",
+          "prevClose": "12,345.95",
+          "change": "-220.95",
+          "percentGain": "-1.79"
+        },
+        {
+          "company": "Maruti Suzuki",
+          "high": "13,300.45",
+          "low": "13,007.85",
+          "lastPrice": "13,022.55",
+          "prevClose": "13,238.00",
+          "change": "-215.45",
+          "percentGain": "-1.63"
+        },
+        {
+          "company": "HUL",
+          "high": "2,962.70",
+          "low": "2,910.00",
+          "lastPrice": "2,911.35",
+          "prevClose": "2,958.30",
+          "change": "-46.95",
+          "percentGain": "-1.59"
+        },
+        {
+          "company": "Tata Steel",
+          "high": "169.49",
+          "low": "165.10",
+          "lastPrice": "166.10",
+          "prevClose": "168.55",
+          "change": "-2.45",
+          "percentGain": "-1.45"
         }
       ]
     }
