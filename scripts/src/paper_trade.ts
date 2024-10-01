@@ -23,12 +23,12 @@ async function paper_trade(timeSlot: string): Promise<void> {
 
     // Capital and amount to invest per stock
     const capital = 50000;
-    // eslint-disable-next-line @typescript-eslint/ban-ts-comment
-    // @ts-expect-error
-    const amountPerStock = capital / topStocks?.length;
+
+    //const amountPerStock = capital / topStocks?.length;
 
     console.log(`Performing trade at ${timeSlot}`);
-    let profitLoss = 0;
+
+    const profitLoss = 0;
 
     // Buy at 9: 30 am
     // Sell at 10 am
