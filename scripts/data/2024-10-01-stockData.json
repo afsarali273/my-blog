@@ -199,6 +199,56 @@
           "percentGain": "0.90"
         }
       ]
+    },
+    {
+      "time": "5:15:27 AM",
+      "data": [
+        {
+          "company": "Tech Mahindra",
+          "high": "1,642.90",
+          "low": "1,580.00",
+          "lastPrice": "1,628.05",
+          "prevClose": "1,577.20",
+          "change": "50.85",
+          "percentGain": "3.22"
+        },
+        {
+          "company": "M&M",
+          "high": "3,146.50",
+          "low": "3,095.80",
+          "lastPrice": "3,136.45",
+          "prevClose": "3,094.90",
+          "change": "41.55",
+          "percentGain": "1.34"
+        },
+        {
+          "company": "Bajaj Finance",
+          "high": "7,814.65",
+          "low": "7,651.00",
+          "lastPrice": "7,792.50",
+          "prevClose": "7,703.00",
+          "change": "89.50",
+          "percentGain": "1.16"
+        },
+        {
+          "company": "Bajaj Finserv",
+          "high": "2,007.10",
+          "low": "1,969.05",
+          "lastPrice": "1,993.95",
+          "prevClose": "1,973.40",
+          "change": "20.55",
+          "percentGain": "1.04"
+        },
+        {
+          "company": "Bajaj Finserv",
+          "high": "2,007.10",
+          "low": "1,969.05",
+          "lastPrice": "1,993.95",
+          "prevClose": "1,973.40",
+          "change": "20.55",
+          "percentGain": "1.04"
+        }
+      ]
     }
   ],
   "losers": [
@@ -399,6 +449,56 @@
           "prevClose": "1,030.05",
           "change": "-12.40",
           "percentGain": "-1.20"
+        }
+      ]
+    },
+    {
+      "time": "5:15:27 AM",
+      "data": [
+        {
+          "company": "Asian Paints",
+          "high": "3,328.95",
+          "low": "3,244.10",
+          "lastPrice": "3,252.00",
+          "prevClose": "3,329.10",
+          "change": "-77.10",
+          "percentGain": "-2.32"
+        },
+        {
+          "company": "Tata Steel",
+          "high": "169.49",
+          "low": "165.10",
+          "lastPrice": "165.65",
+          "prevClose": "168.55",
+          "change": "-2.90",
+          "percentGain": "-1.72"
+        },
+        {
+          "company": "Tata Steel",
+          "high": "169.49",
+          "low": "165.10",
+          "lastPrice": "165.65",
+          "prevClose": "168.55",
+          "change": "-2.90",
+          "percentGain": "-1.72"
+        },
+        {
+          "company": "Bajaj Auto",
+          "high": "12,500.00",
+          "low": "12,150.00",
+          "lastPrice": "12,158.20",
+          "prevClose": "12,345.95",
+          "change": "-187.75",
+          "percentGain": "-1.52"
+        },
+        {
+          "company": "Maruti Suzuki",
+          "high": "13,300.45",
+          "low": "13,033.00",
+          "lastPrice": "13,048.10",
+          "prevClose": "13,238.00",
+          "change": "-189.90",
+          "percentGain": "-1.43"
         }
       ]
     }
