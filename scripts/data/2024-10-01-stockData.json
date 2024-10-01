@@ -399,6 +399,56 @@
           "percentGain": "0.88"
         }
       ]
+    },
+    {
+      "time": "6:46:13 AM",
+      "data": [
+        {
+          "company": "Tech Mahindra",
+          "high": "1,642.90",
+          "low": "1,580.00",
+          "lastPrice": "1,623.55",
+          "prevClose": "1,577.20",
+          "change": "46.35",
+          "percentGain": "2.94"
+        },
+        {
+          "company": "M&M",
+          "high": "3,180.00",
+          "low": "3,095.80",
+          "lastPrice": "3,179.80",
+          "prevClose": "3,094.90",
+          "change": "84.90",
+          "percentGain": "2.74"
+        },
+        {
+          "company": "Infosys",
+          "high": "1,904.95",
+          "low": "1,875.00",
+          "lastPrice": "1,899.50",
+          "prevClose": "1,875.60",
+          "change": "23.90",
+          "percentGain": "1.27"
+        },
+        {
+          "company": "Wipro",
+          "high": "548.60",
+          "low": "540.20",
+          "lastPrice": "547.85",
+          "prevClose": "541.45",
+          "change": "6.40",
+          "percentGain": "1.18"
+        },
+        {
+          "company": "SBI",
+          "high": "798.00",
+          "low": "788.00",
+          "lastPrice": "796.35",
+          "prevClose": "787.90",
+          "change": "8.45",
+          "percentGain": "1.07"
+        }
+      ]
     }
   ],
   "losers": [
@@ -799,6 +849,56 @@
           "prevClose": "3,823.95",
           "change": "-40.40",
           "percentGain": "-1.06"
+        }
+      ]
+    },
+    {
+      "time": "6:46:13 AM",
+      "data": [
+        {
+          "company": "Asian Paints",
+          "high": "3,328.95",
+          "low": "3,244.05",
+          "lastPrice": "3,273.25",
+          "prevClose": "3,329.10",
+          "change": "-55.85",
+          "percentGain": "-1.68"
+        },
+        {
+          "company": "HUL",
+          "high": "2,962.70",
+          "low": "2,891.40",
+          "lastPrice": "2,910.05",
+          "prevClose": "2,958.30",
+          "change": "-48.25",
+          "percentGain": "-1.63"
+        },
+        {
+          "company": "Bajaj Auto",
+          "high": "12,500.00",
+          "low": "12,112.10",
+          "lastPrice": "12,162.50",
+          "prevClose": "12,345.95",
+          "change": "-183.45",
+          "percentGain": "-1.49"
+        },
+        {
+          "company": "IndusInd Bank",
+          "high": "1,450.30",
+          "low": "1,418.05",
+          "lastPrice": "1,428.30",
+          "prevClose": "1,447.60",
+          "change": "-19.30",
+          "percentGain": "-1.33"
+        },
+        {
+          "company": "Titan Company",
+          "high": "3,837.95",
+          "low": "3,766.05",
+          "lastPrice": "3,784.65",
+          "prevClose": "3,823.95",
+          "change": "-39.30",
+          "percentGain": "-1.03"
         }
       ]
     }
