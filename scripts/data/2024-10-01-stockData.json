@@ -99,6 +99,56 @@
           "percentGain": "1.15"
         }
       ]
+    },
+    {
+      "time": "4:42:03 AM",
+      "data": [
+        {
+          "company": "Tech Mahindra",
+          "high": "1,642.90",
+          "low": "1,580.00",
+          "lastPrice": "1,626.75",
+          "prevClose": "1,577.20",
+          "change": "49.55",
+          "percentGain": "3.14"
+        },
+        {
+          "company": "Infosys",
+          "high": "1,904.95",
+          "low": "1,875.00",
+          "lastPrice": "1,902.10",
+          "prevClose": "1,875.60",
+          "change": "26.50",
+          "percentGain": "1.41"
+        },
+        {
+          "company": "M&M",
+          "high": "3,139.85",
+          "low": "3,095.80",
+          "lastPrice": "3,137.00",
+          "prevClose": "3,094.90",
+          "change": "42.10",
+          "percentGain": "1.36"
+        },
+        {
+          "company": "Larsen",
+          "high": "3,724.00",
+          "low": "3,664.00",
+          "lastPrice": "3,718.00",
+          "prevClose": "3,675.55",
+          "change": "42.45",
+          "percentGain": "1.15"
+        },
+        {
+          "company": "Wipro",
+          "high": "548.25",
+          "low": "540.20",
+          "lastPrice": "547.10",
+          "prevClose": "541.45",
+          "change": "5.65",
+          "percentGain": "1.04"
+        }
+      ]
     }
   ],
   "losers": [
@@ -199,6 +249,56 @@
           "prevClose": "12,345.95",
           "change": "-97.00",
           "percentGain": "-0.79"
+        }
+      ]
+    },
+    {
+      "time": "4:42:03 AM",
+      "data": [
+        {
+          "company": "Asian Paints",
+          "high": "3,328.95",
+          "low": "3,257.50",
+          "lastPrice": "3,269.90",
+          "prevClose": "3,329.10",
+          "change": "-59.20",
+          "percentGain": "-1.78"
+        },
+        {
+          "company": "Bajaj Auto",
+          "high": "12,500.00",
+          "low": "12,186.10",
+          "lastPrice": "12,191.40",
+          "prevClose": "12,345.95",
+          "change": "-154.55",
+          "percentGain": "-1.25"
+        },
+        {
+          "company": "JSW Steel",
+          "high": "1,029.20",
+          "low": "1,015.50",
+          "lastPrice": "1,017.65",
+          "prevClose": "1,030.05",
+          "change": "-12.40",
+          "percentGain": "-1.20"
+        },
+        {
+          "company": "Tata Steel",
+          "high": "169.49",
+          "low": "166.48",
+          "lastPrice": "166.53",
+          "prevClose": "168.55",
+          "change": "-2.02",
+          "percentGain": "-1.20"
+        },
+        {
+          "company": "Tata Steel",
+          "high": "169.49",
+          "low": "166.48",
+          "lastPrice": "166.53",
+          "prevClose": "168.55",
+          "change": "-2.02",
+          "percentGain": "-1.20"
         }
       ]
     }
