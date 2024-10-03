@@ -1,0 +1,79 @@
+{
+  "gainers": [
+    {
+      "time": "3:51:21 AM",
+      "data": [
+        {
+          "company": "JSW Steel",
+          "high": "1,060.00",
+          "low": "1,025.45",
+          "lastPrice": "1,045.85",
+          "prevClose": "1,027.30",
+          "change": "18.55",
+          "percentGain": "1.81"
+        },
+        {
+          "company": "ONGC",
+          "high": "296.90",
+          "low": "294.00",
+          "lastPrice": "295.95",
+          "prevClose": "291.95",
+          "change": "4.00",
+          "percentGain": "1.37"
+        }
+      ]
+    }
+  ],
+  "losers": [
+    {
+      "time": "3:51:21 AM",
+      "data": [
+        {
+          "company": "Asian Paints",
+          "high": "3,222.35",
+          "low": "3,186.05",
+          "lastPrice": "3,200.70",
+          "prevClose": "3,277.35",
+          "change": "-76.65",
+          "percentGain": "-2.34"
+        },
+        {
+          "company": "Tata Motors",
+          "high": "947.00",
+          "low": "937.30",
+          "lastPrice": "946.85",
+          "prevClose": "965.20",
+          "change": "-18.35",
+          "percentGain": "-1.90"
+        },
+        {
+          "company": "Tata Motors",
+          "high": "947.00",
+          "low": "937.30",
+          "lastPrice": "946.85",
+          "prevClose": "965.20",
+          "change": "-18.35",
+          "percentGain": "-1.90"
+        },
+        {
+          "company": "TATA Cons. Prod",
+          "high": "1,190.00",
+          "low": "1,164.70",
+          "lastPrice": "1,173.90",
+          "prevClose": "1,196.25",
+          "change": "-22.35",
+          "percentGain": "-1.87"
+        },
+        {
+          "company": "Larsen",
+          "high": "3,617.00",
+          "low": "3,582.50",
+          "lastPrice": "3,591.60",
+          "prevClose": "3,653.50",
+          "change": "-61.90",
+          "percentGain": "-1.69"
+        }
+      ]
+    }
+  ]
+}
