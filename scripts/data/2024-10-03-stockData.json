@@ -574,6 +574,47 @@
     {
       "time": "9:16:36 AM",
       "data": []
+    },
+    {
+      "time": "9:38:17 AM",
+      "data": [
+        {
+          "company": "JSW Steel",
+          "high": "1,060.00",
+          "low": "1,025.45",
+          "lastPrice": "1,040.70",
+          "prevClose": "1,027.30",
+          "change": "13.40",
+          "percentGain": "1.30"
+        },
+        {
+          "company": "Tata Steel",
+          "high": "169.99",
+          "low": "164.52",
+          "lastPrice": "167.18",
+          "prevClose": "167.03",
+          "change": "0.15",
+          "percentGain": "0.09"
+        },
+        {
+          "company": "Tata Steel",
+          "high": "169.99",
+          "low": "164.52",
+          "lastPrice": "167.18",
+          "prevClose": "167.03",
+          "change": "0.15",
+          "percentGain": "0.09"
+        },
+        {
+          "company": "ONGC",
+          "high": "298.00",
+          "low": "290.55",
+          "lastPrice": "292.00",
+          "prevClose": "291.95",
+          "change": "0.05",
+          "percentGain": "0.02"
+        }
+      ]
     }
   ],
   "losers": [
@@ -1196,6 +1237,56 @@
     {
       "time": "9:16:36 AM",
       "data": []
+    },
+    {
+      "time": "9:38:17 AM",
+      "data": [
+        {
+          "company": "BPCL",
+          "high": "361.60",
+          "low": "347.55",
+          "lastPrice": "348.10",
+          "prevClose": "368.25",
+          "change": "-20.15",
+          "percentGain": "-5.47"
+        },
+        {
+          "company": "Shriram Finance",
+          "high": "3,574.90",
+          "low": "3,408.70",
+          "lastPrice": "3,409.05",
+          "prevClose": "3,570.40",
+          "change": "-161.35",
+          "percentGain": "-4.52"
+        },
+        {
+          "company": "Axis Bank",
+          "high": "1,219.15",
+          "low": "1,173.75",
+          "lastPrice": "1,173.85",
+          "prevClose": "1,226.65",
+          "change": "-52.80",
+          "percentGain": "-4.30"
+        },
+        {
+          "company": "Larsen",
+          "high": "3,617.00",
+          "low": "3,497.00",
+          "lastPrice": "3,499.05",
+          "prevClose": "3,653.50",
+          "change": "-154.45",
+          "percentGain": "-4.23"
+        },
+        {
+          "company": "Tata Motors",
+          "high": "950.15",
+          "low": "925.05",
+          "lastPrice": "925.40",
+          "prevClose": "965.20",
+          "change": "-39.80",
+          "percentGain": "-4.12"
+        }
+      ]
     }
   ]
 }
