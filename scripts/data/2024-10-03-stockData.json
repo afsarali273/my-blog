@@ -22,6 +22,56 @@
           "percentGain": "1.37"
         }
       ]
+    },
+    {
+      "time": "4:18:54 AM",
+      "data": [
+        {
+          "company": "JSW Steel",
+          "high": "1,060.00",
+          "low": "1,025.45",
+          "lastPrice": "1,047.00",
+          "prevClose": "1,027.30",
+          "change": "19.70",
+          "percentGain": "1.92"
+        },
+        {
+          "company": "ONGC",
+          "high": "298.00",
+          "low": "294.00",
+          "lastPrice": "296.30",
+          "prevClose": "291.95",
+          "change": "4.35",
+          "percentGain": "1.49"
+        },
+        {
+          "company": "Tata Steel",
+          "high": "169.70",
+          "low": "164.52",
+          "lastPrice": "168.66",
+          "prevClose": "167.03",
+          "change": "1.63",
+          "percentGain": "0.98"
+        },
+        {
+          "company": "Tata Steel",
+          "high": "169.70",
+          "low": "164.52",
+          "lastPrice": "168.66",
+          "prevClose": "167.03",
+          "change": "1.63",
+          "percentGain": "0.98"
+        },
+        {
+          "company": "NTPC",
+          "high": "442.50",
+          "low": "432.00",
+          "lastPrice": "441.50",
+          "prevClose": "440.10",
+          "change": "1.40",
+          "percentGain": "0.32"
+        }
+      ]
     }
   ],
   "losers": [
@@ -72,6 +122,56 @@
           "prevClose": "3,653.50",
           "change": "-61.90",
           "percentGain": "-1.69"
+        }
+      ]
+    },
+    {
+      "time": "4:18:54 AM",
+      "data": [
+        {
+          "company": "BPCL",
+          "high": "361.60",
+          "low": "353.75",
+          "lastPrice": "357.95",
+          "prevClose": "368.25",
+          "change": "-10.30",
+          "percentGain": "-2.80"
+        },
+        {
+          "company": "Eicher Motors",
+          "high": "4,950.00",
+          "low": "4,711.00",
+          "lastPrice": "4,850.00",
+          "prevClose": "4,972.65",
+          "change": "-122.65",
+          "percentGain": "-2.47"
+        },
+        {
+          "company": "Asian Paints",
+          "high": "3,225.90",
+          "low": "3,186.05",
+          "lastPrice": "3,198.40",
+          "prevClose": "3,277.35",
+          "change": "-78.95",
+          "percentGain": "-2.41"
+        },
+        {
+          "company": "Tata Motors",
+          "high": "950.15",
+          "low": "937.30",
+          "lastPrice": "946.30",
+          "prevClose": "965.20",
+          "change": "-18.90",
+          "percentGain": "-1.96"
+        },
+        {
+          "company": "Tata Motors",
+          "high": "950.15",
+          "low": "937.30",
+          "lastPrice": "946.30",
+          "prevClose": "965.20",
+          "change": "-18.90",
+          "percentGain": "-1.96"
         }
       ]
     }
