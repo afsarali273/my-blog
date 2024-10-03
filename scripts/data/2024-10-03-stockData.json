@@ -530,6 +530,38 @@
           "percentGain": "0.08"
         }
       ]
+    },
+    {
+      "time": "8:19:51 AM",
+      "data": [
+        {
+          "company": "JSW Steel",
+          "high": "1,060.00",
+          "low": "1,025.45",
+          "lastPrice": "1,043.00",
+          "prevClose": "1,027.30",
+          "change": "15.70",
+          "percentGain": "1.53"
+        },
+        {
+          "company": "Tata Steel",
+          "high": "169.99",
+          "low": "164.52",
+          "lastPrice": "167.34",
+          "prevClose": "167.03",
+          "change": "0.31",
+          "percentGain": "0.19"
+        },
+        {
+          "company": "Tata Steel",
+          "high": "169.99",
+          "low": "164.52",
+          "lastPrice": "167.34",
+          "prevClose": "167.03",
+          "change": "0.31",
+          "percentGain": "0.19"
+        }
+      ]
     }
   ],
   "losers": [
@@ -1088,6 +1120,56 @@
           "prevClose": "1,975.25",
           "change": "-72.25",
           "percentGain": "-3.66"
+        }
+      ]
+    },
+    {
+      "time": "8:19:51 AM",
+      "data": [
+        {
+          "company": "BPCL",
+          "high": "361.60",
+          "low": "348.75",
+          "lastPrice": "349.60",
+          "prevClose": "368.25",
+          "change": "-18.65",
+          "percentGain": "-5.06"
+        },
+        {
+          "company": "Asian Paints",
+          "high": "3,225.90",
+          "low": "3,126.50",
+          "lastPrice": "3,130.10",
+          "prevClose": "3,277.35",
+          "change": "-147.25",
+          "percentGain": "-4.49"
+        },
+        {
+          "company": "Larsen",
+          "high": "3,617.00",
+          "low": "3,500.10",
+          "lastPrice": "3,502.55",
+          "prevClose": "3,653.50",
+          "change": "-150.95",
+          "percentGain": "-4.13"
+        },
+        {
+          "company": "Maruti Suzuki",
+          "high": "13,148.00",
+          "low": "12,642.65",
+          "lastPrice": "12,657.65",
+          "prevClose": "13,166.00",
+          "change": "-508.35",
+          "percentGain": "-3.86"
+        },
+        {
+          "company": "Bajaj Finserv",
+          "high": "1,970.05",
+          "low": "1,897.10",
+          "lastPrice": "1,900.00",
+          "prevClose": "1,975.25",
+          "change": "-75.25",
+          "percentGain": "-3.81"
         }
       ]
     }
