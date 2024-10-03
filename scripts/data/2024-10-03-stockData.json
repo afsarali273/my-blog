@@ -430,6 +430,56 @@
           "percentGain": "0.46"
         }
       ]
+    },
+    {
+      "time": "7:36:26 AM",
+      "data": [
+        {
+          "company": "JSW Steel",
+          "high": "1,060.00",
+          "low": "1,025.45",
+          "lastPrice": "1,041.90",
+          "prevClose": "1,027.30",
+          "change": "14.60",
+          "percentGain": "1.42"
+        },
+        {
+          "company": "Dr Reddys Labs",
+          "high": "6,795.00",
+          "low": "6,692.10",
+          "lastPrice": "6,777.00",
+          "prevClose": "6,749.10",
+          "change": "27.90",
+          "percentGain": "0.41"
+        },
+        {
+          "company": "Tata Steel",
+          "high": "169.99",
+          "low": "164.52",
+          "lastPrice": "167.58",
+          "prevClose": "167.03",
+          "change": "0.55",
+          "percentGain": "0.33"
+        },
+        {
+          "company": "Tata Steel",
+          "high": "169.99",
+          "low": "164.52",
+          "lastPrice": "167.58",
+          "prevClose": "167.03",
+          "change": "0.55",
+          "percentGain": "0.33"
+        },
+        {
+          "company": "Sun Pharma",
+          "high": "1,936.30",
+          "low": "1,896.05",
+          "lastPrice": "1,924.35",
+          "prevClose": "1,919.95",
+          "change": "4.40",
+          "percentGain": "0.23"
+        }
+      ]
     }
   ],
   "losers": [
@@ -888,6 +938,56 @@
           "prevClose": "965.20",
           "change": "-31.10",
           "percentGain": "-3.22"
+        }
+      ]
+    },
+    {
+      "time": "7:36:26 AM",
+      "data": [
+        {
+          "company": "BPCL",
+          "high": "361.60",
+          "low": "350.25",
+          "lastPrice": "350.85",
+          "prevClose": "368.25",
+          "change": "-17.40",
+          "percentGain": "-4.73"
+        },
+        {
+          "company": "Asian Paints",
+          "high": "3,225.90",
+          "low": "3,133.55",
+          "lastPrice": "3,153.90",
+          "prevClose": "3,277.35",
+          "change": "-123.45",
+          "percentGain": "-3.77"
+        },
+        {
+          "company": "Shriram Finance",
+          "high": "3,574.90",
+          "low": "3,424.05",
+          "lastPrice": "3,439.10",
+          "prevClose": "3,570.40",
+          "change": "-131.30",
+          "percentGain": "-3.68"
+        },
+        {
+          "company": "Larsen",
+          "high": "3,617.00",
+          "low": "3,513.35",
+          "lastPrice": "3,520.05",
+          "prevClose": "3,653.50",
+          "change": "-133.45",
+          "percentGain": "-3.65"
+        },
+        {
+          "company": "Apollo Hospital",
+          "high": "7,200.00",
+          "low": "6,855.95",
+          "lastPrice": "6,901.45",
+          "prevClose": "7,153.35",
+          "change": "-251.90",
+          "percentGain": "-3.52"
         }
       ]
     }
