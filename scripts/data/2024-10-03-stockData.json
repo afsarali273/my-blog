@@ -72,6 +72,56 @@
           "percentGain": "0.32"
         }
       ]
+    },
+    {
+      "time": "4:42:13 AM",
+      "data": [
+        {
+          "company": "JSW Steel",
+          "high": "1,060.00",
+          "low": "1,025.45",
+          "lastPrice": "1,052.25",
+          "prevClose": "1,027.30",
+          "change": "24.95",
+          "percentGain": "2.43"
+        },
+        {
+          "company": "ONGC",
+          "high": "298.00",
+          "low": "294.00",
+          "lastPrice": "295.60",
+          "prevClose": "291.95",
+          "change": "3.65",
+          "percentGain": "1.25"
+        },
+        {
+          "company": "Grasim",
+          "high": "2,833.00",
+          "low": "2,769.45",
+          "lastPrice": "2,822.25",
+          "prevClose": "2,801.15",
+          "change": "21.10",
+          "percentGain": "0.75"
+        },
+        {
+          "company": "Tata Steel",
+          "high": "169.70",
+          "low": "164.52",
+          "lastPrice": "168.14",
+          "prevClose": "167.03",
+          "change": "1.11",
+          "percentGain": "0.66"
+        },
+        {
+          "company": "Tata Steel",
+          "high": "169.70",
+          "low": "164.52",
+          "lastPrice": "168.14",
+          "prevClose": "167.03",
+          "change": "1.11",
+          "percentGain": "0.66"
+        }
+      ]
     }
   ],
   "losers": [
@@ -172,6 +222,56 @@
           "prevClose": "965.20",
           "change": "-18.90",
           "percentGain": "-1.96"
+        }
+      ]
+    },
+    {
+      "time": "4:42:13 AM",
+      "data": [
+        {
+          "company": "BPCL",
+          "high": "361.60",
+          "low": "353.75",
+          "lastPrice": "355.20",
+          "prevClose": "368.25",
+          "change": "-13.05",
+          "percentGain": "-3.54"
+        },
+        {
+          "company": "Eicher Motors",
+          "high": "4,950.00",
+          "low": "4,711.00",
+          "lastPrice": "4,802.80",
+          "prevClose": "4,972.65",
+          "change": "-169.85",
+          "percentGain": "-3.42"
+        },
+        {
+          "company": "Shriram Finance",
+          "high": "3,574.90",
+          "low": "3,462.45",
+          "lastPrice": "3,470.10",
+          "prevClose": "3,570.40",
+          "change": "-100.30",
+          "percentGain": "-2.81"
+        },
+        {
+          "company": "Asian Paints",
+          "high": "3,225.90",
+          "low": "3,186.05",
+          "lastPrice": "3,193.55",
+          "prevClose": "3,277.35",
+          "change": "-83.80",
+          "percentGain": "-2.56"
+        },
+        {
+          "company": "Tata Motors",
+          "high": "950.15",
+          "low": "937.30",
+          "lastPrice": "943.85",
+          "prevClose": "965.20",
+          "change": "-21.35",
+          "percentGain": "-2.21"
         }
       ]
     }
