@@ -638,6 +638,29 @@
           "percentGain": "0.07"
         }
       ]
+    },
+    {
+      "time": "10:13:56 AM",
+      "data": [
+        {
+          "company": "JSW Steel",
+          "high": "1,060.00",
+          "low": "1,025.45",
+          "lastPrice": "1,039.10",
+          "prevClose": "1,027.30",
+          "change": "11.80",
+          "percentGain": "1.15"
+        },
+        {
+          "company": "ONGC",
+          "high": "298.00",
+          "low": "290.55",
+          "lastPrice": "292.05",
+          "prevClose": "291.95",
+          "change": "0.10",
+          "percentGain": "0.03"
+        }
+      ]
     }
   ],
   "losers": [
@@ -1358,6 +1381,56 @@
           "prevClose": "965.20",
           "change": "-40.15",
           "percentGain": "-4.16"
+        }
+      ]
+    },
+    {
+      "time": "10:13:56 AM",
+      "data": [
+        {
+          "company": "BPCL",
+          "high": "361.60",
+          "low": "347.00",
+          "lastPrice": "348.85",
+          "prevClose": "368.25",
+          "change": "-19.40",
+          "percentGain": "-5.27"
+        },
+        {
+          "company": "Shriram Finance",
+          "high": "3,574.90",
+          "low": "3,400.05",
+          "lastPrice": "3,409.50",
+          "prevClose": "3,570.40",
+          "change": "-160.90",
+          "percentGain": "-4.51"
+        },
+        {
+          "company": "Larsen",
+          "high": "3,617.00",
+          "low": "3,485.40",
+          "lastPrice": "3,497.65",
+          "prevClose": "3,653.50",
+          "change": "-155.85",
+          "percentGain": "-4.27"
+        },
+        {
+          "company": "Axis Bank",
+          "high": "1,219.15",
+          "low": "1,173.10",
+          "lastPrice": "1,175.70",
+          "prevClose": "1,226.65",
+          "change": "-50.95",
+          "percentGain": "-4.15"
+        },
+        {
+          "company": "Tata Motors",
+          "high": "950.15",
+          "low": "925.00",
+          "lastPrice": "925.70",
+          "prevClose": "965.20",
+          "change": "-39.50",
+          "percentGain": "-4.09"
         }
       ]
     }
