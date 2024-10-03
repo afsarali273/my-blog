@@ -480,6 +480,56 @@
           "percentGain": "0.23"
         }
       ]
+    },
+    {
+      "time": "7:50:04 AM",
+      "data": [
+        {
+          "company": "JSW Steel",
+          "high": "1,060.00",
+          "low": "1,025.45",
+          "lastPrice": "1,039.05",
+          "prevClose": "1,027.30",
+          "change": "11.75",
+          "percentGain": "1.14"
+        },
+        {
+          "company": "Dr Reddys Labs",
+          "high": "6,795.00",
+          "low": "6,692.10",
+          "lastPrice": "6,770.85",
+          "prevClose": "6,749.10",
+          "change": "21.75",
+          "percentGain": "0.32"
+        },
+        {
+          "company": "Sun Pharma",
+          "high": "1,936.30",
+          "low": "1,896.05",
+          "lastPrice": "1,925.30",
+          "prevClose": "1,919.95",
+          "change": "5.35",
+          "percentGain": "0.28"
+        },
+        {
+          "company": "Tata Steel",
+          "high": "169.99",
+          "low": "164.52",
+          "lastPrice": "167.16",
+          "prevClose": "167.03",
+          "change": "0.13",
+          "percentGain": "0.08"
+        },
+        {
+          "company": "Tata Steel",
+          "high": "169.99",
+          "low": "164.52",
+          "lastPrice": "167.16",
+          "prevClose": "167.03",
+          "change": "0.13",
+          "percentGain": "0.08"
+        }
+      ]
     }
   ],
   "losers": [
@@ -988,6 +1038,56 @@
           "prevClose": "7,153.35",
           "change": "-251.90",
           "percentGain": "-3.52"
+        }
+      ]
+    },
+    {
+      "time": "7:50:04 AM",
+      "data": [
+        {
+          "company": "BPCL",
+          "high": "361.60",
+          "low": "350.25",
+          "lastPrice": "350.55",
+          "prevClose": "368.25",
+          "change": "-17.70",
+          "percentGain": "-4.81"
+        },
+        {
+          "company": "Larsen",
+          "high": "3,617.00",
+          "low": "3,507.00",
+          "lastPrice": "3,512.00",
+          "prevClose": "3,653.50",
+          "change": "-141.50",
+          "percentGain": "-3.87"
+        },
+        {
+          "company": "Shriram Finance",
+          "high": "3,574.90",
+          "low": "3,424.05",
+          "lastPrice": "3,433.45",
+          "prevClose": "3,570.40",
+          "change": "-136.95",
+          "percentGain": "-3.84"
+        },
+        {
+          "company": "Asian Paints",
+          "high": "3,225.90",
+          "low": "3,133.55",
+          "lastPrice": "3,155.00",
+          "prevClose": "3,277.35",
+          "change": "-122.35",
+          "percentGain": "-3.73"
+        },
+        {
+          "company": "Bajaj Finserv",
+          "high": "1,970.05",
+          "low": "1,901.05",
+          "lastPrice": "1,903.00",
+          "prevClose": "1,975.25",
+          "change": "-72.25",
+          "percentGain": "-3.66"
         }
       ]
     }
