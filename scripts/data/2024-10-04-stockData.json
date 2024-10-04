@@ -361,6 +361,56 @@
     {
       "time": "7:14:42 AM",
       "data": []
+    },
+    {
+      "time": "7:29:13 AM",
+      "data": [
+        {
+          "company": "Infosys",
+          "high": "1,954.10",
+          "low": "1,886.00",
+          "lastPrice": "1,926.95",
+          "prevClose": "1,893.40",
+          "change": "33.55",
+          "percentGain": "1.77"
+        },
+        {
+          "company": "ONGC",
+          "high": "299.70",
+          "low": "294.00",
+          "lastPrice": "296.75",
+          "prevClose": "292.05",
+          "change": "4.70",
+          "percentGain": "1.61"
+        },
+        {
+          "company": "Wipro",
+          "high": "541.95",
+          "low": "528.05",
+          "lastPrice": "537.65",
+          "prevClose": "530.15",
+          "change": "7.50",
+          "percentGain": "1.41"
+        },
+        {
+          "company": "Tech Mahindra",
+          "high": "1,648.40",
+          "low": "1,591.00",
+          "lastPrice": "1,622.25",
+          "prevClose": "1,604.05",
+          "change": "18.20",
+          "percentGain": "1.13"
+        },
+        {
+          "company": "HDFC Life",
+          "high": "713.50",
+          "low": "701.55",
+          "lastPrice": "709.70",
+          "prevClose": "702.25",
+          "change": "7.45",
+          "percentGain": "1.06"
+        }
+      ]
     }
   ],
   "losers": [
@@ -725,6 +775,56 @@
     {
       "time": "7:14:42 AM",
       "data": []
+    },
+    {
+      "time": "7:29:13 AM",
+      "data": [
+        {
+          "company": "Bajaj Finance",
+          "high": "7,430.00",
+          "low": "7,198.00",
+          "lastPrice": "7,266.80",
+          "prevClose": "7,433.85",
+          "change": "-167.05",
+          "percentGain": "-2.25"
+        },
+        {
+          "company": "Hero Motocorp",
+          "high": "5,649.95",
+          "low": "5,526.15",
+          "lastPrice": "5,538.20",
+          "prevClose": "5,662.75",
+          "change": "-124.55",
+          "percentGain": "-2.20"
+        },
+        {
+          "company": "HUL",
+          "high": "2,914.00",
+          "low": "2,823.30",
+          "lastPrice": "2,832.05",
+          "prevClose": "2,893.35",
+          "change": "-61.30",
+          "percentGain": "-2.12"
+        },
+        {
+          "company": "Asian Paints",
+          "high": "3,156.75",
+          "low": "3,065.25",
+          "lastPrice": "3,083.00",
+          "prevClose": "3,149.30",
+          "change": "-66.30",
+          "percentGain": "-2.11"
+        },
+        {
+          "company": "M&M",
+          "high": "3,157.60",
+          "low": "3,062.60",
+          "lastPrice": "3,070.95",
+          "prevClose": "3,129.85",
+          "change": "-58.90",
+          "percentGain": "-1.88"
+        }
+      ]
     }
   ]
 }
