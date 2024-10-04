@@ -153,6 +153,56 @@
           "percentGain": "0.87"
         }
       ]
+    },
+    {
+      "time": "5:15:26 AM",
+      "data": [
+        {
+          "company": "ONGC",
+          "high": "299.70",
+          "low": "294.00",
+          "lastPrice": "299.00",
+          "prevClose": "292.05",
+          "change": "6.95",
+          "percentGain": "2.38"
+        },
+        {
+          "company": "Infosys",
+          "high": "1,928.80",
+          "low": "1,886.00",
+          "lastPrice": "1,925.45",
+          "prevClose": "1,893.40",
+          "change": "32.05",
+          "percentGain": "1.69"
+        },
+        {
+          "company": "Wipro",
+          "high": "541.25",
+          "low": "528.05",
+          "lastPrice": "538.50",
+          "prevClose": "530.15",
+          "change": "8.35",
+          "percentGain": "1.58"
+        },
+        {
+          "company": "Tech Mahindra",
+          "high": "1,626.70",
+          "low": "1,591.00",
+          "lastPrice": "1,624.60",
+          "prevClose": "1,604.05",
+          "change": "20.55",
+          "percentGain": "1.28"
+        },
+        {
+          "company": "Maruti Suzuki",
+          "high": "12,877.85",
+          "low": "12,524.35",
+          "lastPrice": "12,807.95",
+          "prevClose": "12,647.35",
+          "change": "160.60",
+          "percentGain": "1.27"
+        }
+      ]
     }
   ],
   "losers": [
@@ -307,6 +357,56 @@
           "prevClose": "3,149.30",
           "change": "-45.70",
           "percentGain": "-1.45"
+        }
+      ]
+    },
+    {
+      "time": "5:15:26 AM",
+      "data": [
+        {
+          "company": "Shriram Finance",
+          "high": "3,414.50",
+          "low": "3,320.00",
+          "lastPrice": "3,328.30",
+          "prevClose": "3,409.50",
+          "change": "-81.20",
+          "percentGain": "-2.38"
+        },
+        {
+          "company": "BPCL",
+          "high": "344.90",
+          "low": "334.35",
+          "lastPrice": "342.40",
+          "prevClose": "348.85",
+          "change": "-6.45",
+          "percentGain": "-1.85"
+        },
+        {
+          "company": "Bajaj Finance",
+          "high": "7,430.00",
+          "low": "7,198.00",
+          "lastPrice": "7,317.90",
+          "prevClose": "7,433.85",
+          "change": "-115.95",
+          "percentGain": "-1.56"
+        },
+        {
+          "company": "M&M",
+          "high": "3,157.60",
+          "low": "3,062.60",
+          "lastPrice": "3,083.75",
+          "prevClose": "3,129.85",
+          "change": "-46.10",
+          "percentGain": "-1.47"
+        },
+        {
+          "company": "Cipla",
+          "high": "1,656.40",
+          "low": "1,626.70",
+          "lastPrice": "1,632.65",
+          "prevClose": "1,656.55",
+          "change": "-23.90",
+          "percentGain": "-1.44"
         }
       ]
     }
