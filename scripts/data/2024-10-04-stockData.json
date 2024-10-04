@@ -615,6 +615,56 @@
           "percentGain": "0.56"
         }
       ]
+    },
+    {
+      "time": "9:16:24 AM",
+      "data": [
+        {
+          "company": "Infosys",
+          "high": "1,954.10",
+          "low": "1,886.00",
+          "lastPrice": "1,916.65",
+          "prevClose": "1,893.40",
+          "change": "23.25",
+          "percentGain": "1.23"
+        },
+        {
+          "company": "ONGC",
+          "high": "299.70",
+          "low": "293.20",
+          "lastPrice": "295.25",
+          "prevClose": "292.05",
+          "change": "3.20",
+          "percentGain": "1.10"
+        },
+        {
+          "company": "Tata Motors",
+          "high": "949.20",
+          "low": "920.00",
+          "lastPrice": "932.10",
+          "prevClose": "925.70",
+          "change": "6.40",
+          "percentGain": "0.69"
+        },
+        {
+          "company": "Tata Motors",
+          "high": "949.20",
+          "low": "920.00",
+          "lastPrice": "932.10",
+          "prevClose": "925.70",
+          "change": "6.40",
+          "percentGain": "0.69"
+        },
+        {
+          "company": "HDFC Life",
+          "high": "713.50",
+          "low": "701.55",
+          "lastPrice": "706.65",
+          "prevClose": "702.25",
+          "change": "4.40",
+          "percentGain": "0.63"
+        }
+      ]
     }
   ],
   "losers": [
@@ -1231,6 +1281,56 @@
           "prevClose": "2,674.85",
           "change": "-68.05",
           "percentGain": "-2.54"
+        }
+      ]
+    },
+    {
+      "time": "9:16:24 AM",
+      "data": [
+        {
+          "company": "Bajaj Finance",
+          "high": "7,430.00",
+          "low": "7,163.60",
+          "lastPrice": "7,167.85",
+          "prevClose": "7,433.85",
+          "change": "-266.00",
+          "percentGain": "-3.58"
+        },
+        {
+          "company": "M&M",
+          "high": "3,157.60",
+          "low": "3,018.35",
+          "lastPrice": "3,022.80",
+          "prevClose": "3,129.85",
+          "change": "-107.05",
+          "percentGain": "-3.42"
+        },
+        {
+          "company": "Asian Paints",
+          "high": "3,156.75",
+          "low": "3,054.55",
+          "lastPrice": "3,056.00",
+          "prevClose": "3,149.30",
+          "change": "-93.30",
+          "percentGain": "-2.96"
+        },
+        {
+          "company": "Hero Motocorp",
+          "high": "5,649.95",
+          "low": "5,484.00",
+          "lastPrice": "5,500.00",
+          "prevClose": "5,662.75",
+          "change": "-162.75",
+          "percentGain": "-2.87"
+        },
+        {
+          "company": "Nestle",
+          "high": "2,678.35",
+          "low": "2,597.40",
+          "lastPrice": "2,598.25",
+          "prevClose": "2,674.85",
+          "change": "-76.60",
+          "percentGain": "-2.86"
         }
       ]
     }
