@@ -53,6 +53,56 @@
     {
       "time": "4:18:24 AM",
       "data": []
+    },
+    {
+      "time": "4:40:51 AM",
+      "data": [
+        {
+          "company": "Maruti Suzuki",
+          "high": "12,877.85",
+          "low": "12,524.35",
+          "lastPrice": "12,835.85",
+          "prevClose": "12,647.35",
+          "change": "188.50",
+          "percentGain": "1.49"
+        },
+        {
+          "company": "ONGC",
+          "high": "297.65",
+          "low": "294.00",
+          "lastPrice": "296.40",
+          "prevClose": "292.05",
+          "change": "4.35",
+          "percentGain": "1.49"
+        },
+        {
+          "company": "SBI Life Insura",
+          "high": "1,850.00",
+          "low": "1,803.10",
+          "lastPrice": "1,830.80",
+          "prevClose": "1,805.55",
+          "change": "25.25",
+          "percentGain": "1.40"
+        },
+        {
+          "company": "Titan Company",
+          "high": "3,730.00",
+          "low": "3,625.00",
+          "lastPrice": "3,715.75",
+          "prevClose": "3,674.95",
+          "change": "40.80",
+          "percentGain": "1.11"
+        },
+        {
+          "company": "HDFC Life",
+          "high": "711.00",
+          "low": "701.55",
+          "lastPrice": "709.15",
+          "prevClose": "702.25",
+          "change": "6.90",
+          "percentGain": "0.98"
+        }
+      ]
     }
   ],
   "losers": [
@@ -109,6 +159,56 @@
     {
       "time": "4:18:24 AM",
       "data": []
+    },
+    {
+      "time": "4:40:51 AM",
+      "data": [
+        {
+          "company": "BPCL",
+          "high": "344.90",
+          "low": "334.35",
+          "lastPrice": "341.20",
+          "prevClose": "348.85",
+          "change": "-7.65",
+          "percentGain": "-2.19"
+        },
+        {
+          "company": "Shriram Finance",
+          "high": "3,414.50",
+          "low": "3,350.00",
+          "lastPrice": "3,356.30",
+          "prevClose": "3,409.50",
+          "change": "-53.20",
+          "percentGain": "-1.56"
+        },
+        {
+          "company": "Bajaj Finance",
+          "high": "7,430.00",
+          "low": "7,198.00",
+          "lastPrice": "7,334.75",
+          "prevClose": "7,433.85",
+          "change": "-99.10",
+          "percentGain": "-1.33"
+        },
+        {
+          "company": "NTPC",
+          "high": "436.25",
+          "low": "427.10",
+          "lastPrice": "430.55",
+          "prevClose": "435.35",
+          "change": "-4.80",
+          "percentGain": "-1.10"
+        },
+        {
+          "company": "Cipla",
+          "high": "1,656.40",
+          "low": "1,626.70",
+          "lastPrice": "1,639.90",
+          "prevClose": "1,656.55",
+          "change": "-16.65",
+          "percentGain": "-1.01"
+        }
+      ]
     }
   ]
 }
