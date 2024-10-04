@@ -515,6 +515,56 @@
           "percentGain": "0.73"
         }
       ]
+    },
+    {
+      "time": "8:42:33 AM",
+      "data": [
+        {
+          "company": "Infosys",
+          "high": "1,954.10",
+          "low": "1,886.00",
+          "lastPrice": "1,924.65",
+          "prevClose": "1,893.40",
+          "change": "31.25",
+          "percentGain": "1.65"
+        },
+        {
+          "company": "Tech Mahindra",
+          "high": "1,648.40",
+          "low": "1,591.00",
+          "lastPrice": "1,619.90",
+          "prevClose": "1,604.05",
+          "change": "15.85",
+          "percentGain": "0.99"
+        },
+        {
+          "company": "Wipro",
+          "high": "541.95",
+          "low": "528.05",
+          "lastPrice": "535.40",
+          "prevClose": "530.15",
+          "change": "5.25",
+          "percentGain": "0.99"
+        },
+        {
+          "company": "ONGC",
+          "high": "299.70",
+          "low": "294.00",
+          "lastPrice": "294.75",
+          "prevClose": "292.05",
+          "change": "2.70",
+          "percentGain": "0.92"
+        },
+        {
+          "company": "Axis Bank",
+          "high": "1,202.80",
+          "low": "1,174.00",
+          "lastPrice": "1,182.70",
+          "prevClose": "1,175.70",
+          "change": "7.00",
+          "percentGain": "0.60"
+        }
+      ]
     }
   ],
   "losers": [
@@ -1031,6 +1081,56 @@
           "prevClose": "3,149.30",
           "change": "-72.35",
           "percentGain": "-2.30"
+        }
+      ]
+    },
+    {
+      "time": "8:42:33 AM",
+      "data": [
+        {
+          "company": "Bajaj Finance",
+          "high": "7,430.00",
+          "low": "7,175.00",
+          "lastPrice": "7,185.90",
+          "prevClose": "7,433.85",
+          "change": "-247.95",
+          "percentGain": "-3.34"
+        },
+        {
+          "company": "M&M",
+          "high": "3,157.60",
+          "low": "3,020.10",
+          "lastPrice": "3,033.60",
+          "prevClose": "3,129.85",
+          "change": "-96.25",
+          "percentGain": "-3.08"
+        },
+        {
+          "company": "Hero Motocorp",
+          "high": "5,649.95",
+          "low": "5,501.50",
+          "lastPrice": "5,513.95",
+          "prevClose": "5,662.75",
+          "change": "-148.80",
+          "percentGain": "-2.63"
+        },
+        {
+          "company": "Bharti Airtel",
+          "high": "1,686.70",
+          "low": "1,630.15",
+          "lastPrice": "1,632.75",
+          "prevClose": "1,673.45",
+          "change": "-40.70",
+          "percentGain": "-2.43"
+        },
+        {
+          "company": "Cipla",
+          "high": "1,656.40",
+          "low": "1,616.05",
+          "lastPrice": "1,616.95",
+          "prevClose": "1,656.55",
+          "change": "-39.60",
+          "percentGain": "-2.39"
         }
       ]
     }
