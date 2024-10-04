@@ -303,6 +303,56 @@
           "percentGain": "1.41"
         }
       ]
+    },
+    {
+      "time": "6:24:08 AM",
+      "data": [
+        {
+          "company": "Infosys",
+          "high": "1,944.85",
+          "low": "1,886.00",
+          "lastPrice": "1,941.65",
+          "prevClose": "1,893.40",
+          "change": "48.25",
+          "percentGain": "2.55"
+        },
+        {
+          "company": "ONGC",
+          "high": "299.70",
+          "low": "294.00",
+          "lastPrice": "298.30",
+          "prevClose": "292.05",
+          "change": "6.25",
+          "percentGain": "2.14"
+        },
+        {
+          "company": "Tech Mahindra",
+          "high": "1,638.90",
+          "low": "1,591.00",
+          "lastPrice": "1,636.85",
+          "prevClose": "1,604.05",
+          "change": "32.80",
+          "percentGain": "2.04"
+        },
+        {
+          "company": "Tata Motors",
+          "high": "942.00",
+          "low": "920.00",
+          "lastPrice": "942.00",
+          "prevClose": "925.70",
+          "change": "16.30",
+          "percentGain": "1.76"
+        },
+        {
+          "company": "Tata Motors",
+          "high": "942.00",
+          "low": "920.00",
+          "lastPrice": "942.00",
+          "prevClose": "925.70",
+          "change": "16.30",
+          "percentGain": "1.76"
+        }
+      ]
     }
   ],
   "losers": [
@@ -607,6 +657,56 @@
           "prevClose": "7,433.85",
           "change": "-86.20",
           "percentGain": "-1.16"
+        }
+      ]
+    },
+    {
+      "time": "6:24:08 AM",
+      "data": [
+        {
+          "company": "Shriram Finance",
+          "high": "3,414.50",
+          "low": "3,320.00",
+          "lastPrice": "3,353.80",
+          "prevClose": "3,409.50",
+          "change": "-55.70",
+          "percentGain": "-1.63"
+        },
+        {
+          "company": "Hero Motocorp",
+          "high": "5,649.95",
+          "low": "5,526.15",
+          "lastPrice": "5,574.95",
+          "prevClose": "5,662.75",
+          "change": "-87.80",
+          "percentGain": "-1.55"
+        },
+        {
+          "company": "Cipla",
+          "high": "1,656.40",
+          "low": "1,626.70",
+          "lastPrice": "1,632.00",
+          "prevClose": "1,656.55",
+          "change": "-24.55",
+          "percentGain": "-1.48"
+        },
+        {
+          "company": "Trent",
+          "high": "7,455.95",
+          "low": "7,272.00",
+          "lastPrice": "7,412.95",
+          "prevClose": "7,487.90",
+          "change": "-74.95",
+          "percentGain": "-1.00"
+        },
+        {
+          "company": "M&M",
+          "high": "3,157.60",
+          "low": "3,062.60",
+          "lastPrice": "3,100.00",
+          "prevClose": "3,129.85",
+          "change": "-29.85",
+          "percentGain": "-0.95"
         }
       ]
     }
