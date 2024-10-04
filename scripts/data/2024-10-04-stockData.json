@@ -465,6 +465,56 @@
     {
       "time": "7:49:58 AM",
       "data": []
+    },
+    {
+      "time": "8:19:44 AM",
+      "data": [
+        {
+          "company": "Infosys",
+          "high": "1,954.10",
+          "low": "1,886.00",
+          "lastPrice": "1,923.75",
+          "prevClose": "1,893.40",
+          "change": "30.35",
+          "percentGain": "1.60"
+        },
+        {
+          "company": "ONGC",
+          "high": "299.70",
+          "low": "294.00",
+          "lastPrice": "295.00",
+          "prevClose": "292.05",
+          "change": "2.95",
+          "percentGain": "1.01"
+        },
+        {
+          "company": "Tech Mahindra",
+          "high": "1,648.40",
+          "low": "1,591.00",
+          "lastPrice": "1,619.70",
+          "prevClose": "1,604.05",
+          "change": "15.65",
+          "percentGain": "0.98"
+        },
+        {
+          "company": "Wipro",
+          "high": "541.95",
+          "low": "528.05",
+          "lastPrice": "535.10",
+          "prevClose": "530.15",
+          "change": "4.95",
+          "percentGain": "0.93"
+        },
+        {
+          "company": "Titan Company",
+          "high": "3,753.80",
+          "low": "3,625.00",
+          "lastPrice": "3,701.70",
+          "prevClose": "3,674.95",
+          "change": "26.75",
+          "percentGain": "0.73"
+        }
+      ]
     }
   ],
   "losers": [
@@ -933,6 +983,56 @@
     {
       "time": "7:49:58 AM",
       "data": []
+    },
+    {
+      "time": "8:19:44 AM",
+      "data": [
+        {
+          "company": "M&M",
+          "high": "3,157.60",
+          "low": "3,025.00",
+          "lastPrice": "3,034.65",
+          "prevClose": "3,129.85",
+          "change": "-95.20",
+          "percentGain": "-3.04"
+        },
+        {
+          "company": "Bajaj Finance",
+          "high": "7,430.00",
+          "low": "7,198.00",
+          "lastPrice": "7,213.00",
+          "prevClose": "7,433.85",
+          "change": "-220.85",
+          "percentGain": "-2.97"
+        },
+        {
+          "company": "Hero Motocorp",
+          "high": "5,649.95",
+          "low": "5,501.50",
+          "lastPrice": "5,508.35",
+          "prevClose": "5,662.75",
+          "change": "-154.40",
+          "percentGain": "-2.73"
+        },
+        {
+          "company": "Shriram Finance",
+          "high": "3,414.50",
+          "low": "3,315.50",
+          "lastPrice": "3,316.85",
+          "prevClose": "3,409.50",
+          "change": "-92.65",
+          "percentGain": "-2.72"
+        },
+        {
+          "company": "Asian Paints",
+          "high": "3,156.75",
+          "low": "3,065.25",
+          "lastPrice": "3,076.95",
+          "prevClose": "3,149.30",
+          "change": "-72.35",
+          "percentGain": "-2.30"
+        }
+      ]
     }
   ]
 }
