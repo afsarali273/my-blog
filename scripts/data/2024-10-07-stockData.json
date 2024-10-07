@@ -49,6 +49,56 @@
           "percentGain": "1.12"
         }
       ]
+    },
+    {
+      "time": "4:19:18 AM",
+      "data": [
+        {
+          "company": "ITC",
+          "high": "514.00",
+          "low": "506.75",
+          "lastPrice": "512.95",
+          "prevClose": "503.55",
+          "change": "9.40",
+          "percentGain": "1.87"
+        },
+        {
+          "company": "Kotak Mahindra",
+          "high": "1,832.35",
+          "low": "1,810.00",
+          "lastPrice": "1,828.60",
+          "prevClose": "1,809.00",
+          "change": "19.60",
+          "percentGain": "1.08"
+        },
+        {
+          "company": "Dr Reddys Labs",
+          "high": "6,712.05",
+          "low": "6,636.00",
+          "lastPrice": "6,694.35",
+          "prevClose": "6,633.25",
+          "change": "61.10",
+          "percentGain": "0.92"
+        },
+        {
+          "company": "Infosys",
+          "high": "1,942.00",
+          "low": "1,921.65",
+          "lastPrice": "1,935.60",
+          "prevClose": "1,918.15",
+          "change": "17.45",
+          "percentGain": "0.91"
+        },
+        {
+          "company": "Apollo Hospital",
+          "high": "6,857.50",
+          "low": "6,801.00",
+          "lastPrice": "6,830.00",
+          "prevClose": "6,773.60",
+          "change": "56.40",
+          "percentGain": "0.83"
+        }
+      ]
     }
   ],
   "losers": [
@@ -99,6 +149,56 @@
           "prevClose": "12,605.75",
           "change": "-35.75",
           "percentGain": "-0.28"
+        }
+      ]
+    },
+    {
+      "time": "4:19:18 AM",
+      "data": [
+        {
+          "company": "Titan Company",
+          "high": "3,748.00",
+          "low": "3,562.50",
+          "lastPrice": "3,576.00",
+          "prevClose": "3,670.10",
+          "change": "-94.10",
+          "percentGain": "-2.56"
+        },
+        {
+          "company": "Adani Ports",
+          "high": "1,423.90",
+          "low": "1,388.15",
+          "lastPrice": "1,388.70",
+          "prevClose": "1,413.70",
+          "change": "-25.00",
+          "percentGain": "-1.77"
+        },
+        {
+          "company": "Bharat Elec",
+          "high": "278.90",
+          "low": "273.55",
+          "lastPrice": "273.55",
+          "prevClose": "277.20",
+          "change": "-3.65",
+          "percentGain": "-1.32"
+        },
+        {
+          "company": "Adani Enterpris",
+          "high": "3,128.50",
+          "low": "3,072.05",
+          "lastPrice": "3,076.65",
+          "prevClose": "3,110.65",
+          "change": "-34.00",
+          "percentGain": "-1.09"
+        },
+        {
+          "company": "Coal India",
+          "high": "500.55",
+          "low": "491.20",
+          "lastPrice": "491.80",
+          "prevClose": "497.20",
+          "change": "-5.40",
+          "percentGain": "-1.09"
         }
       ]
     }
