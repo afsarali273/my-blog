@@ -515,6 +515,56 @@
     {
       "time": "8:19:32 AM",
       "data": []
+    },
+    {
+      "time": "8:43:29 AM",
+      "data": [
+        {
+          "company": "ITC",
+          "high": "514.95",
+          "low": "506.75",
+          "lastPrice": "509.90",
+          "prevClose": "503.55",
+          "change": "6.35",
+          "percentGain": "1.26"
+        },
+        {
+          "company": "Infosys",
+          "high": "1,942.00",
+          "low": "1,916.05",
+          "lastPrice": "1,939.90",
+          "prevClose": "1,918.15",
+          "change": "21.75",
+          "percentGain": "1.13"
+        },
+        {
+          "company": "Bharti Airtel",
+          "high": "1,670.00",
+          "low": "1,642.45",
+          "lastPrice": "1,657.70",
+          "prevClose": "1,640.90",
+          "change": "16.80",
+          "percentGain": "1.02"
+        },
+        {
+          "company": "M&M",
+          "high": "3,048.00",
+          "low": "2,982.90",
+          "lastPrice": "3,036.90",
+          "prevClose": "3,017.45",
+          "change": "19.45",
+          "percentGain": "0.64"
+        },
+        {
+          "company": "Bajaj Finance",
+          "high": "7,324.00",
+          "low": "7,190.30",
+          "lastPrice": "7,256.25",
+          "prevClose": "7,211.35",
+          "change": "44.90",
+          "percentGain": "0.62"
+        }
+      ]
     }
   ],
   "losers": [
@@ -1033,6 +1083,56 @@
     {
       "time": "8:19:32 AM",
       "data": []
+    },
+    {
+      "time": "8:43:29 AM",
+      "data": [
+        {
+          "company": "NTPC",
+          "high": "433.00",
+          "low": "410.70",
+          "lastPrice": "410.75",
+          "prevClose": "430.45",
+          "change": "-19.70",
+          "percentGain": "-4.58"
+        },
+        {
+          "company": "Adani Ports",
+          "high": "1,423.90",
+          "low": "1,337.00",
+          "lastPrice": "1,356.90",
+          "prevClose": "1,413.70",
+          "change": "-56.80",
+          "percentGain": "-4.02"
+        },
+        {
+          "company": "Power Grid Corp",
+          "high": "340.00",
+          "low": "325.00",
+          "lastPrice": "326.50",
+          "prevClose": "338.85",
+          "change": "-12.35",
+          "percentGain": "-3.64"
+        },
+        {
+          "company": "Bharat Elec",
+          "high": "278.90",
+          "low": "265.00",
+          "lastPrice": "267.25",
+          "prevClose": "277.20",
+          "change": "-9.95",
+          "percentGain": "-3.59"
+        },
+        {
+          "company": "Coal India",
+          "high": "500.55",
+          "low": "476.60",
+          "lastPrice": "479.50",
+          "prevClose": "497.20",
+          "change": "-17.70",
+          "percentGain": "-3.56"
+        }
+      ]
     }
   ]
 }
