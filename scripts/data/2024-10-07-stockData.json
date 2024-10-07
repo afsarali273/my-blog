@@ -257,6 +257,56 @@
           "percentGain": "0.83"
         }
       ]
+    },
+    {
+      "time": "6:22:24 AM",
+      "data": [
+        {
+          "company": "ITC",
+          "high": "514.95",
+          "low": "506.75",
+          "lastPrice": "512.20",
+          "prevClose": "503.55",
+          "change": "8.65",
+          "percentGain": "1.72"
+        },
+        {
+          "company": "Bharti Airtel",
+          "high": "1,670.00",
+          "low": "1,642.45",
+          "lastPrice": "1,663.75",
+          "prevClose": "1,640.90",
+          "change": "22.85",
+          "percentGain": "1.39"
+        },
+        {
+          "company": "Cipla",
+          "high": "1,644.85",
+          "low": "1,612.05",
+          "lastPrice": "1,640.95",
+          "prevClose": "1,623.30",
+          "change": "17.65",
+          "percentGain": "1.09"
+        },
+        {
+          "company": "Bajaj Finance",
+          "high": "7,324.00",
+          "low": "7,190.30",
+          "lastPrice": "7,278.55",
+          "prevClose": "7,211.35",
+          "change": "67.20",
+          "percentGain": "0.93"
+        },
+        {
+          "company": "HDFC Life",
+          "high": "719.30",
+          "low": "708.75",
+          "lastPrice": "714.90",
+          "prevClose": "708.80",
+          "change": "6.10",
+          "percentGain": "0.86"
+        }
+      ]
     }
   ],
   "losers": [
@@ -515,6 +565,56 @@
           "prevClose": "3,110.65",
           "change": "-87.05",
           "percentGain": "-2.80"
+        }
+      ]
+    },
+    {
+      "time": "6:22:24 AM",
+      "data": [
+        {
+          "company": "Adani Ports",
+          "high": "1,423.90",
+          "low": "1,337.00",
+          "lastPrice": "1,357.20",
+          "prevClose": "1,413.70",
+          "change": "-56.50",
+          "percentGain": "-4.00"
+        },
+        {
+          "company": "Coal India",
+          "high": "500.55",
+          "low": "477.25",
+          "lastPrice": "480.95",
+          "prevClose": "497.20",
+          "change": "-16.25",
+          "percentGain": "-3.27"
+        },
+        {
+          "company": "ONGC",
+          "high": "296.30",
+          "low": "281.50",
+          "lastPrice": "285.65",
+          "prevClose": "295.25",
+          "change": "-9.60",
+          "percentGain": "-3.25"
+        },
+        {
+          "company": "NTPC",
+          "high": "433.00",
+          "low": "413.15",
+          "lastPrice": "417.95",
+          "prevClose": "430.45",
+          "change": "-12.50",
+          "percentGain": "-2.90"
+        },
+        {
+          "company": "Bharat Elec",
+          "high": "278.90",
+          "low": "265.00",
+          "lastPrice": "269.80",
+          "prevClose": "277.20",
+          "change": "-7.40",
+          "percentGain": "-2.67"
         }
       ]
     }
