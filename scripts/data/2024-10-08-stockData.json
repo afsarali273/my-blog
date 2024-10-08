@@ -303,6 +303,56 @@
           "percentGain": "2.05"
         }
       ]
+    },
+    {
+      "time": "6:22:01 AM",
+      "data": [
+        {
+          "company": "Trent",
+          "high": "7,999.00",
+          "low": "7,451.00",
+          "lastPrice": "7,995.25",
+          "prevClose": "7,449.50",
+          "change": "545.75",
+          "percentGain": "7.33"
+        },
+        {
+          "company": "Bharat Elec",
+          "high": "277.90",
+          "low": "265.55",
+          "lastPrice": "276.25",
+          "prevClose": "267.35",
+          "change": "8.90",
+          "percentGain": "3.33"
+        },
+        {
+          "company": "Adani Ports",
+          "high": "1,402.15",
+          "low": "1,342.00",
+          "lastPrice": "1,396.80",
+          "prevClose": "1,355.20",
+          "change": "41.60",
+          "percentGain": "3.07"
+        },
+        {
+          "company": "M&M",
+          "high": "3,161.75",
+          "low": "3,066.00",
+          "lastPrice": "3,135.50",
+          "prevClose": "3,060.20",
+          "change": "75.30",
+          "percentGain": "2.46"
+        },
+        {
+          "company": "Adani Enterpris",
+          "high": "3,099.95",
+          "low": "2,994.85",
+          "lastPrice": "3,090.50",
+          "prevClose": "3,018.00",
+          "change": "72.50",
+          "percentGain": "2.40"
+        }
+      ]
     }
   ],
   "losers": [
@@ -606,6 +656,56 @@
           "lastPrice": "3,534.00",
           "prevClose": "3,589.25",
           "change": "-55.25",
+          "percentGain": "-1.54"
+        }
+      ]
+    },
+    {
+      "time": "6:22:01 AM",
+      "data": [
+        {
+          "company": "Tata Steel",
+          "high": "163.59",
+          "low": "156.70",
+          "lastPrice": "159.57",
+          "prevClose": "164.36",
+          "change": "-4.79",
+          "percentGain": "-2.91"
+        },
+        {
+          "company": "Tata Steel",
+          "high": "163.59",
+          "low": "156.70",
+          "lastPrice": "159.57",
+          "prevClose": "164.36",
+          "change": "-4.79",
+          "percentGain": "-2.91"
+        },
+        {
+          "company": "JSW Steel",
+          "high": "1,014.40",
+          "low": "984.00",
+          "lastPrice": "995.85",
+          "prevClose": "1,018.75",
+          "change": "-22.90",
+          "percentGain": "-2.25"
+        },
+        {
+          "company": "SBI Life Insura",
+          "high": "1,799.05",
+          "low": "1,754.60",
+          "lastPrice": "1,756.60",
+          "prevClose": "1,787.95",
+          "change": "-31.35",
+          "percentGain": "-1.75"
+        },
+        {
+          "company": "Tata Motors",
+          "high": "918.00",
+          "low": "893.85",
+          "lastPrice": "913.60",
+          "prevClose": "927.85",
+          "change": "-14.25",
           "percentGain": "-1.54"
         }
       ]
