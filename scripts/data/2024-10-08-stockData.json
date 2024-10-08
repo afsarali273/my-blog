@@ -1,0 +1,106 @@
+{
+  "gainers": [
+    {
+      "time": "3:51:28 AM",
+      "data": [
+        {
+          "company": "HUL",
+          "high": "2,886.00",
+          "low": "2,835.05",
+          "lastPrice": "2,866.85",
+          "prevClose": "2,833.40",
+          "change": "33.45",
+          "percentGain": "1.18"
+        },
+        {
+          "company": "M&M",
+          "high": "3,118.95",
+          "low": "3,066.00",
+          "lastPrice": "3,094.15",
+          "prevClose": "3,060.20",
+          "change": "33.95",
+          "percentGain": "1.11"
+        },
+        {
+          "company": "UltraTechCement",
+          "high": "11,374.45",
+          "low": "11,231.00",
+          "lastPrice": "11,355.45",
+          "prevClose": "11,230.35",
+          "change": "125.10",
+          "percentGain": "1.11"
+        },
+        {
+          "company": "Axis Bank",
+          "high": "1,157.05",
+          "low": "1,142.50",
+          "lastPrice": "1,155.75",
+          "prevClose": "1,145.70",
+          "change": "10.05",
+          "percentGain": "0.88"
+        },
+        {
+          "company": "Bharti Airtel",
+          "high": "1,677.00",
+          "low": "1,660.00",
+          "lastPrice": "1,675.70",
+          "prevClose": "1,662.05",
+          "change": "13.65",
+          "percentGain": "0.82"
+        }
+      ]
+    }
+  ],
+  "losers": [
+    {
+      "time": "3:51:28 AM",
+      "data": [
+        {
+          "company": "Tata Steel",
+          "high": "163.59",
+          "low": "156.72",
+          "lastPrice": "157.65",
+          "prevClose": "164.36",
+          "change": "-6.71",
+          "percentGain": "-4.08"
+        },
+        {
+          "company": "Tata Steel",
+          "high": "163.59",
+          "low": "156.72",
+          "lastPrice": "157.65",
+          "prevClose": "164.36",
+          "change": "-6.71",
+          "percentGain": "-4.08"
+        },
+        {
+          "company": "Tata Motors",
+          "high": "918.00",
+          "low": "895.80",
+          "lastPrice": "896.30",
+          "prevClose": "927.85",
+          "change": "-31.55",
+          "percentGain": "-3.40"
+        },
+        {
+          "company": "Tata Motors",
+          "high": "918.00",
+          "low": "895.80",
+          "lastPrice": "896.30",
+          "prevClose": "927.85",
+          "change": "-31.55",
+          "percentGain": "-3.40"
+        },
+        {
+          "company": "Hindalco",
+          "high": "725.00",
+          "low": "708.00",
+          "lastPrice": "711.80",
+          "prevClose": "731.30",
+          "change": "-19.50",
+          "percentGain": "-2.67"
+        }
+      ]
+    }
+  ]
+}
