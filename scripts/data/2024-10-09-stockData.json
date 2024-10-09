@@ -665,6 +665,56 @@
           "percentGain": "2.14"
         }
       ]
+    },
+    {
+      "time": "9:37:33 AM",
+      "data": [
+        {
+          "company": "Cipla",
+          "high": "1,702.05",
+          "low": "1,630.50",
+          "lastPrice": "1,679.95",
+          "prevClose": "1,640.70",
+          "change": "39.25",
+          "percentGain": "2.39"
+        },
+        {
+          "company": "Trent",
+          "high": "8,322.20",
+          "low": "8,035.00",
+          "lastPrice": "8,215.45",
+          "prevClose": "8,041.95",
+          "change": "173.50",
+          "percentGain": "2.16"
+        },
+        {
+          "company": "Tata Motors",
+          "high": "948.45",
+          "low": "925.50",
+          "lastPrice": "939.60",
+          "prevClose": "919.80",
+          "change": "19.80",
+          "percentGain": "2.15"
+        },
+        {
+          "company": "Tata Motors",
+          "high": "948.45",
+          "low": "925.50",
+          "lastPrice": "939.60",
+          "prevClose": "919.80",
+          "change": "19.80",
+          "percentGain": "2.15"
+        },
+        {
+          "company": "SBI",
+          "high": "804.35",
+          "low": "782.05",
+          "lastPrice": "796.75",
+          "prevClose": "781.45",
+          "change": "15.30",
+          "percentGain": "1.96"
+        }
+      ]
     }
   ],
   "losers": [
@@ -1331,6 +1381,56 @@
           "prevClose": "293.45",
           "change": "-4.70",
           "percentGain": "-1.60"
+        }
+      ]
+    },
+    {
+      "time": "9:37:33 AM",
+      "data": [
+        {
+          "company": "ITC",
+          "high": "509.80",
+          "low": "491.00",
+          "lastPrice": "491.70",
+          "prevClose": "507.95",
+          "change": "-16.25",
+          "percentGain": "-3.20"
+        },
+        {
+          "company": "Nestle",
+          "high": "2,580.00",
+          "low": "2,468.95",
+          "lastPrice": "2,507.70",
+          "prevClose": "2,581.75",
+          "change": "-74.05",
+          "percentGain": "-2.87"
+        },
+        {
+          "company": "Nestle",
+          "high": "2,580.00",
+          "low": "2,468.95",
+          "lastPrice": "2,507.70",
+          "prevClose": "2,581.75",
+          "change": "-74.05",
+          "percentGain": "-2.87"
+        },
+        {
+          "company": "Britannia",
+          "high": "6,185.00",
+          "low": "6,070.05",
+          "lastPrice": "6,079.10",
+          "prevClose": "6,204.40",
+          "change": "-125.30",
+          "percentGain": "-2.02"
+        },
+        {
+          "company": "HUL",
+          "high": "2,825.85",
+          "low": "2,760.70",
+          "lastPrice": "2,766.05",
+          "prevClose": "2,818.80",
+          "change": "-52.75",
+          "percentGain": "-1.87"
         }
       ]
     }
