@@ -49,6 +49,56 @@
           "percentGain": "1.62"
         }
       ]
+    },
+    {
+      "time": "4:18:20 AM",
+      "data": [
+        {
+          "company": "Shriram Finance",
+          "high": "3,442.35",
+          "low": "3,340.00",
+          "lastPrice": "3,440.25",
+          "prevClose": "3,329.30",
+          "change": "110.95",
+          "percentGain": "3.33"
+        },
+        {
+          "company": "Tata Motors",
+          "high": "943.90",
+          "low": "925.50",
+          "lastPrice": "942.90",
+          "prevClose": "919.80",
+          "change": "23.10",
+          "percentGain": "2.51"
+        },
+        {
+          "company": "Tata Motors",
+          "high": "943.90",
+          "low": "925.50",
+          "lastPrice": "942.90",
+          "prevClose": "919.80",
+          "change": "23.10",
+          "percentGain": "2.51"
+        },
+        {
+          "company": "Trent",
+          "high": "8,241.00",
+          "low": "8,035.00",
+          "lastPrice": "8,222.00",
+          "prevClose": "8,041.95",
+          "change": "180.05",
+          "percentGain": "2.24"
+        },
+        {
+          "company": "Bajaj Finance",
+          "high": "7,344.25",
+          "low": "7,206.10",
+          "lastPrice": "7,340.30",
+          "prevClose": "7,186.95",
+          "change": "153.35",
+          "percentGain": "2.13"
+        }
+      ]
     }
   ],
   "losers": [
@@ -99,6 +149,56 @@
           "prevClose": "721.80",
           "change": "-5.45",
           "percentGain": "-0.76"
+        }
+      ]
+    },
+    {
+      "time": "4:18:20 AM",
+      "data": [
+        {
+          "company": "Nestle",
+          "high": "2,580.00",
+          "low": "2,539.80",
+          "lastPrice": "2,539.80",
+          "prevClose": "2,581.75",
+          "change": "-41.95",
+          "percentGain": "-1.62"
+        },
+        {
+          "company": "Nestle",
+          "high": "2,580.00",
+          "low": "2,539.80",
+          "lastPrice": "2,539.80",
+          "prevClose": "2,581.75",
+          "change": "-41.95",
+          "percentGain": "-1.62"
+        },
+        {
+          "company": "ONGC",
+          "high": "291.40",
+          "low": "286.85",
+          "lastPrice": "288.80",
+          "prevClose": "293.45",
+          "change": "-4.65",
+          "percentGain": "-1.58"
+        },
+        {
+          "company": "ITC",
+          "high": "509.80",
+          "low": "501.80",
+          "lastPrice": "502.75",
+          "prevClose": "507.95",
+          "change": "-5.20",
+          "percentGain": "-1.02"
+        },
+        {
+          "company": "Britannia",
+          "high": "6,185.00",
+          "low": "6,126.30",
+          "lastPrice": "6,144.15",
+          "prevClose": "6,204.40",
+          "change": "-60.25",
+          "percentGain": "-0.97"
         }
       ]
     }
