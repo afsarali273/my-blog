@@ -561,6 +561,56 @@
           "percentGain": "1.17"
         }
       ]
+    },
+    {
+      "time": "8:19:55 AM",
+      "data": [
+        {
+          "company": "Kotak Mahindra",
+          "high": "1,882.70",
+          "low": "1,805.30",
+          "lastPrice": "1,879.90",
+          "prevClose": "1,800.80",
+          "change": "79.10",
+          "percentGain": "4.39"
+        },
+        {
+          "company": "Bharat Elec",
+          "high": "289.60",
+          "low": "283.40",
+          "lastPrice": "287.55",
+          "prevClose": "282.40",
+          "change": "5.15",
+          "percentGain": "1.82"
+        },
+        {
+          "company": "Axis Bank",
+          "high": "1,190.00",
+          "low": "1,175.05",
+          "lastPrice": "1,188.05",
+          "prevClose": "1,170.15",
+          "change": "17.90",
+          "percentGain": "1.53"
+        },
+        {
+          "company": "M&M",
+          "high": "3,220.30",
+          "low": "3,155.00",
+          "lastPrice": "3,192.40",
+          "prevClose": "3,153.00",
+          "change": "39.40",
+          "percentGain": "1.25"
+        },
+        {
+          "company": "NTPC",
+          "high": "429.90",
+          "low": "420.50",
+          "lastPrice": "423.20",
+          "prevClose": "418.45",
+          "change": "4.75",
+          "percentGain": "1.14"
+        }
+      ]
     }
   ],
   "losers": [
@@ -1123,6 +1173,56 @@
           "prevClose": "5,554.60",
           "change": "-71.55",
           "percentGain": "-1.29"
+        }
+      ]
+    },
+    {
+      "time": "8:19:55 AM",
+      "data": [
+        {
+          "company": "Cipla",
+          "high": "1,694.00",
+          "low": "1,621.35",
+          "lastPrice": "1,623.45",
+          "prevClose": "1,680.50",
+          "change": "-57.05",
+          "percentGain": "-3.39"
+        },
+        {
+          "company": "Adani Enterpris",
+          "high": "3,142.45",
+          "low": "3,056.10",
+          "lastPrice": "3,075.35",
+          "prevClose": "3,153.75",
+          "change": "-78.40",
+          "percentGain": "-2.49"
+        },
+        {
+          "company": "Tech Mahindra",
+          "high": "1,675.95",
+          "low": "1,624.05",
+          "lastPrice": "1,628.35",
+          "prevClose": "1,658.80",
+          "change": "-30.45",
+          "percentGain": "-1.84"
+        },
+        {
+          "company": "Trent",
+          "high": "8,270.95",
+          "low": "8,060.00",
+          "lastPrice": "8,072.10",
+          "prevClose": "8,220.85",
+          "change": "-148.75",
+          "percentGain": "-1.81"
+        },
+        {
+          "company": "Titan Company",
+          "high": "3,531.55",
+          "low": "3,422.05",
+          "lastPrice": "3,431.05",
+          "prevClose": "3,493.45",
+          "change": "-62.40",
+          "percentGain": "-1.79"
         }
       ]
     }
