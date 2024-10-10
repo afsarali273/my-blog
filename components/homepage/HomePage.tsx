@@ -6,7 +6,7 @@ import { motion } from 'framer-motion'
 import { ChevronRight, Play, Book, Code, Github, Linkedin, Twitter, X } from 'lucide-react'
 import { Button } from "@/components/ui/button"
 import { Card, CardContent } from "@/components/ui/card"
-import "@/components/homepage/HomePage.css"
+import './HomePage.css'
 
 export default function HomePage() {
     const fadeInUp = {
