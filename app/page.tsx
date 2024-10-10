@@ -1,8 +1,8 @@
-import Link from 'next/link'
-import { Button } from "@/components/ui/button"
-import YouTubePlaylists from '@/components/YouTubePlaylists'
-import BlogHighlights from '@/components/BlogHighlights'
-import HomePage from "@/components/HomePage";
+// import Link from 'next/link'
+// import { Button } from "@/components/ui/button"
+// import YouTubePlaylists from '@/components/YouTubePlaylists'
+// import BlogHighlights from '@/components/BlogHighlights'
+import HomePage from "@/components/homepage/HomePage";
 
 export default function Dashboard() {
   return (
