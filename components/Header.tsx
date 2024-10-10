@@ -21,7 +21,7 @@ export default function Header() {
                 <div className="flex justify-between items-center">
                     <Link href="/"
                           className="text-2xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-blue-600 to-purple-600">
-                        My Website
+                        Opensource Automation
                     </Link>
                     <ul className="flex space-x-6">
                         {['Home', 'Resume', 'Blog','Trading', 'Contact'].map((item) => (

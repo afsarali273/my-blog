@@ -1,0 +1,8 @@
+.custom-two-line {
+    min-height: 3rem; /* Adjust based on your font size (e.g., ~2 x line height) */
+    line-height: 1.5rem; /* Ensures that 2 lines are displayed */
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}
