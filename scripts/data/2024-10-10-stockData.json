@@ -53,6 +53,56 @@
           "percentGain": "0.97"
         }
       ]
+    },
+    {
+      "time": "4:40:55 AM",
+      "data": [
+        {
+          "company": "NTPC",
+          "high": "427.95",
+          "low": "420.50",
+          "lastPrice": "427.90",
+          "prevClose": "418.45",
+          "change": "9.45",
+          "percentGain": "2.26"
+        },
+        {
+          "company": "Power Grid Corp",
+          "high": "337.00",
+          "low": "330.10",
+          "lastPrice": "336.80",
+          "prevClose": "329.75",
+          "change": "7.05",
+          "percentGain": "2.14"
+        },
+        {
+          "company": "M&M",
+          "high": "3,212.40",
+          "low": "3,155.00",
+          "lastPrice": "3,211.95",
+          "prevClose": "3,153.00",
+          "change": "58.95",
+          "percentGain": "1.87"
+        },
+        {
+          "company": "Kotak Mahindra",
+          "high": "1,834.90",
+          "low": "1,805.30",
+          "lastPrice": "1,829.20",
+          "prevClose": "1,800.80",
+          "change": "28.40",
+          "percentGain": "1.58"
+        },
+        {
+          "company": "HCL Tech",
+          "high": "1,839.95",
+          "low": "1,810.80",
+          "lastPrice": "1,834.00",
+          "prevClose": "1,809.70",
+          "change": "24.30",
+          "percentGain": "1.34"
+        }
+      ]
     }
   ],
   "losers": [
@@ -107,6 +157,56 @@
           "prevClose": "7,008.90",
           "change": "-52.50",
           "percentGain": "-0.75"
+        }
+      ]
+    },
+    {
+      "time": "4:40:55 AM",
+      "data": [
+        {
+          "company": "Adani Enterpris",
+          "high": "3,142.45",
+          "low": "3,056.10",
+          "lastPrice": "3,076.00",
+          "prevClose": "3,153.75",
+          "change": "-77.75",
+          "percentGain": "-2.47"
+        },
+        {
+          "company": "Cipla",
+          "high": "1,694.00",
+          "low": "1,650.60",
+          "lastPrice": "1,661.50",
+          "prevClose": "1,680.50",
+          "change": "-19.00",
+          "percentGain": "-1.13"
+        },
+        {
+          "company": "Trent",
+          "high": "8,270.95",
+          "low": "8,110.00",
+          "lastPrice": "8,131.50",
+          "prevClose": "8,220.85",
+          "change": "-89.35",
+          "percentGain": "-1.09"
+        },
+        {
+          "company": "Shriram Finance",
+          "high": "3,415.95",
+          "low": "3,350.50",
+          "lastPrice": "3,355.00",
+          "prevClose": "3,387.95",
+          "change": "-32.95",
+          "percentGain": "-0.97"
+        },
+        {
+          "company": "Dr Reddys Labs",
+          "high": "6,698.00",
+          "low": "6,604.00",
+          "lastPrice": "6,631.85",
+          "prevClose": "6,664.85",
+          "change": "-33.00",
+          "percentGain": "-0.50"
         }
       ]
     }
