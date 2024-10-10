@@ -669,6 +669,56 @@
           "percentGain": "1.33"
         }
       ]
+    },
+    {
+      "time": "9:38:13 AM",
+      "data": [
+        {
+          "company": "Kotak Mahindra",
+          "high": "1,884.00",
+          "low": "1,805.30",
+          "lastPrice": "1,880.00",
+          "prevClose": "1,800.80",
+          "change": "79.20",
+          "percentGain": "4.40"
+        },
+        {
+          "company": "HDFC Bank",
+          "high": "1,665.45",
+          "low": "1,632.50",
+          "lastPrice": "1,663.00",
+          "prevClose": "1,633.15",
+          "change": "29.85",
+          "percentGain": "1.83"
+        },
+        {
+          "company": "Bharat Elec",
+          "high": "289.60",
+          "low": "283.40",
+          "lastPrice": "287.15",
+          "prevClose": "282.40",
+          "change": "4.75",
+          "percentGain": "1.68"
+        },
+        {
+          "company": "Maruti Suzuki",
+          "high": "12,965.00",
+          "low": "12,711.50",
+          "lastPrice": "12,950.10",
+          "prevClose": "12,760.70",
+          "change": "189.40",
+          "percentGain": "1.48"
+        },
+        {
+          "company": "Power Grid Corp",
+          "high": "338.10",
+          "low": "330.10",
+          "lastPrice": "334.20",
+          "prevClose": "329.75",
+          "change": "4.45",
+          "percentGain": "1.35"
+        }
+      ]
     }
   ],
   "losers": [
@@ -1339,6 +1389,56 @@
           "prevClose": "3,153.75",
           "change": "-63.60",
           "percentGain": "-2.02"
+        }
+      ]
+    },
+    {
+      "time": "9:38:13 AM",
+      "data": [
+        {
+          "company": "Cipla",
+          "high": "1,694.00",
+          "low": "1,614.10",
+          "lastPrice": "1,615.10",
+          "prevClose": "1,680.50",
+          "change": "-65.40",
+          "percentGain": "-3.89"
+        },
+        {
+          "company": "Trent",
+          "high": "8,270.95",
+          "low": "8,012.00",
+          "lastPrice": "8,019.20",
+          "prevClose": "8,220.85",
+          "change": "-201.65",
+          "percentGain": "-2.45"
+        },
+        {
+          "company": "Tech Mahindra",
+          "high": "1,675.95",
+          "low": "1,617.30",
+          "lastPrice": "1,618.60",
+          "prevClose": "1,658.80",
+          "change": "-40.20",
+          "percentGain": "-2.42"
+        },
+        {
+          "company": "Sun Pharma",
+          "high": "1,937.95",
+          "low": "1,883.90",
+          "lastPrice": "1,890.00",
+          "prevClose": "1,930.85",
+          "change": "-40.85",
+          "percentGain": "-2.12"
+        },
+        {
+          "company": "Infosys",
+          "high": "1,964.00",
+          "low": "1,915.25",
+          "lastPrice": "1,916.20",
+          "prevClose": "1,952.75",
+          "change": "-36.55",
+          "percentGain": "-1.87"
         }
       ]
     }
