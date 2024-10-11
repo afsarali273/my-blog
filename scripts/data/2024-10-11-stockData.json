@@ -423,6 +423,56 @@
     {
       "time": "8:19:54 AM",
       "data": []
+    },
+    {
+      "time": "8:41:55 AM",
+      "data": [
+        {
+          "company": "Trent",
+          "high": "8,308.80",
+          "low": "7,950.00",
+          "lastPrice": "8,256.60",
+          "prevClose": "8,028.85",
+          "change": "227.75",
+          "percentGain": "2.84"
+        },
+        {
+          "company": "Hindalco",
+          "high": "749.95",
+          "low": "733.05",
+          "lastPrice": "746.10",
+          "prevClose": "730.15",
+          "change": "15.95",
+          "percentGain": "2.18"
+        },
+        {
+          "company": "HCL Tech",
+          "high": "1,852.80",
+          "low": "1,800.65",
+          "lastPrice": "1,838.00",
+          "prevClose": "1,808.65",
+          "change": "29.35",
+          "percentGain": "1.62"
+        },
+        {
+          "company": "Tech Mahindra",
+          "high": "1,646.80",
+          "low": "1,603.00",
+          "lastPrice": "1,644.90",
+          "prevClose": "1,619.70",
+          "change": "25.20",
+          "percentGain": "1.56"
+        },
+        {
+          "company": "ONGC",
+          "high": "293.65",
+          "low": "289.50",
+          "lastPrice": "291.75",
+          "prevClose": "288.75",
+          "change": "3.00",
+          "percentGain": "1.04"
+        }
+      ]
     }
   ],
   "losers": [
@@ -849,6 +899,56 @@
     {
       "time": "8:19:54 AM",
       "data": []
+    },
+    {
+      "time": "8:41:55 AM",
+      "data": [
+        {
+          "company": "TCS",
+          "high": "4,241.95",
+          "low": "4,112.45",
+          "lastPrice": "4,128.60",
+          "prevClose": "4,227.40",
+          "change": "-98.80",
+          "percentGain": "-2.34"
+        },
+        {
+          "company": "M&M",
+          "high": "3,210.50",
+          "low": "3,121.00",
+          "lastPrice": "3,123.95",
+          "prevClose": "3,194.30",
+          "change": "-70.35",
+          "percentGain": "-2.20"
+        },
+        {
+          "company": "Adani Enterpris",
+          "high": "3,190.00",
+          "low": "3,120.05",
+          "lastPrice": "3,132.05",
+          "prevClose": "3,174.20",
+          "change": "-42.15",
+          "percentGain": "-1.33"
+        },
+        {
+          "company": "ICICI Bank",
+          "high": "1,240.80",
+          "low": "1,222.40",
+          "lastPrice": "1,227.00",
+          "prevClose": "1,243.50",
+          "change": "-16.50",
+          "percentGain": "-1.33"
+        },
+        {
+          "company": "Maruti Suzuki",
+          "high": "12,980.00",
+          "low": "12,783.75",
+          "lastPrice": "12,785.20",
+          "prevClose": "12,944.10",
+          "change": "-158.90",
+          "percentGain": "-1.23"
+        }
+      ]
     }
   ]
 }
