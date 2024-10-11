@@ -261,6 +261,56 @@
           "percentGain": "1.36"
         }
       ]
+    },
+    {
+      "time": "6:44:25 AM",
+      "data": [
+        {
+          "company": "Hindalco",
+          "high": "749.95",
+          "low": "733.05",
+          "lastPrice": "747.15",
+          "prevClose": "730.15",
+          "change": "17.00",
+          "percentGain": "2.33"
+        },
+        {
+          "company": "HCL Tech",
+          "high": "1,852.80",
+          "low": "1,800.65",
+          "lastPrice": "1,835.35",
+          "prevClose": "1,808.65",
+          "change": "26.70",
+          "percentGain": "1.48"
+        },
+        {
+          "company": "Tata Steel",
+          "high": "163.78",
+          "low": "159.20",
+          "lastPrice": "161.60",
+          "prevClose": "159.72",
+          "change": "1.88",
+          "percentGain": "1.18"
+        },
+        {
+          "company": "Tata Steel",
+          "high": "163.78",
+          "low": "159.20",
+          "lastPrice": "161.60",
+          "prevClose": "159.72",
+          "change": "1.88",
+          "percentGain": "1.18"
+        },
+        {
+          "company": "JSW Steel",
+          "high": "1,025.95",
+          "low": "1,006.00",
+          "lastPrice": "1,019.05",
+          "prevClose": "1,007.40",
+          "change": "11.65",
+          "percentGain": "1.16"
+        }
+      ]
     }
   ],
   "losers": [
@@ -523,6 +573,56 @@
           "prevClose": "3,174.20",
           "change": "-39.20",
           "percentGain": "-1.23"
+        }
+      ]
+    },
+    {
+      "time": "6:44:25 AM",
+      "data": [
+        {
+          "company": "TCS",
+          "high": "4,241.95",
+          "low": "4,112.45",
+          "lastPrice": "4,120.15",
+          "prevClose": "4,227.40",
+          "change": "-107.25",
+          "percentGain": "-2.54"
+        },
+        {
+          "company": "Cipla",
+          "high": "1,613.80",
+          "low": "1,573.75",
+          "lastPrice": "1,592.35",
+          "prevClose": "1,618.90",
+          "change": "-26.55",
+          "percentGain": "-1.64"
+        },
+        {
+          "company": "ICICI Bank",
+          "high": "1,240.80",
+          "low": "1,222.40",
+          "lastPrice": "1,224.25",
+          "prevClose": "1,243.50",
+          "change": "-19.25",
+          "percentGain": "-1.55"
+        },
+        {
+          "company": "M&M",
+          "high": "3,210.50",
+          "low": "3,141.75",
+          "lastPrice": "3,145.50",
+          "prevClose": "3,194.30",
+          "change": "-48.80",
+          "percentGain": "-1.53"
+        },
+        {
+          "company": "Adani Enterpris",
+          "high": "3,190.00",
+          "low": "3,120.05",
+          "lastPrice": "3,133.85",
+          "prevClose": "3,174.20",
+          "change": "-40.35",
+          "percentGain": "-1.27"
         }
       ]
     }
