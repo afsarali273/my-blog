@@ -3,12 +3,112 @@
     {
       "time": "3:51:32 AM",
       "data": []
+    },
+    {
+      "time": "4:18:34 AM",
+      "data": [
+        {
+          "company": "Tata Steel",
+          "high": "163.78",
+          "low": "159.20",
+          "lastPrice": "163.39",
+          "prevClose": "159.72",
+          "change": "3.67",
+          "percentGain": "2.30"
+        },
+        {
+          "company": "Tata Steel",
+          "high": "163.78",
+          "low": "159.20",
+          "lastPrice": "163.39",
+          "prevClose": "159.72",
+          "change": "3.67",
+          "percentGain": "2.30"
+        },
+        {
+          "company": "Hindalco",
+          "high": "744.80",
+          "low": "733.05",
+          "lastPrice": "743.15",
+          "prevClose": "730.15",
+          "change": "13.00",
+          "percentGain": "1.78"
+        },
+        {
+          "company": "JSW Steel",
+          "high": "1,022.70",
+          "low": "1,006.00",
+          "lastPrice": "1,021.65",
+          "prevClose": "1,007.40",
+          "change": "14.25",
+          "percentGain": "1.41"
+        },
+        {
+          "company": "HCL Tech",
+          "high": "1,852.80",
+          "low": "1,800.65",
+          "lastPrice": "1,832.35",
+          "prevClose": "1,808.65",
+          "change": "23.70",
+          "percentGain": "1.31"
+        }
+      ]
     }
   ],
   "losers": [
     {
       "time": "3:51:32 AM",
       "data": []
+    },
+    {
+      "time": "4:18:34 AM",
+      "data": [
+        {
+          "company": "Bajaj Finserv",
+          "high": "1,883.80",
+          "low": "1,855.10",
+          "lastPrice": "1,858.65",
+          "prevClose": "1,875.70",
+          "change": "-17.05",
+          "percentGain": "-0.91"
+        },
+        {
+          "company": "Bajaj Finserv",
+          "high": "1,883.80",
+          "low": "1,855.10",
+          "lastPrice": "1,858.65",
+          "prevClose": "1,875.70",
+          "change": "-17.05",
+          "percentGain": "-0.91"
+        },
+        {
+          "company": "Bajaj Finance",
+          "high": "7,330.00",
+          "low": "7,226.05",
+          "lastPrice": "7,254.70",
+          "prevClose": "7,319.70",
+          "change": "-65.00",
+          "percentGain": "-0.89"
+        },
+        {
+          "company": "Cipla",
+          "high": "1,613.80",
+          "low": "1,573.75",
+          "lastPrice": "1,605.00",
+          "prevClose": "1,618.90",
+          "change": "-13.90",
+          "percentGain": "-0.86"
+        },
+        {
+          "company": "Asian Paints",
+          "high": "3,064.00",
+          "low": "3,026.00",
+          "lastPrice": "3,034.00",
+          "prevClose": "3,059.10",
+          "change": "-25.10",
+          "percentGain": "-0.82"
+        }
+      ]
     }
   ]
 }
