@@ -57,6 +57,56 @@
     {
       "time": "4:41:46 AM",
       "data": []
+    },
+    {
+      "time": "4:51:34 AM",
+      "data": [
+        {
+          "company": "Wipro",
+          "high": "545.50",
+          "low": "536.30",
+          "lastPrice": "539.45",
+          "prevClose": "528.30",
+          "change": "11.15",
+          "percentGain": "2.11"
+        },
+        {
+          "company": "Larsen",
+          "high": "3,556.90",
+          "low": "3,501.30",
+          "lastPrice": "3,544.30",
+          "prevClose": "3,482.55",
+          "change": "61.75",
+          "percentGain": "1.77"
+        },
+        {
+          "company": "Coal India",
+          "high": "502.45",
+          "low": "492.95",
+          "lastPrice": "501.65",
+          "prevClose": "492.95",
+          "change": "8.70",
+          "percentGain": "1.76"
+        },
+        {
+          "company": "Shriram Finance",
+          "high": "3,430.00",
+          "low": "3,353.75",
+          "lastPrice": "3,393.05",
+          "prevClose": "3,341.20",
+          "change": "51.85",
+          "percentGain": "1.55"
+        },
+        {
+          "company": "BPCL",
+          "high": "344.60",
+          "low": "339.40",
+          "lastPrice": "342.65",
+          "prevClose": "337.65",
+          "change": "5.00",
+          "percentGain": "1.48"
+        }
+      ]
     }
   ],
   "losers": [
@@ -117,6 +167,56 @@
     {
       "time": "4:41:46 AM",
       "data": []
+    },
+    {
+      "time": "4:51:34 AM",
+      "data": [
+        {
+          "company": "Maruti Suzuki",
+          "high": "12,799.00",
+          "low": "12,587.20",
+          "lastPrice": "12,604.80",
+          "prevClose": "12,776.65",
+          "change": "-171.85",
+          "percentGain": "-1.35"
+        },
+        {
+          "company": "Cipla",
+          "high": "1,605.95",
+          "low": "1,577.50",
+          "lastPrice": "1,580.75",
+          "prevClose": "1,595.75",
+          "change": "-15.00",
+          "percentGain": "-0.94"
+        },
+        {
+          "company": "Bajaj Finance",
+          "high": "7,313.85",
+          "low": "7,215.45",
+          "lastPrice": "7,242.20",
+          "prevClose": "7,302.00",
+          "change": "-59.80",
+          "percentGain": "-0.82"
+        },
+        {
+          "company": "UltraTechCement",
+          "high": "11,429.95",
+          "low": "11,301.00",
+          "lastPrice": "11,335.75",
+          "prevClose": "11,421.30",
+          "change": "-85.55",
+          "percentGain": "-0.75"
+        },
+        {
+          "company": "Bajaj Finserv",
+          "high": "1,885.10",
+          "low": "1,863.30",
+          "lastPrice": "1,865.00",
+          "prevClose": "1,876.40",
+          "change": "-11.40",
+          "percentGain": "-0.61"
+        }
+      ]
     }
   ]
 }
