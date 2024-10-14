@@ -311,6 +311,56 @@
           "percentGain": "1.82"
         }
       ]
+    },
+    {
+      "time": "7:16:53 AM",
+      "data": [
+        {
+          "company": "Wipro",
+          "high": "550.00",
+          "low": "536.30",
+          "lastPrice": "549.60",
+          "prevClose": "528.30",
+          "change": "21.30",
+          "percentGain": "4.03"
+        },
+        {
+          "company": "Tech Mahindra",
+          "high": "1,694.35",
+          "low": "1,648.00",
+          "lastPrice": "1,694.05",
+          "prevClose": "1,647.05",
+          "change": "47.00",
+          "percentGain": "2.85"
+        },
+        {
+          "company": "HDFC Bank",
+          "high": "1,686.95",
+          "low": "1,654.00",
+          "lastPrice": "1,683.40",
+          "prevClose": "1,651.00",
+          "change": "32.40",
+          "percentGain": "1.96"
+        },
+        {
+          "company": "HDFC Life",
+          "high": "739.50",
+          "low": "726.30",
+          "lastPrice": "736.45",
+          "prevClose": "723.85",
+          "change": "12.60",
+          "percentGain": "1.74"
+        },
+        {
+          "company": "Infosys",
+          "high": "1,969.50",
+          "low": "1,931.10",
+          "lastPrice": "1,968.75",
+          "prevClose": "1,935.10",
+          "change": "33.65",
+          "percentGain": "1.74"
+        }
+      ]
     }
   ],
   "losers": [
@@ -623,6 +673,56 @@
           "prevClose": "160.66",
           "change": "-1.38",
           "percentGain": "-0.86"
+        }
+      ]
+    },
+    {
+      "time": "7:16:53 AM",
+      "data": [
+        {
+          "company": "Maruti Suzuki",
+          "high": "12,799.00",
+          "low": "12,541.00",
+          "lastPrice": "12,583.60",
+          "prevClose": "12,776.65",
+          "change": "-193.05",
+          "percentGain": "-1.51"
+        },
+        {
+          "company": "ONGC",
+          "high": "292.90",
+          "low": "288.15",
+          "lastPrice": "288.30",
+          "prevClose": "292.55",
+          "change": "-4.25",
+          "percentGain": "-1.45"
+        },
+        {
+          "company": "UltraTechCement",
+          "high": "11,429.95",
+          "low": "11,240.00",
+          "lastPrice": "11,270.40",
+          "prevClose": "11,421.30",
+          "change": "-150.90",
+          "percentGain": "-1.32"
+        },
+        {
+          "company": "Cipla",
+          "high": "1,605.95",
+          "low": "1,571.05",
+          "lastPrice": "1,578.65",
+          "prevClose": "1,595.75",
+          "change": "-17.10",
+          "percentGain": "-1.07"
+        },
+        {
+          "company": "Tata Steel",
+          "high": "163.38",
+          "low": "158.60",
+          "lastPrice": "158.94",
+          "prevClose": "160.66",
+          "change": "-1.72",
+          "percentGain": "-1.07"
         }
       ]
     }
