@@ -1,0 +1,106 @@
+{
+  "gainers": [
+    {
+      "time": "3:52:49 AM",
+      "data": [
+        {
+          "company": "Hero Motocorp",
+          "high": "5,564.95",
+          "low": "5,499.85",
+          "lastPrice": "5,553.20",
+          "prevClose": "5,476.30",
+          "change": "76.90",
+          "percentGain": "1.40"
+        },
+        {
+          "company": "Larsen",
+          "high": "3,541.05",
+          "low": "3,501.30",
+          "lastPrice": "3,531.10",
+          "prevClose": "3,482.55",
+          "change": "48.55",
+          "percentGain": "1.39"
+        },
+        {
+          "company": "JSW Steel",
+          "high": "1,032.00",
+          "low": "1,015.00",
+          "lastPrice": "1,025.10",
+          "prevClose": "1,012.05",
+          "change": "13.05",
+          "percentGain": "1.29"
+        },
+        {
+          "company": "Tech Mahindra",
+          "high": "1,661.00",
+          "low": "1,648.00",
+          "lastPrice": "1,659.20",
+          "prevClose": "1,647.05",
+          "change": "12.15",
+          "percentGain": "0.74"
+        },
+        {
+          "company": "Shriram Finance",
+          "high": "3,388.80",
+          "low": "3,353.75",
+          "lastPrice": "3,365.60",
+          "prevClose": "3,341.20",
+          "change": "24.40",
+          "percentGain": "0.73"
+        }
+      ]
+    }
+  ],
+  "losers": [
+    {
+      "time": "3:52:49 AM",
+      "data": [
+        {
+          "company": "Axis Bank",
+          "high": "1,172.95",
+          "low": "1,160.25",
+          "lastPrice": "1,160.40",
+          "prevClose": "1,172.45",
+          "change": "-12.05",
+          "percentGain": "-1.03"
+        },
+        {
+          "company": "Bajaj Finance",
+          "high": "7,313.85",
+          "low": "7,222.55",
+          "lastPrice": "7,230.20",
+          "prevClose": "7,302.00",
+          "change": "-71.80",
+          "percentGain": "-0.98"
+        },
+        {
+          "company": "Cipla",
+          "high": "1,605.95",
+          "low": "1,585.00",
+          "lastPrice": "1,587.35",
+          "prevClose": "1,595.75",
+          "change": "-8.40",
+          "percentGain": "-0.53"
+        },
+        {
+          "company": "Titan Company",
+          "high": "3,484.55",
+          "low": "3,456.00",
+          "lastPrice": "3,459.00",
+          "prevClose": "3,474.40",
+          "change": "-15.40",
+          "percentGain": "-0.44"
+        },
+        {
+          "company": "Bharti Airtel",
+          "high": "1,695.00",
+          "low": "1,679.35",
+          "lastPrice": "1,680.20",
+          "prevClose": "1,687.40",
+          "change": "-7.20",
+          "percentGain": "-0.43"
+        }
+      ]
+    }
+  ]
+}
