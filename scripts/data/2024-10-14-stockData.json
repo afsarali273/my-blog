@@ -523,6 +523,56 @@
     {
       "time": "9:17:27 AM",
       "data": []
+    },
+    {
+      "time": "9:38:50 AM",
+      "data": [
+        {
+          "company": "Wipro",
+          "high": "551.85",
+          "low": "536.30",
+          "lastPrice": "549.05",
+          "prevClose": "528.30",
+          "change": "20.75",
+          "percentGain": "3.93"
+        },
+        {
+          "company": "Tech Mahindra",
+          "high": "1,697.00",
+          "low": "1,648.00",
+          "lastPrice": "1,690.85",
+          "prevClose": "1,647.05",
+          "change": "43.80",
+          "percentGain": "2.66"
+        },
+        {
+          "company": "HDFC Bank",
+          "high": "1,689.00",
+          "low": "1,654.00",
+          "lastPrice": "1,687.50",
+          "prevClose": "1,651.00",
+          "change": "36.50",
+          "percentGain": "2.21"
+        },
+        {
+          "company": "HDFC Life",
+          "high": "740.90",
+          "low": "726.30",
+          "lastPrice": "739.85",
+          "prevClose": "723.85",
+          "change": "16.00",
+          "percentGain": "2.21"
+        },
+        {
+          "company": "Larsen",
+          "high": "3,573.85",
+          "low": "3,501.30",
+          "lastPrice": "3,556.00",
+          "prevClose": "3,482.55",
+          "change": "73.45",
+          "percentGain": "2.11"
+        }
+      ]
     }
   ],
   "losers": [
@@ -1049,6 +1099,56 @@
     {
       "time": "9:17:27 AM",
       "data": []
+    },
+    {
+      "time": "9:38:50 AM",
+      "data": [
+        {
+          "company": "ONGC",
+          "high": "292.90",
+          "low": "285.15",
+          "lastPrice": "286.45",
+          "prevClose": "292.55",
+          "change": "-6.10",
+          "percentGain": "-2.09"
+        },
+        {
+          "company": "Maruti Suzuki",
+          "high": "12,799.00",
+          "low": "12,462.30",
+          "lastPrice": "12,525.00",
+          "prevClose": "12,776.65",
+          "change": "-251.65",
+          "percentGain": "-1.97"
+        },
+        {
+          "company": "Tata Steel",
+          "high": "163.38",
+          "low": "158.21",
+          "lastPrice": "158.31",
+          "prevClose": "160.66",
+          "change": "-2.35",
+          "percentGain": "-1.46"
+        },
+        {
+          "company": "Tata Steel",
+          "high": "163.38",
+          "low": "158.21",
+          "lastPrice": "158.31",
+          "prevClose": "160.66",
+          "change": "-2.35",
+          "percentGain": "-1.46"
+        },
+        {
+          "company": "Bajaj Finance",
+          "high": "7,313.85",
+          "low": "7,205.00",
+          "lastPrice": "7,207.05",
+          "prevClose": "7,302.00",
+          "change": "-94.95",
+          "percentGain": "-1.30"
+        }
+      ]
     }
   ]
 }
