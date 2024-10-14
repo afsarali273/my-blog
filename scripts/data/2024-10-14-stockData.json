@@ -111,6 +111,56 @@
     {
       "time": "5:15:55 AM",
       "data": []
+    },
+    {
+      "time": "5:39:38 AM",
+      "data": [
+        {
+          "company": "Wipro",
+          "high": "545.50",
+          "low": "536.30",
+          "lastPrice": "538.85",
+          "prevClose": "528.30",
+          "change": "10.55",
+          "percentGain": "2.00"
+        },
+        {
+          "company": "HDFC Bank",
+          "high": "1,682.95",
+          "low": "1,654.00",
+          "lastPrice": "1,682.80",
+          "prevClose": "1,651.00",
+          "change": "31.80",
+          "percentGain": "1.93"
+        },
+        {
+          "company": "Larsen",
+          "high": "3,556.90",
+          "low": "3,501.30",
+          "lastPrice": "3,543.05",
+          "prevClose": "3,482.55",
+          "change": "60.50",
+          "percentGain": "1.74"
+        },
+        {
+          "company": "Kotak Mahindra",
+          "high": "1,912.50",
+          "low": "1,882.45",
+          "lastPrice": "1,912.50",
+          "prevClose": "1,882.40",
+          "change": "30.10",
+          "percentGain": "1.60"
+        },
+        {
+          "company": "Tech Mahindra",
+          "high": "1,672.90",
+          "low": "1,648.00",
+          "lastPrice": "1,672.50",
+          "prevClose": "1,647.05",
+          "change": "25.45",
+          "percentGain": "1.55"
+        }
+      ]
     }
   ],
   "losers": [
@@ -225,6 +275,56 @@
     {
       "time": "5:15:55 AM",
       "data": []
+    },
+    {
+      "time": "5:39:38 AM",
+      "data": [
+        {
+          "company": "Maruti Suzuki",
+          "high": "12,799.00",
+          "low": "12,555.00",
+          "lastPrice": "12,565.30",
+          "prevClose": "12,776.65",
+          "change": "-211.35",
+          "percentGain": "-1.65"
+        },
+        {
+          "company": "UltraTechCement",
+          "high": "11,429.95",
+          "low": "11,240.00",
+          "lastPrice": "11,262.70",
+          "prevClose": "11,421.30",
+          "change": "-158.60",
+          "percentGain": "-1.39"
+        },
+        {
+          "company": "Bajaj Finance",
+          "high": "7,313.85",
+          "low": "7,205.00",
+          "lastPrice": "7,215.35",
+          "prevClose": "7,302.00",
+          "change": "-86.65",
+          "percentGain": "-1.19"
+        },
+        {
+          "company": "Britannia",
+          "high": "6,015.00",
+          "low": "5,900.00",
+          "lastPrice": "5,907.65",
+          "prevClose": "5,978.50",
+          "change": "-70.85",
+          "percentGain": "-1.19"
+        },
+        {
+          "company": "Cipla",
+          "high": "1,605.95",
+          "low": "1,571.05",
+          "lastPrice": "1,578.40",
+          "prevClose": "1,595.75",
+          "change": "-17.35",
+          "percentGain": "-1.09"
+        }
+      ]
     }
   ]
 }
