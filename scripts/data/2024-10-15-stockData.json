@@ -503,6 +503,56 @@
           "percentGain": "1.12"
         }
       ]
+    },
+    {
+      "time": "7:37:44 AM",
+      "data": [
+        {
+          "company": "ICICI Bank",
+          "high": "1,255.65",
+          "low": "1,235.40",
+          "lastPrice": "1,253.00",
+          "prevClose": "1,231.75",
+          "change": "21.25",
+          "percentGain": "1.73"
+        },
+        {
+          "company": "BPCL",
+          "high": "351.50",
+          "low": "344.00",
+          "lastPrice": "346.30",
+          "prevClose": "340.75",
+          "change": "5.55",
+          "percentGain": "1.63"
+        },
+        {
+          "company": "Bharti Airtel",
+          "high": "1,732.75",
+          "low": "1,699.95",
+          "lastPrice": "1,719.70",
+          "prevClose": "1,695.60",
+          "change": "24.10",
+          "percentGain": "1.42"
+        },
+        {
+          "company": "Britannia",
+          "high": "6,063.55",
+          "low": "5,986.95",
+          "lastPrice": "6,038.70",
+          "prevClose": "5,978.05",
+          "change": "60.65",
+          "percentGain": "1.01"
+        },
+        {
+          "company": "Asian Paints",
+          "high": "3,096.80",
+          "low": "3,047.65",
+          "lastPrice": "3,068.55",
+          "prevClose": "3,039.15",
+          "change": "29.40",
+          "percentGain": "0.97"
+        }
+      ]
     }
   ],
   "losers": [
@@ -1007,6 +1057,56 @@
           "prevClose": "3,154.90",
           "change": "-55.60",
           "percentGain": "-1.76"
+        }
+      ]
+    },
+    {
+      "time": "7:37:44 AM",
+      "data": [
+        {
+          "company": "Bajaj Auto",
+          "high": "11,950.00",
+          "low": "11,467.00",
+          "lastPrice": "11,488.20",
+          "prevClose": "11,899.30",
+          "change": "-411.10",
+          "percentGain": "-3.45"
+        },
+        {
+          "company": "Wipro",
+          "high": "552.85",
+          "low": "532.20",
+          "lastPrice": "533.20",
+          "prevClose": "549.55",
+          "change": "-16.35",
+          "percentGain": "-2.98"
+        },
+        {
+          "company": "Hindalco",
+          "high": "750.00",
+          "low": "724.45",
+          "lastPrice": "724.75",
+          "prevClose": "743.00",
+          "change": "-18.25",
+          "percentGain": "-2.46"
+        },
+        {
+          "company": "Bajaj Finance",
+          "high": "7,256.15",
+          "low": "7,032.00",
+          "lastPrice": "7,039.00",
+          "prevClose": "7,208.80",
+          "change": "-169.80",
+          "percentGain": "-2.36"
+        },
+        {
+          "company": "Tata Steel",
+          "high": "159.53",
+          "low": "155.10",
+          "lastPrice": "155.28",
+          "prevClose": "158.32",
+          "change": "-3.04",
+          "percentGain": "-1.92"
         }
       ]
     }
