@@ -753,6 +753,56 @@
           "percentGain": "1.03"
         }
       ]
+    },
+    {
+      "time": "9:16:37 AM",
+      "data": [
+        {
+          "company": "ICICI Bank",
+          "high": "1,258.00",
+          "low": "1,235.40",
+          "lastPrice": "1,253.10",
+          "prevClose": "1,231.75",
+          "change": "21.35",
+          "percentGain": "1.73"
+        },
+        {
+          "company": "BPCL",
+          "high": "351.50",
+          "low": "343.90",
+          "lastPrice": "346.35",
+          "prevClose": "340.75",
+          "change": "5.60",
+          "percentGain": "1.64"
+        },
+        {
+          "company": "Bharti Airtel",
+          "high": "1,732.75",
+          "low": "1,699.95",
+          "lastPrice": "1,721.85",
+          "prevClose": "1,695.60",
+          "change": "26.25",
+          "percentGain": "1.55"
+        },
+        {
+          "company": "Britannia",
+          "high": "6,082.95",
+          "low": "5,986.95",
+          "lastPrice": "6,055.00",
+          "prevClose": "5,978.05",
+          "change": "76.95",
+          "percentGain": "1.29"
+        },
+        {
+          "company": "Asian Paints",
+          "high": "3,096.80",
+          "low": "3,047.65",
+          "lastPrice": "3,068.95",
+          "prevClose": "3,039.15",
+          "change": "29.80",
+          "percentGain": "0.98"
+        }
+      ]
     }
   ],
   "losers": [
@@ -1507,6 +1557,56 @@
           "prevClose": "158.32",
           "change": "-3.02",
           "percentGain": "-1.91"
+        }
+      ]
+    },
+    {
+      "time": "9:16:37 AM",
+      "data": [
+        {
+          "company": "Wipro",
+          "high": "552.85",
+          "low": "530.85",
+          "lastPrice": "531.15",
+          "prevClose": "549.55",
+          "change": "-18.40",
+          "percentGain": "-3.35"
+        },
+        {
+          "company": "Bajaj Auto",
+          "high": "11,950.00",
+          "low": "11,467.00",
+          "lastPrice": "11,532.95",
+          "prevClose": "11,899.30",
+          "change": "-366.35",
+          "percentGain": "-3.08"
+        },
+        {
+          "company": "Bajaj Finance",
+          "high": "7,256.15",
+          "low": "6,990.00",
+          "lastPrice": "6,993.90",
+          "prevClose": "7,208.80",
+          "change": "-214.90",
+          "percentGain": "-2.98"
+        },
+        {
+          "company": "HDFC Life",
+          "high": "746.45",
+          "low": "719.45",
+          "lastPrice": "720.30",
+          "prevClose": "740.60",
+          "change": "-20.30",
+          "percentGain": "-2.74"
+        },
+        {
+          "company": "Hindalco",
+          "high": "750.00",
+          "low": "720.65",
+          "lastPrice": "724.55",
+          "prevClose": "743.00",
+          "change": "-18.45",
+          "percentGain": "-2.48"
         }
       ]
     }
