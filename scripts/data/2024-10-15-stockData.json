@@ -49,6 +49,56 @@
           "percentGain": "0.91"
         }
       ]
+    },
+    {
+      "time": "4:18:51 AM",
+      "data": [
+        {
+          "company": "BPCL",
+          "high": "350.85",
+          "low": "344.00",
+          "lastPrice": "349.85",
+          "prevClose": "340.75",
+          "change": "9.10",
+          "percentGain": "2.67"
+        },
+        {
+          "company": "Bajaj Finserv",
+          "high": "1,895.75",
+          "low": "1,871.00",
+          "lastPrice": "1,893.30",
+          "prevClose": "1,867.20",
+          "change": "26.10",
+          "percentGain": "1.40"
+        },
+        {
+          "company": "Bajaj Finserv",
+          "high": "1,895.75",
+          "low": "1,871.00",
+          "lastPrice": "1,893.30",
+          "prevClose": "1,867.20",
+          "change": "26.10",
+          "percentGain": "1.40"
+        },
+        {
+          "company": "Bharti Airtel",
+          "high": "1,724.70",
+          "low": "1,702.15",
+          "lastPrice": "1,711.10",
+          "prevClose": "1,695.60",
+          "change": "15.50",
+          "percentGain": "0.91"
+        },
+        {
+          "company": "Britannia",
+          "high": "6,063.55",
+          "low": "5,995.15",
+          "lastPrice": "6,031.55",
+          "prevClose": "5,978.05",
+          "change": "53.50",
+          "percentGain": "0.89"
+        }
+      ]
     }
   ],
   "losers": [
@@ -99,6 +149,56 @@
           "prevClose": "330.70",
           "change": "-1.80",
           "percentGain": "-0.54"
+        }
+      ]
+    },
+    {
+      "time": "4:18:51 AM",
+      "data": [
+        {
+          "company": "Bajaj Auto",
+          "high": "11,950.00",
+          "low": "11,755.80",
+          "lastPrice": "11,759.00",
+          "prevClose": "11,899.30",
+          "change": "-140.30",
+          "percentGain": "-1.18"
+        },
+        {
+          "company": "ONGC",
+          "high": "286.40",
+          "low": "280.85",
+          "lastPrice": "283.20",
+          "prevClose": "286.50",
+          "change": "-3.30",
+          "percentGain": "-1.15"
+        },
+        {
+          "company": "M&M",
+          "high": "3,192.95",
+          "low": "3,118.40",
+          "lastPrice": "3,122.00",
+          "prevClose": "3,154.90",
+          "change": "-32.90",
+          "percentGain": "-1.04"
+        },
+        {
+          "company": "Reliance",
+          "high": "2,743.40",
+          "low": "2,713.80",
+          "lastPrice": "2,719.00",
+          "prevClose": "2,745.05",
+          "change": "-26.05",
+          "percentGain": "-0.95"
+        },
+        {
+          "company": "Nestle",
+          "high": "2,502.05",
+          "low": "2,476.55",
+          "lastPrice": "2,481.80",
+          "prevClose": "2,502.05",
+          "change": "-20.25",
+          "percentGain": "-0.81"
         }
       ]
     }
