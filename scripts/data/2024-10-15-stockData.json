@@ -1,0 +1,106 @@
+{
+  "gainers": [
+    {
+      "time": "3:51:16 AM",
+      "data": [
+        {
+          "company": "BPCL",
+          "high": "347.15",
+          "low": "344.10",
+          "lastPrice": "345.10",
+          "prevClose": "340.75",
+          "change": "4.35",
+          "percentGain": "1.28"
+        },
+        {
+          "company": "Shriram Finance",
+          "high": "3,438.60",
+          "low": "3,385.35",
+          "lastPrice": "3,434.95",
+          "prevClose": "3,395.30",
+          "change": "39.65",
+          "percentGain": "1.17"
+        },
+        {
+          "company": "Asian Paints",
+          "high": "3,093.00",
+          "low": "3,062.60",
+          "lastPrice": "3,072.70",
+          "prevClose": "3,039.15",
+          "change": "33.55",
+          "percentGain": "1.10"
+        },
+        {
+          "company": "Infosys",
+          "high": "1,979.80",
+          "low": "1,960.00",
+          "lastPrice": "1,978.45",
+          "prevClose": "1,958.90",
+          "change": "19.55",
+          "percentGain": "1.00"
+        },
+        {
+          "company": "Britannia",
+          "high": "6,039.00",
+          "low": "5,995.15",
+          "lastPrice": "6,032.25",
+          "prevClose": "5,978.05",
+          "change": "54.20",
+          "percentGain": "0.91"
+        }
+      ]
+    }
+  ],
+  "losers": [
+    {
+      "time": "3:51:16 AM",
+      "data": [
+        {
+          "company": "ONGC",
+          "high": "286.40",
+          "low": "280.85",
+          "lastPrice": "283.55",
+          "prevClose": "286.50",
+          "change": "-2.95",
+          "percentGain": "-1.03"
+        },
+        {
+          "company": "Tata Steel",
+          "high": "159.53",
+          "low": "157.25",
+          "lastPrice": "157.28",
+          "prevClose": "158.32",
+          "change": "-1.04",
+          "percentGain": "-0.66"
+        },
+        {
+          "company": "Tata Steel",
+          "high": "159.53",
+          "low": "157.25",
+          "lastPrice": "157.28",
+          "prevClose": "158.32",
+          "change": "-1.04",
+          "percentGain": "-0.66"
+        },
+        {
+          "company": "Hindalco",
+          "high": "750.00",
+          "low": "738.80",
+          "lastPrice": "738.90",
+          "prevClose": "743.00",
+          "change": "-4.10",
+          "percentGain": "-0.55"
+        },
+        {
+          "company": "Power Grid Corp",
+          "high": "333.45",
+          "low": "328.75",
+          "lastPrice": "328.90",
+          "prevClose": "330.70",
+          "change": "-1.80",
+          "percentGain": "-0.54"
+        }
+      ]
+    }
+  ]
+}
