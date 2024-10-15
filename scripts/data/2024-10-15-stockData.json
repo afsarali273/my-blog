@@ -199,6 +199,56 @@
           "percentGain": "0.52"
         }
       ]
+    },
+    {
+      "time": "5:16:08 AM",
+      "data": [
+        {
+          "company": "BPCL",
+          "high": "351.50",
+          "low": "344.00",
+          "lastPrice": "348.40",
+          "prevClose": "340.75",
+          "change": "7.65",
+          "percentGain": "2.25"
+        },
+        {
+          "company": "ICICI Bank",
+          "high": "1,249.00",
+          "low": "1,235.40",
+          "lastPrice": "1,247.85",
+          "prevClose": "1,231.75",
+          "change": "16.10",
+          "percentGain": "1.31"
+        },
+        {
+          "company": "Asian Paints",
+          "high": "3,093.00",
+          "low": "3,047.65",
+          "lastPrice": "3,074.35",
+          "prevClose": "3,039.15",
+          "change": "35.20",
+          "percentGain": "1.16"
+        },
+        {
+          "company": "Bharat Elec",
+          "high": "288.25",
+          "low": "285.75",
+          "lastPrice": "288.05",
+          "prevClose": "285.70",
+          "change": "2.35",
+          "percentGain": "0.82"
+        },
+        {
+          "company": "Bharti Airtel",
+          "high": "1,724.70",
+          "low": "1,699.95",
+          "lastPrice": "1,706.55",
+          "prevClose": "1,695.60",
+          "change": "10.95",
+          "percentGain": "0.65"
+        }
+      ]
     }
   ],
   "losers": [
@@ -399,6 +449,56 @@
           "prevClose": "7,208.80",
           "change": "-92.80",
           "percentGain": "-1.29"
+        }
+      ]
+    },
+    {
+      "time": "5:16:08 AM",
+      "data": [
+        {
+          "company": "Bajaj Auto",
+          "high": "11,950.00",
+          "low": "11,617.00",
+          "lastPrice": "11,660.00",
+          "prevClose": "11,899.30",
+          "change": "-239.30",
+          "percentGain": "-2.01"
+        },
+        {
+          "company": "Wipro",
+          "high": "552.85",
+          "low": "539.40",
+          "lastPrice": "540.50",
+          "prevClose": "549.55",
+          "change": "-9.05",
+          "percentGain": "-1.65"
+        },
+        {
+          "company": "Bajaj Finance",
+          "high": "7,256.15",
+          "low": "7,077.00",
+          "lastPrice": "7,100.50",
+          "prevClose": "7,208.80",
+          "change": "-108.30",
+          "percentGain": "-1.50"
+        },
+        {
+          "company": "M&M",
+          "high": "3,192.95",
+          "low": "3,086.55",
+          "lastPrice": "3,108.50",
+          "prevClose": "3,154.90",
+          "change": "-46.40",
+          "percentGain": "-1.47"
+        },
+        {
+          "company": "ONGC",
+          "high": "286.40",
+          "low": "280.85",
+          "lastPrice": "282.85",
+          "prevClose": "286.50",
+          "change": "-3.65",
+          "percentGain": "-1.27"
         }
       ]
     }
