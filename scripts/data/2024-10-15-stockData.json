@@ -149,6 +149,56 @@
           "percentGain": "0.53"
         }
       ]
+    },
+    {
+      "time": "4:51:01 AM",
+      "data": [
+        {
+          "company": "BPCL",
+          "high": "351.50",
+          "low": "344.00",
+          "lastPrice": "349.40",
+          "prevClose": "340.75",
+          "change": "8.65",
+          "percentGain": "2.54"
+        },
+        {
+          "company": "Asian Paints",
+          "high": "3,093.00",
+          "low": "3,047.65",
+          "lastPrice": "3,064.50",
+          "prevClose": "3,039.15",
+          "change": "25.35",
+          "percentGain": "0.83"
+        },
+        {
+          "company": "ICICI Bank",
+          "high": "1,243.70",
+          "low": "1,235.40",
+          "lastPrice": "1,241.50",
+          "prevClose": "1,231.75",
+          "change": "9.75",
+          "percentGain": "0.79"
+        },
+        {
+          "company": "Bharat Elec",
+          "high": "288.25",
+          "low": "285.75",
+          "lastPrice": "287.60",
+          "prevClose": "285.70",
+          "change": "1.90",
+          "percentGain": "0.67"
+        },
+        {
+          "company": "Infosys",
+          "high": "1,991.45",
+          "low": "1,960.00",
+          "lastPrice": "1,969.05",
+          "prevClose": "1,958.90",
+          "change": "10.15",
+          "percentGain": "0.52"
+        }
+      ]
     }
   ],
   "losers": [
@@ -299,6 +349,56 @@
           "prevClose": "743.00",
           "change": "-9.30",
           "percentGain": "-1.25"
+        }
+      ]
+    },
+    {
+      "time": "4:51:01 AM",
+      "data": [
+        {
+          "company": "Bajaj Auto",
+          "high": "11,950.00",
+          "low": "11,666.00",
+          "lastPrice": "11,666.00",
+          "prevClose": "11,899.30",
+          "change": "-233.30",
+          "percentGain": "-1.96"
+        },
+        {
+          "company": "M&M",
+          "high": "3,192.95",
+          "low": "3,096.10",
+          "lastPrice": "3,097.30",
+          "prevClose": "3,154.90",
+          "change": "-57.60",
+          "percentGain": "-1.83"
+        },
+        {
+          "company": "Tata Steel",
+          "high": "159.53",
+          "low": "155.65",
+          "lastPrice": "156.05",
+          "prevClose": "158.32",
+          "change": "-2.27",
+          "percentGain": "-1.43"
+        },
+        {
+          "company": "Tata Steel",
+          "high": "159.53",
+          "low": "155.65",
+          "lastPrice": "156.05",
+          "prevClose": "158.32",
+          "change": "-2.27",
+          "percentGain": "-1.43"
+        },
+        {
+          "company": "Bajaj Finance",
+          "high": "7,256.15",
+          "low": "7,111.50",
+          "lastPrice": "7,116.00",
+          "prevClose": "7,208.80",
+          "change": "-92.80",
+          "percentGain": "-1.29"
         }
       ]
     }
