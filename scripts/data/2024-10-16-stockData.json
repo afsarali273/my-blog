@@ -557,6 +557,56 @@
           "percentGain": "0.77"
         }
       ]
+    },
+    {
+      "time": "8:20:34 AM",
+      "data": [
+        {
+          "company": "HDFC Life",
+          "high": "732.45",
+          "low": "714.85",
+          "lastPrice": "727.60",
+          "prevClose": "714.25",
+          "change": "13.35",
+          "percentGain": "1.87"
+        },
+        {
+          "company": "Dr Reddys Labs",
+          "high": "6,745.95",
+          "low": "6,629.05",
+          "lastPrice": "6,691.70",
+          "prevClose": "6,611.65",
+          "change": "80.05",
+          "percentGain": "1.21"
+        },
+        {
+          "company": "Grasim",
+          "high": "2,779.00",
+          "low": "2,725.00",
+          "lastPrice": "2,769.00",
+          "prevClose": "2,735.80",
+          "change": "33.20",
+          "percentGain": "1.21"
+        },
+        {
+          "company": "HDFC Bank",
+          "high": "1,707.95",
+          "low": "1,680.10",
+          "lastPrice": "1,701.60",
+          "prevClose": "1,684.10",
+          "change": "17.50",
+          "percentGain": "1.04"
+        },
+        {
+          "company": "Bharti Airtel",
+          "high": "1,733.85",
+          "low": "1,717.10",
+          "lastPrice": "1,733.75",
+          "prevClose": "1,717.25",
+          "change": "16.50",
+          "percentGain": "0.96"
+        }
+      ]
     }
   ],
   "losers": [
@@ -1115,6 +1165,56 @@
           "prevClose": "1,000.85",
           "change": "-15.25",
           "percentGain": "-1.52"
+        }
+      ]
+    },
+    {
+      "time": "8:20:34 AM",
+      "data": [
+        {
+          "company": "Trent",
+          "high": "8,133.10",
+          "low": "7,788.30",
+          "lastPrice": "7,820.15",
+          "prevClose": "8,124.25",
+          "change": "-304.10",
+          "percentGain": "-3.74"
+        },
+        {
+          "company": "M&M",
+          "high": "3,147.90",
+          "low": "3,052.15",
+          "lastPrice": "3,060.70",
+          "prevClose": "3,155.80",
+          "change": "-95.10",
+          "percentGain": "-3.01"
+        },
+        {
+          "company": "Hero Motocorp",
+          "high": "5,519.00",
+          "low": "5,387.00",
+          "lastPrice": "5,401.20",
+          "prevClose": "5,505.65",
+          "change": "-104.45",
+          "percentGain": "-1.90"
+        },
+        {
+          "company": "JSW Steel",
+          "high": "1,004.80",
+          "low": "982.05",
+          "lastPrice": "983.90",
+          "prevClose": "1,000.85",
+          "change": "-16.95",
+          "percentGain": "-1.69"
+        },
+        {
+          "company": "Adani Ports",
+          "high": "1,418.40",
+          "low": "1,392.00",
+          "lastPrice": "1,396.50",
+          "prevClose": "1,420.30",
+          "change": "-23.80",
+          "percentGain": "-1.68"
         }
       ]
     }
