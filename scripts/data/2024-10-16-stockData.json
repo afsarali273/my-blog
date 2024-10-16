@@ -149,6 +149,56 @@
           "percentGain": "0.86"
         }
       ]
+    },
+    {
+      "time": "4:51:08 AM",
+      "data": [
+        {
+          "company": "Hindalco",
+          "high": "738.90",
+          "low": "726.05",
+          "lastPrice": "737.55",
+          "prevClose": "726.95",
+          "change": "10.60",
+          "percentGain": "1.46"
+        },
+        {
+          "company": "HDFC Life",
+          "high": "731.35",
+          "low": "714.85",
+          "lastPrice": "723.85",
+          "prevClose": "714.25",
+          "change": "9.60",
+          "percentGain": "1.34"
+        },
+        {
+          "company": "SBI Life Insura",
+          "high": "1,749.00",
+          "low": "1,725.05",
+          "lastPrice": "1,745.75",
+          "prevClose": "1,723.75",
+          "change": "22.00",
+          "percentGain": "1.28"
+        },
+        {
+          "company": "BPCL",
+          "high": "355.90",
+          "low": "350.05",
+          "lastPrice": "352.40",
+          "prevClose": "348.75",
+          "change": "3.65",
+          "percentGain": "1.05"
+        },
+        {
+          "company": "Dr Reddys Labs",
+          "high": "6,685.95",
+          "low": "6,629.05",
+          "lastPrice": "6,676.05",
+          "prevClose": "6,611.65",
+          "change": "64.40",
+          "percentGain": "0.97"
+        }
+      ]
     }
   ],
   "losers": [
@@ -299,6 +349,56 @@
           "prevClose": "1,360.90",
           "change": "-15.25",
           "percentGain": "-1.12"
+        }
+      ]
+    },
+    {
+      "time": "4:51:08 AM",
+      "data": [
+        {
+          "company": "M&M",
+          "high": "3,147.90",
+          "low": "3,093.50",
+          "lastPrice": "3,104.00",
+          "prevClose": "3,155.80",
+          "change": "-51.80",
+          "percentGain": "-1.64"
+        },
+        {
+          "company": "Nestle",
+          "high": "2,493.05",
+          "low": "2,436.50",
+          "lastPrice": "2,444.10",
+          "prevClose": "2,484.25",
+          "change": "-40.15",
+          "percentGain": "-1.62"
+        },
+        {
+          "company": "Nestle",
+          "high": "2,493.05",
+          "low": "2,436.50",
+          "lastPrice": "2,444.10",
+          "prevClose": "2,484.25",
+          "change": "-40.15",
+          "percentGain": "-1.62"
+        },
+        {
+          "company": "Trent",
+          "high": "8,133.10",
+          "low": "7,947.35",
+          "lastPrice": "8,006.75",
+          "prevClose": "8,124.25",
+          "change": "-117.50",
+          "percentGain": "-1.45"
+        },
+        {
+          "company": "IndusInd Bank",
+          "high": "1,358.35",
+          "low": "1,343.45",
+          "lastPrice": "1,345.30",
+          "prevClose": "1,360.90",
+          "change": "-15.60",
+          "percentGain": "-1.15"
         }
       ]
     }
