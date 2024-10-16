@@ -757,6 +757,56 @@
           "percentGain": "1.09"
         }
       ]
+    },
+    {
+      "time": "9:38:25 AM",
+      "data": [
+        {
+          "company": "HDFC Life",
+          "high": "732.45",
+          "low": "714.85",
+          "lastPrice": "726.55",
+          "prevClose": "714.25",
+          "change": "12.30",
+          "percentGain": "1.72"
+        },
+        {
+          "company": "Dr Reddys Labs",
+          "high": "6,745.95",
+          "low": "6,629.05",
+          "lastPrice": "6,717.05",
+          "prevClose": "6,611.65",
+          "change": "105.40",
+          "percentGain": "1.59"
+        },
+        {
+          "company": "Grasim",
+          "high": "2,784.00",
+          "low": "2,725.00",
+          "lastPrice": "2,767.25",
+          "prevClose": "2,735.80",
+          "change": "31.45",
+          "percentGain": "1.15"
+        },
+        {
+          "company": "Bajaj Auto",
+          "high": "11,680.00",
+          "low": "11,381.15",
+          "lastPrice": "11,637.00",
+          "prevClose": "11,521.50",
+          "change": "115.50",
+          "percentGain": "1.00"
+        },
+        {
+          "company": "Bharti Airtel",
+          "high": "1,742.25",
+          "low": "1,717.10",
+          "lastPrice": "1,733.80",
+          "prevClose": "1,717.25",
+          "change": "16.55",
+          "percentGain": "0.96"
+        }
+      ]
     }
   ],
   "losers": [
@@ -1515,6 +1565,56 @@
           "prevClose": "3,508.50",
           "change": "-41.60",
           "percentGain": "-1.19"
+        }
+      ]
+    },
+    {
+      "time": "9:38:25 AM",
+      "data": [
+        {
+          "company": "Trent",
+          "high": "8,133.10",
+          "low": "7,788.30",
+          "lastPrice": "7,821.00",
+          "prevClose": "8,124.25",
+          "change": "-303.25",
+          "percentGain": "-3.73"
+        },
+        {
+          "company": "M&M",
+          "high": "3,147.90",
+          "low": "3,052.15",
+          "lastPrice": "3,074.20",
+          "prevClose": "3,155.80",
+          "change": "-81.60",
+          "percentGain": "-2.59"
+        },
+        {
+          "company": "Infosys",
+          "high": "1,959.55",
+          "low": "1,919.05",
+          "lastPrice": "1,920.00",
+          "prevClose": "1,959.30",
+          "change": "-39.30",
+          "percentGain": "-2.01"
+        },
+        {
+          "company": "Hero Motocorp",
+          "high": "5,519.00",
+          "low": "5,387.00",
+          "lastPrice": "5,400.25",
+          "prevClose": "5,505.65",
+          "change": "-105.40",
+          "percentGain": "-1.91"
+        },
+        {
+          "company": "IndusInd Bank",
+          "high": "1,358.35",
+          "low": "1,341.10",
+          "lastPrice": "1,346.00",
+          "prevClose": "1,360.90",
+          "change": "-14.90",
+          "percentGain": "-1.09"
         }
       ]
     }
