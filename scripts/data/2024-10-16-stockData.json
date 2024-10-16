@@ -707,6 +707,56 @@
           "percentGain": "1.08"
         }
       ]
+    },
+    {
+      "time": "9:17:08 AM",
+      "data": [
+        {
+          "company": "HDFC Life",
+          "high": "732.45",
+          "low": "714.85",
+          "lastPrice": "729.95",
+          "prevClose": "714.25",
+          "change": "15.70",
+          "percentGain": "2.20"
+        },
+        {
+          "company": "Dr Reddys Labs",
+          "high": "6,745.95",
+          "low": "6,629.05",
+          "lastPrice": "6,705.45",
+          "prevClose": "6,611.65",
+          "change": "93.80",
+          "percentGain": "1.42"
+        },
+        {
+          "company": "Bharti Airtel",
+          "high": "1,742.25",
+          "low": "1,717.10",
+          "lastPrice": "1,740.20",
+          "prevClose": "1,717.25",
+          "change": "22.95",
+          "percentGain": "1.34"
+        },
+        {
+          "company": "Grasim",
+          "high": "2,784.00",
+          "low": "2,725.00",
+          "lastPrice": "2,771.50",
+          "prevClose": "2,735.80",
+          "change": "35.70",
+          "percentGain": "1.30"
+        },
+        {
+          "company": "Bajaj Auto",
+          "high": "11,680.00",
+          "low": "11,381.15",
+          "lastPrice": "11,647.00",
+          "prevClose": "11,521.50",
+          "change": "125.50",
+          "percentGain": "1.09"
+        }
+      ]
     }
   ],
   "losers": [
@@ -1415,6 +1465,56 @@
           "prevClose": "2,484.25",
           "change": "-36.45",
           "percentGain": "-1.47"
+        }
+      ]
+    },
+    {
+      "time": "9:17:08 AM",
+      "data": [
+        {
+          "company": "Trent",
+          "high": "8,133.10",
+          "low": "7,788.30",
+          "lastPrice": "7,842.00",
+          "prevClose": "8,124.25",
+          "change": "-282.25",
+          "percentGain": "-3.47"
+        },
+        {
+          "company": "M&M",
+          "high": "3,147.90",
+          "low": "3,052.15",
+          "lastPrice": "3,079.45",
+          "prevClose": "3,155.80",
+          "change": "-76.35",
+          "percentGain": "-2.42"
+        },
+        {
+          "company": "Hero Motocorp",
+          "high": "5,519.00",
+          "low": "5,387.00",
+          "lastPrice": "5,400.15",
+          "prevClose": "5,505.65",
+          "change": "-105.50",
+          "percentGain": "-1.92"
+        },
+        {
+          "company": "Infosys",
+          "high": "1,959.55",
+          "low": "1,931.20",
+          "lastPrice": "1,933.55",
+          "prevClose": "1,959.30",
+          "change": "-25.75",
+          "percentGain": "-1.31"
+        },
+        {
+          "company": "Titan Company",
+          "high": "3,510.00",
+          "low": "3,440.00",
+          "lastPrice": "3,466.90",
+          "prevClose": "3,508.50",
+          "change": "-41.60",
+          "percentGain": "-1.19"
         }
       ]
     }
