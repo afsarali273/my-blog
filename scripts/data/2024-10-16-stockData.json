@@ -249,6 +249,56 @@
           "percentGain": "1.00"
         }
       ]
+    },
+    {
+      "time": "5:39:38 AM",
+      "data": [
+        {
+          "company": "HDFC Life",
+          "high": "731.35",
+          "low": "714.85",
+          "lastPrice": "729.65",
+          "prevClose": "714.25",
+          "change": "15.40",
+          "percentGain": "2.16"
+        },
+        {
+          "company": "Grasim",
+          "high": "2,778.15",
+          "low": "2,725.00",
+          "lastPrice": "2,770.30",
+          "prevClose": "2,735.80",
+          "change": "34.50",
+          "percentGain": "1.26"
+        },
+        {
+          "company": "HDFC Bank",
+          "high": "1,706.00",
+          "low": "1,680.10",
+          "lastPrice": "1,704.35",
+          "prevClose": "1,684.10",
+          "change": "20.25",
+          "percentGain": "1.20"
+        },
+        {
+          "company": "Dr Reddys Labs",
+          "high": "6,699.00",
+          "low": "6,629.05",
+          "lastPrice": "6,682.25",
+          "prevClose": "6,611.65",
+          "change": "70.60",
+          "percentGain": "1.07"
+        },
+        {
+          "company": "Hindalco",
+          "high": "738.90",
+          "low": "726.05",
+          "lastPrice": "734.60",
+          "prevClose": "726.95",
+          "change": "7.65",
+          "percentGain": "1.05"
+        }
+      ]
     }
   ],
   "losers": [
@@ -499,6 +549,56 @@
           "prevClose": "4,722.10",
           "change": "-68.30",
           "percentGain": "-1.45"
+        }
+      ]
+    },
+    {
+      "time": "5:39:38 AM",
+      "data": [
+        {
+          "company": "Trent",
+          "high": "8,133.10",
+          "low": "7,842.00",
+          "lastPrice": "7,842.05",
+          "prevClose": "8,124.25",
+          "change": "-282.20",
+          "percentGain": "-3.47"
+        },
+        {
+          "company": "M&M",
+          "high": "3,147.90",
+          "low": "3,071.35",
+          "lastPrice": "3,080.00",
+          "prevClose": "3,155.80",
+          "change": "-75.80",
+          "percentGain": "-2.40"
+        },
+        {
+          "company": "Nestle",
+          "high": "2,493.05",
+          "low": "2,436.50",
+          "lastPrice": "2,444.60",
+          "prevClose": "2,484.25",
+          "change": "-39.65",
+          "percentGain": "-1.60"
+        },
+        {
+          "company": "Nestle",
+          "high": "2,493.05",
+          "low": "2,436.50",
+          "lastPrice": "2,444.60",
+          "prevClose": "2,484.25",
+          "change": "-39.65",
+          "percentGain": "-1.60"
+        },
+        {
+          "company": "Hero Motocorp",
+          "high": "5,519.00",
+          "low": "5,413.90",
+          "lastPrice": "5,423.75",
+          "prevClose": "5,505.65",
+          "change": "-81.90",
+          "percentGain": "-1.49"
         }
       ]
     }
