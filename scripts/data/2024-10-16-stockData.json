@@ -453,6 +453,56 @@
     {
       "time": "6:54:12 AM",
       "data": []
+    },
+    {
+      "time": "7:15:16 AM",
+      "data": [
+        {
+          "company": "HDFC Life",
+          "high": "732.45",
+          "low": "714.85",
+          "lastPrice": "728.30",
+          "prevClose": "714.25",
+          "change": "14.05",
+          "percentGain": "1.97"
+        },
+        {
+          "company": "Dr Reddys Labs",
+          "high": "6,705.40",
+          "low": "6,629.05",
+          "lastPrice": "6,705.25",
+          "prevClose": "6,611.65",
+          "change": "93.60",
+          "percentGain": "1.42"
+        },
+        {
+          "company": "HDFC Bank",
+          "high": "1,707.95",
+          "low": "1,680.10",
+          "lastPrice": "1,704.35",
+          "prevClose": "1,684.10",
+          "change": "20.25",
+          "percentGain": "1.20"
+        },
+        {
+          "company": "Grasim",
+          "high": "2,779.00",
+          "low": "2,725.00",
+          "lastPrice": "2,764.50",
+          "prevClose": "2,735.80",
+          "change": "28.70",
+          "percentGain": "1.05"
+        },
+        {
+          "company": "Bajaj Auto",
+          "high": "11,660.00",
+          "low": "11,381.15",
+          "lastPrice": "11,599.95",
+          "prevClose": "11,521.50",
+          "change": "78.45",
+          "percentGain": "0.68"
+        }
+      ]
     }
   ],
   "losers": [
@@ -909,6 +959,56 @@
     {
       "time": "6:54:12 AM",
       "data": []
+    },
+    {
+      "time": "7:15:16 AM",
+      "data": [
+        {
+          "company": "Trent",
+          "high": "8,133.10",
+          "low": "7,788.30",
+          "lastPrice": "7,855.50",
+          "prevClose": "8,124.25",
+          "change": "-268.75",
+          "percentGain": "-3.31"
+        },
+        {
+          "company": "M&M",
+          "high": "3,147.90",
+          "low": "3,052.15",
+          "lastPrice": "3,060.90",
+          "prevClose": "3,155.80",
+          "change": "-94.90",
+          "percentGain": "-3.01"
+        },
+        {
+          "company": "Nestle",
+          "high": "2,493.05",
+          "low": "2,431.45",
+          "lastPrice": "2,435.75",
+          "prevClose": "2,484.25",
+          "change": "-48.50",
+          "percentGain": "-1.95"
+        },
+        {
+          "company": "Nestle",
+          "high": "2,493.05",
+          "low": "2,431.45",
+          "lastPrice": "2,435.75",
+          "prevClose": "2,484.25",
+          "change": "-48.50",
+          "percentGain": "-1.95"
+        },
+        {
+          "company": "Titan Company",
+          "high": "3,510.00",
+          "low": "3,440.00",
+          "lastPrice": "3,442.15",
+          "prevClose": "3,508.50",
+          "change": "-66.35",
+          "percentGain": "-1.89"
+        }
+      ]
     }
   ]
 }
