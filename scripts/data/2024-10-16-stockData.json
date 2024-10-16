@@ -199,6 +199,56 @@
           "percentGain": "0.97"
         }
       ]
+    },
+    {
+      "time": "5:15:38 AM",
+      "data": [
+        {
+          "company": "HDFC Life",
+          "high": "731.35",
+          "low": "714.85",
+          "lastPrice": "728.10",
+          "prevClose": "714.25",
+          "change": "13.85",
+          "percentGain": "1.94"
+        },
+        {
+          "company": "HDFC Bank",
+          "high": "1,706.00",
+          "low": "1,680.10",
+          "lastPrice": "1,703.90",
+          "prevClose": "1,684.10",
+          "change": "19.80",
+          "percentGain": "1.18"
+        },
+        {
+          "company": "Dr Reddys Labs",
+          "high": "6,699.00",
+          "low": "6,629.05",
+          "lastPrice": "6,688.95",
+          "prevClose": "6,611.65",
+          "change": "77.30",
+          "percentGain": "1.17"
+        },
+        {
+          "company": "Hindalco",
+          "high": "738.90",
+          "low": "726.05",
+          "lastPrice": "734.85",
+          "prevClose": "726.95",
+          "change": "7.90",
+          "percentGain": "1.09"
+        },
+        {
+          "company": "SBI Life Insura",
+          "high": "1,749.00",
+          "low": "1,725.05",
+          "lastPrice": "1,741.00",
+          "prevClose": "1,723.75",
+          "change": "17.25",
+          "percentGain": "1.00"
+        }
+      ]
     }
   ],
   "losers": [
@@ -399,6 +449,56 @@
           "prevClose": "1,360.90",
           "change": "-15.60",
           "percentGain": "-1.15"
+        }
+      ]
+    },
+    {
+      "time": "5:15:38 AM",
+      "data": [
+        {
+          "company": "Trent",
+          "high": "8,133.10",
+          "low": "7,891.05",
+          "lastPrice": "7,902.90",
+          "prevClose": "8,124.25",
+          "change": "-221.35",
+          "percentGain": "-2.72"
+        },
+        {
+          "company": "M&M",
+          "high": "3,147.90",
+          "low": "3,080.00",
+          "lastPrice": "3,085.05",
+          "prevClose": "3,155.80",
+          "change": "-70.75",
+          "percentGain": "-2.24"
+        },
+        {
+          "company": "Nestle",
+          "high": "2,493.05",
+          "low": "2,436.50",
+          "lastPrice": "2,445.00",
+          "prevClose": "2,484.25",
+          "change": "-39.25",
+          "percentGain": "-1.58"
+        },
+        {
+          "company": "Nestle",
+          "high": "2,493.05",
+          "low": "2,436.50",
+          "lastPrice": "2,445.00",
+          "prevClose": "2,484.25",
+          "change": "-39.25",
+          "percentGain": "-1.58"
+        },
+        {
+          "company": "Eicher Motors",
+          "high": "4,734.00",
+          "low": "4,653.00",
+          "lastPrice": "4,653.80",
+          "prevClose": "4,722.10",
+          "change": "-68.30",
+          "percentGain": "-1.45"
         }
       ]
     }
