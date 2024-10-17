@@ -49,6 +49,56 @@
           "percentGain": "0.75"
         }
       ]
+    },
+    {
+      "time": "4:18:27 AM",
+      "data": [
+        {
+          "company": "Infosys",
+          "high": "1,958.35",
+          "low": "1,930.15",
+          "lastPrice": "1,950.30",
+          "prevClose": "1,920.10",
+          "change": "30.20",
+          "percentGain": "1.57"
+        },
+        {
+          "company": "Hindalco",
+          "high": "747.30",
+          "low": "737.00",
+          "lastPrice": "739.90",
+          "prevClose": "733.10",
+          "change": "6.80",
+          "percentGain": "0.93"
+        },
+        {
+          "company": "SBI",
+          "high": "815.75",
+          "low": "806.00",
+          "lastPrice": "810.25",
+          "prevClose": "805.45",
+          "change": "4.80",
+          "percentGain": "0.60"
+        },
+        {
+          "company": "Dr Reddys Labs",
+          "high": "6,758.55",
+          "low": "6,688.10",
+          "lastPrice": "6,746.15",
+          "prevClose": "6,710.90",
+          "change": "35.25",
+          "percentGain": "0.53"
+        },
+        {
+          "company": "Tech Mahindra",
+          "high": "1,672.90",
+          "low": "1,656.00",
+          "lastPrice": "1,668.75",
+          "prevClose": "1,660.30",
+          "change": "8.45",
+          "percentGain": "0.51"
+        }
+      ]
     }
   ],
   "losers": [
@@ -99,6 +149,56 @@
           "prevClose": "12,383.90",
           "change": "-238.95",
           "percentGain": "-1.93"
+        }
+      ]
+    },
+    {
+      "time": "4:18:27 AM",
+      "data": [
+        {
+          "company": "Bajaj Auto",
+          "high": "11,287.35",
+          "low": "10,536.00",
+          "lastPrice": "10,573.10",
+          "prevClose": "11,616.95",
+          "change": "-1,043.85",
+          "percentGain": "-8.99"
+        },
+        {
+          "company": "Hero Motocorp",
+          "high": "5,363.05",
+          "low": "5,130.05",
+          "lastPrice": "5,150.00",
+          "prevClose": "5,398.20",
+          "change": "-248.20",
+          "percentGain": "-4.60"
+        },
+        {
+          "company": "Eicher Motors",
+          "high": "4,645.00",
+          "low": "4,521.00",
+          "lastPrice": "4,532.50",
+          "prevClose": "4,678.25",
+          "change": "-145.75",
+          "percentGain": "-3.12"
+        },
+        {
+          "company": "Shriram Finance",
+          "high": "3,385.95",
+          "low": "3,295.55",
+          "lastPrice": "3,309.20",
+          "prevClose": "3,390.40",
+          "change": "-81.20",
+          "percentGain": "-2.39"
+        },
+        {
+          "company": "M&M",
+          "high": "3,065.30",
+          "low": "2,982.80",
+          "lastPrice": "2,997.60",
+          "prevClose": "3,068.00",
+          "change": "-70.40",
+          "percentGain": "-2.29"
         }
       ]
     }
