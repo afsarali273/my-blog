@@ -211,6 +211,56 @@
     {
       "time": "5:50:01 AM",
       "data": []
+    },
+    {
+      "time": "6:22:05 AM",
+      "data": [
+        {
+          "company": "Infosys",
+          "high": "1,958.35",
+          "low": "1,930.15",
+          "lastPrice": "1,951.80",
+          "prevClose": "1,920.10",
+          "change": "31.70",
+          "percentGain": "1.65"
+        },
+        {
+          "company": "SBI",
+          "high": "816.55",
+          "low": "806.00",
+          "lastPrice": "814.30",
+          "prevClose": "805.45",
+          "change": "8.85",
+          "percentGain": "1.10"
+        },
+        {
+          "company": "Tech Mahindra",
+          "high": "1,686.45",
+          "low": "1,656.00",
+          "lastPrice": "1,677.25",
+          "prevClose": "1,660.30",
+          "change": "16.95",
+          "percentGain": "1.02"
+        },
+        {
+          "company": "Hindalco",
+          "high": "747.30",
+          "low": "735.90",
+          "lastPrice": "739.95",
+          "prevClose": "733.10",
+          "change": "6.85",
+          "percentGain": "0.93"
+        },
+        {
+          "company": "Wipro",
+          "high": "538.00",
+          "low": "531.40",
+          "lastPrice": "536.25",
+          "prevClose": "532.15",
+          "change": "4.10",
+          "percentGain": "0.77"
+        }
+      ]
     }
   ],
   "losers": [
@@ -425,6 +475,56 @@
     {
       "time": "5:50:01 AM",
       "data": []
+    },
+    {
+      "time": "6:22:05 AM",
+      "data": [
+        {
+          "company": "Bajaj Auto",
+          "high": "11,287.35",
+          "low": "10,210.00",
+          "lastPrice": "10,233.00",
+          "prevClose": "11,616.95",
+          "change": "-1,383.95",
+          "percentGain": "-11.91"
+        },
+        {
+          "company": "Hero Motocorp",
+          "high": "5,363.05",
+          "low": "5,100.00",
+          "lastPrice": "5,201.30",
+          "prevClose": "5,398.20",
+          "change": "-196.90",
+          "percentGain": "-3.65"
+        },
+        {
+          "company": "Shriram Finance",
+          "high": "3,385.95",
+          "low": "3,290.00",
+          "lastPrice": "3,297.95",
+          "prevClose": "3,390.40",
+          "change": "-92.45",
+          "percentGain": "-2.73"
+        },
+        {
+          "company": "M&M",
+          "high": "3,065.30",
+          "low": "2,961.55",
+          "lastPrice": "2,986.95",
+          "prevClose": "3,068.00",
+          "change": "-81.05",
+          "percentGain": "-2.64"
+        },
+        {
+          "company": "Adani Enterpris",
+          "high": "3,100.00",
+          "low": "3,009.75",
+          "lastPrice": "3,013.95",
+          "prevClose": "3,085.90",
+          "change": "-71.95",
+          "percentGain": "-2.33"
+        }
+      ]
     }
   ]
 }
