@@ -319,6 +319,56 @@
     {
       "time": "7:15:27 AM",
       "data": []
+    },
+    {
+      "time": "7:36:41 AM",
+      "data": [
+        {
+          "company": "Infosys",
+          "high": "1,973.80",
+          "low": "1,930.15",
+          "lastPrice": "1,971.40",
+          "prevClose": "1,920.10",
+          "change": "51.30",
+          "percentGain": "2.67"
+        },
+        {
+          "company": "Tech Mahindra",
+          "high": "1,696.80",
+          "low": "1,656.00",
+          "lastPrice": "1,690.50",
+          "prevClose": "1,660.30",
+          "change": "30.20",
+          "percentGain": "1.82"
+        },
+        {
+          "company": "SBI",
+          "high": "817.55",
+          "low": "806.00",
+          "lastPrice": "816.80",
+          "prevClose": "805.45",
+          "change": "11.35",
+          "percentGain": "1.41"
+        },
+        {
+          "company": "Power Grid Corp",
+          "high": "330.70",
+          "low": "324.60",
+          "lastPrice": "330.20",
+          "prevClose": "327.20",
+          "change": "3.00",
+          "percentGain": "0.92"
+        },
+        {
+          "company": "Trent",
+          "high": "7,864.00",
+          "low": "7,620.20",
+          "lastPrice": "7,860.00",
+          "prevClose": "7,805.80",
+          "change": "54.20",
+          "percentGain": "0.69"
+        }
+      ]
     }
   ],
   "losers": [
@@ -641,6 +691,56 @@
     {
       "time": "7:15:27 AM",
       "data": []
+    },
+    {
+      "time": "7:36:41 AM",
+      "data": [
+        {
+          "company": "Bajaj Auto",
+          "high": "11,287.35",
+          "low": "10,180.20",
+          "lastPrice": "10,250.25",
+          "prevClose": "11,616.95",
+          "change": "-1,366.70",
+          "percentGain": "-11.76"
+        },
+        {
+          "company": "Nestle",
+          "high": "2,474.95",
+          "low": "2,365.00",
+          "lastPrice": "2,384.25",
+          "prevClose": "2,462.25",
+          "change": "-78.00",
+          "percentGain": "-3.17"
+        },
+        {
+          "company": "Nestle",
+          "high": "2,474.95",
+          "low": "2,365.00",
+          "lastPrice": "2,384.25",
+          "prevClose": "2,462.25",
+          "change": "-78.00",
+          "percentGain": "-3.17"
+        },
+        {
+          "company": "Shriram Finance",
+          "high": "3,385.95",
+          "low": "3,275.10",
+          "lastPrice": "3,291.85",
+          "prevClose": "3,390.40",
+          "change": "-98.55",
+          "percentGain": "-2.91"
+        },
+        {
+          "company": "Hero Motocorp",
+          "high": "5,363.05",
+          "low": "5,100.00",
+          "lastPrice": "5,250.80",
+          "prevClose": "5,398.20",
+          "change": "-147.40",
+          "percentGain": "-2.73"
+        }
+      ]
     }
   ]
 }
