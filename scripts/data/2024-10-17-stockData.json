@@ -103,6 +103,56 @@
     {
       "time": "4:42:46 AM",
       "data": []
+    },
+    {
+      "time": "4:52:56 AM",
+      "data": [
+        {
+          "company": "Infosys",
+          "high": "1,958.35",
+          "low": "1,930.15",
+          "lastPrice": "1,944.25",
+          "prevClose": "1,920.10",
+          "change": "24.15",
+          "percentGain": "1.26"
+        },
+        {
+          "company": "Tech Mahindra",
+          "high": "1,686.45",
+          "low": "1,656.00",
+          "lastPrice": "1,675.40",
+          "prevClose": "1,660.30",
+          "change": "15.10",
+          "percentGain": "0.91"
+        },
+        {
+          "company": "Reliance",
+          "high": "2,736.90",
+          "low": "2,715.00",
+          "lastPrice": "2,725.45",
+          "prevClose": "2,708.15",
+          "change": "17.30",
+          "percentGain": "0.64"
+        },
+        {
+          "company": "Dr Reddys Labs",
+          "high": "6,775.00",
+          "low": "6,688.10",
+          "lastPrice": "6,745.10",
+          "prevClose": "6,710.90",
+          "change": "34.20",
+          "percentGain": "0.51"
+        },
+        {
+          "company": "Hindalco",
+          "high": "747.30",
+          "low": "735.90",
+          "lastPrice": "736.35",
+          "prevClose": "733.10",
+          "change": "3.25",
+          "percentGain": "0.44"
+        }
+      ]
     }
   ],
   "losers": [
@@ -209,6 +259,56 @@
     {
       "time": "4:42:46 AM",
       "data": []
+    },
+    {
+      "time": "4:52:56 AM",
+      "data": [
+        {
+          "company": "Bajaj Auto",
+          "high": "11,287.35",
+          "low": "10,262.00",
+          "lastPrice": "10,418.00",
+          "prevClose": "11,616.95",
+          "change": "-1,198.95",
+          "percentGain": "-10.32"
+        },
+        {
+          "company": "Hero Motocorp",
+          "high": "5,363.05",
+          "low": "5,100.00",
+          "lastPrice": "5,130.00",
+          "prevClose": "5,398.20",
+          "change": "-268.20",
+          "percentGain": "-4.97"
+        },
+        {
+          "company": "M&M",
+          "high": "3,065.30",
+          "low": "2,961.55",
+          "lastPrice": "2,981.80",
+          "prevClose": "3,068.00",
+          "change": "-86.20",
+          "percentGain": "-2.81"
+        },
+        {
+          "company": "Eicher Motors",
+          "high": "4,645.00",
+          "low": "4,521.00",
+          "lastPrice": "4,572.05",
+          "prevClose": "4,678.25",
+          "change": "-106.20",
+          "percentGain": "-2.27"
+        },
+        {
+          "company": "Trent",
+          "high": "7,809.80",
+          "low": "7,620.20",
+          "lastPrice": "7,630.00",
+          "prevClose": "7,805.80",
+          "change": "-175.80",
+          "percentGain": "-2.25"
+        }
+      ]
     }
   ]
 }
