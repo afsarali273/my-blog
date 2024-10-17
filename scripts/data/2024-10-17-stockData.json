@@ -477,6 +477,56 @@
     {
       "time": "8:52:41 AM",
       "data": []
+    },
+    {
+      "time": "9:16:31 AM",
+      "data": [
+        {
+          "company": "Tech Mahindra",
+          "high": "1,709.90",
+          "low": "1,656.00",
+          "lastPrice": "1,705.00",
+          "prevClose": "1,660.30",
+          "change": "44.70",
+          "percentGain": "2.69"
+        },
+        {
+          "company": "Infosys",
+          "high": "1,978.00",
+          "low": "1,930.15",
+          "lastPrice": "1,960.00",
+          "prevClose": "1,920.10",
+          "change": "39.90",
+          "percentGain": "2.08"
+        },
+        {
+          "company": "Larsen",
+          "high": "3,583.00",
+          "low": "3,521.80",
+          "lastPrice": "3,572.30",
+          "prevClose": "3,532.60",
+          "change": "39.70",
+          "percentGain": "1.12"
+        },
+        {
+          "company": "Power Grid Corp",
+          "high": "331.90",
+          "low": "324.60",
+          "lastPrice": "330.65",
+          "prevClose": "327.20",
+          "change": "3.45",
+          "percentGain": "1.05"
+        },
+        {
+          "company": "SBI",
+          "high": "819.50",
+          "low": "806.00",
+          "lastPrice": "810.80",
+          "prevClose": "805.45",
+          "change": "5.35",
+          "percentGain": "0.66"
+        }
+      ]
     }
   ],
   "losers": [
@@ -957,6 +1007,56 @@
     {
       "time": "8:52:41 AM",
       "data": []
+    },
+    {
+      "time": "9:16:31 AM",
+      "data": [
+        {
+          "company": "Bajaj Auto",
+          "high": "11,287.35",
+          "low": "10,180.20",
+          "lastPrice": "10,200.00",
+          "prevClose": "11,616.95",
+          "change": "-1,416.95",
+          "percentGain": "-12.20"
+        },
+        {
+          "company": "Shriram Finance",
+          "high": "3,385.95",
+          "low": "3,252.25",
+          "lastPrice": "3,262.15",
+          "prevClose": "3,390.40",
+          "change": "-128.25",
+          "percentGain": "-3.78"
+        },
+        {
+          "company": "M&M",
+          "high": "3,065.30",
+          "low": "2,953.40",
+          "lastPrice": "2,955.70",
+          "prevClose": "3,068.00",
+          "change": "-112.30",
+          "percentGain": "-3.66"
+        },
+        {
+          "company": "Nestle",
+          "high": "2,474.95",
+          "low": "2,365.00",
+          "lastPrice": "2,378.90",
+          "prevClose": "2,462.25",
+          "change": "-83.35",
+          "percentGain": "-3.39"
+        },
+        {
+          "company": "Nestle",
+          "high": "2,474.95",
+          "low": "2,365.00",
+          "lastPrice": "2,378.90",
+          "prevClose": "2,462.25",
+          "change": "-83.35",
+          "percentGain": "-3.39"
+        }
+      ]
     }
   ]
 }
