@@ -157,6 +157,56 @@
           "percentGain": "1.91"
         }
       ]
+    },
+    {
+      "time": "5:39:41 AM",
+      "data": [
+        {
+          "company": "Axis Bank",
+          "high": "1,188.60",
+          "low": "1,156.05",
+          "lastPrice": "1,180.35",
+          "prevClose": "1,131.85",
+          "change": "48.50",
+          "percentGain": "4.29"
+        },
+        {
+          "company": "Wipro",
+          "high": "558.40",
+          "low": "524.80",
+          "lastPrice": "545.15",
+          "prevClose": "528.75",
+          "change": "16.40",
+          "percentGain": "3.10"
+        },
+        {
+          "company": "Eicher Motors",
+          "high": "4,792.45",
+          "low": "4,612.05",
+          "lastPrice": "4,759.75",
+          "prevClose": "4,623.85",
+          "change": "135.90",
+          "percentGain": "2.94"
+        },
+        {
+          "company": "Tata Motors",
+          "high": "911.50",
+          "low": "886.80",
+          "lastPrice": "906.55",
+          "prevClose": "891.60",
+          "change": "14.95",
+          "percentGain": "1.68"
+        },
+        {
+          "company": "Tata Motors",
+          "high": "911.50",
+          "low": "886.80",
+          "lastPrice": "906.55",
+          "prevClose": "891.60",
+          "change": "14.95",
+          "percentGain": "1.68"
+        }
+      ]
     }
   ],
   "losers": [
@@ -315,6 +365,56 @@
           "prevClose": "2,378.70",
           "change": "-31.15",
           "percentGain": "-1.31"
+        }
+      ]
+    },
+    {
+      "time": "5:39:41 AM",
+      "data": [
+        {
+          "company": "Infosys",
+          "high": "1,936.85",
+          "low": "1,877.10",
+          "lastPrice": "1,879.75",
+          "prevClose": "1,968.10",
+          "change": "-88.35",
+          "percentGain": "-4.49"
+        },
+        {
+          "company": "ITC",
+          "high": "491.55",
+          "low": "478.40",
+          "lastPrice": "479.50",
+          "prevClose": "488.90",
+          "change": "-9.40",
+          "percentGain": "-1.92"
+        },
+        {
+          "company": "Tech Mahindra",
+          "high": "1,696.95",
+          "low": "1,645.60",
+          "lastPrice": "1,668.55",
+          "prevClose": "1,699.00",
+          "change": "-30.45",
+          "percentGain": "-1.79"
+        },
+        {
+          "company": "BPCL",
+          "high": "342.70",
+          "low": "334.30",
+          "lastPrice": "337.15",
+          "prevClose": "342.70",
+          "change": "-5.55",
+          "percentGain": "-1.62"
+        },
+        {
+          "company": "Nestle",
+          "high": "2,383.65",
+          "low": "2,326.10",
+          "lastPrice": "2,343.10",
+          "prevClose": "2,378.70",
+          "change": "-35.60",
+          "percentGain": "-1.50"
         }
       ]
     }
