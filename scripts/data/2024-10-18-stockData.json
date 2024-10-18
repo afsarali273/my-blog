@@ -761,6 +761,56 @@
           "percentGain": "2.59"
         }
       ]
+    },
+    {
+      "time": "9:38:16 AM",
+      "data": [
+        {
+          "company": "Axis Bank",
+          "high": "1,203.85",
+          "low": "1,156.05",
+          "lastPrice": "1,192.60",
+          "prevClose": "1,131.85",
+          "change": "60.75",
+          "percentGain": "5.37"
+        },
+        {
+          "company": "Wipro",
+          "high": "558.40",
+          "low": "524.80",
+          "lastPrice": "549.50",
+          "prevClose": "528.75",
+          "change": "20.75",
+          "percentGain": "3.92"
+        },
+        {
+          "company": "Eicher Motors",
+          "high": "4,799.90",
+          "low": "4,612.05",
+          "lastPrice": "4,771.80",
+          "prevClose": "4,623.85",
+          "change": "147.95",
+          "percentGain": "3.20"
+        },
+        {
+          "company": "Hindalco",
+          "high": "756.45",
+          "low": "725.05",
+          "lastPrice": "753.80",
+          "prevClose": "734.80",
+          "change": "19.00",
+          "percentGain": "2.59"
+        },
+        {
+          "company": "ICICI Bank",
+          "high": "1,266.65",
+          "low": "1,225.25",
+          "lastPrice": "1,262.80",
+          "prevClose": "1,231.25",
+          "change": "31.55",
+          "percentGain": "2.56"
+        }
+      ]
     }
   ],
   "losers": [
@@ -1523,6 +1573,56 @@
           "prevClose": "2,378.70",
           "change": "-33.25",
           "percentGain": "-1.40"
+        }
+      ]
+    },
+    {
+      "time": "9:38:16 AM",
+      "data": [
+        {
+          "company": "Infosys",
+          "high": "1,936.85",
+          "low": "1,869.25",
+          "lastPrice": "1,879.45",
+          "prevClose": "1,968.10",
+          "change": "-88.65",
+          "percentGain": "-4.50"
+        },
+        {
+          "company": "Asian Paints",
+          "high": "3,069.00",
+          "low": "2,990.80",
+          "lastPrice": "2,996.00",
+          "prevClose": "3,055.85",
+          "change": "-59.85",
+          "percentGain": "-1.96"
+        },
+        {
+          "company": "Britannia",
+          "high": "5,998.00",
+          "low": "5,876.05",
+          "lastPrice": "5,895.10",
+          "prevClose": "5,988.50",
+          "change": "-93.40",
+          "percentGain": "-1.56"
+        },
+        {
+          "company": "Nestle",
+          "high": "2,383.65",
+          "low": "2,326.10",
+          "lastPrice": "2,348.15",
+          "prevClose": "2,378.70",
+          "change": "-30.55",
+          "percentGain": "-1.28"
+        },
+        {
+          "company": "Nestle",
+          "high": "2,383.65",
+          "low": "2,326.10",
+          "lastPrice": "2,348.15",
+          "prevClose": "2,378.70",
+          "change": "-30.55",
+          "percentGain": "-1.28"
         }
       ]
     }
