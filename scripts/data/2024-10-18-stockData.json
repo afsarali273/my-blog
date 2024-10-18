@@ -3,12 +3,112 @@
     {
       "time": "3:51:41 AM",
       "data": []
+    },
+    {
+      "time": "4:19:10 AM",
+      "data": [
+        {
+          "company": "Wipro",
+          "high": "557.05",
+          "low": "524.80",
+          "lastPrice": "553.60",
+          "prevClose": "528.75",
+          "change": "24.85",
+          "percentGain": "4.70"
+        },
+        {
+          "company": "Axis Bank",
+          "high": "1,176.35",
+          "low": "1,156.05",
+          "lastPrice": "1,175.60",
+          "prevClose": "1,131.85",
+          "change": "43.75",
+          "percentGain": "3.87"
+        },
+        {
+          "company": "Eicher Motors",
+          "high": "4,750.00",
+          "low": "4,612.05",
+          "lastPrice": "4,721.65",
+          "prevClose": "4,623.85",
+          "change": "97.80",
+          "percentGain": "2.12"
+        },
+        {
+          "company": "Tata Motors",
+          "high": "904.65",
+          "low": "886.80",
+          "lastPrice": "904.30",
+          "prevClose": "891.60",
+          "change": "12.70",
+          "percentGain": "1.42"
+        },
+        {
+          "company": "Tata Motors",
+          "high": "904.65",
+          "low": "886.80",
+          "lastPrice": "904.30",
+          "prevClose": "891.60",
+          "change": "12.70",
+          "percentGain": "1.42"
+        }
+      ]
     }
   ],
   "losers": [
     {
       "time": "3:51:41 AM",
       "data": []
+    },
+    {
+      "time": "4:19:10 AM",
+      "data": [
+        {
+          "company": "Infosys",
+          "high": "1,936.85",
+          "low": "1,889.00",
+          "lastPrice": "1,910.15",
+          "prevClose": "1,968.10",
+          "change": "-57.95",
+          "percentGain": "-2.94"
+        },
+        {
+          "company": "Titan Company",
+          "high": "3,395.00",
+          "low": "3,296.10",
+          "lastPrice": "3,319.80",
+          "prevClose": "3,403.35",
+          "change": "-83.55",
+          "percentGain": "-2.45"
+        },
+        {
+          "company": "ITC",
+          "high": "491.55",
+          "low": "478.85",
+          "lastPrice": "479.60",
+          "prevClose": "488.90",
+          "change": "-9.30",
+          "percentGain": "-1.90"
+        },
+        {
+          "company": "BPCL",
+          "high": "342.70",
+          "low": "335.00",
+          "lastPrice": "336.50",
+          "prevClose": "342.70",
+          "change": "-6.20",
+          "percentGain": "-1.81"
+        },
+        {
+          "company": "Nestle",
+          "high": "2,383.65",
+          "low": "2,326.10",
+          "lastPrice": "2,339.00",
+          "prevClose": "2,378.70",
+          "change": "-39.70",
+          "percentGain": "-1.67"
+        }
+      ]
     }
   ]
 }
