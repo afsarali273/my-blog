@@ -611,6 +611,56 @@
           "percentGain": "2.51"
         }
       ]
+    },
+    {
+      "time": "8:42:50 AM",
+      "data": [
+        {
+          "company": "Axis Bank",
+          "high": "1,203.85",
+          "low": "1,156.05",
+          "lastPrice": "1,197.20",
+          "prevClose": "1,131.85",
+          "change": "65.35",
+          "percentGain": "5.77"
+        },
+        {
+          "company": "Wipro",
+          "high": "558.40",
+          "low": "524.80",
+          "lastPrice": "550.90",
+          "prevClose": "528.75",
+          "change": "22.15",
+          "percentGain": "4.19"
+        },
+        {
+          "company": "Eicher Motors",
+          "high": "4,799.90",
+          "low": "4,612.05",
+          "lastPrice": "4,772.15",
+          "prevClose": "4,623.85",
+          "change": "148.30",
+          "percentGain": "3.21"
+        },
+        {
+          "company": "Shriram Finance",
+          "high": "3,362.70",
+          "low": "3,145.75",
+          "lastPrice": "3,360.00",
+          "prevClose": "3,258.60",
+          "change": "101.40",
+          "percentGain": "3.11"
+        },
+        {
+          "company": "Hindalco",
+          "high": "754.45",
+          "low": "725.05",
+          "lastPrice": "753.40",
+          "prevClose": "734.80",
+          "change": "18.60",
+          "percentGain": "2.53"
+        }
+      ]
     }
   ],
   "losers": [
@@ -1223,6 +1273,56 @@
           "prevClose": "3,055.85",
           "change": "-32.05",
           "percentGain": "-1.05"
+        }
+      ]
+    },
+    {
+      "time": "8:42:50 AM",
+      "data": [
+        {
+          "company": "Infosys",
+          "high": "1,936.85",
+          "low": "1,869.25",
+          "lastPrice": "1,878.35",
+          "prevClose": "1,968.10",
+          "change": "-89.75",
+          "percentGain": "-4.56"
+        },
+        {
+          "company": "Britannia",
+          "high": "5,998.00",
+          "low": "5,876.05",
+          "lastPrice": "5,890.70",
+          "prevClose": "5,988.50",
+          "change": "-97.80",
+          "percentGain": "-1.63"
+        },
+        {
+          "company": "Asian Paints",
+          "high": "3,069.00",
+          "low": "3,004.05",
+          "lastPrice": "3,009.00",
+          "prevClose": "3,055.85",
+          "change": "-46.85",
+          "percentGain": "-1.53"
+        },
+        {
+          "company": "Nestle",
+          "high": "2,383.65",
+          "low": "2,326.10",
+          "lastPrice": "2,349.00",
+          "prevClose": "2,378.70",
+          "change": "-29.70",
+          "percentGain": "-1.25"
+        },
+        {
+          "company": "Nestle",
+          "high": "2,383.65",
+          "low": "2,326.10",
+          "lastPrice": "2,349.00",
+          "prevClose": "2,378.70",
+          "change": "-29.70",
+          "percentGain": "-1.25"
         }
       ]
     }
