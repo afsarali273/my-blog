@@ -461,6 +461,56 @@
           "percentGain": "2.40"
         }
       ]
+    },
+    {
+      "time": "7:40:15 AM",
+      "data": [
+        {
+          "company": "Axis Bank",
+          "high": "1,198.95",
+          "low": "1,156.05",
+          "lastPrice": "1,195.50",
+          "prevClose": "1,131.85",
+          "change": "63.65",
+          "percentGain": "5.62"
+        },
+        {
+          "company": "Wipro",
+          "high": "558.40",
+          "low": "524.80",
+          "lastPrice": "550.90",
+          "prevClose": "528.75",
+          "change": "22.15",
+          "percentGain": "4.19"
+        },
+        {
+          "company": "Eicher Motors",
+          "high": "4,799.90",
+          "low": "4,612.05",
+          "lastPrice": "4,774.45",
+          "prevClose": "4,623.85",
+          "change": "150.60",
+          "percentGain": "3.26"
+        },
+        {
+          "company": "Tata Motors",
+          "high": "916.00",
+          "low": "886.80",
+          "lastPrice": "913.80",
+          "prevClose": "891.60",
+          "change": "22.20",
+          "percentGain": "2.49"
+        },
+        {
+          "company": "Tata Motors",
+          "high": "916.00",
+          "low": "886.80",
+          "lastPrice": "913.80",
+          "prevClose": "891.60",
+          "change": "22.20",
+          "percentGain": "2.49"
+        }
+      ]
     }
   ],
   "losers": [
@@ -923,6 +973,56 @@
           "prevClose": "2,738.65",
           "change": "-21.55",
           "percentGain": "-0.79"
+        }
+      ]
+    },
+    {
+      "time": "7:40:15 AM",
+      "data": [
+        {
+          "company": "Infosys",
+          "high": "1,936.85",
+          "low": "1,869.25",
+          "lastPrice": "1,880.10",
+          "prevClose": "1,968.10",
+          "change": "-88.00",
+          "percentGain": "-4.47"
+        },
+        {
+          "company": "Britannia",
+          "high": "5,998.00",
+          "low": "5,876.05",
+          "lastPrice": "5,894.60",
+          "prevClose": "5,988.50",
+          "change": "-93.90",
+          "percentGain": "-1.57"
+        },
+        {
+          "company": "Nestle",
+          "high": "2,383.65",
+          "low": "2,326.10",
+          "lastPrice": "2,353.10",
+          "prevClose": "2,378.70",
+          "change": "-25.60",
+          "percentGain": "-1.08"
+        },
+        {
+          "company": "Nestle",
+          "high": "2,383.65",
+          "low": "2,326.10",
+          "lastPrice": "2,353.10",
+          "prevClose": "2,378.70",
+          "change": "-25.60",
+          "percentGain": "-1.08"
+        },
+        {
+          "company": "HUL",
+          "high": "2,740.00",
+          "low": "2,693.45",
+          "lastPrice": "2,711.50",
+          "prevClose": "2,738.65",
+          "change": "-27.15",
+          "percentGain": "-0.99"
         }
       ]
     }
