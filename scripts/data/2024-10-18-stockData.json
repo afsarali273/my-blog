@@ -57,6 +57,56 @@
     {
       "time": "4:42:30 AM",
       "data": []
+    },
+    {
+      "time": "4:52:08 AM",
+      "data": [
+        {
+          "company": "Axis Bank",
+          "high": "1,186.55",
+          "low": "1,156.05",
+          "lastPrice": "1,183.50",
+          "prevClose": "1,131.85",
+          "change": "51.65",
+          "percentGain": "4.56"
+        },
+        {
+          "company": "Wipro",
+          "high": "558.40",
+          "low": "524.80",
+          "lastPrice": "548.10",
+          "prevClose": "528.75",
+          "change": "19.35",
+          "percentGain": "3.66"
+        },
+        {
+          "company": "Eicher Motors",
+          "high": "4,782.70",
+          "low": "4,612.05",
+          "lastPrice": "4,780.00",
+          "prevClose": "4,623.85",
+          "change": "156.15",
+          "percentGain": "3.38"
+        },
+        {
+          "company": "Tata Motors",
+          "high": "905.80",
+          "low": "886.80",
+          "lastPrice": "904.60",
+          "prevClose": "891.60",
+          "change": "13.00",
+          "percentGain": "1.46"
+        },
+        {
+          "company": "Tata Motors",
+          "high": "905.80",
+          "low": "886.80",
+          "lastPrice": "904.60",
+          "prevClose": "891.60",
+          "change": "13.00",
+          "percentGain": "1.46"
+        }
+      ]
     }
   ],
   "losers": [
@@ -117,6 +167,56 @@
     {
       "time": "4:42:30 AM",
       "data": []
+    },
+    {
+      "time": "4:52:08 AM",
+      "data": [
+        {
+          "company": "Infosys",
+          "high": "1,936.85",
+          "low": "1,883.00",
+          "lastPrice": "1,885.85",
+          "prevClose": "1,968.10",
+          "change": "-82.25",
+          "percentGain": "-4.18"
+        },
+        {
+          "company": "Tech Mahindra",
+          "high": "1,696.95",
+          "low": "1,645.60",
+          "lastPrice": "1,646.40",
+          "prevClose": "1,699.00",
+          "change": "-52.60",
+          "percentGain": "-3.10"
+        },
+        {
+          "company": "ITC",
+          "high": "491.55",
+          "low": "478.40",
+          "lastPrice": "479.95",
+          "prevClose": "488.90",
+          "change": "-8.95",
+          "percentGain": "-1.83"
+        },
+        {
+          "company": "BPCL",
+          "high": "342.70",
+          "low": "334.30",
+          "lastPrice": "336.55",
+          "prevClose": "342.70",
+          "change": "-6.15",
+          "percentGain": "-1.79"
+        },
+        {
+          "company": "HUL",
+          "high": "2,740.00",
+          "low": "2,694.50",
+          "lastPrice": "2,695.85",
+          "prevClose": "2,738.65",
+          "change": "-42.80",
+          "percentGain": "-1.56"
+        }
+      ]
     }
   ]
 }
