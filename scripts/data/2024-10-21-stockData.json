@@ -203,6 +203,56 @@
           "percentGain": "1.45"
         }
       ]
+    },
+    {
+      "time": "5:39:31 AM",
+      "data": [
+        {
+          "company": "HDFC Bank",
+          "high": "1,748.15",
+          "low": "1,711.05",
+          "lastPrice": "1,745.60",
+          "prevClose": "1,681.85",
+          "change": "63.75",
+          "percentGain": "3.79"
+        },
+        {
+          "company": "Bajaj Auto",
+          "high": "10,829.85",
+          "low": "9,881.40",
+          "lastPrice": "10,350.00",
+          "prevClose": "10,063.95",
+          "change": "286.05",
+          "percentGain": "2.84"
+        },
+        {
+          "company": "Eicher Motors",
+          "high": "4,852.85",
+          "low": "4,743.00",
+          "lastPrice": "4,840.40",
+          "prevClose": "4,765.65",
+          "change": "74.75",
+          "percentGain": "1.57"
+        },
+        {
+          "company": "HDFC Life",
+          "high": "755.45",
+          "low": "746.20",
+          "lastPrice": "752.45",
+          "prevClose": "742.45",
+          "change": "10.00",
+          "percentGain": "1.35"
+        },
+        {
+          "company": "Asian Paints",
+          "high": "3,035.00",
+          "low": "3,000.55",
+          "lastPrice": "3,024.70",
+          "prevClose": "2,992.15",
+          "change": "32.55",
+          "percentGain": "1.09"
+        }
+      ]
     }
   ],
   "losers": [
@@ -398,6 +448,56 @@
           "prevClose": "1,347.25",
           "change": "-37.25",
           "percentGain": "-2.76"
+        },
+        {
+          "company": "ONGC",
+          "high": "284.00",
+          "low": "277.00",
+          "lastPrice": "277.95",
+          "prevClose": "283.30",
+          "change": "-5.35",
+          "percentGain": "-1.89"
+        }
+      ]
+    },
+    {
+      "time": "5:39:31 AM",
+      "data": [
+        {
+          "company": "TATA Cons. Prod",
+          "high": "1,059.45",
+          "low": "986.35",
+          "lastPrice": "997.90",
+          "prevClose": "1,093.25",
+          "change": "-95.35",
+          "percentGain": "-8.72"
+        },
+        {
+          "company": "Kotak Mahindra",
+          "high": "1,855.00",
+          "low": "1,735.00",
+          "lastPrice": "1,753.65",
+          "prevClose": "1,871.05",
+          "change": "-117.40",
+          "percentGain": "-6.27"
+        },
+        {
+          "company": "BPCL",
+          "high": "345.50",
+          "low": "331.30",
+          "lastPrice": "332.90",
+          "prevClose": "342.50",
+          "change": "-9.60",
+          "percentGain": "-2.80"
+        },
+        {
+          "company": "IndusInd Bank",
+          "high": "1,353.95",
+          "low": "1,308.15",
+          "lastPrice": "1,312.80",
+          "prevClose": "1,347.25",
+          "change": "-34.45",
+          "percentGain": "-2.56"
         },
         {
           "company": "ONGC",
