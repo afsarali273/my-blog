@@ -519,6 +519,56 @@
           "percentGain": "1.10"
         }
       ]
+    },
+    {
+      "time": "9:17:44 AM",
+      "data": [
+        {
+          "company": "Bajaj Auto",
+          "high": "10,829.85",
+          "low": "9,881.40",
+          "lastPrice": "10,493.80",
+          "prevClose": "10,063.95",
+          "change": "429.85",
+          "percentGain": "4.27"
+        },
+        {
+          "company": "HDFC Bank",
+          "high": "1,748.15",
+          "low": "1,711.05",
+          "lastPrice": "1,726.25",
+          "prevClose": "1,681.85",
+          "change": "44.40",
+          "percentGain": "2.64"
+        },
+        {
+          "company": "Asian Paints",
+          "high": "3,057.00",
+          "low": "3,000.55",
+          "lastPrice": "3,052.95",
+          "prevClose": "2,992.15",
+          "change": "60.80",
+          "percentGain": "2.03"
+        },
+        {
+          "company": "Eicher Motors",
+          "high": "4,852.85",
+          "low": "4,743.00",
+          "lastPrice": "4,824.95",
+          "prevClose": "4,765.65",
+          "change": "59.30",
+          "percentGain": "1.24"
+        },
+        {
+          "company": "Maruti Suzuki",
+          "high": "12,250.00",
+          "low": "11,944.55",
+          "lastPrice": "12,222.50",
+          "prevClose": "12,105.10",
+          "change": "117.40",
+          "percentGain": "0.97"
+        }
+      ]
     }
   ],
   "losers": [
@@ -1039,6 +1089,56 @@
           "prevClose": "1,819.90",
           "change": "-59.90",
           "percentGain": "-3.29"
+        }
+      ]
+    },
+    {
+      "time": "9:17:44 AM",
+      "data": [
+        {
+          "company": "TATA Cons. Prod",
+          "high": "1,059.45",
+          "low": "986.35",
+          "lastPrice": "1,021.00",
+          "prevClose": "1,093.25",
+          "change": "-72.25",
+          "percentGain": "-6.61"
+        },
+        {
+          "company": "Kotak Mahindra",
+          "high": "1,855.00",
+          "low": "1,735.00",
+          "lastPrice": "1,785.65",
+          "prevClose": "1,871.05",
+          "change": "-85.40",
+          "percentGain": "-4.56"
+        },
+        {
+          "company": "Bajaj Finserv",
+          "high": "1,823.90",
+          "low": "1,758.25",
+          "lastPrice": "1,758.90",
+          "prevClose": "1,819.90",
+          "change": "-61.00",
+          "percentGain": "-3.35"
+        },
+        {
+          "company": "Bajaj Finserv",
+          "high": "1,823.90",
+          "low": "1,758.25",
+          "lastPrice": "1,758.90",
+          "prevClose": "1,819.90",
+          "change": "-61.00",
+          "percentGain": "-3.35"
+        },
+        {
+          "company": "IndusInd Bank",
+          "high": "1,353.95",
+          "low": "1,299.60",
+          "lastPrice": "1,304.75",
+          "prevClose": "1,347.25",
+          "change": "-42.50",
+          "percentGain": "-3.15"
         }
       ]
     }
