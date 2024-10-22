@@ -707,6 +707,47 @@
           "percentGain": "0.29"
         }
       ]
+    },
+    {
+      "time": "9:16:28 AM",
+      "data": [
+        {
+          "company": "ICICI Bank",
+          "high": "1,284.90",
+          "low": "1,259.75",
+          "lastPrice": "1,272.80",
+          "prevClose": "1,259.05",
+          "change": "13.75",
+          "percentGain": "1.09"
+        },
+        {
+          "company": "UltraTechCement",
+          "high": "11,080.80",
+          "low": "10,740.00",
+          "lastPrice": "10,894.10",
+          "prevClose": "10,869.30",
+          "change": "24.80",
+          "percentGain": "0.23"
+        },
+        {
+          "company": "Nestle",
+          "high": "2,385.00",
+          "low": "2,347.05",
+          "lastPrice": "2,358.45",
+          "prevClose": "2,354.65",
+          "change": "3.80",
+          "percentGain": "0.16"
+        },
+        {
+          "company": "Nestle",
+          "high": "2,385.00",
+          "low": "2,347.05",
+          "lastPrice": "2,358.45",
+          "prevClose": "2,354.65",
+          "change": "3.80",
+          "percentGain": "0.16"
+        }
+      ]
     }
   ],
   "losers": [
@@ -1415,6 +1456,56 @@
           "prevClose": "155.03",
           "change": "-3.51",
           "percentGain": "-2.26"
+        }
+      ]
+    },
+    {
+      "time": "9:16:28 AM",
+      "data": [
+        {
+          "company": "Adani Enterpris",
+          "high": "2,955.00",
+          "low": "2,823.00",
+          "lastPrice": "2,836.15",
+          "prevClose": "2,937.65",
+          "change": "-101.50",
+          "percentGain": "-3.46"
+        },
+        {
+          "company": "Bharat Elec",
+          "high": "282.15",
+          "low": "272.30",
+          "lastPrice": "272.70",
+          "prevClose": "282.30",
+          "change": "-9.60",
+          "percentGain": "-3.40"
+        },
+        {
+          "company": "Coal India",
+          "high": "487.50",
+          "low": "469.50",
+          "lastPrice": "469.70",
+          "prevClose": "485.40",
+          "change": "-15.70",
+          "percentGain": "-3.23"
+        },
+        {
+          "company": "M&M",
+          "high": "3,008.95",
+          "low": "2,900.00",
+          "lastPrice": "2,905.75",
+          "prevClose": "2,998.20",
+          "change": "-92.45",
+          "percentGain": "-3.08"
+        },
+        {
+          "company": "Tata Motors",
+          "high": "906.10",
+          "low": "878.00",
+          "lastPrice": "879.35",
+          "prevClose": "903.30",
+          "change": "-23.95",
+          "percentGain": "-2.65"
         }
       ]
     }
