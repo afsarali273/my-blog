@@ -499,6 +499,56 @@
           "percentGain": "0.64"
         }
       ]
+    },
+    {
+      "time": "7:15:53 AM",
+      "data": [
+        {
+          "company": "ICICI Bank",
+          "high": "1,284.90",
+          "low": "1,259.75",
+          "lastPrice": "1,273.60",
+          "prevClose": "1,259.05",
+          "change": "14.55",
+          "percentGain": "1.16"
+        },
+        {
+          "company": "UltraTechCement",
+          "high": "11,080.80",
+          "low": "10,740.00",
+          "lastPrice": "10,952.00",
+          "prevClose": "10,869.30",
+          "change": "82.70",
+          "percentGain": "0.76"
+        },
+        {
+          "company": "Nestle",
+          "high": "2,385.00",
+          "low": "2,347.05",
+          "lastPrice": "2,369.40",
+          "prevClose": "2,354.65",
+          "change": "14.75",
+          "percentGain": "0.63"
+        },
+        {
+          "company": "Nestle",
+          "high": "2,385.00",
+          "low": "2,347.05",
+          "lastPrice": "2,369.40",
+          "prevClose": "2,354.65",
+          "change": "14.75",
+          "percentGain": "0.63"
+        },
+        {
+          "company": "Infosys",
+          "high": "1,877.80",
+          "low": "1,852.75",
+          "lastPrice": "1,861.20",
+          "prevClose": "1,852.75",
+          "change": "8.45",
+          "percentGain": "0.46"
+        }
+      ]
     }
   ],
   "losers": [
@@ -999,6 +1049,56 @@
           "prevClose": "903.30",
           "change": "-18.30",
           "percentGain": "-2.03"
+        }
+      ]
+    },
+    {
+      "time": "7:15:53 AM",
+      "data": [
+        {
+          "company": "Adani Enterpris",
+          "high": "2,955.00",
+          "low": "2,841.90",
+          "lastPrice": "2,845.00",
+          "prevClose": "2,937.65",
+          "change": "-92.65",
+          "percentGain": "-3.15"
+        },
+        {
+          "company": "M&M",
+          "high": "3,008.95",
+          "low": "2,915.00",
+          "lastPrice": "2,917.40",
+          "prevClose": "2,998.20",
+          "change": "-80.80",
+          "percentGain": "-2.69"
+        },
+        {
+          "company": "Bharat Elec",
+          "high": "282.15",
+          "low": "274.35",
+          "lastPrice": "274.85",
+          "prevClose": "282.30",
+          "change": "-7.45",
+          "percentGain": "-2.64"
+        },
+        {
+          "company": "SBI",
+          "high": "816.85",
+          "low": "795.20",
+          "lastPrice": "797.10",
+          "prevClose": "813.95",
+          "change": "-16.85",
+          "percentGain": "-2.07"
+        },
+        {
+          "company": "Tata Steel",
+          "high": "154.90",
+          "low": "151.43",
+          "lastPrice": "151.90",
+          "prevClose": "155.03",
+          "change": "-3.13",
+          "percentGain": "-2.02"
         }
       ]
     }
