@@ -199,6 +199,56 @@
           "percentGain": "0.63"
         }
       ]
+    },
+    {
+      "time": "5:15:16 AM",
+      "data": [
+        {
+          "company": "ICICI Bank",
+          "high": "1,283.00",
+          "low": "1,259.75",
+          "lastPrice": "1,280.55",
+          "prevClose": "1,259.05",
+          "change": "21.50",
+          "percentGain": "1.71"
+        },
+        {
+          "company": "Shriram Finance",
+          "high": "3,391.00",
+          "low": "3,285.30",
+          "lastPrice": "3,353.50",
+          "prevClose": "3,313.30",
+          "change": "40.20",
+          "percentGain": "1.21"
+        },
+        {
+          "company": "Nestle",
+          "high": "2,385.00",
+          "low": "2,347.05",
+          "lastPrice": "2,371.80",
+          "prevClose": "2,354.65",
+          "change": "17.15",
+          "percentGain": "0.73"
+        },
+        {
+          "company": "Nestle",
+          "high": "2,385.00",
+          "low": "2,347.05",
+          "lastPrice": "2,371.80",
+          "prevClose": "2,354.65",
+          "change": "17.15",
+          "percentGain": "0.73"
+        },
+        {
+          "company": "SBI Life Insura",
+          "high": "1,726.95",
+          "low": "1,672.90",
+          "lastPrice": "1,720.85",
+          "prevClose": "1,711.85",
+          "change": "9.00",
+          "percentGain": "0.53"
+        }
+      ]
     }
   ],
   "losers": [
@@ -399,6 +449,56 @@
           "prevClose": "282.30",
           "change": "-5.20",
           "percentGain": "-1.84"
+        }
+      ]
+    },
+    {
+      "time": "5:15:16 AM",
+      "data": [
+        {
+          "company": "Bharat Elec",
+          "high": "282.15",
+          "low": "274.60",
+          "lastPrice": "274.65",
+          "prevClose": "282.30",
+          "change": "-7.65",
+          "percentGain": "-2.71"
+        },
+        {
+          "company": "Tata Steel",
+          "high": "154.90",
+          "low": "151.43",
+          "lastPrice": "151.84",
+          "prevClose": "155.03",
+          "change": "-3.19",
+          "percentGain": "-2.06"
+        },
+        {
+          "company": "Tata Steel",
+          "high": "154.90",
+          "low": "151.43",
+          "lastPrice": "151.84",
+          "prevClose": "155.03",
+          "change": "-3.19",
+          "percentGain": "-2.06"
+        },
+        {
+          "company": "Tata Motors",
+          "high": "906.10",
+          "low": "880.40",
+          "lastPrice": "884.75",
+          "prevClose": "903.30",
+          "change": "-18.55",
+          "percentGain": "-2.05"
+        },
+        {
+          "company": "Tata Motors",
+          "high": "906.10",
+          "low": "880.40",
+          "lastPrice": "884.75",
+          "prevClose": "903.30",
+          "change": "-18.55",
+          "percentGain": "-2.05"
         }
       ]
     }
