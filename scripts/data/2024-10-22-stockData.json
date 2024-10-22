@@ -99,6 +99,56 @@
           "percentGain": "0.87"
         }
       ]
+    },
+    {
+      "time": "4:42:41 AM",
+      "data": [
+        {
+          "company": "ICICI Bank",
+          "high": "1,283.00",
+          "low": "1,259.75",
+          "lastPrice": "1,280.35",
+          "prevClose": "1,259.05",
+          "change": "21.30",
+          "percentGain": "1.69"
+        },
+        {
+          "company": "Shriram Finance",
+          "high": "3,391.00",
+          "low": "3,285.30",
+          "lastPrice": "3,356.20",
+          "prevClose": "3,313.30",
+          "change": "42.90",
+          "percentGain": "1.29"
+        },
+        {
+          "company": "Tech Mahindra",
+          "high": "1,726.95",
+          "low": "1,700.95",
+          "lastPrice": "1,718.10",
+          "prevClose": "1,701.20",
+          "change": "16.90",
+          "percentGain": "0.99"
+        },
+        {
+          "company": "Wipro",
+          "high": "555.50",
+          "low": "548.10",
+          "lastPrice": "552.80",
+          "prevClose": "548.10",
+          "change": "4.70",
+          "percentGain": "0.86"
+        },
+        {
+          "company": "Nestle",
+          "high": "2,385.00",
+          "low": "2,347.05",
+          "lastPrice": "2,373.35",
+          "prevClose": "2,354.65",
+          "change": "18.70",
+          "percentGain": "0.79"
+        }
+      ]
     }
   ],
   "losers": [
@@ -199,6 +249,56 @@
           "prevClose": "1,017.05",
           "change": "-6.15",
           "percentGain": "-0.60"
+        }
+      ]
+    },
+    {
+      "time": "4:42:41 AM",
+      "data": [
+        {
+          "company": "M&M",
+          "high": "3,008.95",
+          "low": "2,944.85",
+          "lastPrice": "2,953.05",
+          "prevClose": "2,998.20",
+          "change": "-45.15",
+          "percentGain": "-1.51"
+        },
+        {
+          "company": "Tata Steel",
+          "high": "154.90",
+          "low": "152.21",
+          "lastPrice": "152.73",
+          "prevClose": "155.03",
+          "change": "-2.30",
+          "percentGain": "-1.48"
+        },
+        {
+          "company": "Tata Steel",
+          "high": "154.90",
+          "low": "152.21",
+          "lastPrice": "152.73",
+          "prevClose": "155.03",
+          "change": "-2.30",
+          "percentGain": "-1.48"
+        },
+        {
+          "company": "Tata Motors",
+          "high": "906.10",
+          "low": "890.00",
+          "lastPrice": "890.30",
+          "prevClose": "903.30",
+          "change": "-13.00",
+          "percentGain": "-1.44"
+        },
+        {
+          "company": "Tata Motors",
+          "high": "906.10",
+          "low": "890.00",
+          "lastPrice": "890.30",
+          "prevClose": "903.30",
+          "change": "-13.00",
+          "percentGain": "-1.44"
         }
       ]
     }
