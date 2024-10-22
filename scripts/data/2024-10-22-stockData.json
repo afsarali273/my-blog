@@ -299,6 +299,56 @@
           "percentGain": "0.45"
         }
       ]
+    },
+    {
+      "time": "5:49:53 AM",
+      "data": [
+        {
+          "company": "ICICI Bank",
+          "high": "1,284.90",
+          "low": "1,259.75",
+          "lastPrice": "1,283.50",
+          "prevClose": "1,259.05",
+          "change": "24.45",
+          "percentGain": "1.94"
+        },
+        {
+          "company": "Shriram Finance",
+          "high": "3,391.00",
+          "low": "3,285.30",
+          "lastPrice": "3,343.70",
+          "prevClose": "3,313.30",
+          "change": "30.40",
+          "percentGain": "0.92"
+        },
+        {
+          "company": "Nestle",
+          "high": "2,385.00",
+          "low": "2,347.05",
+          "lastPrice": "2,368.25",
+          "prevClose": "2,354.65",
+          "change": "13.60",
+          "percentGain": "0.58"
+        },
+        {
+          "company": "Nestle",
+          "high": "2,385.00",
+          "low": "2,347.05",
+          "lastPrice": "2,368.25",
+          "prevClose": "2,354.65",
+          "change": "13.60",
+          "percentGain": "0.58"
+        },
+        {
+          "company": "Bajaj Auto",
+          "high": "10,573.25",
+          "low": "10,350.00",
+          "lastPrice": "10,550.30",
+          "prevClose": "10,500.50",
+          "change": "49.80",
+          "percentGain": "0.47"
+        }
+      ]
     }
   ],
   "losers": [
@@ -599,6 +649,56 @@
           "prevClose": "903.30",
           "change": "-13.25",
           "percentGain": "-1.47"
+        }
+      ]
+    },
+    {
+      "time": "5:49:53 AM",
+      "data": [
+        {
+          "company": "Tata Steel",
+          "high": "154.90",
+          "low": "151.43",
+          "lastPrice": "151.94",
+          "prevClose": "155.03",
+          "change": "-3.09",
+          "percentGain": "-1.99"
+        },
+        {
+          "company": "Tata Steel",
+          "high": "154.90",
+          "low": "151.43",
+          "lastPrice": "151.94",
+          "prevClose": "155.03",
+          "change": "-3.09",
+          "percentGain": "-1.99"
+        },
+        {
+          "company": "Bharat Elec",
+          "high": "282.15",
+          "low": "274.35",
+          "lastPrice": "276.75",
+          "prevClose": "282.30",
+          "change": "-5.55",
+          "percentGain": "-1.97"
+        },
+        {
+          "company": "Tata Motors",
+          "high": "906.10",
+          "low": "880.40",
+          "lastPrice": "889.25",
+          "prevClose": "903.30",
+          "change": "-14.05",
+          "percentGain": "-1.56"
+        },
+        {
+          "company": "Tata Motors",
+          "high": "906.10",
+          "low": "880.40",
+          "lastPrice": "889.25",
+          "prevClose": "903.30",
+          "change": "-14.05",
+          "percentGain": "-1.56"
         }
       ]
     }
