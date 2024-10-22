@@ -775,6 +775,20 @@
     {
       "time": "9:49:43 AM",
       "data": []
+    },
+    {
+      "time": "10:13:44 AM",
+      "data": [
+        {
+          "company": "ICICI Bank",
+          "high": "1,284.90",
+          "low": "1,259.75",
+          "lastPrice": "1,267.50",
+          "prevClose": "1,259.05",
+          "change": "8.45",
+          "percentGain": "0.67"
+        }
+      ]
     }
   ],
   "losers": [
@@ -1589,6 +1603,56 @@
     {
       "time": "9:49:43 AM",
       "data": []
+    },
+    {
+      "time": "10:13:44 AM",
+      "data": [
+        {
+          "company": "Adani Enterpris",
+          "high": "2,955.00",
+          "low": "2,818.00",
+          "lastPrice": "2,823.80",
+          "prevClose": "2,937.65",
+          "change": "-113.85",
+          "percentGain": "-3.88"
+        },
+        {
+          "company": "Bharat Elec",
+          "high": "282.15",
+          "low": "270.65",
+          "lastPrice": "271.65",
+          "prevClose": "282.30",
+          "change": "-10.65",
+          "percentGain": "-3.77"
+        },
+        {
+          "company": "M&M",
+          "high": "3,008.95",
+          "low": "2,878.20",
+          "lastPrice": "2,887.20",
+          "prevClose": "2,998.20",
+          "change": "-111.00",
+          "percentGain": "-3.70"
+        },
+        {
+          "company": "Coal India",
+          "high": "487.50",
+          "low": "467.20",
+          "lastPrice": "468.35",
+          "prevClose": "485.40",
+          "change": "-17.05",
+          "percentGain": "-3.51"
+        },
+        {
+          "company": "Tata Steel",
+          "high": "154.90",
+          "low": "150.10",
+          "lastPrice": "150.39",
+          "prevClose": "155.03",
+          "change": "-4.64",
+          "percentGain": "-2.99"
+        }
+      ]
     }
   ]
 }
