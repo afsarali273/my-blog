@@ -1,0 +1,106 @@
+{
+  "gainers": [
+    {
+      "time": "3:51:12 AM",
+      "data": [
+        {
+          "company": "Bajaj Finance",
+          "high": "6,958.00",
+          "low": "6,601.00",
+          "lastPrice": "6,917.50",
+          "prevClose": "6,677.90",
+          "change": "239.60",
+          "percentGain": "3.59"
+        },
+        {
+          "company": "Bajaj Finserv",
+          "high": "1,763.95",
+          "low": "1,727.55",
+          "lastPrice": "1,761.05",
+          "prevClose": "1,722.60",
+          "change": "38.45",
+          "percentGain": "2.23"
+        },
+        {
+          "company": "Bajaj Finserv",
+          "high": "1,763.95",
+          "low": "1,727.55",
+          "lastPrice": "1,761.05",
+          "prevClose": "1,722.60",
+          "change": "38.45",
+          "percentGain": "2.23"
+        },
+        {
+          "company": "Adani Enterpris",
+          "high": "2,861.70",
+          "low": "2,820.10",
+          "lastPrice": "2,859.50",
+          "prevClose": "2,823.80",
+          "change": "35.70",
+          "percentGain": "1.26"
+        },
+        {
+          "company": "Bajaj Auto",
+          "high": "10,524.60",
+          "low": "10,342.45",
+          "lastPrice": "10,494.00",
+          "prevClose": "10,368.35",
+          "change": "125.65",
+          "percentGain": "1.21"
+        }
+      ]
+    }
+  ],
+  "losers": [
+    {
+      "time": "3:51:12 AM",
+      "data": [
+        {
+          "company": "M&M",
+          "high": "2,876.15",
+          "low": "2,829.90",
+          "lastPrice": "2,849.30",
+          "prevClose": "2,887.20",
+          "change": "-37.90",
+          "percentGain": "-1.31"
+        },
+        {
+          "company": "Eicher Motors",
+          "high": "4,725.45",
+          "low": "4,692.05",
+          "lastPrice": "4,710.35",
+          "prevClose": "4,759.05",
+          "change": "-48.70",
+          "percentGain": "-1.02"
+        },
+        {
+          "company": "Power Grid Corp",
+          "high": "320.90",
+          "low": "317.15",
+          "lastPrice": "320.15",
+          "prevClose": "322.75",
+          "change": "-2.60",
+          "percentGain": "-0.81"
+        },
+        {
+          "company": "HUL",
+          "high": "2,679.00",
+          "low": "2,621.00",
+          "lastPrice": "2,662.05",
+          "prevClose": "2,681.70",
+          "change": "-19.65",
+          "percentGain": "-0.73"
+        },
+        {
+          "company": "Asian Paints",
+          "high": "3,007.65",
+          "low": "2,983.55",
+          "lastPrice": "2,985.90",
+          "prevClose": "3,006.85",
+          "change": "-20.95",
+          "percentGain": "-0.70"
+        }
+      ]
+    }
+  ]
+}
