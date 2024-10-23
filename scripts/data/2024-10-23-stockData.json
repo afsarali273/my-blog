@@ -619,6 +619,56 @@
     {
       "time": "9:16:30 AM",
       "data": []
+    },
+    {
+      "time": "9:38:03 AM",
+      "data": [
+        {
+          "company": "Bajaj Finance",
+          "high": "7,098.85",
+          "low": "6,601.00",
+          "lastPrice": "6,990.00",
+          "prevClose": "6,677.90",
+          "change": "312.10",
+          "percentGain": "4.67"
+        },
+        {
+          "company": "Bajaj Auto",
+          "high": "10,735.10",
+          "low": "10,342.45",
+          "lastPrice": "10,615.00",
+          "prevClose": "10,368.35",
+          "change": "246.65",
+          "percentGain": "2.38"
+        },
+        {
+          "company": "Tech Mahindra",
+          "high": "1,749.00",
+          "low": "1,685.60",
+          "lastPrice": "1,733.60",
+          "prevClose": "1,696.55",
+          "change": "37.05",
+          "percentGain": "2.18"
+        },
+        {
+          "company": "TATA Cons. Prod",
+          "high": "1,016.25",
+          "low": "995.00",
+          "lastPrice": "1,014.95",
+          "prevClose": "998.25",
+          "change": "16.70",
+          "percentGain": "1.67"
+        },
+        {
+          "company": "HCL Tech",
+          "high": "1,865.00",
+          "low": "1,793.50",
+          "lastPrice": "1,849.85",
+          "prevClose": "1,822.75",
+          "change": "27.10",
+          "percentGain": "1.49"
+        }
+      ]
     }
   ],
   "losers": [
@@ -1241,6 +1291,56 @@
     {
       "time": "9:16:30 AM",
       "data": []
+    },
+    {
+      "time": "9:38:03 AM",
+      "data": [
+        {
+          "company": "M&M",
+          "high": "2,924.90",
+          "low": "2,800.45",
+          "lastPrice": "2,803.70",
+          "prevClose": "2,887.20",
+          "change": "-83.50",
+          "percentGain": "-2.89"
+        },
+        {
+          "company": "Sun Pharma",
+          "high": "1,889.55",
+          "low": "1,835.45",
+          "lastPrice": "1,844.55",
+          "prevClose": "1,887.55",
+          "change": "-43.00",
+          "percentGain": "-2.28"
+        },
+        {
+          "company": "NTPC",
+          "high": "414.75",
+          "low": "401.70",
+          "lastPrice": "408.00",
+          "prevClose": "415.75",
+          "change": "-7.75",
+          "percentGain": "-1.86"
+        },
+        {
+          "company": "Power Grid Corp",
+          "high": "321.90",
+          "low": "313.85",
+          "lastPrice": "317.55",
+          "prevClose": "322.75",
+          "change": "-5.20",
+          "percentGain": "-1.61"
+        },
+        {
+          "company": "Shriram Finance",
+          "high": "3,260.50",
+          "low": "3,170.05",
+          "lastPrice": "3,202.25",
+          "prevClose": "3,254.50",
+          "change": "-52.25",
+          "percentGain": "-1.61"
+        }
+      ]
     }
   ]
 }
