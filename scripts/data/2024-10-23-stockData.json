@@ -99,6 +99,56 @@
           "percentGain": "1.41"
         }
       ]
+    },
+    {
+      "time": "4:40:51 AM",
+      "data": [
+        {
+          "company": "Bajaj Finance",
+          "high": "7,029.00",
+          "low": "6,601.00",
+          "lastPrice": "7,022.45",
+          "prevClose": "6,677.90",
+          "change": "344.55",
+          "percentGain": "5.16"
+        },
+        {
+          "company": "Bajaj Finserv",
+          "high": "1,766.05",
+          "low": "1,727.55",
+          "lastPrice": "1,763.00",
+          "prevClose": "1,722.60",
+          "change": "40.40",
+          "percentGain": "2.35"
+        },
+        {
+          "company": "Bajaj Finserv",
+          "high": "1,766.05",
+          "low": "1,727.55",
+          "lastPrice": "1,763.00",
+          "prevClose": "1,722.60",
+          "change": "40.40",
+          "percentGain": "2.35"
+        },
+        {
+          "company": "Bajaj Auto",
+          "high": "10,556.00",
+          "low": "10,342.45",
+          "lastPrice": "10,533.90",
+          "prevClose": "10,368.35",
+          "change": "165.55",
+          "percentGain": "1.60"
+        },
+        {
+          "company": "HDFC Bank",
+          "high": "1,744.80",
+          "low": "1,705.05",
+          "lastPrice": "1,739.00",
+          "prevClose": "1,714.55",
+          "change": "24.45",
+          "percentGain": "1.43"
+        }
+      ]
     }
   ],
   "losers": [
@@ -199,6 +249,56 @@
           "prevClose": "468.35",
           "change": "-8.60",
           "percentGain": "-1.84"
+        }
+      ]
+    },
+    {
+      "time": "4:40:51 AM",
+      "data": [
+        {
+          "company": "NTPC",
+          "high": "414.75",
+          "low": "401.70",
+          "lastPrice": "406.50",
+          "prevClose": "415.75",
+          "change": "-9.25",
+          "percentGain": "-2.22"
+        },
+        {
+          "company": "Power Grid Corp",
+          "high": "320.90",
+          "low": "313.85",
+          "lastPrice": "318.60",
+          "prevClose": "322.75",
+          "change": "-4.15",
+          "percentGain": "-1.29"
+        },
+        {
+          "company": "M&M",
+          "high": "2,876.15",
+          "low": "2,816.80",
+          "lastPrice": "2,850.15",
+          "prevClose": "2,887.20",
+          "change": "-37.05",
+          "percentGain": "-1.28"
+        },
+        {
+          "company": "Eicher Motors",
+          "high": "4,725.45",
+          "low": "4,672.75",
+          "lastPrice": "4,701.30",
+          "prevClose": "4,759.05",
+          "change": "-57.75",
+          "percentGain": "-1.21"
+        },
+        {
+          "company": "Shriram Finance",
+          "high": "3,260.50",
+          "low": "3,170.05",
+          "lastPrice": "3,223.65",
+          "prevClose": "3,254.50",
+          "change": "-30.85",
+          "percentGain": "-0.95"
         }
       ]
     }
