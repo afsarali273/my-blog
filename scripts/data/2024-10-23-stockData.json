@@ -49,6 +49,56 @@
           "percentGain": "1.21"
         }
       ]
+    },
+    {
+      "time": "4:18:40 AM",
+      "data": [
+        {
+          "company": "Bajaj Finance",
+          "high": "6,970.00",
+          "low": "6,601.00",
+          "lastPrice": "6,963.90",
+          "prevClose": "6,677.90",
+          "change": "286.00",
+          "percentGain": "4.28"
+        },
+        {
+          "company": "Bajaj Finserv",
+          "high": "1,763.95",
+          "low": "1,727.55",
+          "lastPrice": "1,752.35",
+          "prevClose": "1,722.60",
+          "change": "29.75",
+          "percentGain": "1.73"
+        },
+        {
+          "company": "Bajaj Finserv",
+          "high": "1,763.95",
+          "low": "1,727.55",
+          "lastPrice": "1,752.35",
+          "prevClose": "1,722.60",
+          "change": "29.75",
+          "percentGain": "1.73"
+        },
+        {
+          "company": "Bajaj Auto",
+          "high": "10,556.00",
+          "low": "10,342.45",
+          "lastPrice": "10,536.20",
+          "prevClose": "10,368.35",
+          "change": "167.85",
+          "percentGain": "1.62"
+        },
+        {
+          "company": "HDFC Bank",
+          "high": "1,741.00",
+          "low": "1,705.05",
+          "lastPrice": "1,738.80",
+          "prevClose": "1,714.55",
+          "change": "24.25",
+          "percentGain": "1.41"
+        }
+      ]
     }
   ],
   "losers": [
@@ -99,6 +149,56 @@
           "prevClose": "3,006.85",
           "change": "-20.95",
           "percentGain": "-0.70"
+        }
+      ]
+    },
+    {
+      "time": "4:18:40 AM",
+      "data": [
+        {
+          "company": "NTPC",
+          "high": "414.75",
+          "low": "402.55",
+          "lastPrice": "402.80",
+          "prevClose": "415.75",
+          "change": "-12.95",
+          "percentGain": "-3.11"
+        },
+        {
+          "company": "Power Grid Corp",
+          "high": "320.90",
+          "low": "314.20",
+          "lastPrice": "314.35",
+          "prevClose": "322.75",
+          "change": "-8.40",
+          "percentGain": "-2.60"
+        },
+        {
+          "company": "Shriram Finance",
+          "high": "3,260.50",
+          "low": "3,170.05",
+          "lastPrice": "3,171.15",
+          "prevClose": "3,254.50",
+          "change": "-83.35",
+          "percentGain": "-2.56"
+        },
+        {
+          "company": "ONGC",
+          "high": "271.65",
+          "low": "265.05",
+          "lastPrice": "265.70",
+          "prevClose": "270.80",
+          "change": "-5.10",
+          "percentGain": "-1.88"
+        },
+        {
+          "company": "Coal India",
+          "high": "470.80",
+          "low": "459.10",
+          "lastPrice": "459.75",
+          "prevClose": "468.35",
+          "change": "-8.60",
+          "percentGain": "-1.84"
         }
       ]
     }
