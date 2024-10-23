@@ -561,6 +561,56 @@
           "percentGain": "2.48"
         }
       ]
+    },
+    {
+      "time": "8:42:59 AM",
+      "data": [
+        {
+          "company": "Bajaj Finance",
+          "high": "7,098.85",
+          "low": "6,601.00",
+          "lastPrice": "7,053.90",
+          "prevClose": "6,677.90",
+          "change": "376.00",
+          "percentGain": "5.63"
+        },
+        {
+          "company": "Tech Mahindra",
+          "high": "1,749.00",
+          "low": "1,685.60",
+          "lastPrice": "1,738.80",
+          "prevClose": "1,696.55",
+          "change": "42.25",
+          "percentGain": "2.49"
+        },
+        {
+          "company": "Bajaj Auto",
+          "high": "10,735.10",
+          "low": "10,342.45",
+          "lastPrice": "10,625.55",
+          "prevClose": "10,368.35",
+          "change": "257.20",
+          "percentGain": "2.48"
+        },
+        {
+          "company": "Bajaj Finserv",
+          "high": "1,779.50",
+          "low": "1,727.55",
+          "lastPrice": "1,764.50",
+          "prevClose": "1,722.60",
+          "change": "41.90",
+          "percentGain": "2.43"
+        },
+        {
+          "company": "Bajaj Finserv",
+          "high": "1,779.50",
+          "low": "1,727.55",
+          "lastPrice": "1,764.50",
+          "prevClose": "1,722.60",
+          "change": "41.90",
+          "percentGain": "2.43"
+        }
+      ]
     }
   ],
   "losers": [
@@ -1123,6 +1173,56 @@
           "prevClose": "1,887.55",
           "change": "-23.55",
           "percentGain": "-1.25"
+        }
+      ]
+    },
+    {
+      "time": "8:42:59 AM",
+      "data": [
+        {
+          "company": "M&M",
+          "high": "2,924.90",
+          "low": "2,816.80",
+          "lastPrice": "2,833.45",
+          "prevClose": "2,887.20",
+          "change": "-53.75",
+          "percentGain": "-1.86"
+        },
+        {
+          "company": "Eicher Motors",
+          "high": "4,725.45",
+          "low": "4,672.25",
+          "lastPrice": "4,675.15",
+          "prevClose": "4,759.05",
+          "change": "-83.90",
+          "percentGain": "-1.76"
+        },
+        {
+          "company": "NTPC",
+          "high": "414.75",
+          "low": "401.70",
+          "lastPrice": "408.65",
+          "prevClose": "415.75",
+          "change": "-7.10",
+          "percentGain": "-1.71"
+        },
+        {
+          "company": "ICICI Bank",
+          "high": "1,267.95",
+          "low": "1,243.05",
+          "lastPrice": "1,248.35",
+          "prevClose": "1,267.50",
+          "change": "-19.15",
+          "percentGain": "-1.51"
+        },
+        {
+          "company": "Sun Pharma",
+          "high": "1,889.55",
+          "low": "1,860.05",
+          "lastPrice": "1,861.25",
+          "prevClose": "1,887.55",
+          "change": "-26.30",
+          "percentGain": "-1.39"
         }
       ]
     }
