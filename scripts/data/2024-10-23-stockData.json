@@ -457,6 +457,56 @@
           "percentGain": "2.45"
         }
       ]
+    },
+    {
+      "time": "7:38:03 AM",
+      "data": [
+        {
+          "company": "Bajaj Finance",
+          "high": "7,098.85",
+          "low": "6,601.00",
+          "lastPrice": "7,062.00",
+          "prevClose": "6,677.90",
+          "change": "384.10",
+          "percentGain": "5.75"
+        },
+        {
+          "company": "Tech Mahindra",
+          "high": "1,747.95",
+          "low": "1,685.60",
+          "lastPrice": "1,745.85",
+          "prevClose": "1,696.55",
+          "change": "49.30",
+          "percentGain": "2.91"
+        },
+        {
+          "company": "Bajaj Auto",
+          "high": "10,735.10",
+          "low": "10,342.45",
+          "lastPrice": "10,666.40",
+          "prevClose": "10,368.35",
+          "change": "298.05",
+          "percentGain": "2.87"
+        },
+        {
+          "company": "Bajaj Finserv",
+          "high": "1,774.40",
+          "low": "1,727.55",
+          "lastPrice": "1,768.95",
+          "prevClose": "1,722.60",
+          "change": "46.35",
+          "percentGain": "2.69"
+        },
+        {
+          "company": "Bajaj Finserv",
+          "high": "1,774.40",
+          "low": "1,727.55",
+          "lastPrice": "1,768.95",
+          "prevClose": "1,722.60",
+          "change": "46.35",
+          "percentGain": "2.69"
+        }
+      ]
     }
   ],
   "losers": [
@@ -915,6 +965,56 @@
           "prevClose": "3,254.50",
           "change": "-34.50",
           "percentGain": "-1.06"
+        }
+      ]
+    },
+    {
+      "time": "7:38:03 AM",
+      "data": [
+        {
+          "company": "NTPC",
+          "high": "414.75",
+          "low": "401.70",
+          "lastPrice": "408.65",
+          "prevClose": "415.75",
+          "change": "-7.10",
+          "percentGain": "-1.71"
+        },
+        {
+          "company": "ICICI Bank",
+          "high": "1,267.95",
+          "low": "1,243.05",
+          "lastPrice": "1,246.70",
+          "prevClose": "1,267.50",
+          "change": "-20.80",
+          "percentGain": "-1.64"
+        },
+        {
+          "company": "Adani Ports",
+          "high": "1,370.80",
+          "low": "1,340.60",
+          "lastPrice": "1,343.25",
+          "prevClose": "1,362.85",
+          "change": "-19.60",
+          "percentGain": "-1.44"
+        },
+        {
+          "company": "Eicher Motors",
+          "high": "4,725.45",
+          "low": "4,672.75",
+          "lastPrice": "4,698.70",
+          "prevClose": "4,759.05",
+          "change": "-60.35",
+          "percentGain": "-1.27"
+        },
+        {
+          "company": "M&M",
+          "high": "2,924.90",
+          "low": "2,816.80",
+          "lastPrice": "2,854.20",
+          "prevClose": "2,887.20",
+          "change": "-33.00",
+          "percentGain": "-1.14"
         }
       ]
     }
