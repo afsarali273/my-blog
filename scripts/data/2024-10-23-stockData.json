@@ -669,6 +669,56 @@
           "percentGain": "1.49"
         }
       ]
+    },
+    {
+      "time": "9:49:55 AM",
+      "data": [
+        {
+          "company": "Bajaj Finance",
+          "high": "7,098.85",
+          "low": "6,601.00",
+          "lastPrice": "7,000.25",
+          "prevClose": "6,677.90",
+          "change": "322.35",
+          "percentGain": "4.83"
+        },
+        {
+          "company": "Tech Mahindra",
+          "high": "1,749.00",
+          "low": "1,685.60",
+          "lastPrice": "1,738.40",
+          "prevClose": "1,696.55",
+          "change": "41.85",
+          "percentGain": "2.47"
+        },
+        {
+          "company": "Bajaj Auto",
+          "high": "10,735.10",
+          "low": "10,342.45",
+          "lastPrice": "10,568.70",
+          "prevClose": "10,368.35",
+          "change": "200.35",
+          "percentGain": "1.93"
+        },
+        {
+          "company": "TATA Cons. Prod",
+          "high": "1,016.45",
+          "low": "995.00",
+          "lastPrice": "1,015.80",
+          "prevClose": "998.25",
+          "change": "17.55",
+          "percentGain": "1.76"
+        },
+        {
+          "company": "Coal India",
+          "high": "476.05",
+          "low": "458.95",
+          "lastPrice": "475.45",
+          "prevClose": "468.35",
+          "change": "7.10",
+          "percentGain": "1.52"
+        }
+      ]
     }
   ],
   "losers": [
@@ -1339,6 +1389,56 @@
           "prevClose": "3,254.50",
           "change": "-52.25",
           "percentGain": "-1.61"
+        }
+      ]
+    },
+    {
+      "time": "9:49:55 AM",
+      "data": [
+        {
+          "company": "M&M",
+          "high": "2,924.90",
+          "low": "2,786.10",
+          "lastPrice": "2,787.95",
+          "prevClose": "2,887.20",
+          "change": "-99.25",
+          "percentGain": "-3.44"
+        },
+        {
+          "company": "Sun Pharma",
+          "high": "1,889.55",
+          "low": "1,835.45",
+          "lastPrice": "1,838.70",
+          "prevClose": "1,887.55",
+          "change": "-48.85",
+          "percentGain": "-2.59"
+        },
+        {
+          "company": "Eicher Motors",
+          "high": "4,725.45",
+          "low": "4,654.50",
+          "lastPrice": "4,667.00",
+          "prevClose": "4,759.05",
+          "change": "-92.05",
+          "percentGain": "-1.93"
+        },
+        {
+          "company": "Power Grid Corp",
+          "high": "321.90",
+          "low": "313.85",
+          "lastPrice": "316.65",
+          "prevClose": "322.75",
+          "change": "-6.10",
+          "percentGain": "-1.89"
+        },
+        {
+          "company": "Shriram Finance",
+          "high": "3,260.50",
+          "low": "3,170.05",
+          "lastPrice": "3,195.15",
+          "prevClose": "3,254.50",
+          "change": "-59.35",
+          "percentGain": "-1.82"
         }
       ]
     }
