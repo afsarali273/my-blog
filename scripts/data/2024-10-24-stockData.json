@@ -311,6 +311,56 @@
     {
       "time": "6:45:02 AM",
       "data": []
+    },
+    {
+      "time": "6:54:46 AM",
+      "data": [
+        {
+          "company": "UltraTechCement",
+          "high": "11,005.55",
+          "low": "10,718.40",
+          "lastPrice": "10,979.90",
+          "prevClose": "10,753.05",
+          "change": "226.85",
+          "percentGain": "2.11"
+        },
+        {
+          "company": "HDFC Bank",
+          "high": "1,768.65",
+          "low": "1,738.10",
+          "lastPrice": "1,761.65",
+          "prevClose": "1,735.80",
+          "change": "25.85",
+          "percentGain": "1.49"
+        },
+        {
+          "company": "Grasim",
+          "high": "2,695.95",
+          "low": "2,616.10",
+          "lastPrice": "2,664.25",
+          "prevClose": "2,633.20",
+          "change": "31.05",
+          "percentGain": "1.18"
+        },
+        {
+          "company": "Shriram Finance",
+          "high": "3,243.50",
+          "low": "3,185.55",
+          "lastPrice": "3,232.65",
+          "prevClose": "3,197.75",
+          "change": "34.90",
+          "percentGain": "1.09"
+        },
+        {
+          "company": "Axis Bank",
+          "high": "1,172.90",
+          "low": "1,154.65",
+          "lastPrice": "1,172.75",
+          "prevClose": "1,160.40",
+          "change": "12.35",
+          "percentGain": "1.06"
+        }
+      ]
     }
   ],
   "losers": [
@@ -625,6 +675,56 @@
     {
       "time": "6:45:02 AM",
       "data": []
+    },
+    {
+      "time": "6:54:46 AM",
+      "data": [
+        {
+          "company": "HUL",
+          "high": "2,647.00",
+          "low": "2,452.60",
+          "lastPrice": "2,476.10",
+          "prevClose": "2,659.30",
+          "change": "-183.20",
+          "percentGain": "-6.89"
+        },
+        {
+          "company": "Hindalco",
+          "high": "715.00",
+          "low": "666.75",
+          "lastPrice": "683.50",
+          "prevClose": "717.10",
+          "change": "-33.60",
+          "percentGain": "-4.69"
+        },
+        {
+          "company": "SBI Life Insura",
+          "high": "1,724.45",
+          "low": "1,623.00",
+          "lastPrice": "1,636.60",
+          "prevClose": "1,716.00",
+          "change": "-79.40",
+          "percentGain": "-4.63"
+        },
+        {
+          "company": "Bajaj Auto",
+          "high": "10,593.45",
+          "low": "10,210.00",
+          "lastPrice": "10,225.00",
+          "prevClose": "10,586.75",
+          "change": "-361.75",
+          "percentGain": "-3.42"
+        },
+        {
+          "company": "Nestle",
+          "high": "2,340.00",
+          "low": "2,244.00",
+          "lastPrice": "2,247.80",
+          "prevClose": "2,327.15",
+          "change": "-79.35",
+          "percentGain": "-3.41"
+        }
+      ]
     }
   ]
 }
