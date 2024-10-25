@@ -107,6 +107,56 @@
     {
       "time": "4:52:23 AM",
       "data": []
+    },
+    {
+      "time": "5:16:31 AM",
+      "data": [
+        {
+          "company": "ITC",
+          "high": "493.50",
+          "low": "474.20",
+          "lastPrice": "491.80",
+          "prevClose": "471.70",
+          "change": "20.10",
+          "percentGain": "4.26"
+        },
+        {
+          "company": "Axis Bank",
+          "high": "1,201.75",
+          "low": "1,176.00",
+          "lastPrice": "1,182.35",
+          "prevClose": "1,167.35",
+          "change": "15.00",
+          "percentGain": "1.28"
+        },
+        {
+          "company": "Sun Pharma",
+          "high": "1,872.00",
+          "low": "1,850.10",
+          "lastPrice": "1,871.75",
+          "prevClose": "1,848.90",
+          "change": "22.85",
+          "percentGain": "1.24"
+        },
+        {
+          "company": "Asian Paints",
+          "high": "3,015.55",
+          "low": "2,975.50",
+          "lastPrice": "3,005.00",
+          "prevClose": "2,972.00",
+          "change": "33.00",
+          "percentGain": "1.11"
+        },
+        {
+          "company": "Nestle",
+          "high": "2,286.50",
+          "low": "2,257.80",
+          "lastPrice": "2,280.75",
+          "prevClose": "2,258.65",
+          "change": "22.10",
+          "percentGain": "0.98"
+        }
+      ]
     }
   ],
   "losers": [
@@ -217,6 +267,56 @@
     {
       "time": "4:52:23 AM",
       "data": []
+    },
+    {
+      "time": "5:16:31 AM",
+      "data": [
+        {
+          "company": "IndusInd Bank",
+          "high": "1,166.75",
+          "low": "1,034.00",
+          "lastPrice": "1,045.25",
+          "prevClose": "1,280.05",
+          "change": "-234.80",
+          "percentGain": "-18.34"
+        },
+        {
+          "company": "Shriram Finance",
+          "high": "3,254.30",
+          "low": "3,067.20",
+          "lastPrice": "3,078.00",
+          "prevClose": "3,245.10",
+          "change": "-167.10",
+          "percentGain": "-5.15"
+        },
+        {
+          "company": "Bharat Elec",
+          "high": "271.65",
+          "low": "258.85",
+          "lastPrice": "259.00",
+          "prevClose": "271.35",
+          "change": "-12.35",
+          "percentGain": "-4.55"
+        },
+        {
+          "company": "M&M",
+          "high": "2,825.05",
+          "low": "2,697.95",
+          "lastPrice": "2,699.65",
+          "prevClose": "2,826.35",
+          "change": "-126.70",
+          "percentGain": "-4.48"
+        },
+        {
+          "company": "Hero Motocorp",
+          "high": "5,144.70",
+          "low": "4,890.00",
+          "lastPrice": "4,895.75",
+          "prevClose": "5,113.60",
+          "change": "-217.85",
+          "percentGain": "-4.26"
+        }
+      ]
     }
   ]
 }
