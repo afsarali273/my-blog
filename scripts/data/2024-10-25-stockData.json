@@ -573,6 +573,56 @@
     {
       "time": "9:16:46 AM",
       "data": []
+    },
+    {
+      "time": "9:37:46 AM",
+      "data": [
+        {
+          "company": "ITC",
+          "high": "493.50",
+          "low": "474.20",
+          "lastPrice": "481.60",
+          "prevClose": "471.70",
+          "change": "9.90",
+          "percentGain": "2.10"
+        },
+        {
+          "company": "Axis Bank",
+          "high": "1,201.75",
+          "low": "1,170.00",
+          "lastPrice": "1,186.00",
+          "prevClose": "1,167.35",
+          "change": "18.65",
+          "percentGain": "1.60"
+        },
+        {
+          "company": "HUL",
+          "high": "2,540.00",
+          "low": "2,500.10",
+          "lastPrice": "2,526.65",
+          "prevClose": "2,505.10",
+          "change": "21.55",
+          "percentGain": "0.86"
+        },
+        {
+          "company": "Britannia",
+          "high": "5,706.45",
+          "low": "5,610.00",
+          "lastPrice": "5,660.00",
+          "prevClose": "5,612.40",
+          "change": "47.60",
+          "percentGain": "0.85"
+        },
+        {
+          "company": "Sun Pharma",
+          "high": "1,875.60",
+          "low": "1,850.10",
+          "lastPrice": "1,858.95",
+          "prevClose": "1,848.90",
+          "change": "10.05",
+          "percentGain": "0.54"
+        }
+      ]
     }
   ],
   "losers": [
@@ -1149,6 +1199,56 @@
     {
       "time": "9:16:46 AM",
       "data": []
+    },
+    {
+      "time": "9:37:46 AM",
+      "data": [
+        {
+          "company": "IndusInd Bank",
+          "high": "1,166.75",
+          "low": "1,025.50",
+          "lastPrice": "1,039.00",
+          "prevClose": "1,280.05",
+          "change": "-241.05",
+          "percentGain": "-18.83"
+        },
+        {
+          "company": "Adani Enterpris",
+          "high": "2,847.00",
+          "low": "2,654.70",
+          "lastPrice": "2,683.40",
+          "prevClose": "2,830.20",
+          "change": "-146.80",
+          "percentGain": "-5.19"
+        },
+        {
+          "company": "Shriram Finance",
+          "high": "3,254.30",
+          "low": "3,028.00",
+          "lastPrice": "3,089.30",
+          "prevClose": "3,245.10",
+          "change": "-155.80",
+          "percentGain": "-4.80"
+        },
+        {
+          "company": "BPCL",
+          "high": "323.60",
+          "low": "306.80",
+          "lastPrice": "307.45",
+          "prevClose": "321.45",
+          "change": "-14.00",
+          "percentGain": "-4.36"
+        },
+        {
+          "company": "M&M",
+          "high": "2,825.05",
+          "low": "2,679.30",
+          "lastPrice": "2,713.75",
+          "prevClose": "2,826.35",
+          "change": "-112.60",
+          "percentGain": "-3.98"
+        }
+      ]
     }
   ]
 }
