@@ -261,6 +261,56 @@
           "percentGain": "0.71"
         }
       ]
+    },
+    {
+      "time": "6:44:39 AM",
+      "data": [
+        {
+          "company": "ITC",
+          "high": "493.50",
+          "low": "474.20",
+          "lastPrice": "485.75",
+          "prevClose": "471.70",
+          "change": "14.05",
+          "percentGain": "2.98"
+        },
+        {
+          "company": "Sun Pharma",
+          "high": "1,875.60",
+          "low": "1,850.10",
+          "lastPrice": "1,865.30",
+          "prevClose": "1,848.90",
+          "change": "16.40",
+          "percentGain": "0.89"
+        },
+        {
+          "company": "Asian Paints",
+          "high": "3,015.55",
+          "low": "2,975.50",
+          "lastPrice": "2,995.75",
+          "prevClose": "2,972.00",
+          "change": "23.75",
+          "percentGain": "0.80"
+        },
+        {
+          "company": "Kotak Mahindra",
+          "high": "1,786.50",
+          "low": "1,757.00",
+          "lastPrice": "1,773.45",
+          "prevClose": "1,762.20",
+          "change": "11.25",
+          "percentGain": "0.64"
+        },
+        {
+          "company": "HUL",
+          "high": "2,527.00",
+          "low": "2,500.10",
+          "lastPrice": "2,520.85",
+          "prevClose": "2,505.10",
+          "change": "15.75",
+          "percentGain": "0.63"
+        }
+      ]
     }
   ],
   "losers": [
@@ -523,6 +573,56 @@
           "prevClose": "2,830.20",
           "change": "-114.95",
           "percentGain": "-4.06"
+        }
+      ]
+    },
+    {
+      "time": "6:44:39 AM",
+      "data": [
+        {
+          "company": "IndusInd Bank",
+          "high": "1,166.75",
+          "low": "1,025.50",
+          "lastPrice": "1,030.45",
+          "prevClose": "1,280.05",
+          "change": "-249.60",
+          "percentGain": "-19.50"
+        },
+        {
+          "company": "M&M",
+          "high": "2,825.05",
+          "low": "2,679.30",
+          "lastPrice": "2,692.10",
+          "prevClose": "2,826.35",
+          "change": "-134.25",
+          "percentGain": "-4.75"
+        },
+        {
+          "company": "Adani Enterpris",
+          "high": "2,847.00",
+          "low": "2,684.90",
+          "lastPrice": "2,707.55",
+          "prevClose": "2,830.20",
+          "change": "-122.65",
+          "percentGain": "-4.33"
+        },
+        {
+          "company": "NTPC",
+          "high": "407.50",
+          "low": "394.40",
+          "lastPrice": "395.60",
+          "prevClose": "411.90",
+          "change": "-16.30",
+          "percentGain": "-3.96"
+        },
+        {
+          "company": "Shriram Finance",
+          "high": "3,254.30",
+          "low": "3,065.05",
+          "lastPrice": "3,117.85",
+          "prevClose": "3,245.10",
+          "change": "-127.25",
+          "percentGain": "-3.92"
         }
       ]
     }
