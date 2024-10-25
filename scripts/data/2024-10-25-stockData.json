@@ -211,6 +211,56 @@
           "percentGain": "0.80"
         }
       ]
+    },
+    {
+      "time": "6:21:57 AM",
+      "data": [
+        {
+          "company": "ITC",
+          "high": "493.50",
+          "low": "474.20",
+          "lastPrice": "489.45",
+          "prevClose": "471.70",
+          "change": "17.75",
+          "percentGain": "3.76"
+        },
+        {
+          "company": "Sun Pharma",
+          "high": "1,874.40",
+          "low": "1,850.10",
+          "lastPrice": "1,866.00",
+          "prevClose": "1,848.90",
+          "change": "17.10",
+          "percentGain": "0.92"
+        },
+        {
+          "company": "Britannia",
+          "high": "5,706.45",
+          "low": "5,610.00",
+          "lastPrice": "5,653.50",
+          "prevClose": "5,612.40",
+          "change": "41.10",
+          "percentGain": "0.73"
+        },
+        {
+          "company": "Nestle",
+          "high": "2,286.50",
+          "low": "2,257.80",
+          "lastPrice": "2,275.00",
+          "prevClose": "2,258.65",
+          "change": "16.35",
+          "percentGain": "0.72"
+        },
+        {
+          "company": "HCL Tech",
+          "high": "1,871.55",
+          "low": "1,845.40",
+          "lastPrice": "1,858.00",
+          "prevClose": "1,844.90",
+          "change": "13.10",
+          "percentGain": "0.71"
+        }
+      ]
     }
   ],
   "losers": [
@@ -423,6 +473,56 @@
           "prevClose": "3,245.10",
           "change": "-129.65",
           "percentGain": "-4.00"
+        }
+      ]
+    },
+    {
+      "time": "6:21:57 AM",
+      "data": [
+        {
+          "company": "IndusInd Bank",
+          "high": "1,166.75",
+          "low": "1,027.00",
+          "lastPrice": "1,032.30",
+          "prevClose": "1,280.05",
+          "change": "-247.75",
+          "percentGain": "-19.35"
+        },
+        {
+          "company": "M&M",
+          "high": "2,825.05",
+          "low": "2,680.00",
+          "lastPrice": "2,686.45",
+          "prevClose": "2,826.35",
+          "change": "-139.90",
+          "percentGain": "-4.95"
+        },
+        {
+          "company": "Trent",
+          "high": "7,511.20",
+          "low": "7,064.05",
+          "lastPrice": "7,148.85",
+          "prevClose": "7,488.00",
+          "change": "-339.15",
+          "percentGain": "-4.53"
+        },
+        {
+          "company": "Shriram Finance",
+          "high": "3,254.30",
+          "low": "3,065.05",
+          "lastPrice": "3,099.70",
+          "prevClose": "3,245.10",
+          "change": "-145.40",
+          "percentGain": "-4.48"
+        },
+        {
+          "company": "Adani Enterpris",
+          "high": "2,847.00",
+          "low": "2,684.90",
+          "lastPrice": "2,715.25",
+          "prevClose": "2,830.20",
+          "change": "-114.95",
+          "percentGain": "-4.06"
         }
       ]
     }
