@@ -3,12 +3,112 @@
     {
       "time": "3:51:36 AM",
       "data": []
+    },
+    {
+      "time": "4:20:35 AM",
+      "data": [
+        {
+          "company": "ITC",
+          "high": "492.00",
+          "low": "474.20",
+          "lastPrice": "491.45",
+          "prevClose": "471.70",
+          "change": "19.75",
+          "percentGain": "4.19"
+        },
+        {
+          "company": "Asian Paints",
+          "high": "3,015.55",
+          "low": "2,975.50",
+          "lastPrice": "3,008.60",
+          "prevClose": "2,972.00",
+          "change": "36.60",
+          "percentGain": "1.23"
+        },
+        {
+          "company": "Britannia",
+          "high": "5,706.45",
+          "low": "5,610.00",
+          "lastPrice": "5,677.35",
+          "prevClose": "5,612.40",
+          "change": "64.95",
+          "percentGain": "1.16"
+        },
+        {
+          "company": "HCL Tech",
+          "high": "1,871.55",
+          "low": "1,850.40",
+          "lastPrice": "1,865.35",
+          "prevClose": "1,844.90",
+          "change": "20.45",
+          "percentGain": "1.11"
+        },
+        {
+          "company": "Nestle",
+          "high": "2,286.50",
+          "low": "2,257.80",
+          "lastPrice": "2,280.15",
+          "prevClose": "2,258.65",
+          "change": "21.50",
+          "percentGain": "0.95"
+        }
+      ]
     }
   ],
   "losers": [
     {
       "time": "3:51:36 AM",
       "data": []
+    },
+    {
+      "time": "4:20:35 AM",
+      "data": [
+        {
+          "company": "IndusInd Bank",
+          "high": "1,166.75",
+          "low": "1,066.00",
+          "lastPrice": "1,090.95",
+          "prevClose": "1,280.05",
+          "change": "-189.10",
+          "percentGain": "-14.77"
+        },
+        {
+          "company": "NTPC",
+          "high": "407.50",
+          "low": "395.10",
+          "lastPrice": "400.15",
+          "prevClose": "411.90",
+          "change": "-11.75",
+          "percentGain": "-2.85"
+        },
+        {
+          "company": "M&M",
+          "high": "2,825.05",
+          "low": "2,755.30",
+          "lastPrice": "2,762.25",
+          "prevClose": "2,826.35",
+          "change": "-64.10",
+          "percentGain": "-2.27"
+        },
+        {
+          "company": "Coal India",
+          "high": "479.05",
+          "low": "466.70",
+          "lastPrice": "466.95",
+          "prevClose": "477.25",
+          "change": "-10.30",
+          "percentGain": "-2.16"
+        },
+        {
+          "company": "BPCL",
+          "high": "323.60",
+          "low": "314.45",
+          "lastPrice": "314.65",
+          "prevClose": "321.45",
+          "change": "-6.80",
+          "percentGain": "-2.12"
+        }
+      ]
     }
   ]
 }
