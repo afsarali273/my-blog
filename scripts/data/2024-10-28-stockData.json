@@ -761,6 +761,56 @@
           "percentGain": "2.65"
         }
       ]
+    },
+    {
+      "time": "10:14:47 AM",
+      "data": [
+        {
+          "company": "Shriram Finance",
+          "high": "3,344.15",
+          "low": "3,144.00",
+          "lastPrice": "3,259.30",
+          "prevClose": "3,092.65",
+          "change": "166.65",
+          "percentGain": "5.39"
+        },
+        {
+          "company": "Adani Enterpris",
+          "high": "2,822.40",
+          "low": "2,672.10",
+          "lastPrice": "2,798.65",
+          "prevClose": "2,693.45",
+          "change": "105.20",
+          "percentGain": "3.91"
+        },
+        {
+          "company": "ICICI Bank",
+          "high": "1,307.80",
+          "low": "1,280.60",
+          "lastPrice": "1,292.85",
+          "prevClose": "1,255.45",
+          "change": "37.40",
+          "percentGain": "2.98"
+        },
+        {
+          "company": "Eicher Motors",
+          "high": "4,765.00",
+          "low": "4,533.65",
+          "lastPrice": "4,720.65",
+          "prevClose": "4,591.60",
+          "change": "129.05",
+          "percentGain": "2.81"
+        },
+        {
+          "company": "Wipro",
+          "high": "559.80",
+          "low": "542.70",
+          "lastPrice": "558.60",
+          "prevClose": "543.45",
+          "change": "15.15",
+          "percentGain": "2.79"
+        }
+      ]
     }
   ],
   "losers": [
@@ -1523,6 +1573,56 @@
           "prevClose": "4,973.30",
           "change": "-52.40",
           "percentGain": "-1.05"
+        }
+      ]
+    },
+    {
+      "time": "10:14:47 AM",
+      "data": [
+        {
+          "company": "Coal India",
+          "high": "458.00",
+          "low": "435.25",
+          "lastPrice": "441.65",
+          "prevClose": "461.10",
+          "change": "-19.45",
+          "percentGain": "-4.22"
+        },
+        {
+          "company": "Bajaj Auto",
+          "high": "10,292.75",
+          "low": "9,985.00",
+          "lastPrice": "10,011.25",
+          "prevClose": "10,206.10",
+          "change": "-194.85",
+          "percentGain": "-1.91"
+        },
+        {
+          "company": "Axis Bank",
+          "high": "1,194.00",
+          "low": "1,167.05",
+          "lastPrice": "1,171.60",
+          "prevClose": "1,189.35",
+          "change": "-17.75",
+          "percentGain": "-1.49"
+        },
+        {
+          "company": "Kotak Mahindra",
+          "high": "1,780.65",
+          "low": "1,745.05",
+          "lastPrice": "1,749.85",
+          "prevClose": "1,768.85",
+          "change": "-19.00",
+          "percentGain": "-1.07"
+        },
+        {
+          "company": "Hero Motocorp",
+          "high": "5,015.85",
+          "low": "4,896.05",
+          "lastPrice": "4,927.80",
+          "prevClose": "4,973.30",
+          "change": "-45.50",
+          "percentGain": "-0.91"
         }
       ]
     }
