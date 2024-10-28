@@ -1,0 +1,106 @@
+{
+  "gainers": [
+    {
+      "time": "3:52:42 AM",
+      "data": [
+        {
+          "company": "Shriram Finance",
+          "high": "3,317.95",
+          "low": "3,144.00",
+          "lastPrice": "3,207.45",
+          "prevClose": "3,092.65",
+          "change": "114.80",
+          "percentGain": "3.71"
+        },
+        {
+          "company": "BPCL",
+          "high": "315.50",
+          "low": "306.00",
+          "lastPrice": "313.75",
+          "prevClose": "306.30",
+          "change": "7.45",
+          "percentGain": "2.43"
+        },
+        {
+          "company": "ICICI Bank",
+          "high": "1,294.55",
+          "low": "1,280.60",
+          "lastPrice": "1,281.70",
+          "prevClose": "1,255.45",
+          "change": "26.25",
+          "percentGain": "2.09"
+        },
+        {
+          "company": "SBI",
+          "high": "795.85",
+          "low": "783.55",
+          "lastPrice": "792.70",
+          "prevClose": "780.95",
+          "change": "11.75",
+          "percentGain": "1.50"
+        },
+        {
+          "company": "NTPC",
+          "high": "405.55",
+          "low": "398.65",
+          "lastPrice": "404.75",
+          "prevClose": "398.90",
+          "change": "5.85",
+          "percentGain": "1.47"
+        }
+      ]
+    }
+  ],
+  "losers": [
+    {
+      "time": "3:52:42 AM",
+      "data": [
+        {
+          "company": "Coal India",
+          "high": "458.00",
+          "low": "444.00",
+          "lastPrice": "450.10",
+          "prevClose": "461.10",
+          "change": "-11.00",
+          "percentGain": "-2.39"
+        },
+        {
+          "company": "ONGC",
+          "high": "262.90",
+          "low": "257.60",
+          "lastPrice": "260.45",
+          "prevClose": "264.05",
+          "change": "-3.60",
+          "percentGain": "-1.36"
+        },
+        {
+          "company": "Larsen",
+          "high": "3,326.40",
+          "low": "3,280.00",
+          "lastPrice": "3,287.25",
+          "prevClose": "3,326.40",
+          "change": "-39.15",
+          "percentGain": "-1.18"
+        },
+        {
+          "company": "JSW Steel",
+          "high": "936.00",
+          "low": "909.00",
+          "lastPrice": "934.50",
+          "prevClose": "943.85",
+          "change": "-9.35",
+          "percentGain": "-0.99"
+        },
+        {
+          "company": "Eicher Motors",
+          "high": "4,672.90",
+          "low": "4,545.00",
+          "lastPrice": "4,547.75",
+          "prevClose": "4,591.60",
+          "change": "-43.85",
+          "percentGain": "-0.96"
+        }
+      ]
+    }
+  ]
+}
