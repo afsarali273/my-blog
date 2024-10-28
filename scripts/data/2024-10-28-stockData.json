@@ -311,6 +311,56 @@
           "percentGain": "3.94"
         }
       ]
+    },
+    {
+      "time": "7:15:40 AM",
+      "data": [
+        {
+          "company": "Shriram Finance",
+          "high": "3,344.15",
+          "low": "3,144.00",
+          "lastPrice": "3,300.35",
+          "prevClose": "3,092.65",
+          "change": "207.70",
+          "percentGain": "6.72"
+        },
+        {
+          "company": "Adani Enterpris",
+          "high": "2,808.50",
+          "low": "2,672.10",
+          "lastPrice": "2,804.85",
+          "prevClose": "2,693.45",
+          "change": "111.40",
+          "percentGain": "4.14"
+        },
+        {
+          "company": "ICICI Bank",
+          "high": "1,307.80",
+          "low": "1,280.60",
+          "lastPrice": "1,303.95",
+          "prevClose": "1,255.45",
+          "change": "48.50",
+          "percentGain": "3.86"
+        },
+        {
+          "company": "M&M",
+          "high": "2,834.90",
+          "low": "2,713.90",
+          "lastPrice": "2,815.25",
+          "prevClose": "2,720.85",
+          "change": "94.40",
+          "percentGain": "3.47"
+        },
+        {
+          "company": "IndusInd Bank",
+          "high": "1,084.65",
+          "low": "1,031.00",
+          "lastPrice": "1,070.35",
+          "prevClose": "1,041.60",
+          "change": "28.75",
+          "percentGain": "2.76"
+        }
+      ]
     }
   ],
   "losers": [
@@ -623,6 +673,56 @@
           "prevClose": "1,189.35",
           "change": "-4.95",
           "percentGain": "-0.42"
+        }
+      ]
+    },
+    {
+      "time": "7:15:40 AM",
+      "data": [
+        {
+          "company": "Coal India",
+          "high": "458.00",
+          "low": "435.25",
+          "lastPrice": "443.65",
+          "prevClose": "461.10",
+          "change": "-17.45",
+          "percentGain": "-3.78"
+        },
+        {
+          "company": "Bharat Elec",
+          "high": "277.95",
+          "low": "268.05",
+          "lastPrice": "268.50",
+          "prevClose": "272.35",
+          "change": "-3.85",
+          "percentGain": "-1.41"
+        },
+        {
+          "company": "Tech Mahindra",
+          "high": "1,727.95",
+          "low": "1,693.20",
+          "lastPrice": "1,698.35",
+          "prevClose": "1,716.45",
+          "change": "-18.10",
+          "percentGain": "-1.05"
+        },
+        {
+          "company": "Axis Bank",
+          "high": "1,194.00",
+          "low": "1,172.60",
+          "lastPrice": "1,177.70",
+          "prevClose": "1,189.35",
+          "change": "-11.65",
+          "percentGain": "-0.98"
+        },
+        {
+          "company": "SBI Life Insura",
+          "high": "1,620.00",
+          "low": "1,593.60",
+          "lastPrice": "1,601.50",
+          "prevClose": "1,616.75",
+          "change": "-15.25",
+          "percentGain": "-0.94"
         }
       ]
     }
