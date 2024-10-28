@@ -49,6 +49,56 @@
           "percentGain": "1.47"
         }
       ]
+    },
+    {
+      "time": "4:19:41 AM",
+      "data": [
+        {
+          "company": "Shriram Finance",
+          "high": "3,317.95",
+          "low": "3,144.00",
+          "lastPrice": "3,256.60",
+          "prevClose": "3,092.65",
+          "change": "163.95",
+          "percentGain": "5.30"
+        },
+        {
+          "company": "ICICI Bank",
+          "high": "1,294.55",
+          "low": "1,280.60",
+          "lastPrice": "1,292.20",
+          "prevClose": "1,255.45",
+          "change": "36.75",
+          "percentGain": "2.93"
+        },
+        {
+          "company": "SBI",
+          "high": "799.50",
+          "low": "783.55",
+          "lastPrice": "795.50",
+          "prevClose": "780.95",
+          "change": "14.55",
+          "percentGain": "1.86"
+        },
+        {
+          "company": "Hindalco",
+          "high": "690.00",
+          "low": "680.80",
+          "lastPrice": "687.05",
+          "prevClose": "678.75",
+          "change": "8.30",
+          "percentGain": "1.22"
+        },
+        {
+          "company": "BPCL",
+          "high": "315.50",
+          "low": "306.00",
+          "lastPrice": "308.60",
+          "prevClose": "306.30",
+          "change": "2.30",
+          "percentGain": "0.75"
+        }
+      ]
     }
   ],
   "losers": [
@@ -99,6 +149,56 @@
           "prevClose": "4,591.60",
           "change": "-43.85",
           "percentGain": "-0.96"
+        }
+      ]
+    },
+    {
+      "time": "4:19:41 AM",
+      "data": [
+        {
+          "company": "Coal India",
+          "high": "458.00",
+          "low": "435.25",
+          "lastPrice": "437.65",
+          "prevClose": "461.10",
+          "change": "-23.45",
+          "percentGain": "-5.09"
+        },
+        {
+          "company": "ONGC",
+          "high": "262.90",
+          "low": "255.60",
+          "lastPrice": "256.40",
+          "prevClose": "264.05",
+          "change": "-7.65",
+          "percentGain": "-2.90"
+        },
+        {
+          "company": "Larsen",
+          "high": "3,326.40",
+          "low": "3,262.55",
+          "lastPrice": "3,273.80",
+          "prevClose": "3,326.40",
+          "change": "-52.60",
+          "percentGain": "-1.58"
+        },
+        {
+          "company": "Trent",
+          "high": "7,429.00",
+          "low": "7,222.15",
+          "lastPrice": "7,255.00",
+          "prevClose": "7,361.45",
+          "change": "-106.45",
+          "percentGain": "-1.45"
+        },
+        {
+          "company": "Apollo Hospital",
+          "high": "6,944.80",
+          "low": "6,794.25",
+          "lastPrice": "6,845.00",
+          "prevClose": "6,944.85",
+          "change": "-99.85",
+          "percentGain": "-1.44"
         }
       ]
     }
