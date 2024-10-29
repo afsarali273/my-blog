@@ -57,6 +57,56 @@
     {
       "time": "4:41:34 AM",
       "data": []
+    },
+    {
+      "time": "4:51:18 AM",
+      "data": [
+        {
+          "company": "Eicher Motors",
+          "high": "4,818.15",
+          "low": "4,685.45",
+          "lastPrice": "4,817.25",
+          "prevClose": "4,720.65",
+          "change": "96.60",
+          "percentGain": "2.05"
+        },
+        {
+          "company": "NTPC",
+          "high": "414.30",
+          "low": "407.40",
+          "lastPrice": "411.35",
+          "prevClose": "403.90",
+          "change": "7.45",
+          "percentGain": "1.84"
+        },
+        {
+          "company": "Bharat Elec",
+          "high": "275.80",
+          "low": "270.85",
+          "lastPrice": "273.95",
+          "prevClose": "270.05",
+          "change": "3.90",
+          "percentGain": "1.44"
+        },
+        {
+          "company": "ICICI Bank",
+          "high": "1,312.00",
+          "low": "1,299.25",
+          "lastPrice": "1,311.45",
+          "prevClose": "1,292.85",
+          "change": "18.60",
+          "percentGain": "1.44"
+        },
+        {
+          "company": "Larsen",
+          "high": "3,380.65",
+          "low": "3,316.00",
+          "lastPrice": "3,376.05",
+          "prevClose": "3,340.80",
+          "change": "35.25",
+          "percentGain": "1.06"
+        }
+      ]
     }
   ],
   "losers": [
@@ -117,6 +167,56 @@
     {
       "time": "4:41:34 AM",
       "data": []
+    },
+    {
+      "time": "4:51:18 AM",
+      "data": [
+        {
+          "company": "Tata Motors",
+          "high": "882.50",
+          "low": "847.15",
+          "lastPrice": "847.35",
+          "prevClose": "878.45",
+          "change": "-31.10",
+          "percentGain": "-3.54"
+        },
+        {
+          "company": "Cipla",
+          "high": "1,517.15",
+          "low": "1,450.00",
+          "lastPrice": "1,455.00",
+          "prevClose": "1,503.15",
+          "change": "-48.15",
+          "percentGain": "-3.20"
+        },
+        {
+          "company": "Hero Motocorp",
+          "high": "4,959.95",
+          "low": "4,802.05",
+          "lastPrice": "4,803.05",
+          "prevClose": "4,927.80",
+          "change": "-124.75",
+          "percentGain": "-2.53"
+        },
+        {
+          "company": "Bharti Airtel",
+          "high": "1,667.95",
+          "low": "1,610.00",
+          "lastPrice": "1,622.65",
+          "prevClose": "1,663.35",
+          "change": "-40.70",
+          "percentGain": "-2.45"
+        },
+        {
+          "company": "Dr Reddys Labs",
+          "high": "1,335.40",
+          "low": "1,278.65",
+          "lastPrice": "1,280.05",
+          "prevClose": "1,311.50",
+          "change": "-31.45",
+          "percentGain": "-2.40"
+        }
+      ]
     }
   ]
 }
