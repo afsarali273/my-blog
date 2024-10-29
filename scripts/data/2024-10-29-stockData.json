@@ -411,6 +411,56 @@
           "percentGain": "1.52"
         }
       ]
+    },
+    {
+      "time": "7:51:06 AM",
+      "data": [
+        {
+          "company": "SBI",
+          "high": "819.70",
+          "low": "790.50",
+          "lastPrice": "818.85",
+          "prevClose": "792.05",
+          "change": "26.80",
+          "percentGain": "3.38"
+        },
+        {
+          "company": "SBI Life Insura",
+          "high": "1,661.00",
+          "low": "1,595.90",
+          "lastPrice": "1,652.40",
+          "prevClose": "1,605.90",
+          "change": "46.50",
+          "percentGain": "2.90"
+        },
+        {
+          "company": "Bharat Elec",
+          "high": "276.80",
+          "low": "270.85",
+          "lastPrice": "276.40",
+          "prevClose": "270.05",
+          "change": "6.35",
+          "percentGain": "2.35"
+        },
+        {
+          "company": "Bajaj Finserv",
+          "high": "1,763.90",
+          "low": "1,703.00",
+          "lastPrice": "1,761.65",
+          "prevClose": "1,730.45",
+          "change": "31.20",
+          "percentGain": "1.80"
+        },
+        {
+          "company": "ICICI Bank",
+          "high": "1,322.50",
+          "low": "1,299.25",
+          "lastPrice": "1,316.10",
+          "prevClose": "1,292.85",
+          "change": "23.25",
+          "percentGain": "1.80"
+        }
+      ]
     }
   ],
   "losers": [
@@ -823,6 +873,56 @@
           "prevClose": "1,503.15",
           "change": "-30.00",
           "percentGain": "-2.00"
+        }
+      ]
+    },
+    {
+      "time": "7:51:06 AM",
+      "data": [
+        {
+          "company": "Tata Motors",
+          "high": "882.50",
+          "low": "825.70",
+          "lastPrice": "840.70",
+          "prevClose": "878.45",
+          "change": "-37.75",
+          "percentGain": "-4.30"
+        },
+        {
+          "company": "Dr Reddys Labs",
+          "high": "1,335.40",
+          "low": "1,265.00",
+          "lastPrice": "1,269.00",
+          "prevClose": "1,311.50",
+          "change": "-42.50",
+          "percentGain": "-3.24"
+        },
+        {
+          "company": "Hero Motocorp",
+          "high": "4,959.95",
+          "low": "4,768.00",
+          "lastPrice": "4,772.45",
+          "prevClose": "4,927.80",
+          "change": "-155.35",
+          "percentGain": "-3.15"
+        },
+        {
+          "company": "Bajaj Auto",
+          "high": "10,073.95",
+          "low": "9,640.00",
+          "lastPrice": "9,727.70",
+          "prevClose": "10,011.25",
+          "change": "-283.55",
+          "percentGain": "-2.83"
+        },
+        {
+          "company": "Cipla",
+          "high": "1,517.15",
+          "low": "1,450.00",
+          "lastPrice": "1,472.95",
+          "prevClose": "1,503.15",
+          "change": "-30.20",
+          "percentGain": "-2.01"
         }
       ]
     }
