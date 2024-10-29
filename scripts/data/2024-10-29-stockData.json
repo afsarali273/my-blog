@@ -1,0 +1,106 @@
+{
+  "gainers": [
+    {
+      "time": "3:51:39 AM",
+      "data": [
+        {
+          "company": "NTPC",
+          "high": "413.70",
+          "low": "407.40",
+          "lastPrice": "412.40",
+          "prevClose": "403.90",
+          "change": "8.50",
+          "percentGain": "2.10"
+        },
+        {
+          "company": "Coal India",
+          "high": "446.00",
+          "low": "443.10",
+          "lastPrice": "446.00",
+          "prevClose": "441.65",
+          "change": "4.35",
+          "percentGain": "0.98"
+        },
+        {
+          "company": "ICICI Bank",
+          "high": "1,309.40",
+          "low": "1,301.35",
+          "lastPrice": "1,304.30",
+          "prevClose": "1,292.85",
+          "change": "11.45",
+          "percentGain": "0.89"
+        },
+        {
+          "company": "Dr Reddys Labs",
+          "high": "1,335.40",
+          "low": "1,318.05",
+          "lastPrice": "1,319.30",
+          "prevClose": "1,311.50",
+          "change": "7.80",
+          "percentGain": "0.59"
+        },
+        {
+          "company": "SBI",
+          "high": "797.70",
+          "low": "793.60",
+          "lastPrice": "796.40",
+          "prevClose": "792.05",
+          "change": "4.35",
+          "percentGain": "0.55"
+        }
+      ]
+    }
+  ],
+  "losers": [
+    {
+      "time": "3:51:39 AM",
+      "data": [
+        {
+          "company": "Bharti Airtel",
+          "high": "1,667.95",
+          "low": "1,630.20",
+          "lastPrice": "1,633.00",
+          "prevClose": "1,663.35",
+          "change": "-30.35",
+          "percentGain": "-1.82"
+        },
+        {
+          "company": "Shriram Finance",
+          "high": "3,256.00",
+          "low": "3,214.20",
+          "lastPrice": "3,217.50",
+          "prevClose": "3,259.30",
+          "change": "-41.80",
+          "percentGain": "-1.28"
+        },
+        {
+          "company": "Britannia",
+          "high": "5,759.90",
+          "low": "5,657.40",
+          "lastPrice": "5,661.05",
+          "prevClose": "5,722.30",
+          "change": "-61.25",
+          "percentGain": "-1.07"
+        },
+        {
+          "company": "Axis Bank",
+          "high": "1,177.25",
+          "low": "1,160.00",
+          "lastPrice": "1,160.10",
+          "prevClose": "1,171.60",
+          "change": "-11.50",
+          "percentGain": "-0.98"
+        },
+        {
+          "company": "Bajaj Finance",
+          "high": "6,917.00",
+          "low": "6,848.60",
+          "lastPrice": "6,857.60",
+          "prevClose": "6,911.35",
+          "change": "-53.75",
+          "percentGain": "-0.78"
+        }
+      ]
+    }
+  ]
+}
