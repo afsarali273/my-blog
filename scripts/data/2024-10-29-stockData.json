@@ -157,6 +157,56 @@
           "percentGain": "0.68"
         }
       ]
+    },
+    {
+      "time": "5:39:24 AM",
+      "data": [
+        {
+          "company": "Bharat Elec",
+          "high": "276.00",
+          "low": "270.85",
+          "lastPrice": "274.75",
+          "prevClose": "270.05",
+          "change": "4.70",
+          "percentGain": "1.74"
+        },
+        {
+          "company": "ICICI Bank",
+          "high": "1,315.95",
+          "low": "1,299.25",
+          "lastPrice": "1,313.60",
+          "prevClose": "1,292.85",
+          "change": "20.75",
+          "percentGain": "1.60"
+        },
+        {
+          "company": "NTPC",
+          "high": "414.30",
+          "low": "407.40",
+          "lastPrice": "408.60",
+          "prevClose": "403.90",
+          "change": "4.70",
+          "percentGain": "1.16"
+        },
+        {
+          "company": "SBI",
+          "high": "799.00",
+          "low": "790.50",
+          "lastPrice": "797.90",
+          "prevClose": "792.05",
+          "change": "5.85",
+          "percentGain": "0.74"
+        },
+        {
+          "company": "SBI Life Insura",
+          "high": "1,622.35",
+          "low": "1,595.90",
+          "lastPrice": "1,617.65",
+          "prevClose": "1,605.90",
+          "change": "11.75",
+          "percentGain": "0.73"
+        }
+      ]
     }
   ],
   "losers": [
@@ -315,6 +365,56 @@
           "prevClose": "1,663.35",
           "change": "-38.10",
           "percentGain": "-2.29"
+        }
+      ]
+    },
+    {
+      "time": "5:39:24 AM",
+      "data": [
+        {
+          "company": "Tata Motors",
+          "high": "882.50",
+          "low": "825.70",
+          "lastPrice": "841.30",
+          "prevClose": "878.45",
+          "change": "-37.15",
+          "percentGain": "-4.23"
+        },
+        {
+          "company": "Dr Reddys Labs",
+          "high": "1,335.40",
+          "low": "1,270.05",
+          "lastPrice": "1,271.15",
+          "prevClose": "1,311.50",
+          "change": "-40.35",
+          "percentGain": "-3.08"
+        },
+        {
+          "company": "IndusInd Bank",
+          "high": "1,058.80",
+          "low": "1,024.00",
+          "lastPrice": "1,026.45",
+          "prevClose": "1,054.80",
+          "change": "-28.35",
+          "percentGain": "-2.69"
+        },
+        {
+          "company": "Bajaj Auto",
+          "high": "10,073.95",
+          "low": "9,640.00",
+          "lastPrice": "9,755.15",
+          "prevClose": "10,011.25",
+          "change": "-256.10",
+          "percentGain": "-2.56"
+        },
+        {
+          "company": "Shriram Finance",
+          "high": "3,256.00",
+          "low": "3,162.40",
+          "lastPrice": "3,176.20",
+          "prevClose": "3,259.30",
+          "change": "-83.10",
+          "percentGain": "-2.55"
         }
       ]
     }
