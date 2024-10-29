@@ -461,6 +461,56 @@
           "percentGain": "1.80"
         }
       ]
+    },
+    {
+      "time": "8:20:32 AM",
+      "data": [
+        {
+          "company": "SBI",
+          "high": "822.70",
+          "low": "790.50",
+          "lastPrice": "819.45",
+          "prevClose": "792.05",
+          "change": "27.40",
+          "percentGain": "3.46"
+        },
+        {
+          "company": "Bharat Elec",
+          "high": "277.65",
+          "low": "270.85",
+          "lastPrice": "277.60",
+          "prevClose": "270.05",
+          "change": "7.55",
+          "percentGain": "2.80"
+        },
+        {
+          "company": "HDFC Life",
+          "high": "738.75",
+          "low": "708.15",
+          "lastPrice": "737.75",
+          "prevClose": "718.25",
+          "change": "19.50",
+          "percentGain": "2.71"
+        },
+        {
+          "company": "SBI Life Insura",
+          "high": "1,661.00",
+          "low": "1,595.90",
+          "lastPrice": "1,646.75",
+          "prevClose": "1,605.90",
+          "change": "40.85",
+          "percentGain": "2.54"
+        },
+        {
+          "company": "Eicher Motors",
+          "high": "4,838.35",
+          "low": "4,685.45",
+          "lastPrice": "4,836.95",
+          "prevClose": "4,720.65",
+          "change": "116.30",
+          "percentGain": "2.46"
+        }
+      ]
     }
   ],
   "losers": [
@@ -923,6 +973,56 @@
           "prevClose": "1,503.15",
           "change": "-30.20",
           "percentGain": "-2.01"
+        }
+      ]
+    },
+    {
+      "time": "8:20:32 AM",
+      "data": [
+        {
+          "company": "Maruti Suzuki",
+          "high": "11,483.00",
+          "low": "10,782.00",
+          "lastPrice": "10,789.30",
+          "prevClose": "11,483.25",
+          "change": "-693.95",
+          "percentGain": "-6.04"
+        },
+        {
+          "company": "Tata Motors",
+          "high": "882.50",
+          "low": "825.70",
+          "lastPrice": "834.75",
+          "prevClose": "878.45",
+          "change": "-43.70",
+          "percentGain": "-4.97"
+        },
+        {
+          "company": "Dr Reddys Labs",
+          "high": "1,335.40",
+          "low": "1,265.00",
+          "lastPrice": "1,265.60",
+          "prevClose": "1,311.50",
+          "change": "-45.90",
+          "percentGain": "-3.50"
+        },
+        {
+          "company": "Hero Motocorp",
+          "high": "4,959.95",
+          "low": "4,755.00",
+          "lastPrice": "4,755.80",
+          "prevClose": "4,927.80",
+          "change": "-172.00",
+          "percentGain": "-3.49"
+        },
+        {
+          "company": "Cipla",
+          "high": "1,517.15",
+          "low": "1,450.00",
+          "lastPrice": "1,463.05",
+          "prevClose": "1,503.15",
+          "change": "-40.10",
+          "percentGain": "-2.67"
         }
       ]
     }
