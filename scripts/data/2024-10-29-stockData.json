@@ -107,6 +107,56 @@
           "percentGain": "1.06"
         }
       ]
+    },
+    {
+      "time": "5:15:43 AM",
+      "data": [
+        {
+          "company": "ICICI Bank",
+          "high": "1,314.25",
+          "low": "1,299.25",
+          "lastPrice": "1,311.65",
+          "prevClose": "1,292.85",
+          "change": "18.80",
+          "percentGain": "1.45"
+        },
+        {
+          "company": "Bharat Elec",
+          "high": "275.80",
+          "low": "270.85",
+          "lastPrice": "273.45",
+          "prevClose": "270.05",
+          "change": "3.40",
+          "percentGain": "1.26"
+        },
+        {
+          "company": "NTPC",
+          "high": "414.30",
+          "low": "407.40",
+          "lastPrice": "408.70",
+          "prevClose": "403.90",
+          "change": "4.80",
+          "percentGain": "1.19"
+        },
+        {
+          "company": "Eicher Motors",
+          "high": "4,829.85",
+          "low": "4,685.45",
+          "lastPrice": "4,763.05",
+          "prevClose": "4,720.65",
+          "change": "42.40",
+          "percentGain": "0.90"
+        },
+        {
+          "company": "Grasim",
+          "high": "2,682.90",
+          "low": "2,651.10",
+          "lastPrice": "2,665.00",
+          "prevClose": "2,646.95",
+          "change": "18.05",
+          "percentGain": "0.68"
+        }
+      ]
     }
   ],
   "losers": [
@@ -215,6 +265,56 @@
           "prevClose": "1,311.50",
           "change": "-31.45",
           "percentGain": "-2.40"
+        }
+      ]
+    },
+    {
+      "time": "5:15:43 AM",
+      "data": [
+        {
+          "company": "Tata Motors",
+          "high": "882.50",
+          "low": "829.00",
+          "lastPrice": "832.00",
+          "prevClose": "878.45",
+          "change": "-46.45",
+          "percentGain": "-5.29"
+        },
+        {
+          "company": "Bajaj Auto",
+          "high": "10,073.95",
+          "low": "9,690.00",
+          "lastPrice": "9,694.00",
+          "prevClose": "10,011.25",
+          "change": "-317.25",
+          "percentGain": "-3.17"
+        },
+        {
+          "company": "Shriram Finance",
+          "high": "3,256.00",
+          "low": "3,162.40",
+          "lastPrice": "3,173.90",
+          "prevClose": "3,259.30",
+          "change": "-85.40",
+          "percentGain": "-2.62"
+        },
+        {
+          "company": "Dr Reddys Labs",
+          "high": "1,335.40",
+          "low": "1,271.90",
+          "lastPrice": "1,277.35",
+          "prevClose": "1,311.50",
+          "change": "-34.15",
+          "percentGain": "-2.60"
+        },
+        {
+          "company": "Bharti Airtel",
+          "high": "1,667.95",
+          "low": "1,610.00",
+          "lastPrice": "1,625.25",
+          "prevClose": "1,663.35",
+          "change": "-38.10",
+          "percentGain": "-2.29"
         }
       ]
     }
