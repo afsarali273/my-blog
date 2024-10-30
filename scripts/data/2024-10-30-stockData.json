@@ -665,6 +665,56 @@
           "percentGain": "1.90"
         }
       ]
+    },
+    {
+      "time": "9:50:11 AM",
+      "data": [
+        {
+          "company": "Adani Enterpris",
+          "high": "2,997.15",
+          "low": "2,815.05",
+          "lastPrice": "2,959.10",
+          "prevClose": "2,848.60",
+          "change": "110.50",
+          "percentGain": "3.88"
+        },
+        {
+          "company": "TATA Cons. Prod",
+          "high": "1,027.00",
+          "low": "988.15",
+          "lastPrice": "1,022.55",
+          "prevClose": "992.05",
+          "change": "30.50",
+          "percentGain": "3.07"
+        },
+        {
+          "company": "Hero Motocorp",
+          "high": "4,909.85",
+          "low": "4,740.10",
+          "lastPrice": "4,909.45",
+          "prevClose": "4,787.45",
+          "change": "122.00",
+          "percentGain": "2.55"
+        },
+        {
+          "company": "Britannia",
+          "high": "5,799.00",
+          "low": "5,641.60",
+          "lastPrice": "5,781.25",
+          "prevClose": "5,667.50",
+          "change": "113.75",
+          "percentGain": "2.01"
+        },
+        {
+          "company": "Maruti Suzuki",
+          "high": "11,520.00",
+          "low": "10,945.00",
+          "lastPrice": "11,253.25",
+          "prevClose": "11,046.00",
+          "change": "207.25",
+          "percentGain": "1.88"
+        }
+      ]
     }
   ],
   "losers": [
@@ -1331,6 +1381,56 @@
           "prevClose": "1,839.30",
           "change": "-36.65",
           "percentGain": "-1.99"
+        }
+      ]
+    },
+    {
+      "time": "9:50:11 AM",
+      "data": [
+        {
+          "company": "Cipla",
+          "high": "1,440.00",
+          "low": "1,403.00",
+          "lastPrice": "1,416.35",
+          "prevClose": "1,477.55",
+          "change": "-61.20",
+          "percentGain": "-4.14"
+        },
+        {
+          "company": "Shriram Finance",
+          "high": "3,259.70",
+          "low": "3,176.95",
+          "lastPrice": "3,184.45",
+          "prevClose": "3,265.80",
+          "change": "-81.35",
+          "percentGain": "-2.49"
+        },
+        {
+          "company": "Trent",
+          "high": "7,428.80",
+          "low": "7,215.65",
+          "lastPrice": "7,245.85",
+          "prevClose": "7,410.30",
+          "change": "-164.45",
+          "percentGain": "-2.22"
+        },
+        {
+          "company": "HDFC Life",
+          "high": "745.00",
+          "low": "725.75",
+          "lastPrice": "726.05",
+          "prevClose": "742.40",
+          "change": "-16.35",
+          "percentGain": "-2.20"
+        },
+        {
+          "company": "SBI Life Insura",
+          "high": "1,649.35",
+          "low": "1,619.30",
+          "lastPrice": "1,625.60",
+          "prevClose": "1,661.35",
+          "change": "-35.75",
+          "percentGain": "-2.15"
         }
       ]
     }
