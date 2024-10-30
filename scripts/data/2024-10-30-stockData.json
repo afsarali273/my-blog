@@ -103,6 +103,56 @@
           "percentGain": "1.56"
         }
       ]
+    },
+    {
+      "time": "4:51:07 AM",
+      "data": [
+        {
+          "company": "Adani Enterpris",
+          "high": "2,964.00",
+          "low": "2,815.05",
+          "lastPrice": "2,958.05",
+          "prevClose": "2,848.60",
+          "change": "109.45",
+          "percentGain": "3.84"
+        },
+        {
+          "company": "Bharat Elec",
+          "high": "294.75",
+          "low": "282.05",
+          "lastPrice": "293.80",
+          "prevClose": "283.65",
+          "change": "10.15",
+          "percentGain": "3.58"
+        },
+        {
+          "company": "Adani Ports",
+          "high": "1,405.00",
+          "low": "1,358.05",
+          "lastPrice": "1,404.00",
+          "prevClose": "1,372.70",
+          "change": "31.30",
+          "percentGain": "2.28"
+        },
+        {
+          "company": "Coal India",
+          "high": "455.80",
+          "low": "445.00",
+          "lastPrice": "454.90",
+          "prevClose": "445.55",
+          "change": "9.35",
+          "percentGain": "2.10"
+        },
+        {
+          "company": "TATA Cons. Prod",
+          "high": "1,013.00",
+          "low": "988.15",
+          "lastPrice": "1,009.10",
+          "prevClose": "992.05",
+          "change": "17.05",
+          "percentGain": "1.72"
+        }
+      ]
     }
   ],
   "losers": [
@@ -207,6 +257,56 @@
           "prevClose": "1,331.85",
           "change": "-21.95",
           "percentGain": "-1.65"
+        }
+      ]
+    },
+    {
+      "time": "4:51:07 AM",
+      "data": [
+        {
+          "company": "Cipla",
+          "high": "1,440.00",
+          "low": "1,403.00",
+          "lastPrice": "1,421.15",
+          "prevClose": "1,477.55",
+          "change": "-56.40",
+          "percentGain": "-3.82"
+        },
+        {
+          "company": "Dr Reddys Labs",
+          "high": "1,273.00",
+          "low": "1,228.80",
+          "lastPrice": "1,245.85",
+          "prevClose": "1,274.70",
+          "change": "-28.85",
+          "percentGain": "-2.26"
+        },
+        {
+          "company": "Shriram Finance",
+          "high": "3,259.70",
+          "low": "3,202.25",
+          "lastPrice": "3,206.45",
+          "prevClose": "3,265.80",
+          "change": "-59.35",
+          "percentGain": "-1.82"
+        },
+        {
+          "company": "ICICI Bank",
+          "high": "1,330.90",
+          "low": "1,308.40",
+          "lastPrice": "1,308.50",
+          "prevClose": "1,331.85",
+          "change": "-23.35",
+          "percentGain": "-1.75"
+        },
+        {
+          "company": "Sun Pharma",
+          "high": "1,870.35",
+          "low": "1,820.00",
+          "lastPrice": "1,841.90",
+          "prevClose": "1,871.60",
+          "change": "-29.70",
+          "percentGain": "-1.59"
         }
       ]
     }
