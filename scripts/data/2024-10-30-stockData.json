@@ -357,6 +357,56 @@
     {
       "time": "7:14:52 AM",
       "data": []
+    },
+    {
+      "time": "7:30:00 AM",
+      "data": [
+        {
+          "company": "Adani Enterpris",
+          "high": "2,987.50",
+          "low": "2,815.05",
+          "lastPrice": "2,972.65",
+          "prevClose": "2,848.60",
+          "change": "124.05",
+          "percentGain": "4.35"
+        },
+        {
+          "company": "Maruti Suzuki",
+          "high": "11,520.00",
+          "low": "10,945.00",
+          "lastPrice": "11,466.00",
+          "prevClose": "11,046.00",
+          "change": "420.00",
+          "percentGain": "3.80"
+        },
+        {
+          "company": "TATA Cons. Prod",
+          "high": "1,026.85",
+          "low": "988.15",
+          "lastPrice": "1,025.00",
+          "prevClose": "992.05",
+          "change": "32.95",
+          "percentGain": "3.32"
+        },
+        {
+          "company": "Bharat Elec",
+          "high": "294.75",
+          "low": "282.05",
+          "lastPrice": "291.45",
+          "prevClose": "283.65",
+          "change": "7.80",
+          "percentGain": "2.75"
+        },
+        {
+          "company": "Adani Ports",
+          "high": "1,414.90",
+          "low": "1,358.05",
+          "lastPrice": "1,407.75",
+          "prevClose": "1,372.70",
+          "change": "35.05",
+          "percentGain": "2.55"
+        }
+      ]
     }
   ],
   "losers": [
@@ -717,6 +767,56 @@
     {
       "time": "7:14:52 AM",
       "data": []
+    },
+    {
+      "time": "7:30:00 AM",
+      "data": [
+        {
+          "company": "Cipla",
+          "high": "1,440.00",
+          "low": "1,403.00",
+          "lastPrice": "1,424.45",
+          "prevClose": "1,477.55",
+          "change": "-53.10",
+          "percentGain": "-3.59"
+        },
+        {
+          "company": "Dr Reddys Labs",
+          "high": "1,273.00",
+          "low": "1,228.80",
+          "lastPrice": "1,252.20",
+          "prevClose": "1,274.70",
+          "change": "-22.50",
+          "percentGain": "-1.77"
+        },
+        {
+          "company": "ICICI Bank",
+          "high": "1,330.90",
+          "low": "1,305.60",
+          "lastPrice": "1,310.30",
+          "prevClose": "1,331.85",
+          "change": "-21.55",
+          "percentGain": "-1.62"
+        },
+        {
+          "company": "Shriram Finance",
+          "high": "3,259.70",
+          "low": "3,176.95",
+          "lastPrice": "3,214.20",
+          "prevClose": "3,265.80",
+          "change": "-51.60",
+          "percentGain": "-1.58"
+        },
+        {
+          "company": "SBI Life Insura",
+          "high": "1,649.35",
+          "low": "1,628.00",
+          "lastPrice": "1,636.00",
+          "prevClose": "1,661.35",
+          "change": "-25.35",
+          "percentGain": "-1.53"
+        }
+      ]
     }
   ]
 }
