@@ -203,6 +203,56 @@
           "percentGain": "2.01"
         }
       ]
+    },
+    {
+      "time": "5:39:46 AM",
+      "data": [
+        {
+          "company": "Adani Enterpris",
+          "high": "2,981.55",
+          "low": "2,815.05",
+          "lastPrice": "2,979.90",
+          "prevClose": "2,848.60",
+          "change": "131.30",
+          "percentGain": "4.61"
+        },
+        {
+          "company": "Wipro",
+          "high": "578.30",
+          "low": "561.10",
+          "lastPrice": "578.00",
+          "prevClose": "562.20",
+          "change": "15.80",
+          "percentGain": "2.81"
+        },
+        {
+          "company": "Adani Ports",
+          "high": "1,411.50",
+          "low": "1,358.05",
+          "lastPrice": "1,410.10",
+          "prevClose": "1,372.70",
+          "change": "37.40",
+          "percentGain": "2.72"
+        },
+        {
+          "company": "Bharat Elec",
+          "high": "294.75",
+          "low": "282.05",
+          "lastPrice": "291.10",
+          "prevClose": "283.65",
+          "change": "7.45",
+          "percentGain": "2.63"
+        },
+        {
+          "company": "Maruti Suzuki",
+          "high": "11,393.80",
+          "low": "10,945.00",
+          "lastPrice": "11,324.85",
+          "prevClose": "11,046.00",
+          "change": "278.85",
+          "percentGain": "2.52"
+        }
+      ]
     }
   ],
   "losers": [
@@ -407,6 +457,56 @@
           "prevClose": "1,661.35",
           "change": "-26.40",
           "percentGain": "-1.59"
+        }
+      ]
+    },
+    {
+      "time": "5:39:46 AM",
+      "data": [
+        {
+          "company": "Cipla",
+          "high": "1,440.00",
+          "low": "1,403.00",
+          "lastPrice": "1,421.60",
+          "prevClose": "1,477.55",
+          "change": "-55.95",
+          "percentGain": "-3.79"
+        },
+        {
+          "company": "Dr Reddys Labs",
+          "high": "1,273.00",
+          "low": "1,228.80",
+          "lastPrice": "1,250.90",
+          "prevClose": "1,274.70",
+          "change": "-23.80",
+          "percentGain": "-1.87"
+        },
+        {
+          "company": "Shriram Finance",
+          "high": "3,259.70",
+          "low": "3,176.95",
+          "lastPrice": "3,204.80",
+          "prevClose": "3,265.80",
+          "change": "-61.00",
+          "percentGain": "-1.87"
+        },
+        {
+          "company": "SBI Life Insura",
+          "high": "1,649.35",
+          "low": "1,631.05",
+          "lastPrice": "1,632.60",
+          "prevClose": "1,661.35",
+          "change": "-28.75",
+          "percentGain": "-1.73"
+        },
+        {
+          "company": "Trent",
+          "high": "7,428.80",
+          "low": "7,274.40",
+          "lastPrice": "7,287.80",
+          "prevClose": "7,410.30",
+          "change": "-122.50",
+          "percentGain": "-1.65"
         }
       ]
     }
