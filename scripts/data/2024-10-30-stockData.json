@@ -615,6 +615,56 @@
     {
       "time": "9:18:00 AM",
       "data": []
+    },
+    {
+      "time": "9:38:23 AM",
+      "data": [
+        {
+          "company": "Adani Enterpris",
+          "high": "2,997.15",
+          "low": "2,815.05",
+          "lastPrice": "2,976.95",
+          "prevClose": "2,848.60",
+          "change": "128.35",
+          "percentGain": "4.51"
+        },
+        {
+          "company": "TATA Cons. Prod",
+          "high": "1,027.00",
+          "low": "988.15",
+          "lastPrice": "1,022.70",
+          "prevClose": "992.05",
+          "change": "30.65",
+          "percentGain": "3.09"
+        },
+        {
+          "company": "Hero Motocorp",
+          "high": "4,904.05",
+          "low": "4,740.10",
+          "lastPrice": "4,900.20",
+          "prevClose": "4,787.45",
+          "change": "112.75",
+          "percentGain": "2.36"
+        },
+        {
+          "company": "Britannia",
+          "high": "5,799.00",
+          "low": "5,641.60",
+          "lastPrice": "5,782.65",
+          "prevClose": "5,667.50",
+          "change": "115.15",
+          "percentGain": "2.03"
+        },
+        {
+          "company": "Bharat Elec",
+          "high": "294.75",
+          "low": "282.05",
+          "lastPrice": "289.05",
+          "prevClose": "283.65",
+          "change": "5.40",
+          "percentGain": "1.90"
+        }
+      ]
     }
   ],
   "losers": [
@@ -1233,6 +1283,56 @@
     {
       "time": "9:18:00 AM",
       "data": []
+    },
+    {
+      "time": "9:38:23 AM",
+      "data": [
+        {
+          "company": "Cipla",
+          "high": "1,440.00",
+          "low": "1,403.00",
+          "lastPrice": "1,421.00",
+          "prevClose": "1,477.55",
+          "change": "-56.55",
+          "percentGain": "-3.83"
+        },
+        {
+          "company": "Shriram Finance",
+          "high": "3,259.70",
+          "low": "3,176.95",
+          "lastPrice": "3,183.65",
+          "prevClose": "3,265.80",
+          "change": "-82.15",
+          "percentGain": "-2.52"
+        },
+        {
+          "company": "SBI Life Insura",
+          "high": "1,649.35",
+          "low": "1,619.30",
+          "lastPrice": "1,621.20",
+          "prevClose": "1,661.35",
+          "change": "-40.15",
+          "percentGain": "-2.42"
+        },
+        {
+          "company": "Trent",
+          "high": "7,428.80",
+          "low": "7,215.65",
+          "lastPrice": "7,249.00",
+          "prevClose": "7,410.30",
+          "change": "-161.30",
+          "percentGain": "-2.18"
+        },
+        {
+          "company": "Infosys",
+          "high": "1,839.00",
+          "low": "1,800.60",
+          "lastPrice": "1,802.65",
+          "prevClose": "1,839.30",
+          "change": "-36.65",
+          "percentGain": "-1.99"
+        }
+      ]
     }
   ]
 }
