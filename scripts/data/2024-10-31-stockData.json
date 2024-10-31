@@ -615,6 +615,56 @@
           "percentGain": "1.59"
         }
       ]
+    },
+    {
+      "time": "8:50:17 AM",
+      "data": [
+        {
+          "company": "Cipla",
+          "high": "1,565.95",
+          "low": "1,518.05",
+          "lastPrice": "1,562.65",
+          "prevClose": "1,418.25",
+          "change": "144.40",
+          "percentGain": "10.18"
+        },
+        {
+          "company": "Larsen",
+          "high": "3,654.95",
+          "low": "3,508.35",
+          "lastPrice": "3,622.10",
+          "prevClose": "3,408.35",
+          "change": "213.75",
+          "percentGain": "6.27"
+        },
+        {
+          "company": "Hero Motocorp",
+          "high": "5,027.50",
+          "low": "4,919.95",
+          "lastPrice": "5,005.10",
+          "prevClose": "4,909.30",
+          "change": "95.80",
+          "percentGain": "1.95"
+        },
+        {
+          "company": "Dr Reddys Labs",
+          "high": "1,283.65",
+          "low": "1,248.00",
+          "lastPrice": "1,273.20",
+          "prevClose": "1,249.85",
+          "change": "23.35",
+          "percentGain": "1.87"
+        },
+        {
+          "company": "ONGC",
+          "high": "268.30",
+          "low": "261.15",
+          "lastPrice": "265.85",
+          "prevClose": "261.65",
+          "change": "4.20",
+          "percentGain": "1.61"
+        }
+      ]
     }
   ],
   "losers": [
@@ -1231,6 +1281,56 @@
           "prevClose": "1,022.70",
           "change": "-24.05",
           "percentGain": "-2.35"
+        }
+      ]
+    },
+    {
+      "time": "8:50:17 AM",
+      "data": [
+        {
+          "company": "Tech Mahindra",
+          "high": "1,669.80",
+          "low": "1,595.55",
+          "lastPrice": "1,608.55",
+          "prevClose": "1,684.95",
+          "change": "-76.40",
+          "percentGain": "-4.53"
+        },
+        {
+          "company": "HCL Tech",
+          "high": "1,843.90",
+          "low": "1,767.35",
+          "lastPrice": "1,779.25",
+          "prevClose": "1,838.80",
+          "change": "-59.55",
+          "percentGain": "-3.24"
+        },
+        {
+          "company": "Shriram Finance",
+          "high": "3,185.00",
+          "low": "3,090.10",
+          "lastPrice": "3,090.80",
+          "prevClose": "3,185.80",
+          "change": "-95.00",
+          "percentGain": "-2.98"
+        },
+        {
+          "company": "TCS",
+          "high": "4,078.30",
+          "low": "3,960.05",
+          "lastPrice": "3,988.05",
+          "prevClose": "4,084.65",
+          "change": "-96.60",
+          "percentGain": "-2.36"
+        },
+        {
+          "company": "TATA Cons. Prod",
+          "high": "1,027.90",
+          "low": "997.10",
+          "lastPrice": "999.80",
+          "prevClose": "1,022.70",
+          "change": "-22.90",
+          "percentGain": "-2.24"
         }
       ]
     }
