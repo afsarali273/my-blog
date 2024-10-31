@@ -1,0 +1,106 @@
+{
+  "gainers": [
+    {
+      "time": "3:52:13 AM",
+      "data": [
+        {
+          "company": "Cipla",
+          "high": "1,560.05",
+          "low": "1,520.00",
+          "lastPrice": "1,531.85",
+          "prevClose": "1,418.25",
+          "change": "113.60",
+          "percentGain": "8.01"
+        },
+        {
+          "company": "Larsen",
+          "high": "3,594.80",
+          "low": "3,508.35",
+          "lastPrice": "3,594.00",
+          "prevClose": "3,408.35",
+          "change": "185.65",
+          "percentGain": "5.45"
+        },
+        {
+          "company": "Hero Motocorp",
+          "high": "4,973.90",
+          "low": "4,919.95",
+          "lastPrice": "4,965.90",
+          "prevClose": "4,909.30",
+          "change": "56.60",
+          "percentGain": "1.15"
+        },
+        {
+          "company": "Dr Reddys Labs",
+          "high": "1,270.80",
+          "low": "1,253.10",
+          "lastPrice": "1,261.15",
+          "prevClose": "1,249.85",
+          "change": "11.30",
+          "percentGain": "0.90"
+        },
+        {
+          "company": "SBI Life Insura",
+          "high": "1,641.95",
+          "low": "1,618.05",
+          "lastPrice": "1,633.30",
+          "prevClose": "1,624.15",
+          "change": "9.15",
+          "percentGain": "0.56"
+        }
+      ]
+    }
+  ],
+  "losers": [
+    {
+      "time": "3:52:13 AM",
+      "data": [
+        {
+          "company": "Tech Mahindra",
+          "high": "1,669.80",
+          "low": "1,649.10",
+          "lastPrice": "1,651.00",
+          "prevClose": "1,684.95",
+          "change": "-33.95",
+          "percentGain": "-2.01"
+        },
+        {
+          "company": "TCS",
+          "high": "4,078.30",
+          "low": "4,022.40",
+          "lastPrice": "4,025.05",
+          "prevClose": "4,084.65",
+          "change": "-59.60",
+          "percentGain": "-1.46"
+        },
+        {
+          "company": "Titan Company",
+          "high": "3,299.90",
+          "low": "3,265.60",
+          "lastPrice": "3,268.50",
+          "prevClose": "3,308.45",
+          "change": "-39.95",
+          "percentGain": "-1.21"
+        },
+        {
+          "company": "NTPC",
+          "high": "409.95",
+          "low": "403.50",
+          "lastPrice": "404.70",
+          "prevClose": "408.50",
+          "change": "-3.80",
+          "percentGain": "-0.93"
+        },
+        {
+          "company": "Maruti Suzuki",
+          "high": "11,247.55",
+          "low": "11,141.55",
+          "lastPrice": "11,152.40",
+          "prevClose": "11,256.45",
+          "change": "-104.05",
+          "percentGain": "-0.92"
+        }
+      ]
+    }
+  ]
+}
