@@ -605,6 +605,56 @@
     {
       "time": "9:49:54 AM",
       "data": []
+    },
+    {
+      "time": "10:14:43 AM",
+      "data": [
+        {
+          "company": "M&M",
+          "high": "2,971.75",
+          "low": "2,804.50",
+          "lastPrice": "2,883.95",
+          "prevClose": "2,817.65",
+          "change": "66.30",
+          "percentGain": "2.35"
+        },
+        {
+          "company": "Tech Mahindra",
+          "high": "1,640.25",
+          "low": "1,608.05",
+          "lastPrice": "1,638.40",
+          "prevClose": "1,603.65",
+          "change": "34.75",
+          "percentGain": "2.17"
+        },
+        {
+          "company": "Cipla",
+          "high": "1,602.95",
+          "low": "1,563.00",
+          "lastPrice": "1,584.60",
+          "prevClose": "1,559.55",
+          "change": "25.05",
+          "percentGain": "1.61"
+        },
+        {
+          "company": "SBI",
+          "high": "837.50",
+          "low": "807.10",
+          "lastPrice": "829.85",
+          "prevClose": "821.20",
+          "change": "8.65",
+          "percentGain": "1.05"
+        },
+        {
+          "company": "Dr Reddys Labs",
+          "high": "1,276.90",
+          "low": "1,250.55",
+          "lastPrice": "1,268.30",
+          "prevClose": "1,259.60",
+          "change": "8.70",
+          "percentGain": "0.69"
+        }
+      ]
     }
   ],
   "losers": [
@@ -1231,6 +1281,56 @@
     {
       "time": "9:49:54 AM",
       "data": []
+    },
+    {
+      "time": "10:14:43 AM",
+      "data": [
+        {
+          "company": "Hero Motocorp",
+          "high": "5,127.50",
+          "low": "4,726.50",
+          "lastPrice": "4,806.05",
+          "prevClose": "5,020.50",
+          "change": "-214.45",
+          "percentGain": "-4.27"
+        },
+        {
+          "company": "Grasim",
+          "high": "2,700.00",
+          "low": "2,578.05",
+          "lastPrice": "2,590.60",
+          "prevClose": "2,698.90",
+          "change": "-108.30",
+          "percentGain": "-4.01"
+        },
+        {
+          "company": "Bajaj Auto",
+          "high": "9,896.50",
+          "low": "9,365.00",
+          "lastPrice": "9,525.55",
+          "prevClose": "9,875.95",
+          "change": "-350.40",
+          "percentGain": "-3.55"
+        },
+        {
+          "company": "Adani Ports",
+          "high": "1,395.00",
+          "low": "1,336.00",
+          "lastPrice": "1,349.25",
+          "prevClose": "1,394.40",
+          "change": "-45.15",
+          "percentGain": "-3.24"
+        },
+        {
+          "company": "BPCL",
+          "high": "313.50",
+          "low": "298.10",
+          "lastPrice": "303.45",
+          "prevClose": "313.00",
+          "change": "-9.55",
+          "percentGain": "-3.05"
+        }
+      ]
     }
   ]
 }
