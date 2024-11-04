@@ -202,6 +202,47 @@
     {
       "time": "5:49:48 AM",
       "data": []
+    },
+    {
+      "time": "6:23:36 AM",
+      "data": [
+        {
+          "company": "Tech Mahindra",
+          "high": "1,633.00",
+          "low": "1,608.05",
+          "lastPrice": "1,619.95",
+          "prevClose": "1,603.65",
+          "change": "16.30",
+          "percentGain": "1.02"
+        },
+        {
+          "company": "Cipla",
+          "high": "1,602.95",
+          "low": "1,563.00",
+          "lastPrice": "1,575.10",
+          "prevClose": "1,559.55",
+          "change": "15.55",
+          "percentGain": "1.00"
+        },
+        {
+          "company": "M&M",
+          "high": "2,971.75",
+          "low": "2,804.50",
+          "lastPrice": "2,839.85",
+          "prevClose": "2,817.65",
+          "change": "22.20",
+          "percentGain": "0.79"
+        },
+        {
+          "company": "Dr Reddys Labs",
+          "high": "1,276.90",
+          "low": "1,250.55",
+          "lastPrice": "1,265.50",
+          "prevClose": "1,259.60",
+          "change": "5.90",
+          "percentGain": "0.47"
+        }
+      ]
     }
   ],
   "losers": [
@@ -416,6 +457,56 @@
     {
       "time": "5:49:48 AM",
       "data": []
+    },
+    {
+      "time": "6:23:36 AM",
+      "data": [
+        {
+          "company": "Hero Motocorp",
+          "high": "5,127.50",
+          "low": "4,740.10",
+          "lastPrice": "4,755.90",
+          "prevClose": "5,020.50",
+          "change": "-264.60",
+          "percentGain": "-5.27"
+        },
+        {
+          "company": "Bajaj Auto",
+          "high": "9,896.50",
+          "low": "9,372.00",
+          "lastPrice": "9,379.30",
+          "prevClose": "9,875.95",
+          "change": "-496.65",
+          "percentGain": "-5.03"
+        },
+        {
+          "company": "Sun Pharma",
+          "high": "1,845.00",
+          "low": "1,760.10",
+          "lastPrice": "1,777.00",
+          "prevClose": "1,858.40",
+          "change": "-81.40",
+          "percentGain": "-4.38"
+        },
+        {
+          "company": "BPCL",
+          "high": "313.50",
+          "low": "298.10",
+          "lastPrice": "300.65",
+          "prevClose": "313.00",
+          "change": "-12.35",
+          "percentGain": "-3.95"
+        },
+        {
+          "company": "Hindalco",
+          "high": "689.90",
+          "low": "661.60",
+          "lastPrice": "664.10",
+          "prevClose": "690.90",
+          "change": "-26.80",
+          "percentGain": "-3.88"
+        }
+      ]
     }
   ]
 }
