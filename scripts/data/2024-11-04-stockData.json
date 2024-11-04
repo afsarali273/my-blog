@@ -157,6 +157,47 @@
           "percentGain": "0.19"
         }
       ]
+    },
+    {
+      "time": "5:39:24 AM",
+      "data": [
+        {
+          "company": "Cipla",
+          "high": "1,602.95",
+          "low": "1,563.00",
+          "lastPrice": "1,574.85",
+          "prevClose": "1,559.55",
+          "change": "15.30",
+          "percentGain": "0.98"
+        },
+        {
+          "company": "Tech Mahindra",
+          "high": "1,633.00",
+          "low": "1,608.05",
+          "lastPrice": "1,615.70",
+          "prevClose": "1,603.65",
+          "change": "12.05",
+          "percentGain": "0.75"
+        },
+        {
+          "company": "M&M",
+          "high": "2,971.75",
+          "low": "2,804.50",
+          "lastPrice": "2,829.50",
+          "prevClose": "2,817.65",
+          "change": "11.85",
+          "percentGain": "0.42"
+        },
+        {
+          "company": "Dr Reddys Labs",
+          "high": "1,276.90",
+          "low": "1,250.55",
+          "lastPrice": "1,263.00",
+          "prevClose": "1,259.60",
+          "change": "3.40",
+          "percentGain": "0.27"
+        }
+      ]
     }
   ],
   "losers": [
@@ -315,6 +356,56 @@
           "prevClose": "411.35",
           "change": "-15.05",
           "percentGain": "-3.66"
+        }
+      ]
+    },
+    {
+      "time": "5:39:24 AM",
+      "data": [
+        {
+          "company": "Hero Motocorp",
+          "high": "5,127.50",
+          "low": "4,743.35",
+          "lastPrice": "4,746.35",
+          "prevClose": "5,020.50",
+          "change": "-274.15",
+          "percentGain": "-5.46"
+        },
+        {
+          "company": "Bajaj Auto",
+          "high": "9,896.50",
+          "low": "9,388.00",
+          "lastPrice": "9,388.00",
+          "prevClose": "9,875.95",
+          "change": "-487.95",
+          "percentGain": "-4.94"
+        },
+        {
+          "company": "Sun Pharma",
+          "high": "1,845.00",
+          "low": "1,760.10",
+          "lastPrice": "1,772.95",
+          "prevClose": "1,858.40",
+          "change": "-85.45",
+          "percentGain": "-4.60"
+        },
+        {
+          "company": "BPCL",
+          "high": "313.50",
+          "low": "298.10",
+          "lastPrice": "298.75",
+          "prevClose": "313.00",
+          "change": "-14.25",
+          "percentGain": "-4.55"
+        },
+        {
+          "company": "NTPC",
+          "high": "414.30",
+          "low": "393.70",
+          "lastPrice": "394.25",
+          "prevClose": "411.35",
+          "change": "-17.10",
+          "percentGain": "-4.16"
         }
       ]
     }
