@@ -347,6 +347,56 @@
           "percentGain": "0.23"
         }
       ]
+    },
+    {
+      "time": "7:49:56 AM",
+      "data": [
+        {
+          "company": "M&M",
+          "high": "2,971.75",
+          "low": "2,804.50",
+          "lastPrice": "2,865.15",
+          "prevClose": "2,817.65",
+          "change": "47.50",
+          "percentGain": "1.69"
+        },
+        {
+          "company": "Tech Mahindra",
+          "high": "1,637.05",
+          "low": "1,608.05",
+          "lastPrice": "1,629.00",
+          "prevClose": "1,603.65",
+          "change": "25.35",
+          "percentGain": "1.58"
+        },
+        {
+          "company": "Cipla",
+          "high": "1,602.95",
+          "low": "1,563.00",
+          "lastPrice": "1,580.10",
+          "prevClose": "1,559.55",
+          "change": "20.55",
+          "percentGain": "1.32"
+        },
+        {
+          "company": "IndusInd Bank",
+          "high": "1,070.50",
+          "low": "1,054.10",
+          "lastPrice": "1,065.75",
+          "prevClose": "1,062.50",
+          "change": "3.25",
+          "percentGain": "0.31"
+        },
+        {
+          "company": "Dr Reddys Labs",
+          "high": "1,276.90",
+          "low": "1,250.55",
+          "lastPrice": "1,263.25",
+          "prevClose": "1,259.60",
+          "change": "3.65",
+          "percentGain": "0.29"
+        }
+      ]
     }
   ],
   "losers": [
@@ -713,6 +763,56 @@
           "prevClose": "313.00",
           "change": "-12.10",
           "percentGain": "-3.87"
+        }
+      ]
+    },
+    {
+      "time": "7:49:56 AM",
+      "data": [
+        {
+          "company": "Hero Motocorp",
+          "high": "5,127.50",
+          "low": "4,726.50",
+          "lastPrice": "4,750.00",
+          "prevClose": "5,020.50",
+          "change": "-270.50",
+          "percentGain": "-5.39"
+        },
+        {
+          "company": "Bajaj Auto",
+          "high": "9,896.50",
+          "low": "9,365.00",
+          "lastPrice": "9,387.20",
+          "prevClose": "9,875.95",
+          "change": "-488.75",
+          "percentGain": "-4.95"
+        },
+        {
+          "company": "ONGC",
+          "high": "274.35",
+          "low": "260.35",
+          "lastPrice": "260.90",
+          "prevClose": "271.75",
+          "change": "-10.85",
+          "percentGain": "-3.99"
+        },
+        {
+          "company": "BPCL",
+          "high": "313.50",
+          "low": "298.10",
+          "lastPrice": "301.05",
+          "prevClose": "313.00",
+          "change": "-11.95",
+          "percentGain": "-3.82"
+        },
+        {
+          "company": "Grasim",
+          "high": "2,700.00",
+          "low": "2,578.05",
+          "lastPrice": "2,596.00",
+          "prevClose": "2,698.90",
+          "change": "-102.90",
+          "percentGain": "-3.81"
         }
       ]
     }
