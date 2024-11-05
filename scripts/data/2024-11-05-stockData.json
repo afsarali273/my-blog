@@ -369,6 +369,56 @@
     {
       "time": "7:29:05 AM",
       "data": []
+    },
+    {
+      "time": "7:38:59 AM",
+      "data": [
+        {
+          "company": "JSW Steel",
+          "high": "988.50",
+          "low": "952.00",
+          "lastPrice": "985.75",
+          "prevClose": "954.90",
+          "change": "30.85",
+          "percentGain": "3.23"
+        },
+        {
+          "company": "Tata Steel",
+          "high": "151.69",
+          "low": "146.95",
+          "lastPrice": "150.82",
+          "prevClose": "146.95",
+          "change": "3.87",
+          "percentGain": "2.63"
+        },
+        {
+          "company": "Bajaj Auto",
+          "high": "9,810.30",
+          "low": "9,500.20",
+          "lastPrice": "9,695.90",
+          "prevClose": "9,525.55",
+          "change": "170.35",
+          "percentGain": "1.79"
+        },
+        {
+          "company": "Hindalco",
+          "high": "689.75",
+          "low": "674.80",
+          "lastPrice": "686.30",
+          "prevClose": "674.30",
+          "change": "12.00",
+          "percentGain": "1.78"
+        },
+        {
+          "company": "IndusInd Bank",
+          "high": "1,090.45",
+          "low": "1,062.00",
+          "lastPrice": "1,082.50",
+          "prevClose": "1,063.80",
+          "change": "18.70",
+          "percentGain": "1.76"
+        }
+      ]
     }
   ],
   "losers": [
@@ -741,6 +791,56 @@
     {
       "time": "7:29:05 AM",
       "data": []
+    },
+    {
+      "time": "7:38:59 AM",
+      "data": [
+        {
+          "company": "Adani Ports",
+          "high": "1,353.05",
+          "low": "1,295.90",
+          "lastPrice": "1,303.95",
+          "prevClose": "1,349.25",
+          "change": "-45.30",
+          "percentGain": "-3.36"
+        },
+        {
+          "company": "Trent",
+          "high": "7,078.50",
+          "low": "6,829.85",
+          "lastPrice": "6,833.00",
+          "prevClose": "7,063.75",
+          "change": "-230.75",
+          "percentGain": "-3.27"
+        },
+        {
+          "company": "Coal India",
+          "high": "433.25",
+          "low": "427.00",
+          "lastPrice": "431.90",
+          "prevClose": "443.30",
+          "change": "-11.40",
+          "percentGain": "-2.57"
+        },
+        {
+          "company": "HDFC Life",
+          "high": "710.85",
+          "low": "685.40",
+          "lastPrice": "693.55",
+          "prevClose": "710.85",
+          "change": "-17.30",
+          "percentGain": "-2.43"
+        },
+        {
+          "company": "Shriram Finance",
+          "high": "3,157.60",
+          "low": "3,055.00",
+          "lastPrice": "3,077.50",
+          "prevClose": "3,147.90",
+          "change": "-70.40",
+          "percentGain": "-2.24"
+        }
+      ]
     }
   ]
 }
