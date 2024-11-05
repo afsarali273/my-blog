@@ -1,0 +1,106 @@
+{
+  "gainers": [
+    {
+      "time": "3:51:32 AM",
+      "data": [
+        {
+          "company": "Hindalco",
+          "high": "687.90",
+          "low": "674.80",
+          "lastPrice": "686.80",
+          "prevClose": "674.30",
+          "change": "12.50",
+          "percentGain": "1.85"
+        },
+        {
+          "company": "JSW Steel",
+          "high": "974.00",
+          "low": "952.00",
+          "lastPrice": "972.15",
+          "prevClose": "954.90",
+          "change": "17.25",
+          "percentGain": "1.81"
+        },
+        {
+          "company": "Tata Steel",
+          "high": "149.38",
+          "low": "146.95",
+          "lastPrice": "149.31",
+          "prevClose": "146.95",
+          "change": "2.36",
+          "percentGain": "1.61"
+        },
+        {
+          "company": "Grasim",
+          "high": "2,619.75",
+          "low": "2,587.60",
+          "lastPrice": "2,618.05",
+          "prevClose": "2,590.60",
+          "change": "27.45",
+          "percentGain": "1.06"
+        },
+        {
+          "company": "Tata Motors",
+          "high": "831.80",
+          "low": "820.40",
+          "lastPrice": "831.80",
+          "prevClose": "824.10",
+          "change": "7.70",
+          "percentGain": "0.93"
+        }
+      ]
+    }
+  ],
+  "losers": [
+    {
+      "time": "3:51:32 AM",
+      "data": [
+        {
+          "company": "Coal India",
+          "high": "431.55",
+          "low": "427.00",
+          "lastPrice": "430.10",
+          "prevClose": "443.30",
+          "change": "-13.20",
+          "percentGain": "-2.98"
+        },
+        {
+          "company": "HDFC Bank",
+          "high": "1,709.80",
+          "low": "1,700.35",
+          "lastPrice": "1,703.95",
+          "prevClose": "1,714.10",
+          "change": "-10.15",
+          "percentGain": "-0.59"
+        },
+        {
+          "company": "HDFC Life",
+          "high": "710.85",
+          "low": "707.10",
+          "lastPrice": "707.15",
+          "prevClose": "710.85",
+          "change": "-3.70",
+          "percentGain": "-0.52"
+        },
+        {
+          "company": "Reliance",
+          "high": "1,296.35",
+          "low": "1,286.15",
+          "lastPrice": "1,295.70",
+          "prevClose": "1,302.15",
+          "change": "-6.45",
+          "percentGain": "-0.50"
+        },
+        {
+          "company": "Trent",
+          "high": "7,049.85",
+          "low": "6,966.00",
+          "lastPrice": "7,031.75",
+          "prevClose": "7,063.75",
+          "change": "-32.00",
+          "percentGain": "-0.45"
+        }
+      ]
+    }
+  ]
+}
