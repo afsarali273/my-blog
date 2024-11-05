@@ -469,6 +469,56 @@
           "percentGain": "1.73"
         }
       ]
+    },
+    {
+      "time": "8:19:41 AM",
+      "data": [
+        {
+          "company": "JSW Steel",
+          "high": "991.00",
+          "low": "952.00",
+          "lastPrice": "988.35",
+          "prevClose": "954.90",
+          "change": "33.45",
+          "percentGain": "3.50"
+        },
+        {
+          "company": "Tata Steel",
+          "high": "151.69",
+          "low": "146.95",
+          "lastPrice": "151.41",
+          "prevClose": "146.95",
+          "change": "4.46",
+          "percentGain": "3.04"
+        },
+        {
+          "company": "Hindalco",
+          "high": "694.70",
+          "low": "674.80",
+          "lastPrice": "694.00",
+          "prevClose": "674.30",
+          "change": "19.70",
+          "percentGain": "2.92"
+        },
+        {
+          "company": "Bajaj Auto",
+          "high": "9,810.30",
+          "low": "9,500.20",
+          "lastPrice": "9,785.40",
+          "prevClose": "9,525.55",
+          "change": "259.85",
+          "percentGain": "2.73"
+        },
+        {
+          "company": "SBI",
+          "high": "850.80",
+          "low": "826.25",
+          "lastPrice": "849.90",
+          "prevClose": "829.85",
+          "change": "20.05",
+          "percentGain": "2.42"
+        }
+      ]
     }
   ],
   "losers": [
@@ -939,6 +989,56 @@
           "prevClose": "710.85",
           "change": "-14.00",
           "percentGain": "-1.97"
+        }
+      ]
+    },
+    {
+      "time": "8:19:41 AM",
+      "data": [
+        {
+          "company": "Adani Ports",
+          "high": "1,353.05",
+          "low": "1,295.90",
+          "lastPrice": "1,315.00",
+          "prevClose": "1,349.25",
+          "change": "-34.25",
+          "percentGain": "-2.54"
+        },
+        {
+          "company": "Trent",
+          "high": "7,078.50",
+          "low": "6,794.05",
+          "lastPrice": "6,913.05",
+          "prevClose": "7,063.75",
+          "change": "-150.70",
+          "percentGain": "-2.13"
+        },
+        {
+          "company": "Coal India",
+          "high": "434.70",
+          "low": "427.00",
+          "lastPrice": "434.15",
+          "prevClose": "443.30",
+          "change": "-9.15",
+          "percentGain": "-2.06"
+        },
+        {
+          "company": "ITC",
+          "high": "485.05",
+          "low": "476.95",
+          "lastPrice": "478.95",
+          "prevClose": "484.60",
+          "change": "-5.65",
+          "percentGain": "-1.17"
+        },
+        {
+          "company": "Bharti Airtel",
+          "high": "1,593.90",
+          "low": "1,566.00",
+          "lastPrice": "1,574.00",
+          "prevClose": "1,591.25",
+          "change": "-17.25",
+          "percentGain": "-1.08"
         }
       ]
     }
