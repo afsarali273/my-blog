@@ -161,6 +161,56 @@
           "percentGain": "1.63"
         }
       ]
+    },
+    {
+      "time": "5:50:36 AM",
+      "data": [
+        {
+          "company": "JSW Steel",
+          "high": "982.60",
+          "low": "952.00",
+          "lastPrice": "980.50",
+          "prevClose": "954.90",
+          "change": "25.60",
+          "percentGain": "2.68"
+        },
+        {
+          "company": "Tata Steel",
+          "high": "150.99",
+          "low": "146.95",
+          "lastPrice": "150.75",
+          "prevClose": "146.95",
+          "change": "3.80",
+          "percentGain": "2.59"
+        },
+        {
+          "company": "Bajaj Auto",
+          "high": "9,810.30",
+          "low": "9,500.20",
+          "lastPrice": "9,757.05",
+          "prevClose": "9,525.55",
+          "change": "231.50",
+          "percentGain": "2.43"
+        },
+        {
+          "company": "IndusInd Bank",
+          "high": "1,090.45",
+          "low": "1,062.00",
+          "lastPrice": "1,083.95",
+          "prevClose": "1,063.80",
+          "change": "20.15",
+          "percentGain": "1.89"
+        },
+        {
+          "company": "Hindalco",
+          "high": "689.75",
+          "low": "674.80",
+          "lastPrice": "686.15",
+          "prevClose": "674.30",
+          "change": "11.85",
+          "percentGain": "1.76"
+        }
+      ]
     }
   ],
   "losers": [
@@ -323,6 +373,56 @@
           "prevClose": "6,958.40",
           "change": "-126.15",
           "percentGain": "-1.81"
+        }
+      ]
+    },
+    {
+      "time": "5:50:36 AM",
+      "data": [
+        {
+          "company": "Adani Ports",
+          "high": "1,353.05",
+          "low": "1,304.20",
+          "lastPrice": "1,306.25",
+          "prevClose": "1,349.25",
+          "change": "-43.00",
+          "percentGain": "-3.19"
+        },
+        {
+          "company": "Coal India",
+          "high": "433.25",
+          "low": "427.00",
+          "lastPrice": "432.20",
+          "prevClose": "443.30",
+          "change": "-11.10",
+          "percentGain": "-2.50"
+        },
+        {
+          "company": "Trent",
+          "high": "7,078.50",
+          "low": "6,885.00",
+          "lastPrice": "6,911.05",
+          "prevClose": "7,063.75",
+          "change": "-152.70",
+          "percentGain": "-2.16"
+        },
+        {
+          "company": "Apollo Hospital",
+          "high": "6,963.15",
+          "low": "6,814.25",
+          "lastPrice": "6,836.45",
+          "prevClose": "6,958.40",
+          "change": "-121.95",
+          "percentGain": "-1.75"
+        },
+        {
+          "company": "Shriram Finance",
+          "high": "3,157.60",
+          "low": "3,075.40",
+          "lastPrice": "3,095.80",
+          "prevClose": "3,147.90",
+          "change": "-52.10",
+          "percentGain": "-1.66"
         }
       ]
     }
