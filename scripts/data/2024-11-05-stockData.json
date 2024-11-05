@@ -577,6 +577,56 @@
           "percentGain": "3.08"
         }
       ]
+    },
+    {
+      "time": "9:37:23 AM",
+      "data": [
+        {
+          "company": "JSW Steel",
+          "high": "1,003.00",
+          "low": "952.00",
+          "lastPrice": "1,000.80",
+          "prevClose": "954.90",
+          "change": "45.90",
+          "percentGain": "4.81"
+        },
+        {
+          "company": "Tata Steel",
+          "high": "152.48",
+          "low": "146.95",
+          "lastPrice": "152.26",
+          "prevClose": "146.95",
+          "change": "5.31",
+          "percentGain": "3.61"
+        },
+        {
+          "company": "Bajaj Auto",
+          "high": "10,007.30",
+          "low": "9,500.20",
+          "lastPrice": "9,863.85",
+          "prevClose": "9,525.55",
+          "change": "338.30",
+          "percentGain": "3.55"
+        },
+        {
+          "company": "Hindalco",
+          "high": "701.45",
+          "low": "674.80",
+          "lastPrice": "697.40",
+          "prevClose": "674.30",
+          "change": "23.10",
+          "percentGain": "3.43"
+        },
+        {
+          "company": "Axis Bank",
+          "high": "1,174.90",
+          "low": "1,133.45",
+          "lastPrice": "1,172.25",
+          "prevClose": "1,139.25",
+          "change": "33.00",
+          "percentGain": "2.90"
+        }
+      ]
     }
   ],
   "losers": [
@@ -1155,6 +1205,56 @@
           "prevClose": "1,591.25",
           "change": "-14.70",
           "percentGain": "-0.92"
+        }
+      ]
+    },
+    {
+      "time": "9:37:23 AM",
+      "data": [
+        {
+          "company": "Coal India",
+          "high": "435.35",
+          "low": "427.00",
+          "lastPrice": "434.60",
+          "prevClose": "443.30",
+          "change": "-8.70",
+          "percentGain": "-1.96"
+        },
+        {
+          "company": "Adani Ports",
+          "high": "1,353.05",
+          "low": "1,295.90",
+          "lastPrice": "1,327.50",
+          "prevClose": "1,349.25",
+          "change": "-21.75",
+          "percentGain": "-1.61"
+        },
+        {
+          "company": "Trent",
+          "high": "7,078.50",
+          "low": "6,794.05",
+          "lastPrice": "6,986.90",
+          "prevClose": "7,063.75",
+          "change": "-76.85",
+          "percentGain": "-1.09"
+        },
+        {
+          "company": "ITC",
+          "high": "485.05",
+          "low": "476.95",
+          "lastPrice": "479.30",
+          "prevClose": "484.60",
+          "change": "-5.30",
+          "percentGain": "-1.09"
+        },
+        {
+          "company": "Asian Paints",
+          "high": "2,918.80",
+          "low": "2,872.70",
+          "lastPrice": "2,887.70",
+          "prevClose": "2,915.30",
+          "change": "-27.60",
+          "percentGain": "-0.95"
         }
       ]
     }
