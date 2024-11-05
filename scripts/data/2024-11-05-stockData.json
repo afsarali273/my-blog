@@ -49,6 +49,56 @@
           "percentGain": "0.93"
         }
       ]
+    },
+    {
+      "time": "4:18:46 AM",
+      "data": [
+        {
+          "company": "IndusInd Bank",
+          "high": "1,082.75",
+          "low": "1,062.00",
+          "lastPrice": "1,080.30",
+          "prevClose": "1,063.80",
+          "change": "16.50",
+          "percentGain": "1.55"
+        },
+        {
+          "company": "Tata Steel",
+          "high": "150.20",
+          "low": "146.95",
+          "lastPrice": "149.05",
+          "prevClose": "146.95",
+          "change": "2.10",
+          "percentGain": "1.43"
+        },
+        {
+          "company": "Hindalco",
+          "high": "689.75",
+          "low": "674.80",
+          "lastPrice": "682.10",
+          "prevClose": "674.30",
+          "change": "7.80",
+          "percentGain": "1.16"
+        },
+        {
+          "company": "Maruti Suzuki",
+          "high": "11,200.00",
+          "low": "11,011.90",
+          "lastPrice": "11,153.05",
+          "prevClose": "11,052.45",
+          "change": "100.60",
+          "percentGain": "0.91"
+        },
+        {
+          "company": "Tata Motors",
+          "high": "835.70",
+          "low": "820.40",
+          "lastPrice": "830.95",
+          "prevClose": "824.10",
+          "change": "6.85",
+          "percentGain": "0.83"
+        }
+      ]
     }
   ],
   "losers": [
@@ -99,6 +149,56 @@
           "prevClose": "7,063.75",
           "change": "-32.00",
           "percentGain": "-0.45"
+        }
+      ]
+    },
+    {
+      "time": "4:18:46 AM",
+      "data": [
+        {
+          "company": "Coal India",
+          "high": "432.10",
+          "low": "427.00",
+          "lastPrice": "429.55",
+          "prevClose": "443.30",
+          "change": "-13.75",
+          "percentGain": "-3.10"
+        },
+        {
+          "company": "Adani Ports",
+          "high": "1,353.05",
+          "low": "1,315.20",
+          "lastPrice": "1,318.65",
+          "prevClose": "1,349.25",
+          "change": "-30.60",
+          "percentGain": "-2.27"
+        },
+        {
+          "company": "Trent",
+          "high": "7,078.50",
+          "low": "6,925.95",
+          "lastPrice": "6,931.25",
+          "prevClose": "7,063.75",
+          "change": "-132.50",
+          "percentGain": "-1.88"
+        },
+        {
+          "company": "Shriram Finance",
+          "high": "3,157.60",
+          "low": "3,112.10",
+          "lastPrice": "3,113.20",
+          "prevClose": "3,147.90",
+          "change": "-34.70",
+          "percentGain": "-1.10"
+        },
+        {
+          "company": "ITC",
+          "high": "485.05",
+          "low": "479.65",
+          "lastPrice": "479.95",
+          "prevClose": "484.60",
+          "change": "-4.65",
+          "percentGain": "-0.96"
         }
       ]
     }
