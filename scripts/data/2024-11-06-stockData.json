@@ -407,6 +407,56 @@
           "percentGain": "3.28"
         }
       ]
+    },
+    {
+      "time": "7:14:42 AM",
+      "data": [
+        {
+          "company": "Bharat Elec",
+          "high": "299.30",
+          "low": "287.20",
+          "lastPrice": "298.30",
+          "prevClose": "286.35",
+          "change": "11.95",
+          "percentGain": "4.17"
+        },
+        {
+          "company": "HCL Tech",
+          "high": "1,841.95",
+          "low": "1,783.00",
+          "lastPrice": "1,841.00",
+          "prevClose": "1,773.55",
+          "change": "67.45",
+          "percentGain": "3.80"
+        },
+        {
+          "company": "Adani Enterpris",
+          "high": "3,031.00",
+          "low": "2,918.00",
+          "lastPrice": "3,025.75",
+          "prevClose": "2,915.55",
+          "change": "110.20",
+          "percentGain": "3.78"
+        },
+        {
+          "company": "TCS",
+          "high": "4,121.00",
+          "low": "3,975.25",
+          "lastPrice": "4,116.25",
+          "prevClose": "3,971.35",
+          "change": "144.90",
+          "percentGain": "3.65"
+        },
+        {
+          "company": "Tech Mahindra",
+          "high": "1,691.95",
+          "low": "1,635.00",
+          "lastPrice": "1,690.90",
+          "prevClose": "1,632.65",
+          "change": "58.25",
+          "percentGain": "3.57"
+        }
+      ]
     }
   ],
   "losers": [
@@ -815,6 +865,56 @@
           "prevClose": "1,633.20",
           "change": "-15.25",
           "percentGain": "-0.93"
+        }
+      ]
+    },
+    {
+      "time": "7:14:42 AM",
+      "data": [
+        {
+          "company": "IndusInd Bank",
+          "high": "1,098.60",
+          "low": "1,068.25",
+          "lastPrice": "1,074.45",
+          "prevClose": "1,090.10",
+          "change": "-15.65",
+          "percentGain": "-1.44"
+        },
+        {
+          "company": "Titan Company",
+          "high": "3,197.65",
+          "low": "3,114.00",
+          "lastPrice": "3,183.75",
+          "prevClose": "3,230.25",
+          "change": "-46.50",
+          "percentGain": "-1.44"
+        },
+        {
+          "company": "HDFC Life",
+          "high": "718.00",
+          "low": "704.35",
+          "lastPrice": "707.85",
+          "prevClose": "717.25",
+          "change": "-9.40",
+          "percentGain": "-1.31"
+        },
+        {
+          "company": "Cipla",
+          "high": "1,612.35",
+          "low": "1,581.00",
+          "lastPrice": "1,582.35",
+          "prevClose": "1,601.20",
+          "change": "-18.85",
+          "percentGain": "-1.18"
+        },
+        {
+          "company": "SBI Life Insura",
+          "high": "1,638.65",
+          "low": "1,608.25",
+          "lastPrice": "1,614.25",
+          "prevClose": "1,633.20",
+          "change": "-18.95",
+          "percentGain": "-1.16"
         }
       ]
     }
