@@ -153,6 +153,56 @@
           "percentGain": "2.53"
         }
       ]
+    },
+    {
+      "time": "5:15:23 AM",
+      "data": [
+        {
+          "company": "TCS",
+          "high": "4,101.00",
+          "low": "3,975.25",
+          "lastPrice": "4,081.60",
+          "prevClose": "3,971.35",
+          "change": "110.25",
+          "percentGain": "2.78"
+        },
+        {
+          "company": "Dr Reddys Labs",
+          "high": "1,312.80",
+          "low": "1,251.60",
+          "lastPrice": "1,307.50",
+          "prevClose": "1,272.20",
+          "change": "35.30",
+          "percentGain": "2.77"
+        },
+        {
+          "company": "Tech Mahindra",
+          "high": "1,682.00",
+          "low": "1,635.00",
+          "lastPrice": "1,677.00",
+          "prevClose": "1,632.65",
+          "change": "44.35",
+          "percentGain": "2.72"
+        },
+        {
+          "company": "Infosys",
+          "high": "1,809.20",
+          "low": "1,762.65",
+          "lastPrice": "1,799.70",
+          "prevClose": "1,754.20",
+          "change": "45.50",
+          "percentGain": "2.59"
+        },
+        {
+          "company": "Wipro",
+          "high": "560.45",
+          "low": "541.00",
+          "lastPrice": "557.50",
+          "prevClose": "543.70",
+          "change": "13.80",
+          "percentGain": "2.54"
+        }
+      ]
     }
   ],
   "losers": [
@@ -307,6 +357,56 @@
           "prevClose": "152.29",
           "change": "-1.20",
           "percentGain": "-0.79"
+        }
+      ]
+    },
+    {
+      "time": "5:15:23 AM",
+      "data": [
+        {
+          "company": "Titan Company",
+          "high": "3,197.65",
+          "low": "3,114.00",
+          "lastPrice": "3,139.00",
+          "prevClose": "3,230.25",
+          "change": "-91.25",
+          "percentGain": "-2.82"
+        },
+        {
+          "company": "IndusInd Bank",
+          "high": "1,098.60",
+          "low": "1,068.25",
+          "lastPrice": "1,070.35",
+          "prevClose": "1,090.10",
+          "change": "-19.75",
+          "percentGain": "-1.81"
+        },
+        {
+          "company": "Tata Steel",
+          "high": "154.95",
+          "low": "149.59",
+          "lastPrice": "150.02",
+          "prevClose": "152.29",
+          "change": "-2.27",
+          "percentGain": "-1.49"
+        },
+        {
+          "company": "SBI Life Insura",
+          "high": "1,638.65",
+          "low": "1,608.25",
+          "lastPrice": "1,610.55",
+          "prevClose": "1,633.20",
+          "change": "-22.65",
+          "percentGain": "-1.39"
+        },
+        {
+          "company": "HDFC Life",
+          "high": "718.00",
+          "low": "706.50",
+          "lastPrice": "707.65",
+          "prevClose": "717.25",
+          "change": "-9.60",
+          "percentGain": "-1.34"
         }
       ]
     }
