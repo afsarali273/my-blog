@@ -303,6 +303,47 @@
           "percentGain": "0.35"
         }
       ]
+    },
+    {
+      "time": "6:52:39 AM",
+      "data": [
+        {
+          "company": "Apollo Hospital",
+          "high": "7,483.90",
+          "low": "7,200.30",
+          "lastPrice": "7,395.00",
+          "prevClose": "6,968.10",
+          "change": "426.90",
+          "percentGain": "6.13"
+        },
+        {
+          "company": "Tata Steel",
+          "high": "156.92",
+          "low": "153.77",
+          "lastPrice": "154.30",
+          "prevClose": "153.62",
+          "change": "0.68",
+          "percentGain": "0.44"
+        },
+        {
+          "company": "HDFC Life",
+          "high": "712.45",
+          "low": "703.30",
+          "lastPrice": "711.50",
+          "prevClose": "708.70",
+          "change": "2.80",
+          "percentGain": "0.40"
+        },
+        {
+          "company": "Larsen",
+          "high": "3,663.00",
+          "low": "3,620.00",
+          "lastPrice": "3,649.80",
+          "prevClose": "3,645.45",
+          "change": "4.35",
+          "percentGain": "0.12"
+        }
+      ]
     }
   ],
   "losers": [
@@ -660,6 +701,56 @@
           "lastPrice": "1,650.00",
           "prevClose": "1,693.55",
           "change": "-43.55",
+          "percentGain": "-2.57"
+        }
+      ]
+    },
+    {
+      "time": "6:52:39 AM",
+      "data": [
+        {
+          "company": "Hindalco",
+          "high": "687.70",
+          "low": "647.30",
+          "lastPrice": "648.55",
+          "prevClose": "708.20",
+          "change": "-59.65",
+          "percentGain": "-8.42"
+        },
+        {
+          "company": "Trent",
+          "high": "7,015.25",
+          "low": "6,610.10",
+          "lastPrice": "6,696.00",
+          "prevClose": "6,955.45",
+          "change": "-259.45",
+          "percentGain": "-3.73"
+        },
+        {
+          "company": "Grasim",
+          "high": "2,662.95",
+          "low": "2,551.75",
+          "lastPrice": "2,558.95",
+          "prevClose": "2,645.95",
+          "change": "-87.00",
+          "percentGain": "-3.29"
+        },
+        {
+          "company": "Shriram Finance",
+          "high": "3,193.90",
+          "low": "3,080.35",
+          "lastPrice": "3,087.00",
+          "prevClose": "3,186.70",
+          "change": "-99.70",
+          "percentGain": "-3.13"
+        },
+        {
+          "company": "Adani Enterpris",
+          "high": "3,045.00",
+          "low": "2,943.05",
+          "lastPrice": "2,968.10",
+          "prevClose": "3,046.25",
+          "change": "-78.15",
           "percentGain": "-2.57"
         }
       ]
