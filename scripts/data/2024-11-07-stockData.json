@@ -1,0 +1,106 @@
+{
+  "gainers": [
+    {
+      "time": "3:51:43 AM",
+      "data": [
+        {
+          "company": "Apollo Hospital",
+          "high": "7,400.00",
+          "low": "7,200.30",
+          "lastPrice": "7,349.95",
+          "prevClose": "6,968.10",
+          "change": "381.85",
+          "percentGain": "5.48"
+        },
+        {
+          "company": "Tata Steel",
+          "high": "156.92",
+          "low": "155.20",
+          "lastPrice": "156.00",
+          "prevClose": "153.62",
+          "change": "2.38",
+          "percentGain": "1.55"
+        },
+        {
+          "company": "TCS",
+          "high": "4,205.80",
+          "low": "4,151.65",
+          "lastPrice": "4,190.45",
+          "prevClose": "4,139.65",
+          "change": "50.80",
+          "percentGain": "1.23"
+        },
+        {
+          "company": "HCL Tech",
+          "high": "1,862.55",
+          "low": "1,846.30",
+          "lastPrice": "1,858.80",
+          "prevClose": "1,838.40",
+          "change": "20.40",
+          "percentGain": "1.11"
+        },
+        {
+          "company": "Wipro",
+          "high": "569.70",
+          "low": "564.25",
+          "lastPrice": "568.70",
+          "prevClose": "563.90",
+          "change": "4.80",
+          "percentGain": "0.85"
+        }
+      ]
+    }
+  ],
+  "losers": [
+    {
+      "time": "3:51:43 AM",
+      "data": [
+        {
+          "company": "Hindalco",
+          "high": "687.70",
+          "low": "662.00",
+          "lastPrice": "669.55",
+          "prevClose": "708.20",
+          "change": "-38.65",
+          "percentGain": "-5.46"
+        },
+        {
+          "company": "Adani Enterpris",
+          "high": "3,045.00",
+          "low": "2,986.55",
+          "lastPrice": "2,989.35",
+          "prevClose": "3,046.25",
+          "change": "-56.90",
+          "percentGain": "-1.87"
+        },
+        {
+          "company": "Power Grid Corp",
+          "high": "319.00",
+          "low": "314.90",
+          "lastPrice": "315.35",
+          "prevClose": "318.50",
+          "change": "-3.15",
+          "percentGain": "-0.99"
+        },
+        {
+          "company": "Bharat Elec",
+          "high": "301.20",
+          "low": "298.55",
+          "lastPrice": "299.00",
+          "prevClose": "301.85",
+          "change": "-2.85",
+          "percentGain": "-0.94"
+        },
+        {
+          "company": "BPCL",
+          "high": "316.35",
+          "low": "312.60",
+          "lastPrice": "314.05",
+          "prevClose": "317.00",
+          "change": "-2.95",
+          "percentGain": "-0.93"
+        }
+      ]
+    }
+  ]
+}
