@@ -49,6 +49,56 @@
           "percentGain": "0.85"
         }
       ]
+    },
+    {
+      "time": "4:18:41 AM",
+      "data": [
+        {
+          "company": "Apollo Hospital",
+          "high": "7,469.55",
+          "low": "7,200.30",
+          "lastPrice": "7,455.35",
+          "prevClose": "6,968.10",
+          "change": "487.25",
+          "percentGain": "6.99"
+        },
+        {
+          "company": "Tata Steel",
+          "high": "156.92",
+          "low": "154.70",
+          "lastPrice": "155.89",
+          "prevClose": "153.62",
+          "change": "2.27",
+          "percentGain": "1.48"
+        },
+        {
+          "company": "Coal India",
+          "high": "440.35",
+          "low": "435.00",
+          "lastPrice": "439.10",
+          "prevClose": "435.80",
+          "change": "3.30",
+          "percentGain": "0.76"
+        },
+        {
+          "company": "Wipro",
+          "high": "569.70",
+          "low": "564.25",
+          "lastPrice": "566.25",
+          "prevClose": "563.90",
+          "change": "2.35",
+          "percentGain": "0.42"
+        },
+        {
+          "company": "JSW Steel",
+          "high": "1,018.95",
+          "low": "1,005.20",
+          "lastPrice": "1,012.30",
+          "prevClose": "1,008.65",
+          "change": "3.65",
+          "percentGain": "0.36"
+        }
+      ]
     }
   ],
   "losers": [
@@ -99,6 +149,56 @@
           "prevClose": "317.00",
           "change": "-2.95",
           "percentGain": "-0.93"
+        }
+      ]
+    },
+    {
+      "time": "4:18:41 AM",
+      "data": [
+        {
+          "company": "Hindalco",
+          "high": "687.70",
+          "low": "657.30",
+          "lastPrice": "661.00",
+          "prevClose": "708.20",
+          "change": "-47.20",
+          "percentGain": "-6.66"
+        },
+        {
+          "company": "Adani Enterpris",
+          "high": "3,045.00",
+          "low": "2,946.00",
+          "lastPrice": "2,961.70",
+          "prevClose": "3,046.25",
+          "change": "-84.55",
+          "percentGain": "-2.78"
+        },
+        {
+          "company": "UltraTechCement",
+          "high": "11,244.95",
+          "low": "11,080.00",
+          "lastPrice": "11,098.00",
+          "prevClose": "11,274.40",
+          "change": "-176.40",
+          "percentGain": "-1.56"
+        },
+        {
+          "company": "Cipla",
+          "high": "1,602.00",
+          "low": "1,570.00",
+          "lastPrice": "1,571.55",
+          "prevClose": "1,594.05",
+          "change": "-22.50",
+          "percentGain": "-1.41"
+        },
+        {
+          "company": "Bajaj Finserv",
+          "high": "1,757.00",
+          "low": "1,716.50",
+          "lastPrice": "1,725.00",
+          "prevClose": "1,748.70",
+          "change": "-23.70",
+          "percentGain": "-1.36"
         }
       ]
     }
