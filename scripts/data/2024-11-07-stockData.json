@@ -394,6 +394,56 @@
           "percentGain": "0.26"
         }
       ]
+    },
+    {
+      "time": "7:28:46 AM",
+      "data": [
+        {
+          "company": "Apollo Hospital",
+          "high": "7,483.90",
+          "low": "7,200.30",
+          "lastPrice": "7,411.90",
+          "prevClose": "6,968.10",
+          "change": "443.80",
+          "percentGain": "6.37"
+        },
+        {
+          "company": "HDFC Life",
+          "high": "713.00",
+          "low": "703.30",
+          "lastPrice": "712.75",
+          "prevClose": "708.70",
+          "change": "4.05",
+          "percentGain": "0.57"
+        },
+        {
+          "company": "Tata Steel",
+          "high": "156.92",
+          "low": "153.77",
+          "lastPrice": "154.15",
+          "prevClose": "153.62",
+          "change": "0.53",
+          "percentGain": "0.35"
+        },
+        {
+          "company": "SBI",
+          "high": "862.40",
+          "low": "846.70",
+          "lastPrice": "857.65",
+          "prevClose": "854.80",
+          "change": "2.85",
+          "percentGain": "0.33"
+        },
+        {
+          "company": "Larsen",
+          "high": "3,663.00",
+          "low": "3,620.00",
+          "lastPrice": "3,650.40",
+          "prevClose": "3,645.45",
+          "change": "4.95",
+          "percentGain": "0.14"
+        }
+      ]
     }
   ],
   "losers": [
@@ -852,6 +902,56 @@
           "prevClose": "1,693.55",
           "change": "-41.60",
           "percentGain": "-2.46"
+        }
+      ]
+    },
+    {
+      "time": "7:28:46 AM",
+      "data": [
+        {
+          "company": "Hindalco",
+          "high": "687.70",
+          "low": "647.30",
+          "lastPrice": "652.20",
+          "prevClose": "708.20",
+          "change": "-56.00",
+          "percentGain": "-7.91"
+        },
+        {
+          "company": "Trent",
+          "high": "7,015.25",
+          "low": "6,481.00",
+          "lastPrice": "6,488.30",
+          "prevClose": "6,955.45",
+          "change": "-467.15",
+          "percentGain": "-6.72"
+        },
+        {
+          "company": "Shriram Finance",
+          "high": "3,193.90",
+          "low": "3,075.35",
+          "lastPrice": "3,078.50",
+          "prevClose": "3,186.70",
+          "change": "-108.20",
+          "percentGain": "-3.40"
+        },
+        {
+          "company": "Tech Mahindra",
+          "high": "1,715.50",
+          "low": "1,644.35",
+          "lastPrice": "1,648.50",
+          "prevClose": "1,693.55",
+          "change": "-45.05",
+          "percentGain": "-2.66"
+        },
+        {
+          "company": "Grasim",
+          "high": "2,662.95",
+          "low": "2,551.75",
+          "lastPrice": "2,576.25",
+          "prevClose": "2,645.95",
+          "change": "-69.70",
+          "percentGain": "-2.63"
         }
       ]
     }
