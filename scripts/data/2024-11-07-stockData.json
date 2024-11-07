@@ -107,6 +107,38 @@
     {
       "time": "4:50:06 AM",
       "data": []
+    },
+    {
+      "time": "5:14:44 AM",
+      "data": [
+        {
+          "company": "Apollo Hospital",
+          "high": "7,483.90",
+          "low": "7,200.30",
+          "lastPrice": "7,365.00",
+          "prevClose": "6,968.10",
+          "change": "396.90",
+          "percentGain": "5.70"
+        },
+        {
+          "company": "Tata Steel",
+          "high": "156.92",
+          "low": "154.51",
+          "lastPrice": "154.99",
+          "prevClose": "153.62",
+          "change": "1.37",
+          "percentGain": "0.89"
+        },
+        {
+          "company": "Larsen",
+          "high": "3,655.95",
+          "low": "3,620.00",
+          "lastPrice": "3,650.75",
+          "prevClose": "3,645.45",
+          "change": "5.30",
+          "percentGain": "0.15"
+        }
+      ]
     }
   ],
   "losers": [
@@ -217,6 +249,56 @@
     {
       "time": "4:50:06 AM",
       "data": []
+    },
+    {
+      "time": "5:14:44 AM",
+      "data": [
+        {
+          "company": "Hindalco",
+          "high": "687.70",
+          "low": "652.90",
+          "lastPrice": "653.45",
+          "prevClose": "708.20",
+          "change": "-54.75",
+          "percentGain": "-7.73"
+        },
+        {
+          "company": "Adani Enterpris",
+          "high": "3,045.00",
+          "low": "2,943.05",
+          "lastPrice": "2,959.10",
+          "prevClose": "3,046.25",
+          "change": "-87.15",
+          "percentGain": "-2.86"
+        },
+        {
+          "company": "Shriram Finance",
+          "high": "3,193.90",
+          "low": "3,092.05",
+          "lastPrice": "3,096.20",
+          "prevClose": "3,186.70",
+          "change": "-90.50",
+          "percentGain": "-2.84"
+        },
+        {
+          "company": "Grasim",
+          "high": "2,662.95",
+          "low": "2,571.10",
+          "lastPrice": "2,574.00",
+          "prevClose": "2,645.95",
+          "change": "-71.95",
+          "percentGain": "-2.72"
+        },
+        {
+          "company": "Tech Mahindra",
+          "high": "1,715.50",
+          "low": "1,653.60",
+          "lastPrice": "1,654.95",
+          "prevClose": "1,693.55",
+          "change": "-38.60",
+          "percentGain": "-2.28"
+        }
+      ]
     }
   ]
 }
