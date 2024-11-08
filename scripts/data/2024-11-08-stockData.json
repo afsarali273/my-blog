@@ -303,6 +303,56 @@
     {
       "time": "5:49:43 AM",
       "data": []
+    },
+    {
+      "time": "6:21:29 AM",
+      "data": [
+        {
+          "company": "Tech Mahindra",
+          "high": "1,686.45",
+          "low": "1,650.05",
+          "lastPrice": "1,685.70",
+          "prevClose": "1,651.00",
+          "change": "34.70",
+          "percentGain": "2.10"
+        },
+        {
+          "company": "Wipro",
+          "high": "578.80",
+          "low": "565.00",
+          "lastPrice": "574.70",
+          "prevClose": "563.40",
+          "change": "11.30",
+          "percentGain": "2.01"
+        },
+        {
+          "company": "Infosys",
+          "high": "1,838.50",
+          "low": "1,813.15",
+          "lastPrice": "1,837.80",
+          "prevClose": "1,803.05",
+          "change": "34.75",
+          "percentGain": "1.93"
+        },
+        {
+          "company": "Hindalco",
+          "high": "660.45",
+          "low": "647.00",
+          "lastPrice": "659.90",
+          "prevClose": "648.10",
+          "change": "11.80",
+          "percentGain": "1.82"
+        },
+        {
+          "company": "M&M",
+          "high": "2,940.00",
+          "low": "2,851.25",
+          "lastPrice": "2,925.00",
+          "prevClose": "2,891.35",
+          "change": "33.65",
+          "percentGain": "1.16"
+        }
+      ]
     }
   ],
   "losers": [
@@ -609,6 +659,56 @@
     {
       "time": "5:49:43 AM",
       "data": []
+    },
+    {
+      "time": "6:21:29 AM",
+      "data": [
+        {
+          "company": "Coal India",
+          "high": "436.00",
+          "low": "424.40",
+          "lastPrice": "424.75",
+          "prevClose": "435.35",
+          "change": "-10.60",
+          "percentGain": "-2.43"
+        },
+        {
+          "company": "Asian Paints",
+          "high": "2,847.00",
+          "low": "2,772.00",
+          "lastPrice": "2,778.65",
+          "prevClose": "2,842.85",
+          "change": "-64.20",
+          "percentGain": "-2.26"
+        },
+        {
+          "company": "Eicher Motors",
+          "high": "4,877.95",
+          "low": "4,770.00",
+          "lastPrice": "4,771.45",
+          "prevClose": "4,878.00",
+          "change": "-106.55",
+          "percentGain": "-2.18"
+        },
+        {
+          "company": "Trent",
+          "high": "6,563.15",
+          "low": "6,270.20",
+          "lastPrice": "6,373.40",
+          "prevClose": "6,505.50",
+          "change": "-132.10",
+          "percentGain": "-2.03"
+        },
+        {
+          "company": "BPCL",
+          "high": "315.10",
+          "low": "307.25",
+          "lastPrice": "309.10",
+          "prevClose": "315.00",
+          "change": "-5.90",
+          "percentGain": "-1.87"
+        }
+      ]
     }
   ]
 }
