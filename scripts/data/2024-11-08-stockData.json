@@ -569,6 +569,56 @@
     {
       "time": "8:40:46 AM",
       "data": []
+    },
+    {
+      "time": "8:50:41 AM",
+      "data": [
+        {
+          "company": "Tech Mahindra",
+          "high": "1,686.45",
+          "low": "1,650.05",
+          "lastPrice": "1,683.70",
+          "prevClose": "1,651.00",
+          "change": "32.70",
+          "percentGain": "1.98"
+        },
+        {
+          "company": "M&M",
+          "high": "2,952.15",
+          "low": "2,851.25",
+          "lastPrice": "2,946.85",
+          "prevClose": "2,891.35",
+          "change": "55.50",
+          "percentGain": "1.92"
+        },
+        {
+          "company": "Infosys",
+          "high": "1,840.60",
+          "low": "1,813.15",
+          "lastPrice": "1,836.30",
+          "prevClose": "1,803.05",
+          "change": "33.25",
+          "percentGain": "1.84"
+        },
+        {
+          "company": "Titan Company",
+          "high": "3,178.00",
+          "low": "3,106.00",
+          "lastPrice": "3,176.00",
+          "prevClose": "3,120.85",
+          "change": "55.15",
+          "percentGain": "1.77"
+        },
+        {
+          "company": "Wipro",
+          "high": "578.80",
+          "low": "565.00",
+          "lastPrice": "571.20",
+          "prevClose": "563.40",
+          "change": "7.80",
+          "percentGain": "1.38"
+        }
+      ]
     }
   ],
   "losers": [
@@ -1141,6 +1191,56 @@
     {
       "time": "8:40:46 AM",
       "data": []
+    },
+    {
+      "time": "8:50:41 AM",
+      "data": [
+        {
+          "company": "Coal India",
+          "high": "436.00",
+          "low": "422.25",
+          "lastPrice": "422.65",
+          "prevClose": "435.35",
+          "change": "-12.70",
+          "percentGain": "-2.92"
+        },
+        {
+          "company": "SBI",
+          "high": "863.50",
+          "low": "834.55",
+          "lastPrice": "836.90",
+          "prevClose": "859.60",
+          "change": "-22.70",
+          "percentGain": "-2.64"
+        },
+        {
+          "company": "Trent",
+          "high": "6,563.15",
+          "low": "6,270.20",
+          "lastPrice": "6,357.00",
+          "prevClose": "6,505.50",
+          "change": "-148.50",
+          "percentGain": "-2.28"
+        },
+        {
+          "company": "Tata Steel",
+          "high": "152.00",
+          "low": "147.41",
+          "lastPrice": "147.57",
+          "prevClose": "150.95",
+          "change": "-3.38",
+          "percentGain": "-2.24"
+        },
+        {
+          "company": "Asian Paints",
+          "high": "2,847.00",
+          "low": "2,763.00",
+          "lastPrice": "2,780.80",
+          "prevClose": "2,842.85",
+          "change": "-62.05",
+          "percentGain": "-2.18"
+        }
+      ]
     }
   ]
 }
