@@ -199,6 +199,56 @@
           "percentGain": "1.02"
         }
       ]
+    },
+    {
+      "time": "5:15:16 AM",
+      "data": [
+        {
+          "company": "Wipro",
+          "high": "578.80",
+          "low": "565.00",
+          "lastPrice": "576.70",
+          "prevClose": "563.40",
+          "change": "13.30",
+          "percentGain": "2.36"
+        },
+        {
+          "company": "Tech Mahindra",
+          "high": "1,685.00",
+          "low": "1,650.05",
+          "lastPrice": "1,682.70",
+          "prevClose": "1,651.00",
+          "change": "31.70",
+          "percentGain": "1.92"
+        },
+        {
+          "company": "Infosys",
+          "high": "1,838.50",
+          "low": "1,813.15",
+          "lastPrice": "1,836.30",
+          "prevClose": "1,803.05",
+          "change": "33.25",
+          "percentGain": "1.84"
+        },
+        {
+          "company": "Hindalco",
+          "high": "659.70",
+          "low": "647.00",
+          "lastPrice": "656.30",
+          "prevClose": "648.10",
+          "change": "8.20",
+          "percentGain": "1.27"
+        },
+        {
+          "company": "HCL Tech",
+          "high": "1,854.15",
+          "low": "1,828.05",
+          "lastPrice": "1,847.85",
+          "prevClose": "1,831.95",
+          "change": "15.90",
+          "percentGain": "0.87"
+        }
+      ]
     }
   ],
   "losers": [
@@ -399,6 +449,56 @@
           "prevClose": "1,278.70",
           "change": "-14.30",
           "percentGain": "-1.12"
+        }
+      ]
+    },
+    {
+      "time": "5:15:16 AM",
+      "data": [
+        {
+          "company": "Trent",
+          "high": "6,563.15",
+          "low": "6,270.20",
+          "lastPrice": "6,354.90",
+          "prevClose": "6,505.50",
+          "change": "-150.60",
+          "percentGain": "-2.31"
+        },
+        {
+          "company": "BPCL",
+          "high": "315.10",
+          "low": "307.25",
+          "lastPrice": "308.40",
+          "prevClose": "315.00",
+          "change": "-6.60",
+          "percentGain": "-2.10"
+        },
+        {
+          "company": "Coal India",
+          "high": "436.00",
+          "low": "426.00",
+          "lastPrice": "428.90",
+          "prevClose": "435.35",
+          "change": "-6.45",
+          "percentGain": "-1.48"
+        },
+        {
+          "company": "Shriram Finance",
+          "high": "3,085.00",
+          "low": "3,018.00",
+          "lastPrice": "3,025.50",
+          "prevClose": "3,070.15",
+          "change": "-44.65",
+          "percentGain": "-1.45"
+        },
+        {
+          "company": "ICICI Bank",
+          "high": "1,275.00",
+          "low": "1,260.05",
+          "lastPrice": "1,261.30",
+          "prevClose": "1,278.70",
+          "change": "-17.40",
+          "percentGain": "-1.36"
         }
       ]
     }
