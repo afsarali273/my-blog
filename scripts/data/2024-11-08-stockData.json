@@ -49,6 +49,56 @@
           "percentGain": "0.59"
         }
       ]
+    },
+    {
+      "time": "4:18:11 AM",
+      "data": [
+        {
+          "company": "Wipro",
+          "high": "574.55",
+          "low": "565.00",
+          "lastPrice": "573.80",
+          "prevClose": "563.40",
+          "change": "10.40",
+          "percentGain": "1.85"
+        },
+        {
+          "company": "Infosys",
+          "high": "1,835.70",
+          "low": "1,813.15",
+          "lastPrice": "1,834.30",
+          "prevClose": "1,803.05",
+          "change": "31.25",
+          "percentGain": "1.73"
+        },
+        {
+          "company": "Tech Mahindra",
+          "high": "1,679.70",
+          "low": "1,650.05",
+          "lastPrice": "1,679.40",
+          "prevClose": "1,651.00",
+          "change": "28.40",
+          "percentGain": "1.72"
+        },
+        {
+          "company": "Hindalco",
+          "high": "659.70",
+          "low": "647.00",
+          "lastPrice": "658.50",
+          "prevClose": "648.10",
+          "change": "10.40",
+          "percentGain": "1.60"
+        },
+        {
+          "company": "Bharat Elec",
+          "high": "304.50",
+          "low": "297.50",
+          "lastPrice": "304.25",
+          "prevClose": "300.35",
+          "change": "3.90",
+          "percentGain": "1.30"
+        }
+      ]
     }
   ],
   "losers": [
@@ -99,6 +149,56 @@
           "prevClose": "435.35",
           "change": "-5.80",
           "percentGain": "-1.33"
+        }
+      ]
+    },
+    {
+      "time": "4:18:11 AM",
+      "data": [
+        {
+          "company": "Trent",
+          "high": "6,563.15",
+          "low": "6,350.10",
+          "lastPrice": "6,395.00",
+          "prevClose": "6,505.50",
+          "change": "-110.50",
+          "percentGain": "-1.70"
+        },
+        {
+          "company": "BPCL",
+          "high": "315.10",
+          "low": "307.25",
+          "lastPrice": "311.30",
+          "prevClose": "315.00",
+          "change": "-3.70",
+          "percentGain": "-1.17"
+        },
+        {
+          "company": "Tata Motors",
+          "high": "822.00",
+          "low": "804.05",
+          "lastPrice": "810.25",
+          "prevClose": "819.75",
+          "change": "-9.50",
+          "percentGain": "-1.16"
+        },
+        {
+          "company": "Coal India",
+          "high": "436.00",
+          "low": "426.00",
+          "lastPrice": "431.25",
+          "prevClose": "435.35",
+          "change": "-4.10",
+          "percentGain": "-0.94"
+        },
+        {
+          "company": "Reliance",
+          "high": "1,301.65",
+          "low": "1,278.65",
+          "lastPrice": "1,294.35",
+          "prevClose": "1,305.65",
+          "change": "-11.30",
+          "percentGain": "-0.87"
         }
       ]
     }
