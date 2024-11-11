@@ -403,6 +403,56 @@
           "percentGain": "1.65"
         }
       ]
+    },
+    {
+      "time": "6:53:30 AM",
+      "data": [
+        {
+          "company": "Power Grid Corp",
+          "high": "330.50",
+          "low": "312.80",
+          "lastPrice": "329.05",
+          "prevClose": "316.25",
+          "change": "12.80",
+          "percentGain": "4.05"
+        },
+        {
+          "company": "Trent",
+          "high": "6,538.55",
+          "low": "6,212.05",
+          "lastPrice": "6,502.25",
+          "prevClose": "6,298.95",
+          "change": "203.30",
+          "percentGain": "3.23"
+        },
+        {
+          "company": "Tata Motors",
+          "high": "831.45",
+          "low": "792.00",
+          "lastPrice": "819.05",
+          "prevClose": "805.45",
+          "change": "13.60",
+          "percentGain": "1.69"
+        },
+        {
+          "company": "Maruti Suzuki",
+          "high": "11,518.15",
+          "low": "11,310.00",
+          "lastPrice": "11,492.90",
+          "prevClose": "11,303.00",
+          "change": "189.90",
+          "percentGain": "1.68"
+        },
+        {
+          "company": "Tech Mahindra",
+          "high": "1,715.45",
+          "low": "1,666.05",
+          "lastPrice": "1,708.45",
+          "prevClose": "1,681.35",
+          "change": "27.10",
+          "percentGain": "1.61"
+        }
+      ]
     }
   ],
   "losers": [
@@ -807,6 +857,56 @@
           "prevClose": "262.55",
           "change": "-3.65",
           "percentGain": "-1.39"
+        }
+      ]
+    },
+    {
+      "time": "6:53:30 AM",
+      "data": [
+        {
+          "company": "Asian Paints",
+          "high": "2,598.75",
+          "low": "2,506.00",
+          "lastPrice": "2,548.50",
+          "prevClose": "2,769.45",
+          "change": "-220.95",
+          "percentGain": "-7.98"
+        },
+        {
+          "company": "Cipla",
+          "high": "1,599.75",
+          "low": "1,548.25",
+          "lastPrice": "1,550.00",
+          "prevClose": "1,592.60",
+          "change": "-42.60",
+          "percentGain": "-2.67"
+        },
+        {
+          "company": "Apollo Hospital",
+          "high": "7,454.15",
+          "low": "7,226.00",
+          "lastPrice": "7,246.60",
+          "prevClose": "7,421.40",
+          "change": "-174.80",
+          "percentGain": "-2.36"
+        },
+        {
+          "company": "M&M",
+          "high": "3,009.60",
+          "low": "2,913.30",
+          "lastPrice": "2,918.00",
+          "prevClose": "2,974.90",
+          "change": "-56.90",
+          "percentGain": "-1.91"
+        },
+        {
+          "company": "Britannia",
+          "high": "5,902.15",
+          "low": "5,631.35",
+          "lastPrice": "5,652.15",
+          "prevClose": "5,747.15",
+          "change": "-95.00",
+          "percentGain": "-1.65"
         }
       ]
     }
