@@ -99,6 +99,56 @@
           "percentGain": "1.06"
         }
       ]
+    },
+    {
+      "time": "4:40:24 AM",
+      "data": [
+        {
+          "company": "Power Grid Corp",
+          "high": "326.85",
+          "low": "312.80",
+          "lastPrice": "324.60",
+          "prevClose": "316.25",
+          "change": "8.35",
+          "percentGain": "2.64"
+        },
+        {
+          "company": "Tata Motors",
+          "high": "831.45",
+          "low": "792.00",
+          "lastPrice": "821.05",
+          "prevClose": "805.45",
+          "change": "15.60",
+          "percentGain": "1.94"
+        },
+        {
+          "company": "Maruti Suzuki",
+          "high": "11,518.15",
+          "low": "11,310.00",
+          "lastPrice": "11,488.75",
+          "prevClose": "11,303.00",
+          "change": "185.75",
+          "percentGain": "1.64"
+        },
+        {
+          "company": "TCS",
+          "high": "4,206.00",
+          "low": "4,117.65",
+          "lastPrice": "4,200.95",
+          "prevClose": "4,147.00",
+          "change": "53.95",
+          "percentGain": "1.30"
+        },
+        {
+          "company": "HCL Tech",
+          "high": "1,862.10",
+          "low": "1,834.00",
+          "lastPrice": "1,858.55",
+          "prevClose": "1,837.50",
+          "change": "21.05",
+          "percentGain": "1.15"
+        }
+      ]
     }
   ],
   "losers": [
@@ -199,6 +249,56 @@
           "prevClose": "996.40",
           "change": "-11.90",
           "percentGain": "-1.19"
+        }
+      ]
+    },
+    {
+      "time": "4:40:24 AM",
+      "data": [
+        {
+          "company": "Asian Paints",
+          "high": "2,598.75",
+          "low": "2,506.00",
+          "lastPrice": "2,553.00",
+          "prevClose": "2,769.45",
+          "change": "-216.45",
+          "percentGain": "-7.82"
+        },
+        {
+          "company": "ONGC",
+          "high": "262.35",
+          "low": "258.00",
+          "lastPrice": "258.85",
+          "prevClose": "262.55",
+          "change": "-3.70",
+          "percentGain": "-1.41"
+        },
+        {
+          "company": "Adani Ports",
+          "high": "1,357.95",
+          "low": "1,339.05",
+          "lastPrice": "1,344.35",
+          "prevClose": "1,362.10",
+          "change": "-17.75",
+          "percentGain": "-1.30"
+        },
+        {
+          "company": "Tata Steel",
+          "high": "147.69",
+          "low": "144.75",
+          "lastPrice": "145.66",
+          "prevClose": "147.57",
+          "change": "-1.91",
+          "percentGain": "-1.29"
+        },
+        {
+          "company": "Cipla",
+          "high": "1,599.75",
+          "low": "1,574.50",
+          "lastPrice": "1,575.25",
+          "prevClose": "1,592.60",
+          "change": "-17.35",
+          "percentGain": "-1.09"
         }
       ]
     }
