@@ -303,6 +303,56 @@
           "percentGain": "1.74"
         }
       ]
+    },
+    {
+      "time": "6:21:46 AM",
+      "data": [
+        {
+          "company": "Power Grid Corp",
+          "high": "330.50",
+          "low": "312.80",
+          "lastPrice": "329.00",
+          "prevClose": "316.25",
+          "change": "12.75",
+          "percentGain": "4.03"
+        },
+        {
+          "company": "Trent",
+          "high": "6,538.55",
+          "low": "6,212.05",
+          "lastPrice": "6,503.90",
+          "prevClose": "6,298.95",
+          "change": "204.95",
+          "percentGain": "3.25"
+        },
+        {
+          "company": "Tata Motors",
+          "high": "831.45",
+          "low": "792.00",
+          "lastPrice": "823.25",
+          "prevClose": "805.45",
+          "change": "17.80",
+          "percentGain": "2.21"
+        },
+        {
+          "company": "Wipro",
+          "high": "583.20",
+          "low": "566.05",
+          "lastPrice": "579.95",
+          "prevClose": "569.00",
+          "change": "10.95",
+          "percentGain": "1.92"
+        },
+        {
+          "company": "Tech Mahindra",
+          "high": "1,715.45",
+          "low": "1,666.05",
+          "lastPrice": "1,712.50",
+          "prevClose": "1,681.35",
+          "change": "31.15",
+          "percentGain": "1.85"
+        }
+      ]
     }
   ],
   "losers": [
@@ -607,6 +657,56 @@
           "prevClose": "2,974.90",
           "change": "-25.80",
           "percentGain": "-0.87"
+        }
+      ]
+    },
+    {
+      "time": "6:21:46 AM",
+      "data": [
+        {
+          "company": "Asian Paints",
+          "high": "2,598.75",
+          "low": "2,506.00",
+          "lastPrice": "2,552.00",
+          "prevClose": "2,769.45",
+          "change": "-217.45",
+          "percentGain": "-7.85"
+        },
+        {
+          "company": "Cipla",
+          "high": "1,599.75",
+          "low": "1,558.25",
+          "lastPrice": "1,560.50",
+          "prevClose": "1,592.60",
+          "change": "-32.10",
+          "percentGain": "-2.02"
+        },
+        {
+          "company": "Britannia",
+          "high": "5,902.15",
+          "low": "5,662.65",
+          "lastPrice": "5,669.10",
+          "prevClose": "5,747.15",
+          "change": "-78.05",
+          "percentGain": "-1.36"
+        },
+        {
+          "company": "ONGC",
+          "high": "262.35",
+          "low": "258.00",
+          "lastPrice": "259.95",
+          "prevClose": "262.55",
+          "change": "-2.60",
+          "percentGain": "-0.99"
+        },
+        {
+          "company": "Tata Steel",
+          "high": "147.69",
+          "low": "144.75",
+          "lastPrice": "146.14",
+          "prevClose": "147.57",
+          "change": "-1.43",
+          "percentGain": "-0.97"
         }
       ]
     }
