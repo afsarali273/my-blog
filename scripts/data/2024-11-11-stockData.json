@@ -611,6 +611,56 @@
     {
       "time": "8:42:40 AM",
       "data": []
+    },
+    {
+      "time": "8:52:25 AM",
+      "data": [
+        {
+          "company": "Power Grid Corp",
+          "high": "331.30",
+          "low": "312.80",
+          "lastPrice": "329.00",
+          "prevClose": "316.25",
+          "change": "12.75",
+          "percentGain": "4.03"
+        },
+        {
+          "company": "Trent",
+          "high": "6,620.00",
+          "low": "6,212.05",
+          "lastPrice": "6,519.40",
+          "prevClose": "6,298.95",
+          "change": "220.45",
+          "percentGain": "3.50"
+        },
+        {
+          "company": "Infosys",
+          "high": "1,863.85",
+          "low": "1,822.55",
+          "lastPrice": "1,858.20",
+          "prevClose": "1,829.95",
+          "change": "28.25",
+          "percentGain": "1.54"
+        },
+        {
+          "company": "HCL Tech",
+          "high": "1,872.90",
+          "low": "1,834.00",
+          "lastPrice": "1,861.70",
+          "prevClose": "1,837.50",
+          "change": "24.20",
+          "percentGain": "1.32"
+        },
+        {
+          "company": "TCS",
+          "high": "4,234.30",
+          "low": "4,117.65",
+          "lastPrice": "4,196.50",
+          "prevClose": "4,147.00",
+          "change": "49.50",
+          "percentGain": "1.19"
+        }
+      ]
     }
   ],
   "losers": [
@@ -1225,6 +1275,56 @@
     {
       "time": "8:42:40 AM",
       "data": []
+    },
+    {
+      "time": "8:52:25 AM",
+      "data": [
+        {
+          "company": "Asian Paints",
+          "high": "2,598.75",
+          "low": "2,506.00",
+          "lastPrice": "2,526.00",
+          "prevClose": "2,769.45",
+          "change": "-243.45",
+          "percentGain": "-8.79"
+        },
+        {
+          "company": "Britannia",
+          "high": "5,902.15",
+          "low": "5,415.60",
+          "lastPrice": "5,423.45",
+          "prevClose": "5,747.15",
+          "change": "-323.70",
+          "percentGain": "-5.63"
+        },
+        {
+          "company": "Apollo Hospital",
+          "high": "7,454.15",
+          "low": "6,982.60",
+          "lastPrice": "7,175.00",
+          "prevClose": "7,421.40",
+          "change": "-246.40",
+          "percentGain": "-3.32"
+        },
+        {
+          "company": "M&M",
+          "high": "3,009.60",
+          "low": "2,889.05",
+          "lastPrice": "2,897.65",
+          "prevClose": "2,974.90",
+          "change": "-77.25",
+          "percentGain": "-2.60"
+        },
+        {
+          "company": "Tata Steel",
+          "high": "147.69",
+          "low": "144.10",
+          "lastPrice": "144.33",
+          "prevClose": "147.57",
+          "change": "-3.24",
+          "percentGain": "-2.20"
+        }
+      ]
     }
   ]
 }
