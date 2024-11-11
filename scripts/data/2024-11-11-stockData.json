@@ -665,6 +665,56 @@
     {
       "time": "9:17:22 AM",
       "data": []
+    },
+    {
+      "time": "9:37:41 AM",
+      "data": [
+        {
+          "company": "Power Grid Corp",
+          "high": "332.40",
+          "low": "312.80",
+          "lastPrice": "330.65",
+          "prevClose": "316.25",
+          "change": "14.40",
+          "percentGain": "4.55"
+        },
+        {
+          "company": "Trent",
+          "high": "6,620.00",
+          "low": "6,212.05",
+          "lastPrice": "6,500.05",
+          "prevClose": "6,298.95",
+          "change": "201.10",
+          "percentGain": "3.19"
+        },
+        {
+          "company": "HCL Tech",
+          "high": "1,874.00",
+          "low": "1,834.00",
+          "lastPrice": "1,868.20",
+          "prevClose": "1,837.50",
+          "change": "30.70",
+          "percentGain": "1.67"
+        },
+        {
+          "company": "Infosys",
+          "high": "1,868.00",
+          "low": "1,822.55",
+          "lastPrice": "1,860.15",
+          "prevClose": "1,829.95",
+          "change": "30.20",
+          "percentGain": "1.65"
+        },
+        {
+          "company": "Tech Mahindra",
+          "high": "1,715.45",
+          "low": "1,666.05",
+          "lastPrice": "1,705.60",
+          "prevClose": "1,681.35",
+          "change": "24.25",
+          "percentGain": "1.44"
+        }
+      ]
     }
   ],
   "losers": [
@@ -1333,6 +1383,56 @@
     {
       "time": "9:17:22 AM",
       "data": []
+    },
+    {
+      "time": "9:37:41 AM",
+      "data": [
+        {
+          "company": "Asian Paints",
+          "high": "2,598.75",
+          "low": "2,506.00",
+          "lastPrice": "2,540.60",
+          "prevClose": "2,769.45",
+          "change": "-228.85",
+          "percentGain": "-8.26"
+        },
+        {
+          "company": "Britannia",
+          "high": "5,902.15",
+          "low": "5,415.60",
+          "lastPrice": "5,447.90",
+          "prevClose": "5,747.15",
+          "change": "-299.25",
+          "percentGain": "-5.21"
+        },
+        {
+          "company": "Apollo Hospital",
+          "high": "7,454.15",
+          "low": "6,982.60",
+          "lastPrice": "7,165.10",
+          "prevClose": "7,421.40",
+          "change": "-256.30",
+          "percentGain": "-3.45"
+        },
+        {
+          "company": "Cipla",
+          "high": "1,599.75",
+          "low": "1,544.50",
+          "lastPrice": "1,556.15",
+          "prevClose": "1,592.60",
+          "change": "-36.45",
+          "percentGain": "-2.29"
+        },
+        {
+          "company": "ONGC",
+          "high": "262.35",
+          "low": "256.15",
+          "lastPrice": "257.40",
+          "prevClose": "262.55",
+          "change": "-5.15",
+          "percentGain": "-1.96"
+        }
+      ]
     }
   ]
 }
