@@ -49,6 +49,56 @@
           "percentGain": "0.37"
         }
       ]
+    },
+    {
+      "time": "4:18:36 AM",
+      "data": [
+        {
+          "company": "Tata Motors",
+          "high": "829.00",
+          "low": "792.00",
+          "lastPrice": "824.70",
+          "prevClose": "805.45",
+          "change": "19.25",
+          "percentGain": "2.39"
+        },
+        {
+          "company": "Power Grid Corp",
+          "high": "326.85",
+          "low": "312.80",
+          "lastPrice": "322.00",
+          "prevClose": "316.25",
+          "change": "5.75",
+          "percentGain": "1.82"
+        },
+        {
+          "company": "Maruti Suzuki",
+          "high": "11,518.15",
+          "low": "11,310.00",
+          "lastPrice": "11,488.20",
+          "prevClose": "11,303.00",
+          "change": "185.20",
+          "percentGain": "1.64"
+        },
+        {
+          "company": "HCL Tech",
+          "high": "1,859.30",
+          "low": "1,834.00",
+          "lastPrice": "1,859.30",
+          "prevClose": "1,837.50",
+          "change": "21.80",
+          "percentGain": "1.19"
+        },
+        {
+          "company": "TCS",
+          "high": "4,193.25",
+          "low": "4,117.65",
+          "lastPrice": "4,191.05",
+          "prevClose": "4,147.00",
+          "change": "44.05",
+          "percentGain": "1.06"
+        }
+      ]
     }
   ],
   "losers": [
@@ -99,6 +149,56 @@
           "prevClose": "650.45",
           "change": "-6.40",
           "percentGain": "-0.98"
+        }
+      ]
+    },
+    {
+      "time": "4:18:36 AM",
+      "data": [
+        {
+          "company": "Asian Paints",
+          "high": "2,598.75",
+          "low": "2,506.00",
+          "lastPrice": "2,524.80",
+          "prevClose": "2,769.45",
+          "change": "-244.65",
+          "percentGain": "-8.83"
+        },
+        {
+          "company": "BPCL",
+          "high": "308.95",
+          "low": "304.05",
+          "lastPrice": "305.50",
+          "prevClose": "310.45",
+          "change": "-4.95",
+          "percentGain": "-1.59"
+        },
+        {
+          "company": "ONGC",
+          "high": "262.35",
+          "low": "258.00",
+          "lastPrice": "258.80",
+          "prevClose": "262.55",
+          "change": "-3.75",
+          "percentGain": "-1.43"
+        },
+        {
+          "company": "Tata Steel",
+          "high": "147.69",
+          "low": "144.75",
+          "lastPrice": "145.78",
+          "prevClose": "147.57",
+          "change": "-1.79",
+          "percentGain": "-1.21"
+        },
+        {
+          "company": "JSW Steel",
+          "high": "995.45",
+          "low": "981.25",
+          "lastPrice": "984.50",
+          "prevClose": "996.40",
+          "change": "-11.90",
+          "percentGain": "-1.19"
         }
       ]
     }
