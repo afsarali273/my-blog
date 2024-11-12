@@ -765,6 +765,56 @@
     {
       "time": "9:37:47 AM",
       "data": []
+    },
+    {
+      "time": "9:49:51 AM",
+      "data": [
+        {
+          "company": "Trent",
+          "high": "6,717.90",
+          "low": "6,500.00",
+          "lastPrice": "6,512.00",
+          "prevClose": "6,480.70",
+          "change": "31.30",
+          "percentGain": "0.48"
+        },
+        {
+          "company": "Infosys",
+          "high": "1,881.00",
+          "low": "1,861.85",
+          "lastPrice": "1,867.90",
+          "prevClose": "1,860.10",
+          "change": "7.80",
+          "percentGain": "0.42"
+        },
+        {
+          "company": "Sun Pharma",
+          "high": "1,825.00",
+          "low": "1,795.10",
+          "lastPrice": "1,802.05",
+          "prevClose": "1,794.60",
+          "change": "7.45",
+          "percentGain": "0.42"
+        },
+        {
+          "company": "HCL Tech",
+          "high": "1,892.95",
+          "low": "1,872.05",
+          "lastPrice": "1,872.20",
+          "prevClose": "1,867.30",
+          "change": "4.90",
+          "percentGain": "0.26"
+        },
+        {
+          "company": "Reliance",
+          "high": "1,289.30",
+          "low": "1,271.55",
+          "lastPrice": "1,273.40",
+          "prevClose": "1,272.70",
+          "change": "0.70",
+          "percentGain": "0.06"
+        }
+      ]
     }
   ],
   "losers": [
@@ -1533,6 +1583,56 @@
     {
       "time": "9:37:47 AM",
       "data": []
+    },
+    {
+      "time": "9:49:51 AM",
+      "data": [
+        {
+          "company": "Britannia",
+          "high": "5,426.90",
+          "low": "5,005.00",
+          "lastPrice": "5,019.95",
+          "prevClose": "5,434.65",
+          "change": "-414.70",
+          "percentGain": "-7.63"
+        },
+        {
+          "company": "Bharat Elec",
+          "high": "300.85",
+          "low": "289.40",
+          "lastPrice": "289.80",
+          "prevClose": "299.75",
+          "change": "-9.95",
+          "percentGain": "-3.32"
+        },
+        {
+          "company": "NTPC",
+          "high": "394.80",
+          "low": "379.05",
+          "lastPrice": "379.60",
+          "prevClose": "392.55",
+          "change": "-12.95",
+          "percentGain": "-3.30"
+        },
+        {
+          "company": "Asian Paints",
+          "high": "2,535.00",
+          "low": "2,470.05",
+          "lastPrice": "2,470.60",
+          "prevClose": "2,543.10",
+          "change": "-72.50",
+          "percentGain": "-2.85"
+        },
+        {
+          "company": "HDFC Bank",
+          "high": "1,775.00",
+          "low": "1,708.65",
+          "lastPrice": "1,719.50",
+          "prevClose": "1,766.30",
+          "change": "-46.80",
+          "percentGain": "-2.65"
+        }
+      ]
     }
   ]
 }
