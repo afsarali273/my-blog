@@ -457,6 +457,56 @@
           "percentGain": "0.73"
         }
       ]
+    },
+    {
+      "time": "7:29:15 AM",
+      "data": [
+        {
+          "company": "Trent",
+          "high": "6,717.90",
+          "low": "6,500.00",
+          "lastPrice": "6,654.95",
+          "prevClose": "6,480.70",
+          "change": "174.25",
+          "percentGain": "2.69"
+        },
+        {
+          "company": "Sun Pharma",
+          "high": "1,825.00",
+          "low": "1,795.10",
+          "lastPrice": "1,818.35",
+          "prevClose": "1,794.60",
+          "change": "23.75",
+          "percentGain": "1.32"
+        },
+        {
+          "company": "Bharti Airtel",
+          "high": "1,595.00",
+          "low": "1,567.20",
+          "lastPrice": "1,572.55",
+          "prevClose": "1,560.55",
+          "change": "12.00",
+          "percentGain": "0.77"
+        },
+        {
+          "company": "HCL Tech",
+          "high": "1,892.95",
+          "low": "1,872.05",
+          "lastPrice": "1,880.75",
+          "prevClose": "1,867.30",
+          "change": "13.45",
+          "percentGain": "0.72"
+        },
+        {
+          "company": "Infosys",
+          "high": "1,881.00",
+          "low": "1,861.85",
+          "lastPrice": "1,871.90",
+          "prevClose": "1,860.10",
+          "change": "11.80",
+          "percentGain": "0.63"
+        }
+      ]
     }
   ],
   "losers": [
@@ -915,6 +965,56 @@
           "prevClose": "392.55",
           "change": "-6.35",
           "percentGain": "-1.62"
+        }
+      ]
+    },
+    {
+      "time": "7:29:15 AM",
+      "data": [
+        {
+          "company": "Britannia",
+          "high": "5,426.90",
+          "low": "5,120.00",
+          "lastPrice": "5,156.35",
+          "prevClose": "5,434.65",
+          "change": "-278.30",
+          "percentGain": "-5.12"
+        },
+        {
+          "company": "HDFC Bank",
+          "high": "1,775.00",
+          "low": "1,720.00",
+          "lastPrice": "1,721.05",
+          "prevClose": "1,766.30",
+          "change": "-45.25",
+          "percentGain": "-2.56"
+        },
+        {
+          "company": "Tata Motors",
+          "high": "813.10",
+          "low": "787.15",
+          "lastPrice": "787.30",
+          "prevClose": "804.70",
+          "change": "-17.40",
+          "percentGain": "-2.16"
+        },
+        {
+          "company": "Bajaj Finance",
+          "high": "6,836.85",
+          "low": "6,634.00",
+          "lastPrice": "6,640.00",
+          "prevClose": "6,778.80",
+          "change": "-138.80",
+          "percentGain": "-2.05"
+        },
+        {
+          "company": "NTPC",
+          "high": "394.80",
+          "low": "384.85",
+          "lastPrice": "385.00",
+          "prevClose": "392.55",
+          "change": "-7.55",
+          "percentGain": "-1.92"
         }
       ]
     }
