@@ -257,6 +257,56 @@
           "percentGain": "1.32"
         }
       ]
+    },
+    {
+      "time": "6:21:19 AM",
+      "data": [
+        {
+          "company": "Trent",
+          "high": "6,717.90",
+          "low": "6,500.00",
+          "lastPrice": "6,601.65",
+          "prevClose": "6,480.70",
+          "change": "120.95",
+          "percentGain": "1.87"
+        },
+        {
+          "company": "ICICI Bank",
+          "high": "1,295.00",
+          "low": "1,272.10",
+          "lastPrice": "1,291.15",
+          "prevClose": "1,269.30",
+          "change": "21.85",
+          "percentGain": "1.72"
+        },
+        {
+          "company": "Sun Pharma",
+          "high": "1,825.00",
+          "low": "1,795.10",
+          "lastPrice": "1,824.25",
+          "prevClose": "1,794.60",
+          "change": "29.65",
+          "percentGain": "1.65"
+        },
+        {
+          "company": "ONGC",
+          "high": "263.20",
+          "low": "256.25",
+          "lastPrice": "260.60",
+          "prevClose": "256.90",
+          "change": "3.70",
+          "percentGain": "1.44"
+        },
+        {
+          "company": "Bharti Airtel",
+          "high": "1,595.00",
+          "low": "1,567.20",
+          "lastPrice": "1,577.65",
+          "prevClose": "1,560.55",
+          "change": "17.10",
+          "percentGain": "1.10"
+        }
+      ]
     }
   ],
   "losers": [
@@ -515,6 +565,56 @@
           "prevClose": "392.55",
           "change": "-5.85",
           "percentGain": "-1.49"
+        }
+      ]
+    },
+    {
+      "time": "6:21:19 AM",
+      "data": [
+        {
+          "company": "Britannia",
+          "high": "5,426.90",
+          "low": "5,120.00",
+          "lastPrice": "5,137.60",
+          "prevClose": "5,434.65",
+          "change": "-297.05",
+          "percentGain": "-5.47"
+        },
+        {
+          "company": "Asian Paints",
+          "high": "2,535.00",
+          "low": "2,491.65",
+          "lastPrice": "2,501.30",
+          "prevClose": "2,543.10",
+          "change": "-41.80",
+          "percentGain": "-1.64"
+        },
+        {
+          "company": "Eicher Motors",
+          "high": "4,807.25",
+          "low": "4,708.00",
+          "lastPrice": "4,715.45",
+          "prevClose": "4,793.45",
+          "change": "-78.00",
+          "percentGain": "-1.63"
+        },
+        {
+          "company": "Tata Motors",
+          "high": "813.10",
+          "low": "792.05",
+          "lastPrice": "793.15",
+          "prevClose": "804.70",
+          "change": "-11.55",
+          "percentGain": "-1.44"
+        },
+        {
+          "company": "HDFC Bank",
+          "high": "1,775.00",
+          "low": "1,730.50",
+          "lastPrice": "1,740.80",
+          "prevClose": "1,766.30",
+          "change": "-25.50",
+          "percentGain": "-1.44"
         }
       ]
     }
