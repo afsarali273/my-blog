@@ -3,12 +3,112 @@
     {
       "time": "3:51:23 AM",
       "data": []
+    },
+    {
+      "time": "4:18:08 AM",
+      "data": [
+        {
+          "company": "Trent",
+          "high": "6,717.90",
+          "low": "6,500.00",
+          "lastPrice": "6,568.00",
+          "prevClose": "6,480.70",
+          "change": "87.30",
+          "percentGain": "1.35"
+        },
+        {
+          "company": "Sun Pharma",
+          "high": "1,819.60",
+          "low": "1,795.10",
+          "lastPrice": "1,818.75",
+          "prevClose": "1,794.60",
+          "change": "24.15",
+          "percentGain": "1.35"
+        },
+        {
+          "company": "ICICI Bank",
+          "high": "1,287.85",
+          "low": "1,272.10",
+          "lastPrice": "1,286.00",
+          "prevClose": "1,269.30",
+          "change": "16.70",
+          "percentGain": "1.32"
+        },
+        {
+          "company": "Bharti Airtel",
+          "high": "1,582.00",
+          "low": "1,567.20",
+          "lastPrice": "1,578.05",
+          "prevClose": "1,560.55",
+          "change": "17.50",
+          "percentGain": "1.12"
+        },
+        {
+          "company": "Infosys",
+          "high": "1,875.50",
+          "low": "1,861.85",
+          "lastPrice": "1,874.85",
+          "prevClose": "1,860.10",
+          "change": "14.75",
+          "percentGain": "0.79"
+        }
+      ]
     }
   ],
   "losers": [
     {
       "time": "3:51:23 AM",
       "data": []
+    },
+    {
+      "time": "4:18:08 AM",
+      "data": [
+        {
+          "company": "Britannia",
+          "high": "5,426.90",
+          "low": "5,213.00",
+          "lastPrice": "5,365.15",
+          "prevClose": "5,434.65",
+          "change": "-69.50",
+          "percentGain": "-1.28"
+        },
+        {
+          "company": "Asian Paints",
+          "high": "2,535.00",
+          "low": "2,491.65",
+          "lastPrice": "2,514.50",
+          "prevClose": "2,543.10",
+          "change": "-28.60",
+          "percentGain": "-1.12"
+        },
+        {
+          "company": "Bharat Elec",
+          "high": "300.85",
+          "low": "296.30",
+          "lastPrice": "296.65",
+          "prevClose": "299.75",
+          "change": "-3.10",
+          "percentGain": "-1.03"
+        },
+        {
+          "company": "NTPC",
+          "high": "394.80",
+          "low": "388.45",
+          "lastPrice": "388.75",
+          "prevClose": "392.55",
+          "change": "-3.80",
+          "percentGain": "-0.97"
+        },
+        {
+          "company": "HDFC Bank",
+          "high": "1,775.00",
+          "low": "1,746.10",
+          "lastPrice": "1,749.60",
+          "prevClose": "1,766.30",
+          "change": "-16.70",
+          "percentGain": "-0.95"
+        }
+      ]
     }
   ]
 }
