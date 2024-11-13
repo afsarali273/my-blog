@@ -211,6 +211,56 @@
           "percentGain": "0.20"
         }
       ]
+    },
+    {
+      "time": "6:21:41 AM",
+      "data": [
+        {
+          "company": "NTPC",
+          "high": "387.60",
+          "low": "379.35",
+          "lastPrice": "385.80",
+          "prevClose": "380.30",
+          "change": "5.50",
+          "percentGain": "1.45"
+        },
+        {
+          "company": "Trent",
+          "high": "6,619.70",
+          "low": "6,412.45",
+          "lastPrice": "6,577.55",
+          "prevClose": "6,528.55",
+          "change": "49.00",
+          "percentGain": "0.75"
+        },
+        {
+          "company": "Tata Motors",
+          "high": "792.65",
+          "low": "775.55",
+          "lastPrice": "788.90",
+          "prevClose": "784.85",
+          "change": "4.05",
+          "percentGain": "0.52"
+        },
+        {
+          "company": "Britannia",
+          "high": "5,087.60",
+          "low": "4,938.45",
+          "lastPrice": "5,050.70",
+          "prevClose": "5,027.55",
+          "change": "23.15",
+          "percentGain": "0.46"
+        },
+        {
+          "company": "ITC",
+          "high": "474.35",
+          "low": "468.25",
+          "lastPrice": "474.35",
+          "prevClose": "472.85",
+          "change": "1.50",
+          "percentGain": "0.32"
+        }
+      ]
     }
   ],
   "losers": [
@@ -423,6 +473,56 @@
           "prevClose": "144.17",
           "change": "-3.72",
           "percentGain": "-2.58"
+        }
+      ]
+    },
+    {
+      "time": "6:21:41 AM",
+      "data": [
+        {
+          "company": "Hindalco",
+          "high": "649.90",
+          "low": "627.50",
+          "lastPrice": "629.10",
+          "prevClose": "651.65",
+          "change": "-22.55",
+          "percentGain": "-3.46"
+        },
+        {
+          "company": "Eicher Motors",
+          "high": "4,719.95",
+          "low": "4,555.05",
+          "lastPrice": "4,585.45",
+          "prevClose": "4,738.20",
+          "change": "-152.75",
+          "percentGain": "-3.22"
+        },
+        {
+          "company": "M&M",
+          "high": "2,895.00",
+          "low": "2,782.90",
+          "lastPrice": "2,808.50",
+          "prevClose": "2,898.55",
+          "change": "-90.05",
+          "percentGain": "-3.11"
+        },
+        {
+          "company": "Hero Motocorp",
+          "high": "4,696.75",
+          "low": "4,565.00",
+          "lastPrice": "4,578.85",
+          "prevClose": "4,724.20",
+          "change": "-145.35",
+          "percentGain": "-3.08"
+        },
+        {
+          "company": "Tata Steel",
+          "high": "143.60",
+          "low": "139.60",
+          "lastPrice": "139.88",
+          "prevClose": "144.17",
+          "change": "-4.29",
+          "percentGain": "-2.98"
         }
       ]
     }
