@@ -353,6 +353,56 @@
           "percentGain": "0.84"
         }
       ]
+    },
+    {
+      "time": "6:45:06 AM",
+      "data": [
+        {
+          "company": "Eicher Motors",
+          "high": "4,973.00",
+          "low": "4,705.30",
+          "lastPrice": "4,944.70",
+          "prevClose": "4,588.70",
+          "change": "356.00",
+          "percentGain": "7.76"
+        },
+        {
+          "company": "Hero Motocorp",
+          "high": "4,624.60",
+          "low": "4,467.00",
+          "lastPrice": "4,608.50",
+          "prevClose": "4,519.60",
+          "change": "88.90",
+          "percentGain": "1.97"
+        },
+        {
+          "company": "Hindalco",
+          "high": "636.00",
+          "low": "627.75",
+          "lastPrice": "635.75",
+          "prevClose": "626.60",
+          "change": "9.15",
+          "percentGain": "1.46"
+        },
+        {
+          "company": "Coal India",
+          "high": "411.95",
+          "low": "402.60",
+          "lastPrice": "411.60",
+          "prevClose": "406.90",
+          "change": "4.70",
+          "percentGain": "1.16"
+        },
+        {
+          "company": "HDFC Life",
+          "high": "696.70",
+          "low": "681.50",
+          "lastPrice": "692.80",
+          "prevClose": "685.05",
+          "change": "7.75",
+          "percentGain": "1.13"
+        }
+      ]
     }
   ],
   "losers": [
@@ -707,6 +757,56 @@
           "prevClose": "952.75",
           "change": "-14.50",
           "percentGain": "-1.52"
+        }
+      ]
+    },
+    {
+      "time": "6:45:06 AM",
+      "data": [
+        {
+          "company": "BPCL",
+          "high": "306.00",
+          "low": "296.40",
+          "lastPrice": "298.75",
+          "prevClose": "305.85",
+          "change": "-7.10",
+          "percentGain": "-2.32"
+        },
+        {
+          "company": "HUL",
+          "high": "2,464.70",
+          "low": "2,408.20",
+          "lastPrice": "2,409.15",
+          "prevClose": "2,464.95",
+          "change": "-55.80",
+          "percentGain": "-2.26"
+        },
+        {
+          "company": "ITC",
+          "high": "472.95",
+          "low": "462.25",
+          "lastPrice": "462.60",
+          "prevClose": "472.20",
+          "change": "-9.60",
+          "percentGain": "-2.03"
+        },
+        {
+          "company": "Adani Ports",
+          "high": "1,296.65",
+          "low": "1,263.00",
+          "lastPrice": "1,268.10",
+          "prevClose": "1,287.90",
+          "change": "-19.80",
+          "percentGain": "-1.54"
+        },
+        {
+          "company": "Nestle",
+          "high": "2,244.95",
+          "low": "2,198.55",
+          "lastPrice": "2,202.85",
+          "prevClose": "2,235.25",
+          "change": "-32.40",
+          "percentGain": "-1.45"
         }
       ]
     }
