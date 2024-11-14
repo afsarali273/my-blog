@@ -103,6 +103,56 @@
           "percentGain": "0.93"
         }
       ]
+    },
+    {
+      "time": "4:52:08 AM",
+      "data": [
+        {
+          "company": "Eicher Motors",
+          "high": "4,963.50",
+          "low": "4,705.30",
+          "lastPrice": "4,954.05",
+          "prevClose": "4,588.70",
+          "change": "365.35",
+          "percentGain": "7.96"
+        },
+        {
+          "company": "Hindalco",
+          "high": "636.00",
+          "low": "627.75",
+          "lastPrice": "633.85",
+          "prevClose": "626.60",
+          "change": "7.25",
+          "percentGain": "1.16"
+        },
+        {
+          "company": "Kotak Mahindra",
+          "high": "1,706.95",
+          "low": "1,689.80",
+          "lastPrice": "1,705.80",
+          "prevClose": "1,687.85",
+          "change": "17.95",
+          "percentGain": "1.06"
+        },
+        {
+          "company": "SBI Life Insura",
+          "high": "1,564.20",
+          "low": "1,546.05",
+          "lastPrice": "1,562.50",
+          "prevClose": "1,546.70",
+          "change": "15.80",
+          "percentGain": "1.02"
+        },
+        {
+          "company": "JSW Steel",
+          "high": "949.35",
+          "low": "932.45",
+          "lastPrice": "945.05",
+          "prevClose": "935.95",
+          "change": "9.10",
+          "percentGain": "0.97"
+        }
+      ]
     }
   ],
   "losers": [
@@ -207,6 +257,56 @@
           "prevClose": "472.20",
           "change": "-3.35",
           "percentGain": "-0.71"
+        }
+      ]
+    },
+    {
+      "time": "4:52:08 AM",
+      "data": [
+        {
+          "company": "Britannia",
+          "high": "5,050.50",
+          "low": "4,961.25",
+          "lastPrice": "4,975.00",
+          "prevClose": "5,046.50",
+          "change": "-71.50",
+          "percentGain": "-1.42"
+        },
+        {
+          "company": "HUL",
+          "high": "2,464.70",
+          "low": "2,427.00",
+          "lastPrice": "2,430.00",
+          "prevClose": "2,464.95",
+          "change": "-34.95",
+          "percentGain": "-1.42"
+        },
+        {
+          "company": "BPCL",
+          "high": "306.00",
+          "low": "299.50",
+          "lastPrice": "301.90",
+          "prevClose": "305.85",
+          "change": "-3.95",
+          "percentGain": "-1.29"
+        },
+        {
+          "company": "Maruti Suzuki",
+          "high": "11,117.70",
+          "low": "10,923.40",
+          "lastPrice": "10,937.90",
+          "prevClose": "11,049.60",
+          "change": "-111.70",
+          "percentGain": "-1.01"
+        },
+        {
+          "company": "ITC",
+          "high": "472.95",
+          "low": "468.00",
+          "lastPrice": "468.50",
+          "prevClose": "472.20",
+          "change": "-3.70",
+          "percentGain": "-0.78"
         }
       ]
     }
