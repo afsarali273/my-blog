@@ -411,6 +411,56 @@
     {
       "time": "7:15:09 AM",
       "data": []
+    },
+    {
+      "time": "7:30:08 AM",
+      "data": [
+        {
+          "company": "Eicher Motors",
+          "high": "4,973.00",
+          "low": "4,705.30",
+          "lastPrice": "4,934.00",
+          "prevClose": "4,588.70",
+          "change": "345.30",
+          "percentGain": "7.53"
+        },
+        {
+          "company": "Hero Motocorp",
+          "high": "4,630.00",
+          "low": "4,467.00",
+          "lastPrice": "4,617.45",
+          "prevClose": "4,519.60",
+          "change": "97.85",
+          "percentGain": "2.17"
+        },
+        {
+          "company": "Coal India",
+          "high": "413.10",
+          "low": "402.60",
+          "lastPrice": "412.70",
+          "prevClose": "406.90",
+          "change": "5.80",
+          "percentGain": "1.43"
+        },
+        {
+          "company": "HDFC Bank",
+          "high": "1,704.85",
+          "low": "1,672.10",
+          "lastPrice": "1,701.95",
+          "prevClose": "1,681.35",
+          "change": "20.60",
+          "percentGain": "1.23"
+        },
+        {
+          "company": "Hindalco",
+          "high": "636.45",
+          "low": "627.75",
+          "lastPrice": "634.00",
+          "prevClose": "626.60",
+          "change": "7.40",
+          "percentGain": "1.18"
+        }
+      ]
     }
   ],
   "losers": [
@@ -825,6 +875,56 @@
     {
       "time": "7:15:09 AM",
       "data": []
+    },
+    {
+      "time": "7:30:08 AM",
+      "data": [
+        {
+          "company": "HUL",
+          "high": "2,464.70",
+          "low": "2,397.35",
+          "lastPrice": "2,400.35",
+          "prevClose": "2,464.95",
+          "change": "-64.60",
+          "percentGain": "-2.62"
+        },
+        {
+          "company": "BPCL",
+          "high": "306.00",
+          "low": "296.40",
+          "lastPrice": "298.55",
+          "prevClose": "305.85",
+          "change": "-7.30",
+          "percentGain": "-2.39"
+        },
+        {
+          "company": "Britannia",
+          "high": "5,050.50",
+          "low": "4,934.15",
+          "lastPrice": "4,939.05",
+          "prevClose": "5,046.50",
+          "change": "-107.45",
+          "percentGain": "-2.13"
+        },
+        {
+          "company": "TATA Cons. Prod",
+          "high": "955.25",
+          "low": "932.10",
+          "lastPrice": "932.80",
+          "prevClose": "952.75",
+          "change": "-19.95",
+          "percentGain": "-2.09"
+        },
+        {
+          "company": "Adani Ports",
+          "high": "1,296.65",
+          "low": "1,261.40",
+          "lastPrice": "1,263.25",
+          "prevClose": "1,287.90",
+          "change": "-24.65",
+          "percentGain": "-1.91"
+        }
+      ]
     }
   ]
 }
