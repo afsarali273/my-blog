@@ -253,6 +253,56 @@
           "percentGain": "1.01"
         }
       ]
+    },
+    {
+      "time": "5:49:46 AM",
+      "data": [
+        {
+          "company": "Eicher Motors",
+          "high": "4,973.00",
+          "low": "4,705.30",
+          "lastPrice": "4,940.00",
+          "prevClose": "4,588.70",
+          "change": "351.30",
+          "percentGain": "7.66"
+        },
+        {
+          "company": "Hero Motocorp",
+          "high": "4,619.95",
+          "low": "4,467.00",
+          "lastPrice": "4,588.50",
+          "prevClose": "4,519.60",
+          "change": "68.90",
+          "percentGain": "1.52"
+        },
+        {
+          "company": "HDFC Life",
+          "high": "696.70",
+          "low": "681.50",
+          "lastPrice": "691.40",
+          "prevClose": "685.05",
+          "change": "6.35",
+          "percentGain": "0.93"
+        },
+        {
+          "company": "Kotak Mahindra",
+          "high": "1,712.60",
+          "low": "1,689.80",
+          "lastPrice": "1,702.90",
+          "prevClose": "1,687.85",
+          "change": "15.05",
+          "percentGain": "0.89"
+        },
+        {
+          "company": "Hindalco",
+          "high": "636.00",
+          "low": "627.75",
+          "lastPrice": "630.65",
+          "prevClose": "626.60",
+          "change": "4.05",
+          "percentGain": "0.65"
+        }
+      ]
     }
   ],
   "losers": [
@@ -507,6 +557,56 @@
           "prevClose": "952.75",
           "change": "-10.10",
           "percentGain": "-1.06"
+        }
+      ]
+    },
+    {
+      "time": "5:49:46 AM",
+      "data": [
+        {
+          "company": "BPCL",
+          "high": "306.00",
+          "low": "297.10",
+          "lastPrice": "297.30",
+          "prevClose": "305.85",
+          "change": "-8.55",
+          "percentGain": "-2.80"
+        },
+        {
+          "company": "HUL",
+          "high": "2,464.70",
+          "low": "2,418.30",
+          "lastPrice": "2,420.80",
+          "prevClose": "2,464.95",
+          "change": "-44.15",
+          "percentGain": "-1.79"
+        },
+        {
+          "company": "Adani Ports",
+          "high": "1,296.65",
+          "low": "1,270.00",
+          "lastPrice": "1,270.85",
+          "prevClose": "1,287.90",
+          "change": "-17.05",
+          "percentGain": "-1.32"
+        },
+        {
+          "company": "ITC",
+          "high": "472.95",
+          "low": "465.70",
+          "lastPrice": "466.00",
+          "prevClose": "472.20",
+          "change": "-6.20",
+          "percentGain": "-1.31"
+        },
+        {
+          "company": "Shriram Finance",
+          "high": "2,867.00",
+          "low": "2,783.35",
+          "lastPrice": "2,816.75",
+          "prevClose": "2,853.85",
+          "change": "-37.10",
+          "percentGain": "-1.30"
         }
       ]
     }
