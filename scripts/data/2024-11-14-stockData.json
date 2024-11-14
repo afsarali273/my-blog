@@ -153,6 +153,56 @@
           "percentGain": "0.97"
         }
       ]
+    },
+    {
+      "time": "5:15:28 AM",
+      "data": [
+        {
+          "company": "Eicher Motors",
+          "high": "4,968.50",
+          "low": "4,705.30",
+          "lastPrice": "4,949.25",
+          "prevClose": "4,588.70",
+          "change": "360.55",
+          "percentGain": "7.86"
+        },
+        {
+          "company": "Hero Motocorp",
+          "high": "4,603.00",
+          "low": "4,467.00",
+          "lastPrice": "4,597.00",
+          "prevClose": "4,519.60",
+          "change": "77.40",
+          "percentGain": "1.71"
+        },
+        {
+          "company": "HDFC Life",
+          "high": "695.00",
+          "low": "681.50",
+          "lastPrice": "692.80",
+          "prevClose": "685.05",
+          "change": "7.75",
+          "percentGain": "1.13"
+        },
+        {
+          "company": "SBI Life Insura",
+          "high": "1,567.10",
+          "low": "1,546.05",
+          "lastPrice": "1,564.20",
+          "prevClose": "1,546.70",
+          "change": "17.50",
+          "percentGain": "1.13"
+        },
+        {
+          "company": "Kotak Mahindra",
+          "high": "1,712.60",
+          "low": "1,689.80",
+          "lastPrice": "1,705.70",
+          "prevClose": "1,687.85",
+          "change": "17.85",
+          "percentGain": "1.06"
+        }
+      ]
     }
   ],
   "losers": [
@@ -307,6 +357,56 @@
           "prevClose": "472.20",
           "change": "-3.70",
           "percentGain": "-0.78"
+        }
+      ]
+    },
+    {
+      "time": "5:15:28 AM",
+      "data": [
+        {
+          "company": "HUL",
+          "high": "2,464.70",
+          "low": "2,418.30",
+          "lastPrice": "2,430.55",
+          "prevClose": "2,464.95",
+          "change": "-34.40",
+          "percentGain": "-1.40"
+        },
+        {
+          "company": "BPCL",
+          "high": "306.00",
+          "low": "299.50",
+          "lastPrice": "302.10",
+          "prevClose": "305.85",
+          "change": "-3.75",
+          "percentGain": "-1.23"
+        },
+        {
+          "company": "TATA Cons. Prod",
+          "high": "955.25",
+          "low": "940.55",
+          "lastPrice": "941.65",
+          "prevClose": "952.75",
+          "change": "-11.10",
+          "percentGain": "-1.17"
+        },
+        {
+          "company": "Britannia",
+          "high": "5,050.50",
+          "low": "4,961.25",
+          "lastPrice": "4,991.35",
+          "prevClose": "5,046.50",
+          "change": "-55.15",
+          "percentGain": "-1.09"
+        },
+        {
+          "company": "ITC",
+          "high": "472.95",
+          "low": "466.40",
+          "lastPrice": "467.30",
+          "prevClose": "472.20",
+          "change": "-4.90",
+          "percentGain": "-1.04"
         }
       ]
     }
