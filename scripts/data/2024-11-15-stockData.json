@@ -257,6 +257,56 @@
           "percentGain": "1.19"
         }
       ]
+    },
+    {
+      "time": "6:26:18 AM",
+      "data": [
+        {
+          "company": "Eicher Motors",
+          "high": "4,973.00",
+          "low": "4,705.30",
+          "lastPrice": "4,883.70",
+          "prevClose": "4,588.70",
+          "change": "295.00",
+          "percentGain": "6.43"
+        },
+        {
+          "company": "Hero Motocorp",
+          "high": "4,630.00",
+          "low": "4,467.00",
+          "lastPrice": "4,604.00",
+          "prevClose": "4,519.60",
+          "change": "84.40",
+          "percentGain": "1.87"
+        },
+        {
+          "company": "HDFC Life",
+          "high": "696.70",
+          "low": "681.50",
+          "lastPrice": "694.00",
+          "prevClose": "685.05",
+          "change": "8.95",
+          "percentGain": "1.31"
+        },
+        {
+          "company": "Reliance",
+          "high": "1,272.60",
+          "low": "1,251.10",
+          "lastPrice": "1,267.60",
+          "prevClose": "1,252.05",
+          "change": "15.55",
+          "percentGain": "1.24"
+        },
+        {
+          "company": "Kotak Mahindra",
+          "high": "1,712.60",
+          "low": "1,689.80",
+          "lastPrice": "1,707.90",
+          "prevClose": "1,687.85",
+          "change": "20.05",
+          "percentGain": "1.19"
+        }
+      ]
     }
   ],
   "losers": [
@@ -470,6 +520,56 @@
     },
     {
       "time": "5:49:58 AM",
+      "data": [
+        {
+          "company": "HUL",
+          "high": "2,464.70",
+          "low": "2,383.70",
+          "lastPrice": "2,389.20",
+          "prevClose": "2,464.95",
+          "change": "-75.75",
+          "percentGain": "-3.07"
+        },
+        {
+          "company": "TATA Cons. Prod",
+          "high": "955.25",
+          "low": "922.00",
+          "lastPrice": "925.00",
+          "prevClose": "952.75",
+          "change": "-27.75",
+          "percentGain": "-2.91"
+        },
+        {
+          "company": "Britannia",
+          "high": "5,050.50",
+          "low": "4,901.00",
+          "lastPrice": "4,915.60",
+          "prevClose": "5,046.50",
+          "change": "-130.90",
+          "percentGain": "-2.59"
+        },
+        {
+          "company": "BPCL",
+          "high": "306.00",
+          "low": "296.40",
+          "lastPrice": "298.20",
+          "prevClose": "305.85",
+          "change": "-7.65",
+          "percentGain": "-2.50"
+        },
+        {
+          "company": "Nestle",
+          "high": "2,244.95",
+          "low": "2,178.40",
+          "lastPrice": "2,182.80",
+          "prevClose": "2,235.25",
+          "change": "-52.45",
+          "percentGain": "-2.35"
+        }
+      ]
+    },
+    {
+      "time": "6:26:18 AM",
       "data": [
         {
           "company": "HUL",
