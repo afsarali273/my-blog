@@ -415,6 +415,56 @@
     {
       "time": "7:50:05 AM",
       "data": []
+    },
+    {
+      "time": "8:21:45 AM",
+      "data": [
+        {
+          "company": "Hindalco",
+          "high": "663.10",
+          "low": "639.90",
+          "lastPrice": "660.50",
+          "prevClose": "627.35",
+          "change": "33.15",
+          "percentGain": "5.28"
+        },
+        {
+          "company": "Hero Motocorp",
+          "high": "4,839.95",
+          "low": "4,722.00",
+          "lastPrice": "4,754.10",
+          "prevClose": "4,604.00",
+          "change": "150.10",
+          "percentGain": "3.26"
+        },
+        {
+          "company": "Tata Steel",
+          "high": "143.25",
+          "low": "138.00",
+          "lastPrice": "142.21",
+          "prevClose": "137.98",
+          "change": "4.23",
+          "percentGain": "3.07"
+        },
+        {
+          "company": "TATA Cons. Prod",
+          "high": "939.85",
+          "low": "916.00",
+          "lastPrice": "939.40",
+          "prevClose": "925.00",
+          "change": "14.40",
+          "percentGain": "1.56"
+        },
+        {
+          "company": "JSW Steel",
+          "high": "955.95",
+          "low": "934.90",
+          "lastPrice": "953.05",
+          "prevClose": "939.05",
+          "change": "14.00",
+          "percentGain": "1.49"
+        }
+      ]
     }
   ],
   "losers": [
@@ -833,6 +883,56 @@
     {
       "time": "7:50:05 AM",
       "data": []
+    },
+    {
+      "time": "8:21:45 AM",
+      "data": [
+        {
+          "company": "TCS",
+          "high": "4,213.00",
+          "low": "3,990.20",
+          "lastPrice": "4,019.80",
+          "prevClose": "4,145.90",
+          "change": "-126.10",
+          "percentGain": "-3.04"
+        },
+        {
+          "company": "Infosys",
+          "high": "1,849.20",
+          "low": "1,795.00",
+          "lastPrice": "1,816.70",
+          "prevClose": "1,864.55",
+          "change": "-47.85",
+          "percentGain": "-2.57"
+        },
+        {
+          "company": "Trent",
+          "high": "6,453.00",
+          "low": "6,275.00",
+          "lastPrice": "6,300.85",
+          "prevClose": "6,463.00",
+          "change": "-162.15",
+          "percentGain": "-2.51"
+        },
+        {
+          "company": "Wipro",
+          "high": "566.70",
+          "low": "540.30",
+          "lastPrice": "552.80",
+          "prevClose": "566.70",
+          "change": "-13.90",
+          "percentGain": "-2.45"
+        },
+        {
+          "company": "Dr Reddys Labs",
+          "high": "1,219.80",
+          "low": "1,170.20",
+          "lastPrice": "1,202.90",
+          "prevClose": "1,226.70",
+          "change": "-23.80",
+          "percentGain": "-1.94"
+        }
+      ]
     }
   ]
 }
