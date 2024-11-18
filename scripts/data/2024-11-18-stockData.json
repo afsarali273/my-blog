@@ -1,0 +1,106 @@
+{
+  "gainers": [
+    {
+      "time": "3:55:58 AM",
+      "data": [
+        {
+          "company": "Hero Motocorp",
+          "high": "4,835.00",
+          "low": "4,722.00",
+          "lastPrice": "4,812.10",
+          "prevClose": "4,604.00",
+          "change": "208.10",
+          "percentGain": "4.52"
+        },
+        {
+          "company": "Hindalco",
+          "high": "656.00",
+          "low": "639.90",
+          "lastPrice": "648.75",
+          "prevClose": "627.35",
+          "change": "21.40",
+          "percentGain": "3.41"
+        },
+        {
+          "company": "Coal India",
+          "high": "418.50",
+          "low": "411.05",
+          "lastPrice": "417.45",
+          "prevClose": "409.75",
+          "change": "7.70",
+          "percentGain": "1.88"
+        },
+        {
+          "company": "Bharat Elec",
+          "high": "286.70",
+          "low": "282.10",
+          "lastPrice": "284.00",
+          "prevClose": "280.95",
+          "change": "3.05",
+          "percentGain": "1.09"
+        },
+        {
+          "company": "Bajaj Finance",
+          "high": "6,657.00",
+          "low": "6,581.10",
+          "lastPrice": "6,610.00",
+          "prevClose": "6,549.15",
+          "change": "60.85",
+          "percentGain": "0.93"
+        }
+      ]
+    }
+  ],
+  "losers": [
+    {
+      "time": "3:55:58 AM",
+      "data": [
+        {
+          "company": "Infosys",
+          "high": "1,849.20",
+          "low": "1,797.05",
+          "lastPrice": "1,815.25",
+          "prevClose": "1,864.55",
+          "change": "-49.30",
+          "percentGain": "-2.64"
+        },
+        {
+          "company": "Dr Reddys Labs",
+          "high": "1,219.80",
+          "low": "1,193.00",
+          "lastPrice": "1,194.70",
+          "prevClose": "1,226.70",
+          "change": "-32.00",
+          "percentGain": "-2.61"
+        },
+        {
+          "company": "Wipro",
+          "high": "566.70",
+          "low": "552.70",
+          "lastPrice": "552.90",
+          "prevClose": "566.70",
+          "change": "-13.80",
+          "percentGain": "-2.44"
+        },
+        {
+          "company": "Britannia",
+          "high": "4,970.00",
+          "low": "4,791.65",
+          "lastPrice": "4,836.40",
+          "prevClose": "4,915.60",
+          "change": "-79.20",
+          "percentGain": "-1.61"
+        },
+        {
+          "company": "HCL Tech",
+          "high": "1,865.05",
+          "low": "1,831.30",
+          "lastPrice": "1,831.30",
+          "prevClose": "1,858.95",
+          "change": "-27.65",
+          "percentGain": "-1.49"
+        }
+      ]
+    }
+  ]
+}
