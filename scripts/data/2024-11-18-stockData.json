@@ -465,6 +465,56 @@
           "percentGain": "1.49"
         }
       ]
+    },
+    {
+      "time": "8:45:05 AM",
+      "data": [
+        {
+          "company": "Hindalco",
+          "high": "663.10",
+          "low": "639.90",
+          "lastPrice": "659.70",
+          "prevClose": "627.35",
+          "change": "32.35",
+          "percentGain": "5.16"
+        },
+        {
+          "company": "Hero Motocorp",
+          "high": "4,839.95",
+          "low": "4,722.00",
+          "lastPrice": "4,743.80",
+          "prevClose": "4,604.00",
+          "change": "139.80",
+          "percentGain": "3.04"
+        },
+        {
+          "company": "Tata Steel",
+          "high": "143.25",
+          "low": "138.00",
+          "lastPrice": "142.11",
+          "prevClose": "137.98",
+          "change": "4.13",
+          "percentGain": "2.99"
+        },
+        {
+          "company": "TATA Cons. Prod",
+          "high": "942.50",
+          "low": "916.00",
+          "lastPrice": "940.35",
+          "prevClose": "925.00",
+          "change": "15.35",
+          "percentGain": "1.66"
+        },
+        {
+          "company": "JSW Steel",
+          "high": "956.05",
+          "low": "934.90",
+          "lastPrice": "954.25",
+          "prevClose": "939.05",
+          "change": "15.20",
+          "percentGain": "1.62"
+        }
+      ]
     }
   ],
   "losers": [
@@ -931,6 +981,56 @@
           "prevClose": "1,226.70",
           "change": "-23.80",
           "percentGain": "-1.94"
+        }
+      ]
+    },
+    {
+      "time": "8:45:05 AM",
+      "data": [
+        {
+          "company": "TCS",
+          "high": "4,213.00",
+          "low": "3,990.20",
+          "lastPrice": "4,031.30",
+          "prevClose": "4,145.90",
+          "change": "-114.60",
+          "percentGain": "-2.76"
+        },
+        {
+          "company": "Trent",
+          "high": "6,453.00",
+          "low": "6,275.00",
+          "lastPrice": "6,300.00",
+          "prevClose": "6,463.00",
+          "change": "-163.00",
+          "percentGain": "-2.52"
+        },
+        {
+          "company": "Wipro",
+          "high": "566.70",
+          "low": "540.30",
+          "lastPrice": "552.95",
+          "prevClose": "566.70",
+          "change": "-13.75",
+          "percentGain": "-2.43"
+        },
+        {
+          "company": "Infosys",
+          "high": "1,849.20",
+          "low": "1,795.00",
+          "lastPrice": "1,819.35",
+          "prevClose": "1,864.55",
+          "change": "-45.20",
+          "percentGain": "-2.42"
+        },
+        {
+          "company": "BPCL",
+          "high": "299.65",
+          "low": "290.80",
+          "lastPrice": "291.00",
+          "prevClose": "298.20",
+          "change": "-7.20",
+          "percentGain": "-2.41"
         }
       ]
     }
