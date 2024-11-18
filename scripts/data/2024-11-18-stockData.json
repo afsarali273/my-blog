@@ -619,6 +619,56 @@
           "percentGain": "1.30"
         }
       ]
+    },
+    {
+      "time": "9:50:08 AM",
+      "data": [
+        {
+          "company": "Hindalco",
+          "high": "663.10",
+          "low": "639.90",
+          "lastPrice": "651.90",
+          "prevClose": "627.35",
+          "change": "24.55",
+          "percentGain": "3.91"
+        },
+        {
+          "company": "Hero Motocorp",
+          "high": "4,839.95",
+          "low": "4,714.10",
+          "lastPrice": "4,743.20",
+          "prevClose": "4,604.00",
+          "change": "139.20",
+          "percentGain": "3.02"
+        },
+        {
+          "company": "Tata Steel",
+          "high": "143.25",
+          "low": "138.00",
+          "lastPrice": "141.42",
+          "prevClose": "137.98",
+          "change": "3.44",
+          "percentGain": "2.49"
+        },
+        {
+          "company": "M&M",
+          "high": "2,874.70",
+          "low": "2,800.05",
+          "lastPrice": "2,852.30",
+          "prevClose": "2,807.20",
+          "change": "45.10",
+          "percentGain": "1.61"
+        },
+        {
+          "company": "Nestle",
+          "high": "2,218.95",
+          "low": "2,168.70",
+          "lastPrice": "2,215.50",
+          "prevClose": "2,182.80",
+          "change": "32.70",
+          "percentGain": "1.50"
+        }
+      ]
     }
   ],
   "losers": [
@@ -1239,6 +1289,56 @@
           "prevClose": "566.70",
           "change": "-14.90",
           "percentGain": "-2.63"
+        }
+      ]
+    },
+    {
+      "time": "9:50:08 AM",
+      "data": [
+        {
+          "company": "Infosys",
+          "high": "1,849.20",
+          "low": "1,795.00",
+          "lastPrice": "1,807.20",
+          "prevClose": "1,864.55",
+          "change": "-57.35",
+          "percentGain": "-3.08"
+        },
+        {
+          "company": "TCS",
+          "high": "4,213.00",
+          "low": "3,990.20",
+          "lastPrice": "4,022.10",
+          "prevClose": "4,145.90",
+          "change": "-123.80",
+          "percentGain": "-2.99"
+        },
+        {
+          "company": "BPCL",
+          "high": "299.65",
+          "low": "288.30",
+          "lastPrice": "289.50",
+          "prevClose": "298.20",
+          "change": "-8.70",
+          "percentGain": "-2.92"
+        },
+        {
+          "company": "Trent",
+          "high": "6,453.00",
+          "low": "6,275.00",
+          "lastPrice": "6,284.20",
+          "prevClose": "6,463.00",
+          "change": "-178.80",
+          "percentGain": "-2.77"
+        },
+        {
+          "company": "Dr Reddys Labs",
+          "high": "1,219.80",
+          "low": "1,170.20",
+          "lastPrice": "1,194.85",
+          "prevClose": "1,226.70",
+          "change": "-31.85",
+          "percentGain": "-2.60"
         }
       ]
     }
