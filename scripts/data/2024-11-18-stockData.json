@@ -211,6 +211,56 @@
     {
       "time": "5:49:55 AM",
       "data": []
+    },
+    {
+      "time": "6:24:01 AM",
+      "data": [
+        {
+          "company": "Hindalco",
+          "high": "657.70",
+          "low": "639.90",
+          "lastPrice": "655.05",
+          "prevClose": "627.35",
+          "change": "27.70",
+          "percentGain": "4.42"
+        },
+        {
+          "company": "Hero Motocorp",
+          "high": "4,839.95",
+          "low": "4,722.00",
+          "lastPrice": "4,803.65",
+          "prevClose": "4,604.00",
+          "change": "199.65",
+          "percentGain": "4.34"
+        },
+        {
+          "company": "Tata Steel",
+          "high": "140.43",
+          "low": "138.00",
+          "lastPrice": "140.24",
+          "prevClose": "137.98",
+          "change": "2.26",
+          "percentGain": "1.64"
+        },
+        {
+          "company": "Adani Ports",
+          "high": "1,282.20",
+          "low": "1,261.30",
+          "lastPrice": "1,278.35",
+          "prevClose": "1,264.55",
+          "change": "13.80",
+          "percentGain": "1.09"
+        },
+        {
+          "company": "Bajaj Auto",
+          "high": "9,600.60",
+          "low": "9,435.85",
+          "lastPrice": "9,586.05",
+          "prevClose": "9,482.95",
+          "change": "103.10",
+          "percentGain": "1.09"
+        }
+      ]
     }
   ],
   "losers": [
@@ -425,6 +475,56 @@
     {
       "time": "5:49:55 AM",
       "data": []
+    },
+    {
+      "time": "6:24:01 AM",
+      "data": [
+        {
+          "company": "Wipro",
+          "high": "566.70",
+          "low": "540.30",
+          "lastPrice": "545.85",
+          "prevClose": "566.70",
+          "change": "-20.85",
+          "percentGain": "-3.68"
+        },
+        {
+          "company": "Infosys",
+          "high": "1,849.20",
+          "low": "1,795.00",
+          "lastPrice": "1,804.60",
+          "prevClose": "1,864.55",
+          "change": "-59.95",
+          "percentGain": "-3.22"
+        },
+        {
+          "company": "TCS",
+          "high": "4,213.00",
+          "low": "3,990.20",
+          "lastPrice": "4,016.00",
+          "prevClose": "4,145.90",
+          "change": "-129.90",
+          "percentGain": "-3.13"
+        },
+        {
+          "company": "Trent",
+          "high": "6,453.00",
+          "low": "6,275.00",
+          "lastPrice": "6,287.00",
+          "prevClose": "6,463.00",
+          "change": "-176.00",
+          "percentGain": "-2.72"
+        },
+        {
+          "company": "NTPC",
+          "high": "380.00",
+          "low": "362.65",
+          "lastPrice": "363.70",
+          "prevClose": "372.50",
+          "change": "-8.80",
+          "percentGain": "-2.36"
+        }
+      ]
     }
   ]
 }
