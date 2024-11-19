@@ -257,6 +257,56 @@
     {
       "time": "5:49:57 AM",
       "data": []
+    },
+    {
+      "time": "6:22:47 AM",
+      "data": [
+        {
+          "company": "M&M",
+          "high": "2,959.75",
+          "low": "2,845.00",
+          "lastPrice": "2,943.55",
+          "prevClose": "2,846.90",
+          "change": "96.65",
+          "percentGain": "3.39"
+        },
+        {
+          "company": "Tech Mahindra",
+          "high": "1,718.90",
+          "low": "1,664.10",
+          "lastPrice": "1,713.75",
+          "prevClose": "1,660.80",
+          "change": "52.95",
+          "percentGain": "3.19"
+        },
+        {
+          "company": "Trent",
+          "high": "6,579.90",
+          "low": "6,359.80",
+          "lastPrice": "6,495.90",
+          "prevClose": "6,301.65",
+          "change": "194.25",
+          "percentGain": "3.08"
+        },
+        {
+          "company": "Adani Ports",
+          "high": "1,321.45",
+          "low": "1,282.00",
+          "lastPrice": "1,318.70",
+          "prevClose": "1,279.30",
+          "change": "39.40",
+          "percentGain": "3.08"
+        },
+        {
+          "company": "Tata Motors",
+          "high": "795.40",
+          "low": "771.90",
+          "lastPrice": "793.50",
+          "prevClose": "771.90",
+          "change": "21.60",
+          "percentGain": "2.80"
+        }
+      ]
     }
   ],
   "losers": [
@@ -517,6 +567,56 @@
     {
       "time": "5:49:57 AM",
       "data": []
+    },
+    {
+      "time": "6:22:47 AM",
+      "data": [
+        {
+          "company": "SBI Life Insura",
+          "high": "1,568.05",
+          "low": "1,510.25",
+          "lastPrice": "1,513.80",
+          "prevClose": "1,562.60",
+          "change": "-48.80",
+          "percentGain": "-3.12"
+        },
+        {
+          "company": "HDFC Life",
+          "high": "693.00",
+          "low": "669.50",
+          "lastPrice": "671.90",
+          "prevClose": "690.50",
+          "change": "-18.60",
+          "percentGain": "-2.69"
+        },
+        {
+          "company": "Bajaj Finserv",
+          "high": "1,625.95",
+          "low": "1,587.45",
+          "lastPrice": "1,592.35",
+          "prevClose": "1,616.00",
+          "change": "-23.65",
+          "percentGain": "-1.46"
+        },
+        {
+          "company": "Hindalco",
+          "high": "655.55",
+          "low": "644.30",
+          "lastPrice": "648.15",
+          "prevClose": "651.05",
+          "change": "-2.90",
+          "percentGain": "-0.45"
+        },
+        {
+          "company": "SBI",
+          "high": "820.30",
+          "low": "811.50",
+          "lastPrice": "811.85",
+          "prevClose": "814.30",
+          "change": "-2.45",
+          "percentGain": "-0.30"
+        }
+      ]
     }
   ]
 }
