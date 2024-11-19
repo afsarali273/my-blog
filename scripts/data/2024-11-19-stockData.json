@@ -311,6 +311,56 @@
     {
       "time": "6:45:51 AM",
       "data": []
+    },
+    {
+      "time": "7:15:48 AM",
+      "data": [
+        {
+          "company": "M&M",
+          "high": "2,972.45",
+          "low": "2,845.00",
+          "lastPrice": "2,967.80",
+          "prevClose": "2,846.90",
+          "change": "120.90",
+          "percentGain": "4.25"
+        },
+        {
+          "company": "Trent",
+          "high": "6,579.90",
+          "low": "6,359.80",
+          "lastPrice": "6,525.00",
+          "prevClose": "6,301.65",
+          "change": "223.35",
+          "percentGain": "3.54"
+        },
+        {
+          "company": "Tech Mahindra",
+          "high": "1,718.90",
+          "low": "1,664.10",
+          "lastPrice": "1,713.55",
+          "prevClose": "1,660.80",
+          "change": "52.75",
+          "percentGain": "3.18"
+        },
+        {
+          "company": "Titan Company",
+          "high": "3,283.00",
+          "low": "3,172.30",
+          "lastPrice": "3,269.45",
+          "prevClose": "3,172.30",
+          "change": "97.15",
+          "percentGain": "3.06"
+        },
+        {
+          "company": "Dr Reddys Labs",
+          "high": "1,229.25",
+          "low": "1,186.25",
+          "lastPrice": "1,228.55",
+          "prevClose": "1,193.55",
+          "change": "35.00",
+          "percentGain": "2.93"
+        }
+      ]
     }
   ],
   "losers": [
@@ -625,6 +675,56 @@
     {
       "time": "6:45:51 AM",
       "data": []
+    },
+    {
+      "time": "7:15:48 AM",
+      "data": [
+        {
+          "company": "HDFC Life",
+          "high": "693.00",
+          "low": "669.30",
+          "lastPrice": "670.80",
+          "prevClose": "690.50",
+          "change": "-19.70",
+          "percentGain": "-2.85"
+        },
+        {
+          "company": "SBI Life Insura",
+          "high": "1,568.05",
+          "low": "1,510.25",
+          "lastPrice": "1,518.20",
+          "prevClose": "1,562.60",
+          "change": "-44.40",
+          "percentGain": "-2.84"
+        },
+        {
+          "company": "Bajaj Finserv",
+          "high": "1,625.95",
+          "low": "1,587.45",
+          "lastPrice": "1,596.45",
+          "prevClose": "1,616.00",
+          "change": "-19.55",
+          "percentGain": "-1.21"
+        },
+        {
+          "company": "Shriram Finance",
+          "high": "2,866.00",
+          "low": "2,818.55",
+          "lastPrice": "2,820.95",
+          "prevClose": "2,848.15",
+          "change": "-27.20",
+          "percentGain": "-0.96"
+        },
+        {
+          "company": "SBI",
+          "high": "820.30",
+          "low": "807.65",
+          "lastPrice": "809.70",
+          "prevClose": "814.30",
+          "change": "-4.60",
+          "percentGain": "-0.56"
+        }
+      ]
     }
   ]
 }
