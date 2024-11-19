@@ -569,6 +569,56 @@
           "percentGain": "2.73"
         }
       ]
+    },
+    {
+      "time": "9:39:23 AM",
+      "data": [
+        {
+          "company": "M&M",
+          "high": "2,998.00",
+          "low": "2,845.00",
+          "lastPrice": "2,959.15",
+          "prevClose": "2,846.90",
+          "change": "112.25",
+          "percentGain": "3.94"
+        },
+        {
+          "company": "Tech Mahindra",
+          "high": "1,724.40",
+          "low": "1,664.10",
+          "lastPrice": "1,703.20",
+          "prevClose": "1,660.80",
+          "change": "42.40",
+          "percentGain": "2.55"
+        },
+        {
+          "company": "HDFC Bank",
+          "high": "1,753.75",
+          "low": "1,702.70",
+          "lastPrice": "1,746.65",
+          "prevClose": "1,705.10",
+          "change": "41.55",
+          "percentGain": "2.44"
+        },
+        {
+          "company": "Trent",
+          "high": "6,579.90",
+          "low": "6,359.80",
+          "lastPrice": "6,444.00",
+          "prevClose": "6,301.65",
+          "change": "142.35",
+          "percentGain": "2.26"
+        },
+        {
+          "company": "Eicher Motors",
+          "high": "5,014.05",
+          "low": "4,880.00",
+          "lastPrice": "4,977.55",
+          "prevClose": "4,875.65",
+          "change": "101.90",
+          "percentGain": "2.09"
+        }
+      ]
     }
   ],
   "losers": [
@@ -1139,6 +1189,56 @@
           "prevClose": "651.05",
           "change": "-3.85",
           "percentGain": "-0.59"
+        }
+      ]
+    },
+    {
+      "time": "9:39:23 AM",
+      "data": [
+        {
+          "company": "SBI Life Insura",
+          "high": "1,568.05",
+          "low": "1,501.00",
+          "lastPrice": "1,525.20",
+          "prevClose": "1,562.60",
+          "change": "-37.40",
+          "percentGain": "-2.39"
+        },
+        {
+          "company": "HDFC Life",
+          "high": "693.00",
+          "low": "668.30",
+          "lastPrice": "678.30",
+          "prevClose": "690.50",
+          "change": "-12.20",
+          "percentGain": "-1.77"
+        },
+        {
+          "company": "TATA Cons. Prod",
+          "high": "940.50",
+          "low": "915.70",
+          "lastPrice": "917.95",
+          "prevClose": "930.75",
+          "change": "-12.80",
+          "percentGain": "-1.38"
+        },
+        {
+          "company": "Bajaj Finserv",
+          "high": "1,625.95",
+          "low": "1,580.55",
+          "lastPrice": "1,594.15",
+          "prevClose": "1,616.00",
+          "change": "-21.85",
+          "percentGain": "-1.35"
+        },
+        {
+          "company": "Hindalco",
+          "high": "655.55",
+          "low": "640.35",
+          "lastPrice": "642.60",
+          "prevClose": "651.05",
+          "change": "-8.45",
+          "percentGain": "-1.30"
         }
       ]
     }
