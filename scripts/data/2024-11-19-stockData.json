@@ -1,0 +1,106 @@
+{
+  "gainers": [
+    {
+      "time": "3:56:26 AM",
+      "data": [
+        {
+          "company": "Trent",
+          "high": "6,555.95",
+          "low": "6,359.80",
+          "lastPrice": "6,550.95",
+          "prevClose": "6,301.65",
+          "change": "249.30",
+          "percentGain": "3.96"
+        },
+        {
+          "company": "BPCL",
+          "high": "296.85",
+          "low": "292.20",
+          "lastPrice": "296.75",
+          "prevClose": "289.20",
+          "change": "7.55",
+          "percentGain": "2.61"
+        },
+        {
+          "company": "NTPC",
+          "high": "378.50",
+          "low": "367.35",
+          "lastPrice": "375.15",
+          "prevClose": "366.70",
+          "change": "8.45",
+          "percentGain": "2.30"
+        },
+        {
+          "company": "M&M",
+          "high": "2,909.20",
+          "low": "2,845.00",
+          "lastPrice": "2,907.35",
+          "prevClose": "2,846.90",
+          "change": "60.45",
+          "percentGain": "2.12"
+        },
+        {
+          "company": "Tata Motors",
+          "high": "791.15",
+          "low": "771.90",
+          "lastPrice": "787.95",
+          "prevClose": "771.90",
+          "change": "16.05",
+          "percentGain": "2.08"
+        }
+      ]
+    }
+  ],
+  "losers": [
+    {
+      "time": "3:56:26 AM",
+      "data": [
+        {
+          "company": "SBI Life Insura",
+          "high": "1,568.05",
+          "low": "1,544.30",
+          "lastPrice": "1,553.25",
+          "prevClose": "1,562.60",
+          "change": "-9.35",
+          "percentGain": "-0.60"
+        },
+        {
+          "company": "Bajaj Finserv",
+          "high": "1,625.95",
+          "low": "1,606.95",
+          "lastPrice": "1,609.00",
+          "prevClose": "1,616.00",
+          "change": "-7.00",
+          "percentGain": "-0.43"
+        },
+        {
+          "company": "Kotak Mahindra",
+          "high": "1,730.50",
+          "low": "1,713.50",
+          "lastPrice": "1,715.75",
+          "prevClose": "1,722.75",
+          "change": "-7.00",
+          "percentGain": "-0.41"
+        },
+        {
+          "company": "HDFC Life",
+          "high": "693.00",
+          "low": "685.50",
+          "lastPrice": "688.00",
+          "prevClose": "690.50",
+          "change": "-2.50",
+          "percentGain": "-0.36"
+        },
+        {
+          "company": "Cipla",
+          "high": "1,470.00",
+          "low": "1,456.85",
+          "lastPrice": "1,460.05",
+          "prevClose": "1,465.25",
+          "change": "-5.20",
+          "percentGain": "-0.35"
+        }
+      ]
+    }
+  ]
+}
