@@ -207,6 +207,56 @@
           "percentGain": "1.84"
         }
       ]
+    },
+    {
+      "time": "5:50:05 AM",
+      "data": [
+        {
+          "company": "M&M",
+          "high": "2,998.00",
+          "low": "2,845.00",
+          "lastPrice": "2,948.95",
+          "prevClose": "2,846.90",
+          "change": "102.05",
+          "percentGain": "3.58"
+        },
+        {
+          "company": "Tech Mahindra",
+          "high": "1,724.40",
+          "low": "1,664.10",
+          "lastPrice": "1,699.65",
+          "prevClose": "1,660.80",
+          "change": "38.85",
+          "percentGain": "2.34"
+        },
+        {
+          "company": "HDFC Bank",
+          "high": "1,753.75",
+          "low": "1,702.70",
+          "lastPrice": "1,742.25",
+          "prevClose": "1,705.10",
+          "change": "37.15",
+          "percentGain": "2.18"
+        },
+        {
+          "company": "Trent",
+          "high": "6,579.90",
+          "low": "6,359.80",
+          "lastPrice": "6,423.85",
+          "prevClose": "6,301.65",
+          "change": "122.20",
+          "percentGain": "1.94"
+        },
+        {
+          "company": "Eicher Motors",
+          "high": "5,014.05",
+          "low": "4,880.00",
+          "lastPrice": "4,965.45",
+          "prevClose": "4,875.65",
+          "change": "89.80",
+          "percentGain": "1.84"
+        }
+      ]
     }
   ],
   "losers": [
@@ -370,6 +420,56 @@
     },
     {
       "time": "5:39:56 AM",
+      "data": [
+        {
+          "company": "SBI Life Insura",
+          "high": "1,568.05",
+          "low": "1,501.00",
+          "lastPrice": "1,522.90",
+          "prevClose": "1,562.60",
+          "change": "-39.70",
+          "percentGain": "-2.54"
+        },
+        {
+          "company": "Hindalco",
+          "high": "655.55",
+          "low": "637.65",
+          "lastPrice": "640.00",
+          "prevClose": "651.05",
+          "change": "-11.05",
+          "percentGain": "-1.70"
+        },
+        {
+          "company": "Reliance",
+          "high": "1,281.50",
+          "low": "1,235.15",
+          "lastPrice": "1,241.65",
+          "prevClose": "1,260.75",
+          "change": "-19.10",
+          "percentGain": "-1.51"
+        },
+        {
+          "company": "TATA Cons. Prod",
+          "high": "940.50",
+          "low": "915.05",
+          "lastPrice": "917.15",
+          "prevClose": "930.75",
+          "change": "-13.60",
+          "percentGain": "-1.46"
+        },
+        {
+          "company": "HDFC Life",
+          "high": "693.00",
+          "low": "668.30",
+          "lastPrice": "680.40",
+          "prevClose": "690.50",
+          "change": "-10.10",
+          "percentGain": "-1.46"
+        }
+      ]
+    },
+    {
+      "time": "5:50:05 AM",
       "data": [
         {
           "company": "SBI Life Insura",
