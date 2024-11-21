@@ -203,6 +203,56 @@
           "percentGain": "0.65"
         }
       ]
+    },
+    {
+      "time": "5:39:55 AM",
+      "data": [
+        {
+          "company": "Power Grid Corp",
+          "high": "321.30",
+          "low": "313.00",
+          "lastPrice": "319.55",
+          "prevClose": "315.05",
+          "change": "4.50",
+          "percentGain": "1.43"
+        },
+        {
+          "company": "Hindalco",
+          "high": "650.55",
+          "low": "634.30",
+          "lastPrice": "647.75",
+          "prevClose": "640.00",
+          "change": "7.75",
+          "percentGain": "1.21"
+        },
+        {
+          "company": "UltraTechCement",
+          "high": "10,914.95",
+          "low": "10,555.00",
+          "lastPrice": "10,865.25",
+          "prevClose": "10,769.55",
+          "change": "95.70",
+          "percentGain": "0.89"
+        },
+        {
+          "company": "Axis Bank",
+          "high": "1,145.50",
+          "low": "1,115.75",
+          "lastPrice": "1,142.85",
+          "prevClose": "1,133.95",
+          "change": "8.90",
+          "percentGain": "0.78"
+        },
+        {
+          "company": "TCS",
+          "high": "4,092.45",
+          "low": "4,044.90",
+          "lastPrice": "4,064.30",
+          "prevClose": "4,039.55",
+          "change": "24.75",
+          "percentGain": "0.61"
+        }
+      ]
     }
   ],
   "losers": [
@@ -407,6 +457,56 @@
           "prevClose": "366.70",
           "change": "-9.95",
           "percentGain": "-2.71"
+        }
+      ]
+    },
+    {
+      "time": "5:39:55 AM",
+      "data": [
+        {
+          "company": "Adani Enterpris",
+          "high": "2,539.35",
+          "low": "2,172.50",
+          "lastPrice": "2,211.75",
+          "prevClose": "2,821.50",
+          "change": "-609.75",
+          "percentGain": "-21.61"
+        },
+        {
+          "company": "Adani Ports",
+          "high": "1,160.70",
+          "low": "1,031.70",
+          "lastPrice": "1,031.70",
+          "prevClose": "1,289.65",
+          "change": "-257.95",
+          "percentGain": "-20.00"
+        },
+        {
+          "company": "SBI",
+          "high": "798.50",
+          "low": "761.55",
+          "lastPrice": "773.05",
+          "prevClose": "803.00",
+          "change": "-29.95",
+          "percentGain": "-3.73"
+        },
+        {
+          "company": "IndusInd Bank",
+          "high": "1,003.00",
+          "low": "966.40",
+          "lastPrice": "972.00",
+          "prevClose": "1,000.20",
+          "change": "-28.20",
+          "percentGain": "-2.82"
+        },
+        {
+          "company": "NTPC",
+          "high": "364.35",
+          "low": "354.80",
+          "lastPrice": "359.55",
+          "prevClose": "366.70",
+          "change": "-7.15",
+          "percentGain": "-1.95"
         }
       ]
     }
