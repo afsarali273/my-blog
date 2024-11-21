@@ -103,6 +103,56 @@
           "percentGain": "0.56"
         }
       ]
+    },
+    {
+      "time": "4:52:19 AM",
+      "data": [
+        {
+          "company": "Power Grid Corp",
+          "high": "321.30",
+          "low": "313.00",
+          "lastPrice": "320.10",
+          "prevClose": "315.05",
+          "change": "5.05",
+          "percentGain": "1.60"
+        },
+        {
+          "company": "Hindalco",
+          "high": "649.00",
+          "low": "634.30",
+          "lastPrice": "646.10",
+          "prevClose": "640.00",
+          "change": "6.10",
+          "percentGain": "0.95"
+        },
+        {
+          "company": "Trent",
+          "high": "6,519.00",
+          "low": "6,346.20",
+          "lastPrice": "6,478.45",
+          "prevClose": "6,423.85",
+          "change": "54.60",
+          "percentGain": "0.85"
+        },
+        {
+          "company": "HCL Tech",
+          "high": "1,839.45",
+          "low": "1,821.25",
+          "lastPrice": "1,832.00",
+          "prevClose": "1,820.55",
+          "change": "11.45",
+          "percentGain": "0.63"
+        },
+        {
+          "company": "Infosys",
+          "high": "1,867.00",
+          "low": "1,831.00",
+          "lastPrice": "1,836.00",
+          "prevClose": "1,824.75",
+          "change": "11.25",
+          "percentGain": "0.62"
+        }
+      ]
     }
   ],
   "losers": [
@@ -207,6 +257,56 @@
           "prevClose": "279.00",
           "change": "-8.40",
           "percentGain": "-3.01"
+        }
+      ]
+    },
+    {
+      "time": "4:52:19 AM",
+      "data": [
+        {
+          "company": "Adani Enterpris",
+          "high": "2,539.35",
+          "low": "2,398.25",
+          "lastPrice": "2,398.25",
+          "prevClose": "2,821.50",
+          "change": "-423.25",
+          "percentGain": "-15.00"
+        },
+        {
+          "company": "Adani Ports",
+          "high": "1,160.70",
+          "low": "1,160.70",
+          "lastPrice": "1,160.70",
+          "prevClose": "1,289.65",
+          "change": "-128.95",
+          "percentGain": "-10.00"
+        },
+        {
+          "company": "SBI",
+          "high": "798.50",
+          "low": "761.55",
+          "lastPrice": "770.50",
+          "prevClose": "803.00",
+          "change": "-32.50",
+          "percentGain": "-4.05"
+        },
+        {
+          "company": "NTPC",
+          "high": "364.35",
+          "low": "354.80",
+          "lastPrice": "355.70",
+          "prevClose": "366.70",
+          "change": "-11.00",
+          "percentGain": "-3.00"
+        },
+        {
+          "company": "Bharat Elec",
+          "high": "278.45",
+          "low": "270.25",
+          "lastPrice": "272.25",
+          "prevClose": "279.00",
+          "change": "-6.75",
+          "percentGain": "-2.42"
         }
       ]
     }
