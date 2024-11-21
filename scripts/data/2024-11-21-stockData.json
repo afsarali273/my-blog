@@ -3,12 +3,112 @@
     {
       "time": "3:53:33 AM",
       "data": []
+    },
+    {
+      "time": "4:19:51 AM",
+      "data": [
+        {
+          "company": "Infosys",
+          "high": "1,867.00",
+          "low": "1,836.00",
+          "lastPrice": "1,848.25",
+          "prevClose": "1,824.75",
+          "change": "23.50",
+          "percentGain": "1.29"
+        },
+        {
+          "company": "HCL Tech",
+          "high": "1,839.45",
+          "low": "1,821.25",
+          "lastPrice": "1,831.90",
+          "prevClose": "1,820.55",
+          "change": "11.35",
+          "percentGain": "0.62"
+        },
+        {
+          "company": "TCS",
+          "high": "4,092.45",
+          "low": "4,044.90",
+          "lastPrice": "4,061.70",
+          "prevClose": "4,039.55",
+          "change": "22.15",
+          "percentGain": "0.55"
+        },
+        {
+          "company": "Apollo Hospital",
+          "high": "6,719.95",
+          "low": "6,594.15",
+          "lastPrice": "6,709.35",
+          "prevClose": "6,686.90",
+          "change": "22.45",
+          "percentGain": "0.34"
+        },
+        {
+          "company": "Hindalco",
+          "high": "649.00",
+          "low": "634.30",
+          "lastPrice": "642.05",
+          "prevClose": "640.00",
+          "change": "2.05",
+          "percentGain": "0.32"
+        }
+      ]
     }
   ],
   "losers": [
     {
       "time": "3:53:33 AM",
       "data": []
+    },
+    {
+      "time": "4:19:51 AM",
+      "data": [
+        {
+          "company": "Adani Ports",
+          "high": "1,160.70",
+          "low": "1,160.70",
+          "lastPrice": "1,160.70",
+          "prevClose": "1,289.65",
+          "change": "-128.95",
+          "percentGain": "-10.00"
+        },
+        {
+          "company": "Adani Enterpris",
+          "high": "2,539.35",
+          "low": "2,539.35",
+          "lastPrice": "2,539.35",
+          "prevClose": "2,821.50",
+          "change": "-282.15",
+          "percentGain": "-10.00"
+        },
+        {
+          "company": "SBI",
+          "high": "798.50",
+          "low": "761.55",
+          "lastPrice": "763.65",
+          "prevClose": "803.00",
+          "change": "-39.35",
+          "percentGain": "-4.90"
+        },
+        {
+          "company": "NTPC",
+          "high": "364.35",
+          "low": "354.80",
+          "lastPrice": "355.15",
+          "prevClose": "366.70",
+          "change": "-11.55",
+          "percentGain": "-3.15"
+        },
+        {
+          "company": "IndusInd Bank",
+          "high": "1,003.00",
+          "low": "974.00",
+          "lastPrice": "974.25",
+          "prevClose": "1,000.20",
+          "change": "-25.95",
+          "percentGain": "-2.59"
+        }
+      ]
     }
   ]
 }
