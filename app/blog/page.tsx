@@ -26,18 +26,19 @@ export default function BlogPage() {
     return (
         <div className="container mx-auto px-6 mt-12">
             <h1 className="text-4xl font-bold mb-8">Blog Posts</h1>
-            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-                {blogPosts.map(post => (
-                    <Card key={post.id}>
-                        <CardContent className="p-6">
-                            <h2 className="text-xl font-semibold mb-2">{post.title}</h2>
-                            <p className="text-gray-600 mb-2">{post.date}</p>
-                            <p className="text-gray-700 mb-4">{post.excerpt}</p>
-                            <a href="#" className="text-blue-600 hover:underline">Read More</a>
-                        </CardContent>
-                    </Card>
-                ))}
-            </div>
+            {/*<div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">*/}
+            {/*    {blogPosts.map(post => (*/}
+            {/*        <Card key={post.id}>*/}
+            {/*            <CardContent className="p-6">*/}
+            {/*                <h2 className="text-xl font-semibold mb-2">{post.title}</h2>*/}
+            {/*                <p className="text-gray-600 mb-2">{post.date}</p>*/}
+            {/*                <p className="text-gray-700 mb-4">{post.excerpt}</p>*/}
+            {/*                <a href="#" className="text-blue-600 hover:underline">Read More</a>*/}
+            {/*            </CardContent>*/}
+            {/*        </Card>*/}
+            {/*    ))}*/}
+            {/*</div>*/}
+            In progress...
         </div>
     )
 }
