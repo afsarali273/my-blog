@@ -357,6 +357,56 @@
           "percentGain": "1.07"
         }
       ]
+    },
+    {
+      "time": "7:15:30 AM",
+      "data": [
+        {
+          "company": "Power Grid Corp",
+          "high": "322.40",
+          "low": "313.00",
+          "lastPrice": "321.85",
+          "prevClose": "315.05",
+          "change": "6.80",
+          "percentGain": "2.16"
+        },
+        {
+          "company": "Grasim",
+          "high": "2,549.00",
+          "low": "2,480.15",
+          "lastPrice": "2,545.55",
+          "prevClose": "2,508.15",
+          "change": "37.40",
+          "percentGain": "1.49"
+        },
+        {
+          "company": "Hindalco",
+          "high": "653.90",
+          "low": "634.30",
+          "lastPrice": "648.80",
+          "prevClose": "640.00",
+          "change": "8.80",
+          "percentGain": "1.38"
+        },
+        {
+          "company": "Tata Steel",
+          "high": "141.30",
+          "low": "137.25",
+          "lastPrice": "140.83",
+          "prevClose": "139.46",
+          "change": "1.37",
+          "percentGain": "0.98"
+        },
+        {
+          "company": "Axis Bank",
+          "high": "1,152.00",
+          "low": "1,115.75",
+          "lastPrice": "1,144.60",
+          "prevClose": "1,133.95",
+          "change": "10.65",
+          "percentGain": "0.94"
+        }
+      ]
     }
   ],
   "losers": [
@@ -715,6 +765,56 @@
           "prevClose": "4,892.70",
           "change": "-117.25",
           "percentGain": "-2.40"
+        }
+      ]
+    },
+    {
+      "time": "7:15:30 AM",
+      "data": [
+        {
+          "company": "Adani Enterpris",
+          "high": "2,539.35",
+          "low": "2,172.50",
+          "lastPrice": "2,270.00",
+          "prevClose": "2,821.50",
+          "change": "-551.50",
+          "percentGain": "-19.55"
+        },
+        {
+          "company": "Adani Ports",
+          "high": "1,160.70",
+          "low": "995.65",
+          "lastPrice": "1,097.30",
+          "prevClose": "1,289.65",
+          "change": "-192.35",
+          "percentGain": "-14.91"
+        },
+        {
+          "company": "SBI Life Insura",
+          "high": "1,515.50",
+          "low": "1,478.05",
+          "lastPrice": "1,482.50",
+          "prevClose": "1,522.90",
+          "change": "-40.40",
+          "percentGain": "-2.65"
+        },
+        {
+          "company": "SBI",
+          "high": "798.50",
+          "low": "761.55",
+          "lastPrice": "781.95",
+          "prevClose": "803.00",
+          "change": "-21.05",
+          "percentGain": "-2.62"
+        },
+        {
+          "company": "Britannia",
+          "high": "4,885.00",
+          "low": "4,746.90",
+          "lastPrice": "4,770.10",
+          "prevClose": "4,892.70",
+          "change": "-122.60",
+          "percentGain": "-2.51"
         }
       ]
     }
