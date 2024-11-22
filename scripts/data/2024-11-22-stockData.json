@@ -469,6 +469,56 @@
     {
       "time": "8:43:56 AM",
       "data": []
+    },
+    {
+      "time": "8:54:35 AM",
+      "data": [
+        {
+          "company": "SBI",
+          "high": "819.95",
+          "low": "784.05",
+          "lastPrice": "819.15",
+          "prevClose": "780.75",
+          "change": "38.40",
+          "percentGain": "4.92"
+        },
+        {
+          "company": "TCS",
+          "high": "4,232.90",
+          "low": "4,054.00",
+          "lastPrice": "4,229.00",
+          "prevClose": "4,072.85",
+          "change": "156.15",
+          "percentGain": "3.83"
+        },
+        {
+          "company": "UltraTechCement",
+          "high": "11,385.00",
+          "low": "10,931.65",
+          "lastPrice": "11,374.75",
+          "prevClose": "10,954.85",
+          "change": "419.90",
+          "percentGain": "3.83"
+        },
+        {
+          "company": "JSW Steel",
+          "high": "978.55",
+          "low": "939.05",
+          "lastPrice": "978.25",
+          "prevClose": "944.15",
+          "change": "34.10",
+          "percentGain": "3.61"
+        },
+        {
+          "company": "TATA Cons. Prod",
+          "high": "945.00",
+          "low": "912.85",
+          "lastPrice": "944.50",
+          "prevClose": "911.70",
+          "change": "32.80",
+          "percentGain": "3.60"
+        }
+      ]
     }
   ],
   "losers": [
@@ -770,6 +820,56 @@
     {
       "time": "8:43:56 AM",
       "data": []
+    },
+    {
+      "time": "8:54:35 AM",
+      "data": [
+        {
+          "company": "Adani Energy",
+          "high": "695.00",
+          "low": "627.50",
+          "lastPrice": "657.40",
+          "prevClose": "697.25",
+          "change": "-39.85",
+          "percentGain": "-5.72"
+        },
+        {
+          "company": "Network 18",
+          "high": "81.67",
+          "low": "79.31",
+          "lastPrice": "80.15",
+          "prevClose": "84.30",
+          "change": "-4.15",
+          "percentGain": "-4.92"
+        },
+        {
+          "company": "Honasa Consumer",
+          "high": "241.95",
+          "low": "224.10",
+          "lastPrice": "226.05",
+          "prevClose": "237.70",
+          "change": "-11.65",
+          "percentGain": "-4.90"
+        },
+        {
+          "company": "Torrent Power",
+          "high": "1,575.40",
+          "low": "1,486.55",
+          "lastPrice": "1,505.25",
+          "prevClose": "1,582.35",
+          "change": "-77.10",
+          "percentGain": "-4.87"
+        },
+        {
+          "company": "Adani Green Ene",
+          "high": "1,219.00",
+          "low": "1,021.00",
+          "lastPrice": "1,089.95",
+          "prevClose": "1,145.70",
+          "change": "-55.75",
+          "percentGain": "-4.87"
+        }
+      ]
     }
   ]
 }
