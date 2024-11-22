@@ -365,6 +365,56 @@
           "percentGain": "3.16"
         }
       ]
+    },
+    {
+      "time": "7:50:03 AM",
+      "data": [
+        {
+          "company": "SBI",
+          "high": "811.50",
+          "low": "784.05",
+          "lastPrice": "811.30",
+          "prevClose": "780.75",
+          "change": "30.55",
+          "percentGain": "3.91"
+        },
+        {
+          "company": "TATA Cons. Prod",
+          "high": "943.95",
+          "low": "912.85",
+          "lastPrice": "940.70",
+          "prevClose": "911.70",
+          "change": "29.00",
+          "percentGain": "3.18"
+        },
+        {
+          "company": "Trent",
+          "high": "6,678.00",
+          "low": "6,430.00",
+          "lastPrice": "6,659.90",
+          "prevClose": "6,460.45",
+          "change": "199.45",
+          "percentGain": "3.09"
+        },
+        {
+          "company": "UltraTechCement",
+          "high": "11,259.90",
+          "low": "10,931.65",
+          "lastPrice": "11,253.85",
+          "prevClose": "10,954.85",
+          "change": "299.00",
+          "percentGain": "2.73"
+        },
+        {
+          "company": "JSW Steel",
+          "high": "970.00",
+          "low": "939.05",
+          "lastPrice": "968.75",
+          "prevClose": "944.15",
+          "change": "24.60",
+          "percentGain": "2.61"
+        }
+      ]
     }
   ],
   "losers": [
@@ -623,6 +673,20 @@
           "prevClose": "1,139.15",
           "change": "-2.50",
           "percentGain": "-0.22"
+        }
+      ]
+    },
+    {
+      "time": "7:50:03 AM",
+      "data": [
+        {
+          "company": "Axis Bank",
+          "high": "1,146.00",
+          "low": "1,127.55",
+          "lastPrice": "1,136.80",
+          "prevClose": "1,139.15",
+          "change": "-2.35",
+          "percentGain": "-0.21"
         }
       ]
     }
