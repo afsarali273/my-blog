@@ -265,6 +265,56 @@
     {
       "time": "6:45:44 AM",
       "data": []
+    },
+    {
+      "time": "7:15:35 AM",
+      "data": [
+        {
+          "company": "Adani Enterpris",
+          "high": "2,289.70",
+          "low": "2,025.00",
+          "lastPrice": "2,270.85",
+          "prevClose": "2,183.65",
+          "change": "87.20",
+          "percentGain": "3.99"
+        },
+        {
+          "company": "SBI",
+          "high": "811.00",
+          "low": "784.05",
+          "lastPrice": "809.30",
+          "prevClose": "780.75",
+          "change": "28.55",
+          "percentGain": "3.66"
+        },
+        {
+          "company": "TATA Cons. Prod",
+          "high": "943.40",
+          "low": "912.85",
+          "lastPrice": "943.35",
+          "prevClose": "911.70",
+          "change": "31.65",
+          "percentGain": "3.47"
+        },
+        {
+          "company": "Adani Ports",
+          "high": "1,149.00",
+          "low": "1,054.00",
+          "lastPrice": "1,146.30",
+          "prevClose": "1,114.65",
+          "change": "31.65",
+          "percentGain": "2.84"
+        },
+        {
+          "company": "Trent",
+          "high": "6,638.00",
+          "low": "6,430.00",
+          "lastPrice": "6,632.95",
+          "prevClose": "6,460.45",
+          "change": "172.50",
+          "percentGain": "2.67"
+        }
+      ]
     }
   ],
   "losers": [
@@ -497,6 +547,20 @@
     {
       "time": "6:45:44 AM",
       "data": []
+    },
+    {
+      "time": "7:15:35 AM",
+      "data": [
+        {
+          "company": "Axis Bank",
+          "high": "1,146.00",
+          "low": "1,127.55",
+          "lastPrice": "1,136.65",
+          "prevClose": "1,139.15",
+          "change": "-2.50",
+          "percentGain": "-0.22"
+        }
+      ]
     }
   ]
 }
