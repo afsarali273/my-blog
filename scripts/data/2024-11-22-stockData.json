@@ -519,6 +519,56 @@
           "percentGain": "3.60"
         }
       ]
+    },
+    {
+      "time": "9:17:31 AM",
+      "data": [
+        {
+          "company": "SBI",
+          "high": "819.95",
+          "low": "784.05",
+          "lastPrice": "814.50",
+          "prevClose": "780.75",
+          "change": "33.75",
+          "percentGain": "4.32"
+        },
+        {
+          "company": "Titan Company",
+          "high": "3,298.50",
+          "low": "3,152.15",
+          "lastPrice": "3,294.90",
+          "prevClose": "3,178.45",
+          "change": "116.45",
+          "percentGain": "3.66"
+        },
+        {
+          "company": "TATA Cons. Prod",
+          "high": "946.05",
+          "low": "912.85",
+          "lastPrice": "944.90",
+          "prevClose": "911.70",
+          "change": "33.20",
+          "percentGain": "3.64"
+        },
+        {
+          "company": "TCS",
+          "high": "4,232.90",
+          "low": "4,054.00",
+          "lastPrice": "4,216.75",
+          "prevClose": "4,072.85",
+          "change": "143.90",
+          "percentGain": "3.53"
+        },
+        {
+          "company": "Infosys",
+          "high": "1,899.55",
+          "low": "1,834.00",
+          "lastPrice": "1,897.20",
+          "prevClose": "1,834.05",
+          "change": "63.15",
+          "percentGain": "3.44"
+        }
+      ]
     }
   ],
   "losers": [
@@ -868,6 +918,20 @@
           "prevClose": "1,145.70",
           "change": "-55.75",
           "percentGain": "-4.87"
+        }
+      ]
+    },
+    {
+      "time": "9:17:31 AM",
+      "data": [
+        {
+          "company": "Adani Enterpris",
+          "high": "2,289.70",
+          "low": "2,025.00",
+          "lastPrice": "2,166.95",
+          "prevClose": "2,183.65",
+          "change": "-16.70",
+          "percentGain": "-0.76"
         }
       ]
     }
