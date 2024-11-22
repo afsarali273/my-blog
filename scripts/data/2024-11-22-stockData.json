@@ -211,6 +211,56 @@
           "percentGain": "2.02"
         }
       ]
+    },
+    {
+      "time": "6:22:31 AM",
+      "data": [
+        {
+          "company": "SBI",
+          "high": "806.90",
+          "low": "784.05",
+          "lastPrice": "805.85",
+          "prevClose": "780.75",
+          "change": "25.10",
+          "percentGain": "3.21"
+        },
+        {
+          "company": "Adani Enterpris",
+          "high": "2,276.00",
+          "low": "2,025.00",
+          "lastPrice": "2,252.15",
+          "prevClose": "2,183.65",
+          "change": "68.50",
+          "percentGain": "3.14"
+        },
+        {
+          "company": "TATA Cons. Prod",
+          "high": "935.30",
+          "low": "912.85",
+          "lastPrice": "933.90",
+          "prevClose": "911.70",
+          "change": "22.20",
+          "percentGain": "2.44"
+        },
+        {
+          "company": "Grasim",
+          "high": "2,594.90",
+          "low": "2,534.85",
+          "lastPrice": "2,592.80",
+          "prevClose": "2,534.85",
+          "change": "57.95",
+          "percentGain": "2.29"
+        },
+        {
+          "company": "UltraTechCement",
+          "high": "11,234.00",
+          "low": "10,931.65",
+          "lastPrice": "11,194.95",
+          "prevClose": "10,954.85",
+          "change": "240.10",
+          "percentGain": "2.19"
+        }
+      ]
     }
   ],
   "losers": [
@@ -387,6 +437,56 @@
           "prevClose": "282.40",
           "change": "-0.30",
           "percentGain": "-0.11"
+        }
+      ]
+    },
+    {
+      "time": "6:22:31 AM",
+      "data": [
+        {
+          "company": "Axis Bank",
+          "high": "1,146.00",
+          "low": "1,127.55",
+          "lastPrice": "1,135.15",
+          "prevClose": "1,139.15",
+          "change": "-4.00",
+          "percentGain": "-0.35"
+        },
+        {
+          "company": "Sun Pharma",
+          "high": "1,787.55",
+          "low": "1,768.05",
+          "lastPrice": "1,774.00",
+          "prevClose": "1,780.00",
+          "change": "-6.00",
+          "percentGain": "-0.34"
+        },
+        {
+          "company": "HDFC Bank",
+          "high": "1,754.30",
+          "low": "1,729.55",
+          "lastPrice": "1,736.05",
+          "prevClose": "1,741.20",
+          "change": "-5.15",
+          "percentGain": "-0.30"
+        },
+        {
+          "company": "M&M",
+          "high": "2,964.40",
+          "low": "2,896.70",
+          "lastPrice": "2,927.90",
+          "prevClose": "2,936.25",
+          "change": "-8.35",
+          "percentGain": "-0.28"
+        },
+        {
+          "company": "Hero Motocorp",
+          "high": "4,792.80",
+          "low": "4,742.00",
+          "lastPrice": "4,757.40",
+          "prevClose": "4,767.85",
+          "change": "-10.45",
+          "percentGain": "-0.22"
         }
       ]
     }
