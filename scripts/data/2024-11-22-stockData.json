@@ -569,6 +569,56 @@
           "percentGain": "3.44"
         }
       ]
+    },
+    {
+      "time": "9:39:10 AM",
+      "data": [
+        {
+          "company": "SBI",
+          "high": "819.95",
+          "low": "784.05",
+          "lastPrice": "815.40",
+          "prevClose": "780.75",
+          "change": "34.65",
+          "percentGain": "4.44"
+        },
+        {
+          "company": "TCS",
+          "high": "4,254.95",
+          "low": "4,054.00",
+          "lastPrice": "4,251.20",
+          "prevClose": "4,072.85",
+          "change": "178.35",
+          "percentGain": "4.38"
+        },
+        {
+          "company": "ITC",
+          "high": "476.00",
+          "low": "455.50",
+          "lastPrice": "475.55",
+          "prevClose": "457.15",
+          "change": "18.40",
+          "percentGain": "4.02"
+        },
+        {
+          "company": "UltraTechCement",
+          "high": "11,409.90",
+          "low": "10,931.65",
+          "lastPrice": "11,391.60",
+          "prevClose": "10,954.85",
+          "change": "436.75",
+          "percentGain": "3.99"
+        },
+        {
+          "company": "Titan Company",
+          "high": "3,316.70",
+          "low": "3,152.15",
+          "lastPrice": "3,304.40",
+          "prevClose": "3,178.45",
+          "change": "125.95",
+          "percentGain": "3.96"
+        }
+      ]
     }
   ],
   "losers": [
@@ -932,6 +982,56 @@
           "prevClose": "2,183.65",
           "change": "-16.70",
           "percentGain": "-0.76"
+        }
+      ]
+    },
+    {
+      "time": "9:39:10 AM",
+      "data": [
+        {
+          "company": "Adani Green Ene",
+          "high": "1,219.00",
+          "low": "1,021.00",
+          "lastPrice": "1,047.85",
+          "prevClose": "1,145.70",
+          "change": "-97.85",
+          "percentGain": "-8.54"
+        },
+        {
+          "company": "Adani Energy",
+          "high": "695.00",
+          "low": "627.50",
+          "lastPrice": "648.90",
+          "prevClose": "697.25",
+          "change": "-48.35",
+          "percentGain": "-6.93"
+        },
+        {
+          "company": "Honasa Consumer",
+          "high": "241.95",
+          "low": "224.10",
+          "lastPrice": "224.95",
+          "prevClose": "237.70",
+          "change": "-12.75",
+          "percentGain": "-5.36"
+        },
+        {
+          "company": "Network 18",
+          "high": "81.67",
+          "low": "79.31",
+          "lastPrice": "80.00",
+          "prevClose": "84.30",
+          "change": "-4.30",
+          "percentGain": "-5.10"
+        },
+        {
+          "company": "Ratnamani Metal",
+          "high": "3,580.15",
+          "low": "3,451.00",
+          "lastPrice": "3,463.80",
+          "prevClose": "3,638.60",
+          "change": "-174.80",
+          "percentGain": "-4.80"
         }
       ]
     }
