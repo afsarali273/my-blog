@@ -415,6 +415,56 @@
           "percentGain": "2.61"
         }
       ]
+    },
+    {
+      "time": "8:20:53 AM",
+      "data": [
+        {
+          "company": "SBI",
+          "high": "818.45",
+          "low": "784.05",
+          "lastPrice": "817.25",
+          "prevClose": "780.75",
+          "change": "36.50",
+          "percentGain": "4.67"
+        },
+        {
+          "company": "Adani Enterpris",
+          "high": "2,289.70",
+          "low": "2,025.00",
+          "lastPrice": "2,260.20",
+          "prevClose": "2,183.65",
+          "change": "76.55",
+          "percentGain": "3.51"
+        },
+        {
+          "company": "TATA Cons. Prod",
+          "high": "943.95",
+          "low": "912.85",
+          "lastPrice": "941.10",
+          "prevClose": "911.70",
+          "change": "29.40",
+          "percentGain": "3.22"
+        },
+        {
+          "company": "UltraTechCement",
+          "high": "11,259.90",
+          "low": "10,931.65",
+          "lastPrice": "11,258.30",
+          "prevClose": "10,954.85",
+          "change": "303.45",
+          "percentGain": "2.77"
+        },
+        {
+          "company": "JSW Steel",
+          "high": "971.00",
+          "low": "939.05",
+          "lastPrice": "969.80",
+          "prevClose": "944.15",
+          "change": "25.65",
+          "percentGain": "2.72"
+        }
+      ]
     }
   ],
   "losers": [
@@ -687,6 +737,29 @@
           "prevClose": "1,139.15",
           "change": "-2.35",
           "percentGain": "-0.21"
+        }
+      ]
+    },
+    {
+      "time": "8:20:53 AM",
+      "data": [
+        {
+          "company": "HDFC Bank",
+          "high": "1,754.30",
+          "low": "1,729.55",
+          "lastPrice": "1,738.70",
+          "prevClose": "1,741.20",
+          "change": "-2.50",
+          "percentGain": "-0.14"
+        },
+        {
+          "company": "Axis Bank",
+          "high": "1,146.00",
+          "low": "1,127.55",
+          "lastPrice": "1,137.65",
+          "prevClose": "1,139.15",
+          "change": "-1.50",
+          "percentGain": "-0.13"
         }
       ]
     }
