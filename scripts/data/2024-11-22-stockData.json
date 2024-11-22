@@ -111,6 +111,56 @@
     {
       "time": "5:15:32 AM",
       "data": []
+    },
+    {
+      "time": "5:39:54 AM",
+      "data": [
+        {
+          "company": "SBI",
+          "high": "803.85",
+          "low": "784.05",
+          "lastPrice": "802.10",
+          "prevClose": "780.75",
+          "change": "21.35",
+          "percentGain": "2.73"
+        },
+        {
+          "company": "TATA Cons. Prod",
+          "high": "934.45",
+          "low": "912.85",
+          "lastPrice": "932.50",
+          "prevClose": "911.70",
+          "change": "20.80",
+          "percentGain": "2.28"
+        },
+        {
+          "company": "Grasim",
+          "high": "2,590.35",
+          "low": "2,534.85",
+          "lastPrice": "2,590.00",
+          "prevClose": "2,534.85",
+          "change": "55.15",
+          "percentGain": "2.18"
+        },
+        {
+          "company": "UltraTechCement",
+          "high": "11,198.00",
+          "low": "10,931.65",
+          "lastPrice": "11,189.95",
+          "prevClose": "10,954.85",
+          "change": "235.10",
+          "percentGain": "2.15"
+        },
+        {
+          "company": "HCL Tech",
+          "high": "1,878.70",
+          "low": "1,836.50",
+          "lastPrice": "1,874.40",
+          "prevClose": "1,836.35",
+          "change": "38.05",
+          "percentGain": "2.07"
+        }
+      ]
     }
   ],
   "losers": [
@@ -189,6 +239,56 @@
     {
       "time": "5:15:32 AM",
       "data": []
+    },
+    {
+      "time": "5:39:54 AM",
+      "data": [
+        {
+          "company": "Axis Bank",
+          "high": "1,146.00",
+          "low": "1,127.55",
+          "lastPrice": "1,131.50",
+          "prevClose": "1,139.15",
+          "change": "-7.65",
+          "percentGain": "-0.67"
+        },
+        {
+          "company": "Sun Pharma",
+          "high": "1,787.55",
+          "low": "1,768.05",
+          "lastPrice": "1,774.05",
+          "prevClose": "1,780.00",
+          "change": "-5.95",
+          "percentGain": "-0.33"
+        },
+        {
+          "company": "M&M",
+          "high": "2,964.40",
+          "low": "2,896.70",
+          "lastPrice": "2,927.10",
+          "prevClose": "2,936.25",
+          "change": "-9.15",
+          "percentGain": "-0.31"
+        },
+        {
+          "company": "HDFC Bank",
+          "high": "1,754.30",
+          "low": "1,729.55",
+          "lastPrice": "1,736.70",
+          "prevClose": "1,741.20",
+          "change": "-4.50",
+          "percentGain": "-0.26"
+        },
+        {
+          "company": "BPCL",
+          "high": "285.60",
+          "low": "281.05",
+          "lastPrice": "282.00",
+          "prevClose": "282.40",
+          "change": "-0.40",
+          "percentGain": "-0.14"
+        }
+      ]
     }
   ]
 }
