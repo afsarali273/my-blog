@@ -619,6 +619,56 @@
           "percentGain": "3.96"
         }
       ]
+    },
+    {
+      "time": "9:49:58 AM",
+      "data": [
+        {
+          "company": "SBI",
+          "high": "819.95",
+          "low": "784.05",
+          "lastPrice": "817.65",
+          "prevClose": "780.75",
+          "change": "36.90",
+          "percentGain": "4.73"
+        },
+        {
+          "company": "Titan Company",
+          "high": "3,316.70",
+          "low": "3,152.15",
+          "lastPrice": "3,314.05",
+          "prevClose": "3,178.45",
+          "change": "135.60",
+          "percentGain": "4.27"
+        },
+        {
+          "company": "TCS",
+          "high": "4,254.95",
+          "low": "4,054.00",
+          "lastPrice": "4,246.10",
+          "prevClose": "4,072.85",
+          "change": "173.25",
+          "percentGain": "4.25"
+        },
+        {
+          "company": "UltraTechCement",
+          "high": "11,409.90",
+          "low": "10,931.65",
+          "lastPrice": "11,371.15",
+          "prevClose": "10,954.85",
+          "change": "416.30",
+          "percentGain": "3.80"
+        },
+        {
+          "company": "Infosys",
+          "high": "1,914.05",
+          "low": "1,834.00",
+          "lastPrice": "1,900.10",
+          "prevClose": "1,834.05",
+          "change": "66.05",
+          "percentGain": "3.60"
+        }
+      ]
     }
   ],
   "losers": [
@@ -1032,6 +1082,20 @@
           "prevClose": "3,638.60",
           "change": "-174.80",
           "percentGain": "-4.80"
+        }
+      ]
+    },
+    {
+      "time": "9:49:58 AM",
+      "data": [
+        {
+          "company": "Bajaj Auto",
+          "high": "9,602.90",
+          "low": "9,444.10",
+          "lastPrice": "9,462.40",
+          "prevClose": "9,505.00",
+          "change": "-42.60",
+          "percentGain": "-0.45"
         }
       ]
     }
