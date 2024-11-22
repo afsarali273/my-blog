@@ -1,0 +1,88 @@
+{
+  "gainers": [
+    {
+      "time": "3:53:57 AM",
+      "data": [
+        {
+          "company": "HDFC Life",
+          "high": "686.65",
+          "low": "674.15",
+          "lastPrice": "686.50",
+          "prevClose": "674.40",
+          "change": "12.10",
+          "percentGain": "1.79"
+        },
+        {
+          "company": "SBI",
+          "high": "793.20",
+          "low": "784.05",
+          "lastPrice": "792.65",
+          "prevClose": "780.75",
+          "change": "11.90",
+          "percentGain": "1.52"
+        },
+        {
+          "company": "ONGC",
+          "high": "245.85",
+          "low": "243.50",
+          "lastPrice": "245.55",
+          "prevClose": "242.15",
+          "change": "3.40",
+          "percentGain": "1.40"
+        },
+        {
+          "company": "Apollo Hospital",
+          "high": "6,833.60",
+          "low": "6,751.60",
+          "lastPrice": "6,830.00",
+          "prevClose": "6,742.50",
+          "change": "87.50",
+          "percentGain": "1.30"
+        },
+        {
+          "company": "Grasim",
+          "high": "2,568.00",
+          "low": "2,534.85",
+          "lastPrice": "2,566.65",
+          "prevClose": "2,534.85",
+          "change": "31.80",
+          "percentGain": "1.25"
+        }
+      ]
+    }
+  ],
+  "losers": [
+    {
+      "time": "3:53:57 AM",
+      "data": [
+        {
+          "company": "Adani Ports",
+          "high": "1,095.85",
+          "low": "1,054.00",
+          "lastPrice": "1,093.00",
+          "prevClose": "1,114.65",
+          "change": "-21.65",
+          "percentGain": "-1.94"
+        },
+        {
+          "company": "Adani Enterpris",
+          "high": "2,147.00",
+          "low": "2,025.00",
+          "lastPrice": "2,145.95",
+          "prevClose": "2,183.65",
+          "change": "-37.70",
+          "percentGain": "-1.73"
+        },
+        {
+          "company": "Axis Bank",
+          "high": "1,146.00",
+          "low": "1,135.25",
+          "lastPrice": "1,137.05",
+          "prevClose": "1,139.15",
+          "change": "-2.10",
+          "percentGain": "-0.18"
+        }
+      ]
+    }
+  ]
+}
