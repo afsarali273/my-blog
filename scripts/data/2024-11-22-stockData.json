@@ -53,6 +53,56 @@
     {
       "time": "4:19:39 AM",
       "data": []
+    },
+    {
+      "time": "4:42:46 AM",
+      "data": [
+        {
+          "company": "Apollo Hospital",
+          "high": "6,924.70",
+          "low": "6,751.60",
+          "lastPrice": "6,900.95",
+          "prevClose": "6,742.50",
+          "change": "158.45",
+          "percentGain": "2.35"
+        },
+        {
+          "company": "ICICI Bank",
+          "high": "1,279.00",
+          "low": "1,256.00",
+          "lastPrice": "1,278.20",
+          "prevClose": "1,250.55",
+          "change": "27.65",
+          "percentGain": "2.21"
+        },
+        {
+          "company": "SBI",
+          "high": "797.95",
+          "low": "784.05",
+          "lastPrice": "797.50",
+          "prevClose": "780.75",
+          "change": "16.75",
+          "percentGain": "2.15"
+        },
+        {
+          "company": "TATA Cons. Prod",
+          "high": "930.40",
+          "low": "912.85",
+          "lastPrice": "929.70",
+          "prevClose": "911.70",
+          "change": "18.00",
+          "percentGain": "1.97"
+        },
+        {
+          "company": "HCL Tech",
+          "high": "1,872.90",
+          "low": "1,836.50",
+          "lastPrice": "1,871.70",
+          "prevClose": "1,836.35",
+          "change": "35.35",
+          "percentGain": "1.93"
+        }
+      ]
     }
   ],
   "losers": [
@@ -91,6 +141,38 @@
     {
       "time": "4:19:39 AM",
       "data": []
+    },
+    {
+      "time": "4:42:46 AM",
+      "data": [
+        {
+          "company": "Adani Enterpris",
+          "high": "2,176.45",
+          "low": "2,025.00",
+          "lastPrice": "2,097.20",
+          "prevClose": "2,183.65",
+          "change": "-86.45",
+          "percentGain": "-3.96"
+        },
+        {
+          "company": "Adani Ports",
+          "high": "1,113.00",
+          "low": "1,054.00",
+          "lastPrice": "1,076.75",
+          "prevClose": "1,114.65",
+          "change": "-37.90",
+          "percentGain": "-3.40"
+        },
+        {
+          "company": "Axis Bank",
+          "high": "1,146.00",
+          "low": "1,130.80",
+          "lastPrice": "1,135.45",
+          "prevClose": "1,139.15",
+          "change": "-3.70",
+          "percentGain": "-0.32"
+        }
+      ]
     }
   ]
 }
