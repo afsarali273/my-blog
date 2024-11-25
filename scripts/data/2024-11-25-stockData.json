@@ -49,6 +49,56 @@
           "percentGain": "2.78"
         }
       ]
+    },
+    {
+      "time": "4:19:39 AM",
+      "data": [
+        {
+          "company": "BPCL",
+          "high": "303.00",
+          "low": "292.00",
+          "lastPrice": "302.20",
+          "prevClose": "285.85",
+          "change": "16.35",
+          "percentGain": "5.72"
+        },
+        {
+          "company": "Bharat Elec",
+          "high": "296.00",
+          "low": "287.95",
+          "lastPrice": "294.45",
+          "prevClose": "280.85",
+          "change": "13.60",
+          "percentGain": "4.84"
+        },
+        {
+          "company": "Shriram Finance",
+          "high": "3,015.00",
+          "low": "2,926.95",
+          "lastPrice": "2,985.05",
+          "prevClose": "2,850.05",
+          "change": "135.00",
+          "percentGain": "4.74"
+        },
+        {
+          "company": "ONGC",
+          "high": "256.35",
+          "low": "247.95",
+          "lastPrice": "255.90",
+          "prevClose": "245.60",
+          "change": "10.30",
+          "percentGain": "4.19"
+        },
+        {
+          "company": "Larsen",
+          "high": "3,745.10",
+          "low": "3,654.00",
+          "lastPrice": "3,728.35",
+          "prevClose": "3,603.50",
+          "change": "124.85",
+          "percentGain": "3.46"
+        }
+      ]
     }
   ],
   "losers": [
@@ -81,6 +131,38 @@
           "prevClose": "1,214.45",
           "change": "-1.00",
           "percentGain": "-0.08"
+        }
+      ]
+    },
+    {
+      "time": "4:19:39 AM",
+      "data": [
+        {
+          "company": "JSW Steel",
+          "high": "980.45",
+          "low": "957.35",
+          "lastPrice": "965.75",
+          "prevClose": "977.35",
+          "change": "-11.60",
+          "percentGain": "-1.19"
+        },
+        {
+          "company": "Infosys",
+          "high": "1,919.30",
+          "low": "1,885.00",
+          "lastPrice": "1,892.00",
+          "prevClose": "1,902.25",
+          "change": "-10.25",
+          "percentGain": "-0.54"
+        },
+        {
+          "company": "HCL Tech",
+          "high": "1,919.95",
+          "low": "1,891.05",
+          "lastPrice": "1,895.50",
+          "prevClose": "1,898.40",
+          "change": "-2.90",
+          "percentGain": "-0.15"
         }
       ]
     }
