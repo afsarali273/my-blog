@@ -361,6 +361,56 @@
           "percentGain": "3.91"
         }
       ]
+    },
+    {
+      "time": "7:37:31 AM",
+      "data": [
+        {
+          "company": "ONGC",
+          "high": "260.20",
+          "low": "247.95",
+          "lastPrice": "257.40",
+          "prevClose": "245.60",
+          "change": "11.80",
+          "percentGain": "4.80"
+        },
+        {
+          "company": "Bharat Elec",
+          "high": "299.00",
+          "low": "287.95",
+          "lastPrice": "293.80",
+          "prevClose": "280.85",
+          "change": "12.95",
+          "percentGain": "4.61"
+        },
+        {
+          "company": "Adani Enterpris",
+          "high": "2,333.65",
+          "low": "2,263.15",
+          "lastPrice": "2,317.70",
+          "prevClose": "2,228.00",
+          "change": "89.70",
+          "percentGain": "4.03"
+        },
+        {
+          "company": "Larsen",
+          "high": "3,759.00",
+          "low": "3,654.00",
+          "lastPrice": "3,741.05",
+          "prevClose": "3,603.50",
+          "change": "137.55",
+          "percentGain": "3.82"
+        },
+        {
+          "company": "Shriram Finance",
+          "high": "3,015.00",
+          "low": "2,926.95",
+          "lastPrice": "2,948.10",
+          "prevClose": "2,850.05",
+          "change": "98.05",
+          "percentGain": "3.44"
+        }
+      ]
     }
   ],
   "losers": [
@@ -579,6 +629,56 @@
           "prevClose": "1,898.40",
           "change": "-0.45",
           "percentGain": "-0.02"
+        }
+      ]
+    },
+    {
+      "time": "7:37:31 AM",
+      "data": [
+        {
+          "company": "JSW Steel",
+          "high": "980.45",
+          "low": "945.65",
+          "lastPrice": "946.40",
+          "prevClose": "977.35",
+          "change": "-30.95",
+          "percentGain": "-3.17"
+        },
+        {
+          "company": "HCL Tech",
+          "high": "1,919.95",
+          "low": "1,878.50",
+          "lastPrice": "1,878.50",
+          "prevClose": "1,898.40",
+          "change": "-19.90",
+          "percentGain": "-1.05"
+        },
+        {
+          "company": "Infosys",
+          "high": "1,919.30",
+          "low": "1,882.50",
+          "lastPrice": "1,884.40",
+          "prevClose": "1,902.25",
+          "change": "-17.85",
+          "percentGain": "-0.94"
+        },
+        {
+          "company": "Tech Mahindra",
+          "high": "1,767.80",
+          "low": "1,733.25",
+          "lastPrice": "1,734.70",
+          "prevClose": "1,747.45",
+          "change": "-12.75",
+          "percentGain": "-0.73"
+        },
+        {
+          "company": "HDFC Life",
+          "high": "695.80",
+          "low": "684.15",
+          "lastPrice": "684.60",
+          "prevClose": "688.20",
+          "change": "-3.60",
+          "percentGain": "-0.52"
         }
       ]
     }
