@@ -261,6 +261,56 @@
           "percentGain": "3.85"
         }
       ]
+    },
+    {
+      "time": "6:46:57 AM",
+      "data": [
+        {
+          "company": "Bharat Elec",
+          "high": "299.00",
+          "low": "287.95",
+          "lastPrice": "297.00",
+          "prevClose": "280.85",
+          "change": "16.15",
+          "percentGain": "5.75"
+        },
+        {
+          "company": "ONGC",
+          "high": "260.20",
+          "low": "247.95",
+          "lastPrice": "258.35",
+          "prevClose": "245.60",
+          "change": "12.75",
+          "percentGain": "5.19"
+        },
+        {
+          "company": "Shriram Finance",
+          "high": "3,015.00",
+          "low": "2,926.95",
+          "lastPrice": "2,989.45",
+          "prevClose": "2,850.05",
+          "change": "139.40",
+          "percentGain": "4.89"
+        },
+        {
+          "company": "Larsen",
+          "high": "3,759.00",
+          "low": "3,654.00",
+          "lastPrice": "3,749.90",
+          "prevClose": "3,603.50",
+          "change": "146.40",
+          "percentGain": "4.06"
+        },
+        {
+          "company": "BPCL",
+          "high": "304.40",
+          "low": "292.00",
+          "lastPrice": "297.15",
+          "prevClose": "285.85",
+          "change": "11.30",
+          "percentGain": "3.95"
+        }
+      ]
     }
   ],
   "losers": [
@@ -424,6 +474,29 @@
           "prevClose": "1,898.40",
           "change": "-4.55",
           "percentGain": "-0.24"
+        }
+      ]
+    },
+    {
+      "time": "6:46:57 AM",
+      "data": [
+        {
+          "company": "JSW Steel",
+          "high": "980.45",
+          "low": "953.00",
+          "lastPrice": "955.35",
+          "prevClose": "977.35",
+          "change": "-22.00",
+          "percentGain": "-2.25"
+        },
+        {
+          "company": "Infosys",
+          "high": "1,919.30",
+          "low": "1,883.60",
+          "lastPrice": "1,896.70",
+          "prevClose": "1,902.25",
+          "change": "-5.55",
+          "percentGain": "-0.29"
         }
       ]
     }
