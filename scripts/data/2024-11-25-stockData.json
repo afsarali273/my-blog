@@ -527,6 +527,56 @@
     {
       "time": "9:49:50 AM",
       "data": []
+    },
+    {
+      "time": "10:15:30 AM",
+      "data": [
+        {
+          "company": "ONGC",
+          "high": "260.50",
+          "low": "247.95",
+          "lastPrice": "257.90",
+          "prevClose": "245.60",
+          "change": "12.30",
+          "percentGain": "5.01"
+        },
+        {
+          "company": "Larsen",
+          "high": "3,761.00",
+          "low": "3,654.00",
+          "lastPrice": "3,753.00",
+          "prevClose": "3,603.50",
+          "change": "149.50",
+          "percentGain": "4.15"
+        },
+        {
+          "company": "Bharat Elec",
+          "high": "299.00",
+          "low": "287.95",
+          "lastPrice": "292.35",
+          "prevClose": "280.85",
+          "change": "11.50",
+          "percentGain": "4.09"
+        },
+        {
+          "company": "BPCL",
+          "high": "304.40",
+          "low": "292.00",
+          "lastPrice": "296.55",
+          "prevClose": "285.85",
+          "change": "10.70",
+          "percentGain": "3.74"
+        },
+        {
+          "company": "SBI",
+          "high": "849.60",
+          "low": "825.65",
+          "lastPrice": "844.45",
+          "prevClose": "816.05",
+          "change": "28.40",
+          "percentGain": "3.48"
+        }
+      ]
     }
   ],
   "losers": [
@@ -913,6 +963,56 @@
     {
       "time": "9:49:50 AM",
       "data": []
+    },
+    {
+      "time": "10:15:30 AM",
+      "data": [
+        {
+          "company": "JSW Steel",
+          "high": "980.45",
+          "low": "945.65",
+          "lastPrice": "953.30",
+          "prevClose": "977.35",
+          "change": "-24.05",
+          "percentGain": "-2.46"
+        },
+        {
+          "company": "Tech Mahindra",
+          "high": "1,767.80",
+          "low": "1,727.85",
+          "lastPrice": "1,732.60",
+          "prevClose": "1,747.45",
+          "change": "-14.85",
+          "percentGain": "-0.85"
+        },
+        {
+          "company": "Infosys",
+          "high": "1,919.30",
+          "low": "1,882.00",
+          "lastPrice": "1,889.70",
+          "prevClose": "1,902.25",
+          "change": "-12.55",
+          "percentGain": "-0.66"
+        },
+        {
+          "company": "Bajaj Auto",
+          "high": "9,636.35",
+          "low": "9,392.00",
+          "lastPrice": "9,420.95",
+          "prevClose": "9,481.65",
+          "change": "-60.70",
+          "percentGain": "-0.64"
+        },
+        {
+          "company": "Asian Paints",
+          "high": "2,507.95",
+          "low": "2,450.05",
+          "lastPrice": "2,459.70",
+          "prevClose": "2,472.20",
+          "change": "-12.50",
+          "percentGain": "-0.51"
+        }
+      ]
     }
   ]
 }
