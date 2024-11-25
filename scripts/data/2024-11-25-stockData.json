@@ -1,0 +1,88 @@
+{
+  "gainers": [
+    {
+      "time": "3:55:25 AM",
+      "data": [
+        {
+          "company": "Shriram Finance",
+          "high": "3,006.95",
+          "low": "2,926.95",
+          "lastPrice": "2,987.45",
+          "prevClose": "2,850.05",
+          "change": "137.40",
+          "percentGain": "4.82"
+        },
+        {
+          "company": "Bharat Elec",
+          "high": "292.65",
+          "low": "287.95",
+          "lastPrice": "290.95",
+          "prevClose": "280.85",
+          "change": "10.10",
+          "percentGain": "3.60"
+        },
+        {
+          "company": "BPCL",
+          "high": "296.80",
+          "low": "292.00",
+          "lastPrice": "295.45",
+          "prevClose": "285.85",
+          "change": "9.60",
+          "percentGain": "3.36"
+        },
+        {
+          "company": "ONGC",
+          "high": "253.95",
+          "low": "247.95",
+          "lastPrice": "253.60",
+          "prevClose": "245.60",
+          "change": "8.00",
+          "percentGain": "3.26"
+        },
+        {
+          "company": "Larsen",
+          "high": "3,745.10",
+          "low": "3,654.00",
+          "lastPrice": "3,703.75",
+          "prevClose": "3,603.50",
+          "change": "100.25",
+          "percentGain": "2.78"
+        }
+      ]
+    }
+  ],
+  "losers": [
+    {
+      "time": "3:55:25 AM",
+      "data": [
+        {
+          "company": "JSW Steel",
+          "high": "980.45",
+          "low": "960.75",
+          "lastPrice": "961.25",
+          "prevClose": "977.35",
+          "change": "-16.10",
+          "percentGain": "-1.65"
+        },
+        {
+          "company": "Infosys",
+          "high": "1,919.30",
+          "low": "1,891.10",
+          "lastPrice": "1,893.15",
+          "prevClose": "1,902.25",
+          "change": "-9.10",
+          "percentGain": "-0.48"
+        },
+        {
+          "company": "Dr Reddys Labs",
+          "high": "1,247.00",
+          "low": "1,211.00",
+          "lastPrice": "1,213.45",
+          "prevClose": "1,214.45",
+          "change": "-1.00",
+          "percentGain": "-0.08"
+        }
+      ]
+    }
+  ]
+}
