@@ -161,6 +161,56 @@
     {
       "time": "5:40:23 AM",
       "data": []
+    },
+    {
+      "time": "5:49:51 AM",
+      "data": [
+        {
+          "company": "Bharat Elec",
+          "high": "299.00",
+          "low": "287.95",
+          "lastPrice": "298.00",
+          "prevClose": "280.85",
+          "change": "17.15",
+          "percentGain": "6.11"
+        },
+        {
+          "company": "ONGC",
+          "high": "259.10",
+          "low": "247.95",
+          "lastPrice": "258.90",
+          "prevClose": "245.60",
+          "change": "13.30",
+          "percentGain": "5.42"
+        },
+        {
+          "company": "Shriram Finance",
+          "high": "3,015.00",
+          "low": "2,926.95",
+          "lastPrice": "3,001.50",
+          "prevClose": "2,850.05",
+          "change": "151.45",
+          "percentGain": "5.31"
+        },
+        {
+          "company": "BPCL",
+          "high": "304.40",
+          "low": "292.00",
+          "lastPrice": "298.95",
+          "prevClose": "285.85",
+          "change": "13.10",
+          "percentGain": "4.58"
+        },
+        {
+          "company": "Larsen",
+          "high": "3,758.40",
+          "low": "3,654.00",
+          "lastPrice": "3,756.75",
+          "prevClose": "3,603.50",
+          "change": "153.25",
+          "percentGain": "4.25"
+        }
+      ]
     }
   ],
   "losers": [
@@ -271,6 +321,29 @@
     {
       "time": "5:40:23 AM",
       "data": []
+    },
+    {
+      "time": "5:49:51 AM",
+      "data": [
+        {
+          "company": "JSW Steel",
+          "high": "980.45",
+          "low": "953.00",
+          "lastPrice": "960.55",
+          "prevClose": "977.35",
+          "change": "-16.80",
+          "percentGain": "-1.72"
+        },
+        {
+          "company": "Infosys",
+          "high": "1,919.30",
+          "low": "1,883.60",
+          "lastPrice": "1,896.20",
+          "prevClose": "1,902.25",
+          "change": "-6.05",
+          "percentGain": "-0.32"
+        }
+      ]
     }
   ]
 }
