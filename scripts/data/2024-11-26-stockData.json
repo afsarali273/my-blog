@@ -1,0 +1,106 @@
+{
+  "gainers": [
+    {
+      "time": "3:55:13 AM",
+      "data": [
+        {
+          "company": "Infosys",
+          "high": "1,915.75",
+          "low": "1,897.30",
+          "lastPrice": "1,914.15",
+          "prevClose": "1,889.70",
+          "change": "24.45",
+          "percentGain": "1.29"
+        },
+        {
+          "company": "Tech Mahindra",
+          "high": "1,757.20",
+          "low": "1,732.60",
+          "lastPrice": "1,752.90",
+          "prevClose": "1,732.60",
+          "change": "20.30",
+          "percentGain": "1.17"
+        },
+        {
+          "company": "BPCL",
+          "high": "299.60",
+          "low": "297.95",
+          "lastPrice": "299.50",
+          "prevClose": "296.55",
+          "change": "2.95",
+          "percentGain": "0.99"
+        },
+        {
+          "company": "HCL Tech",
+          "high": "1,911.95",
+          "low": "1,890.10",
+          "lastPrice": "1,909.10",
+          "prevClose": "1,891.70",
+          "change": "17.40",
+          "percentGain": "0.92"
+        },
+        {
+          "company": "ITC",
+          "high": "480.90",
+          "low": "478.55",
+          "lastPrice": "480.90",
+          "prevClose": "476.80",
+          "change": "4.10",
+          "percentGain": "0.86"
+        }
+      ]
+    }
+  ],
+  "losers": [
+    {
+      "time": "3:55:13 AM",
+      "data": [
+        {
+          "company": "NTPC",
+          "high": "370.40",
+          "low": "365.00",
+          "lastPrice": "366.40",
+          "prevClose": "368.40",
+          "change": "-2.00",
+          "percentGain": "-0.54"
+        },
+        {
+          "company": "Axis Bank",
+          "high": "1,159.60",
+          "low": "1,148.25",
+          "lastPrice": "1,152.90",
+          "prevClose": "1,155.90",
+          "change": "-3.00",
+          "percentGain": "-0.26"
+        },
+        {
+          "company": "ONGC",
+          "high": "257.80",
+          "low": "255.30",
+          "lastPrice": "257.35",
+          "prevClose": "257.90",
+          "change": "-0.55",
+          "percentGain": "-0.21"
+        },
+        {
+          "company": "Bajaj Finance",
+          "high": "6,739.80",
+          "low": "6,662.85",
+          "lastPrice": "6,672.40",
+          "prevClose": "6,685.40",
+          "change": "-13.00",
+          "percentGain": "-0.19"
+        },
+        {
+          "company": "Bajaj Finserv",
+          "high": "1,614.90",
+          "low": "1,597.15",
+          "lastPrice": "1,602.15",
+          "prevClose": "1,604.90",
+          "change": "-2.75",
+          "percentGain": "-0.17"
+        }
+      ]
+    }
+  ]
+}
