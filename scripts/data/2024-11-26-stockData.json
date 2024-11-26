@@ -757,6 +757,56 @@
           "percentGain": "1.80"
         }
       ]
+    },
+    {
+      "time": "9:50:03 AM",
+      "data": [
+        {
+          "company": "Shriram Finance",
+          "high": "3,079.30",
+          "low": "2,949.00",
+          "lastPrice": "3,038.50",
+          "prevClose": "2,947.80",
+          "change": "90.70",
+          "percentGain": "3.08"
+        },
+        {
+          "company": "Britannia",
+          "high": "5,030.30",
+          "low": "4,892.95",
+          "lastPrice": "5,009.40",
+          "prevClose": "4,903.95",
+          "change": "105.45",
+          "percentGain": "2.15"
+        },
+        {
+          "company": "Bharat Elec",
+          "high": "301.00",
+          "low": "293.15",
+          "lastPrice": "297.80",
+          "prevClose": "292.35",
+          "change": "5.45",
+          "percentGain": "1.86"
+        },
+        {
+          "company": "Asian Paints",
+          "high": "2,518.00",
+          "low": "2,457.60",
+          "lastPrice": "2,504.00",
+          "prevClose": "2,459.70",
+          "change": "44.30",
+          "percentGain": "1.80"
+        },
+        {
+          "company": "Infosys",
+          "high": "1,938.60",
+          "low": "1,897.30",
+          "lastPrice": "1,920.30",
+          "prevClose": "1,889.70",
+          "change": "30.60",
+          "percentGain": "1.62"
+        }
+      ]
     }
   ],
   "losers": [
@@ -1514,6 +1564,56 @@
           "lastPrice": "1,758.05",
           "prevClose": "1,798.90",
           "change": "-40.85",
+          "percentGain": "-2.27"
+        }
+      ]
+    },
+    {
+      "time": "9:50:03 AM",
+      "data": [
+        {
+          "company": "Adani Enterpris",
+          "high": "2,292.85",
+          "low": "2,136.00",
+          "lastPrice": "2,152.50",
+          "prevClose": "2,257.50",
+          "change": "-105.00",
+          "percentGain": "-4.65"
+        },
+        {
+          "company": "Adani Ports",
+          "high": "1,174.45",
+          "low": "1,119.35",
+          "lastPrice": "1,130.20",
+          "prevClose": "1,166.80",
+          "change": "-36.60",
+          "percentGain": "-3.14"
+        },
+        {
+          "company": "Bajaj Auto",
+          "high": "9,484.00",
+          "low": "9,120.10",
+          "lastPrice": "9,139.05",
+          "prevClose": "9,420.95",
+          "change": "-281.90",
+          "percentGain": "-2.99"
+        },
+        {
+          "company": "UltraTechCement",
+          "high": "11,497.30",
+          "low": "11,107.60",
+          "lastPrice": "11,121.25",
+          "prevClose": "11,457.45",
+          "change": "-336.20",
+          "percentGain": "-2.93"
+        },
+        {
+          "company": "Sun Pharma",
+          "high": "1,806.75",
+          "low": "1,753.20",
+          "lastPrice": "1,758.15",
+          "prevClose": "1,798.90",
+          "change": "-40.75",
           "percentGain": "-2.27"
         }
       ]
