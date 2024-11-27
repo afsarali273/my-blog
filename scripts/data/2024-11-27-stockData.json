@@ -311,6 +311,56 @@
     {
       "time": "6:46:58 AM",
       "data": []
+    },
+    {
+      "time": "7:16:34 AM",
+      "data": [
+        {
+          "company": "Adani Enterpris",
+          "high": "2,332.00",
+          "low": "2,142.15",
+          "lastPrice": "2,309.60",
+          "prevClose": "2,150.50",
+          "change": "159.10",
+          "percentGain": "7.40"
+        },
+        {
+          "company": "Adani Ports",
+          "high": "1,177.90",
+          "low": "1,102.00",
+          "lastPrice": "1,175.70",
+          "prevClose": "1,128.85",
+          "change": "46.85",
+          "percentGain": "4.15"
+        },
+        {
+          "company": "Bharat Elec",
+          "high": "307.00",
+          "low": "297.45",
+          "lastPrice": "306.80",
+          "prevClose": "297.90",
+          "change": "8.90",
+          "percentGain": "2.99"
+        },
+        {
+          "company": "Trent",
+          "high": "6,909.00",
+          "low": "6,631.35",
+          "lastPrice": "6,850.40",
+          "prevClose": "6,669.35",
+          "change": "181.05",
+          "percentGain": "2.71"
+        },
+        {
+          "company": "NTPC",
+          "high": "371.40",
+          "low": "361.35",
+          "lastPrice": "370.45",
+          "prevClose": "361.65",
+          "change": "8.80",
+          "percentGain": "2.43"
+        }
+      ]
     }
   ],
   "losers": [
@@ -625,6 +675,56 @@
     {
       "time": "6:46:58 AM",
       "data": []
+    },
+    {
+      "time": "7:16:34 AM",
+      "data": [
+        {
+          "company": "Apollo Hospital",
+          "high": "7,115.40",
+          "low": "6,970.00",
+          "lastPrice": "6,979.20",
+          "prevClose": "7,076.55",
+          "change": "-97.35",
+          "percentGain": "-1.38"
+        },
+        {
+          "company": "Titan Company",
+          "high": "3,329.90",
+          "low": "3,280.15",
+          "lastPrice": "3,296.00",
+          "prevClose": "3,327.50",
+          "change": "-31.50",
+          "percentGain": "-0.95"
+        },
+        {
+          "company": "UltraTechCement",
+          "high": "11,085.00",
+          "low": "10,960.00",
+          "lastPrice": "11,037.65",
+          "prevClose": "11,121.05",
+          "change": "-83.40",
+          "percentGain": "-0.75"
+        },
+        {
+          "company": "Britannia",
+          "high": "5,025.00",
+          "low": "4,941.00",
+          "lastPrice": "4,976.65",
+          "prevClose": "5,013.60",
+          "change": "-36.95",
+          "percentGain": "-0.74"
+        },
+        {
+          "company": "Cipla",
+          "high": "1,491.00",
+          "low": "1,468.50",
+          "lastPrice": "1,483.00",
+          "prevClose": "1,492.70",
+          "change": "-9.70",
+          "percentGain": "-0.65"
+        }
+      ]
     }
   ]
 }
