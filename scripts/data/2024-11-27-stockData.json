@@ -257,6 +257,56 @@
           "percentGain": "1.21"
         }
       ]
+    },
+    {
+      "time": "6:23:40 AM",
+      "data": [
+        {
+          "company": "Adani Enterpris",
+          "high": "2,332.00",
+          "low": "2,142.15",
+          "lastPrice": "2,291.80",
+          "prevClose": "2,150.50",
+          "change": "141.30",
+          "percentGain": "6.57"
+        },
+        {
+          "company": "Adani Ports",
+          "high": "1,177.90",
+          "low": "1,102.00",
+          "lastPrice": "1,164.85",
+          "prevClose": "1,128.85",
+          "change": "36.00",
+          "percentGain": "3.19"
+        },
+        {
+          "company": "Bharat Elec",
+          "high": "306.50",
+          "low": "297.45",
+          "lastPrice": "306.20",
+          "prevClose": "297.90",
+          "change": "8.30",
+          "percentGain": "2.79"
+        },
+        {
+          "company": "NTPC",
+          "high": "371.40",
+          "low": "361.35",
+          "lastPrice": "369.15",
+          "prevClose": "361.65",
+          "change": "7.50",
+          "percentGain": "2.07"
+        },
+        {
+          "company": "Trent",
+          "high": "6,769.70",
+          "low": "6,631.35",
+          "lastPrice": "6,760.00",
+          "prevClose": "6,669.35",
+          "change": "90.65",
+          "percentGain": "1.36"
+        }
+      ]
     }
   ],
   "losers": [
@@ -515,6 +565,56 @@
           "prevClose": "1,577.25",
           "change": "-16.45",
           "percentGain": "-1.04"
+        }
+      ]
+    },
+    {
+      "time": "6:23:40 AM",
+      "data": [
+        {
+          "company": "ONGC",
+          "high": "255.50",
+          "low": "250.55",
+          "lastPrice": "250.90",
+          "prevClose": "254.25",
+          "change": "-3.35",
+          "percentGain": "-1.32"
+        },
+        {
+          "company": "Cipla",
+          "high": "1,491.00",
+          "low": "1,468.50",
+          "lastPrice": "1,473.95",
+          "prevClose": "1,492.70",
+          "change": "-18.75",
+          "percentGain": "-1.26"
+        },
+        {
+          "company": "Britannia",
+          "high": "5,025.00",
+          "low": "4,941.00",
+          "lastPrice": "4,950.25",
+          "prevClose": "5,013.60",
+          "change": "-63.35",
+          "percentGain": "-1.26"
+        },
+        {
+          "company": "Titan Company",
+          "high": "3,329.90",
+          "low": "3,285.95",
+          "lastPrice": "3,289.00",
+          "prevClose": "3,327.50",
+          "change": "-38.50",
+          "percentGain": "-1.16"
+        },
+        {
+          "company": "UltraTechCement",
+          "high": "11,085.00",
+          "low": "10,968.05",
+          "lastPrice": "10,993.40",
+          "prevClose": "11,121.05",
+          "change": "-127.65",
+          "percentGain": "-1.15"
         }
       ]
     }
