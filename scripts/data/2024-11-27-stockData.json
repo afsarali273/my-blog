@@ -1,0 +1,106 @@
+{
+  "gainers": [
+    {
+      "time": "3:55:45 AM",
+      "data": [
+        {
+          "company": "Coal India",
+          "high": "421.00",
+          "low": "415.30",
+          "lastPrice": "419.95",
+          "prevClose": "411.50",
+          "change": "8.45",
+          "percentGain": "2.05"
+        },
+        {
+          "company": "M&M",
+          "high": "3,070.00",
+          "low": "3,020.00",
+          "lastPrice": "3,034.85",
+          "prevClose": "2,985.20",
+          "change": "49.65",
+          "percentGain": "1.66"
+        },
+        {
+          "company": "Adani Enterpris",
+          "high": "2,184.60",
+          "low": "2,142.15",
+          "lastPrice": "2,181.00",
+          "prevClose": "2,150.50",
+          "change": "30.50",
+          "percentGain": "1.42"
+        },
+        {
+          "company": "Kotak Mahindra",
+          "high": "1,800.95",
+          "low": "1,779.20",
+          "lastPrice": "1,799.05",
+          "prevClose": "1,783.60",
+          "change": "15.45",
+          "percentGain": "0.87"
+        },
+        {
+          "company": "Wipro",
+          "high": "596.00",
+          "low": "589.50",
+          "lastPrice": "594.00",
+          "prevClose": "589.00",
+          "change": "5.00",
+          "percentGain": "0.85"
+        }
+      ]
+    }
+  ],
+  "losers": [
+    {
+      "time": "3:55:45 AM",
+      "data": [
+        {
+          "company": "Cipla",
+          "high": "1,491.00",
+          "low": "1,468.50",
+          "lastPrice": "1,476.10",
+          "prevClose": "1,492.70",
+          "change": "-16.60",
+          "percentGain": "-1.11"
+        },
+        {
+          "company": "Bharti Airtel",
+          "high": "1,576.95",
+          "low": "1,554.15",
+          "lastPrice": "1,560.80",
+          "prevClose": "1,577.25",
+          "change": "-16.45",
+          "percentGain": "-1.04"
+        },
+        {
+          "company": "IndusInd Bank",
+          "high": "1,012.00",
+          "low": "999.25",
+          "lastPrice": "1,000.55",
+          "prevClose": "1,009.60",
+          "change": "-9.05",
+          "percentGain": "-0.90"
+        },
+        {
+          "company": "Axis Bank",
+          "high": "1,148.35",
+          "low": "1,135.10",
+          "lastPrice": "1,135.25",
+          "prevClose": "1,144.80",
+          "change": "-9.55",
+          "percentGain": "-0.83"
+        },
+        {
+          "company": "TATA Cons. Prod",
+          "high": "965.10",
+          "low": "953.90",
+          "lastPrice": "955.90",
+          "prevClose": "963.55",
+          "change": "-7.65",
+          "percentGain": "-0.79"
+        }
+      ]
+    }
+  ]
+}
