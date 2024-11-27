@@ -473,6 +473,56 @@
           "percentGain": "2.17"
         }
       ]
+    },
+    {
+      "time": "9:40:01 AM",
+      "data": [
+        {
+          "company": "Adani Enterpris",
+          "high": "2,415.00",
+          "low": "2,142.15",
+          "lastPrice": "2,380.00",
+          "prevClose": "2,150.50",
+          "change": "229.50",
+          "percentGain": "10.67"
+        },
+        {
+          "company": "Adani Ports",
+          "high": "1,231.70",
+          "low": "1,102.00",
+          "lastPrice": "1,194.90",
+          "prevClose": "1,128.85",
+          "change": "66.05",
+          "percentGain": "5.85"
+        },
+        {
+          "company": "Bharat Elec",
+          "high": "307.45",
+          "low": "297.45",
+          "lastPrice": "306.85",
+          "prevClose": "297.90",
+          "change": "8.95",
+          "percentGain": "3.00"
+        },
+        {
+          "company": "Trent",
+          "high": "6,909.00",
+          "low": "6,631.35",
+          "lastPrice": "6,828.30",
+          "prevClose": "6,669.35",
+          "change": "158.95",
+          "percentGain": "2.38"
+        },
+        {
+          "company": "NTPC",
+          "high": "371.60",
+          "low": "361.35",
+          "lastPrice": "369.00",
+          "prevClose": "361.65",
+          "change": "7.35",
+          "percentGain": "2.03"
+        }
+      ]
     }
   ],
   "losers": [
@@ -947,6 +997,56 @@
           "prevClose": "1,761.60",
           "change": "-13.65",
           "percentGain": "-0.77"
+        }
+      ]
+    },
+    {
+      "time": "9:40:01 AM",
+      "data": [
+        {
+          "company": "Apollo Hospital",
+          "high": "7,115.40",
+          "low": "6,970.00",
+          "lastPrice": "6,982.65",
+          "prevClose": "7,076.55",
+          "change": "-93.90",
+          "percentGain": "-1.33"
+        },
+        {
+          "company": "Wipro",
+          "high": "596.00",
+          "low": "582.15",
+          "lastPrice": "582.90",
+          "prevClose": "589.00",
+          "change": "-6.10",
+          "percentGain": "-1.04"
+        },
+        {
+          "company": "Titan Company",
+          "high": "3,329.90",
+          "low": "3,280.15",
+          "lastPrice": "3,292.95",
+          "prevClose": "3,327.50",
+          "change": "-34.55",
+          "percentGain": "-1.04"
+        },
+        {
+          "company": "Shriram Finance",
+          "high": "3,066.70",
+          "low": "3,007.35",
+          "lastPrice": "3,018.50",
+          "prevClose": "3,046.35",
+          "change": "-27.85",
+          "percentGain": "-0.91"
+        },
+        {
+          "company": "IndusInd Bank",
+          "high": "1,012.00",
+          "low": "994.50",
+          "lastPrice": "1,001.20",
+          "prevClose": "1,009.60",
+          "change": "-8.40",
+          "percentGain": "-0.83"
         }
       ]
     }
