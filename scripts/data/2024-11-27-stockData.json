@@ -157,6 +157,56 @@
     {
       "time": "5:16:16 AM",
       "data": []
+    },
+    {
+      "time": "5:40:38 AM",
+      "data": [
+        {
+          "company": "Adani Enterpris",
+          "high": "2,239.70",
+          "low": "2,142.15",
+          "lastPrice": "2,228.05",
+          "prevClose": "2,150.50",
+          "change": "77.55",
+          "percentGain": "3.61"
+        },
+        {
+          "company": "Bharat Elec",
+          "high": "306.50",
+          "low": "297.45",
+          "lastPrice": "305.60",
+          "prevClose": "297.90",
+          "change": "7.70",
+          "percentGain": "2.58"
+        },
+        {
+          "company": "NTPC",
+          "high": "370.50",
+          "low": "361.35",
+          "lastPrice": "369.45",
+          "prevClose": "361.65",
+          "change": "7.80",
+          "percentGain": "2.16"
+        },
+        {
+          "company": "Bajaj Finance",
+          "high": "6,717.00",
+          "low": "6,612.25",
+          "lastPrice": "6,706.70",
+          "prevClose": "6,617.95",
+          "change": "88.75",
+          "percentGain": "1.34"
+        },
+        {
+          "company": "Maruti Suzuki",
+          "high": "11,106.65",
+          "low": "10,870.00",
+          "lastPrice": "11,079.55",
+          "prevClose": "10,943.95",
+          "change": "135.60",
+          "percentGain": "1.24"
+        }
+      ]
     }
   ],
   "losers": [
@@ -317,6 +367,56 @@
     {
       "time": "5:16:16 AM",
       "data": []
+    },
+    {
+      "time": "5:40:38 AM",
+      "data": [
+        {
+          "company": "UltraTechCement",
+          "high": "11,085.00",
+          "low": "10,991.00",
+          "lastPrice": "11,007.00",
+          "prevClose": "11,121.05",
+          "change": "-114.05",
+          "percentGain": "-1.03"
+        },
+        {
+          "company": "ONGC",
+          "high": "255.50",
+          "low": "251.10",
+          "lastPrice": "251.75",
+          "prevClose": "254.25",
+          "change": "-2.50",
+          "percentGain": "-0.98"
+        },
+        {
+          "company": "Bharti Airtel",
+          "high": "1,576.95",
+          "low": "1,554.15",
+          "lastPrice": "1,562.15",
+          "prevClose": "1,577.25",
+          "change": "-15.10",
+          "percentGain": "-0.96"
+        },
+        {
+          "company": "Britannia",
+          "high": "5,025.00",
+          "low": "4,941.00",
+          "lastPrice": "4,966.90",
+          "prevClose": "5,013.60",
+          "change": "-46.70",
+          "percentGain": "-0.93"
+        },
+        {
+          "company": "Cipla",
+          "high": "1,491.00",
+          "low": "1,468.50",
+          "lastPrice": "1,479.40",
+          "prevClose": "1,492.70",
+          "change": "-13.30",
+          "percentGain": "-0.89"
+        }
+      ]
     }
   ]
 }
