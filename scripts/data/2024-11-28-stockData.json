@@ -620,6 +620,47 @@
           "percentGain": "0.09"
         }
       ]
+    },
+    {
+      "time": "10:15:20 AM",
+      "data": [
+        {
+          "company": "Adani Enterpris",
+          "high": "2,526.30",
+          "low": "2,400.00",
+          "lastPrice": "2,437.10",
+          "prevClose": "2,397.80",
+          "change": "39.30",
+          "percentGain": "1.64"
+        },
+        {
+          "company": "Shriram Finance",
+          "high": "3,075.00",
+          "low": "2,991.25",
+          "lastPrice": "3,043.70",
+          "prevClose": "3,019.00",
+          "change": "24.70",
+          "percentGain": "0.82"
+        },
+        {
+          "company": "SBI",
+          "high": "845.80",
+          "low": "830.50",
+          "lastPrice": "838.85",
+          "prevClose": "834.10",
+          "change": "4.75",
+          "percentGain": "0.57"
+        },
+        {
+          "company": "Cipla",
+          "high": "1,505.00",
+          "low": "1,473.90",
+          "lastPrice": "1,492.75",
+          "prevClose": "1,491.15",
+          "change": "1.60",
+          "percentGain": "0.11"
+        }
+      ]
     }
   ],
   "losers": [
@@ -1286,6 +1327,56 @@
           "prevClose": "6,705.20",
           "change": "-193.75",
           "percentGain": "-2.89"
+        }
+      ]
+    },
+    {
+      "time": "10:15:20 AM",
+      "data": [
+        {
+          "company": "SBI Life Insura",
+          "high": "1,519.70",
+          "low": "1,403.00",
+          "lastPrice": "1,428.60",
+          "prevClose": "1,505.40",
+          "change": "-76.80",
+          "percentGain": "-5.10"
+        },
+        {
+          "company": "Infosys",
+          "high": "1,914.90",
+          "low": "1,851.65",
+          "lastPrice": "1,856.65",
+          "prevClose": "1,924.50",
+          "change": "-67.85",
+          "percentGain": "-3.53"
+        },
+        {
+          "company": "M&M",
+          "high": "2,999.95",
+          "low": "2,892.00",
+          "lastPrice": "2,898.70",
+          "prevClose": "3,004.80",
+          "change": "-106.10",
+          "percentGain": "-3.53"
+        },
+        {
+          "company": "HDFC Life",
+          "high": "690.15",
+          "low": "638.65",
+          "lastPrice": "657.70",
+          "prevClose": "680.55",
+          "change": "-22.85",
+          "percentGain": "-3.36"
+        },
+        {
+          "company": "Bajaj Finance",
+          "high": "6,726.25",
+          "low": "6,495.00",
+          "lastPrice": "6,509.40",
+          "prevClose": "6,705.20",
+          "change": "-195.80",
+          "percentGain": "-2.92"
         }
       ]
     }
