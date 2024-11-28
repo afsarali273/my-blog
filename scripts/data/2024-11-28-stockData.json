@@ -357,6 +357,56 @@
           "percentGain": "0.37"
         }
       ]
+    },
+    {
+      "time": "7:16:39 AM",
+      "data": [
+        {
+          "company": "Adani Enterpris",
+          "high": "2,526.30",
+          "low": "2,400.00",
+          "lastPrice": "2,472.75",
+          "prevClose": "2,397.80",
+          "change": "74.95",
+          "percentGain": "3.13"
+        },
+        {
+          "company": "HDFC Life",
+          "high": "690.15",
+          "low": "679.05",
+          "lastPrice": "685.15",
+          "prevClose": "680.55",
+          "change": "4.60",
+          "percentGain": "0.68"
+        },
+        {
+          "company": "SBI Life Insura",
+          "high": "1,519.70",
+          "low": "1,501.05",
+          "lastPrice": "1,514.00",
+          "prevClose": "1,505.40",
+          "change": "8.60",
+          "percentGain": "0.57"
+        },
+        {
+          "company": "SBI",
+          "high": "845.80",
+          "low": "830.50",
+          "lastPrice": "837.80",
+          "prevClose": "834.10",
+          "change": "3.70",
+          "percentGain": "0.44"
+        },
+        {
+          "company": "Coal India",
+          "high": "424.90",
+          "low": "417.15",
+          "lastPrice": "417.95",
+          "prevClose": "417.15",
+          "change": "0.80",
+          "percentGain": "0.19"
+        }
+      ]
     }
   ],
   "losers": [
@@ -715,6 +765,56 @@
           "prevClose": "4,332.55",
           "change": "-80.50",
           "percentGain": "-1.86"
+        }
+      ]
+    },
+    {
+      "time": "7:16:39 AM",
+      "data": [
+        {
+          "company": "Infosys",
+          "high": "1,914.90",
+          "low": "1,864.75",
+          "lastPrice": "1,865.25",
+          "prevClose": "1,924.50",
+          "change": "-59.25",
+          "percentGain": "-3.08"
+        },
+        {
+          "company": "M&M",
+          "high": "2,999.95",
+          "low": "2,904.05",
+          "lastPrice": "2,916.65",
+          "prevClose": "3,004.80",
+          "change": "-88.15",
+          "percentGain": "-2.93"
+        },
+        {
+          "company": "Titan Company",
+          "high": "3,305.00",
+          "low": "3,203.85",
+          "lastPrice": "3,212.60",
+          "prevClose": "3,291.65",
+          "change": "-79.05",
+          "percentGain": "-2.40"
+        },
+        {
+          "company": "Tech Mahindra",
+          "high": "1,760.00",
+          "low": "1,706.80",
+          "lastPrice": "1,716.10",
+          "prevClose": "1,756.80",
+          "change": "-40.70",
+          "percentGain": "-2.32"
+        },
+        {
+          "company": "HCL Tech",
+          "high": "1,900.50",
+          "low": "1,847.00",
+          "lastPrice": "1,851.75",
+          "prevClose": "1,891.05",
+          "change": "-39.30",
+          "percentGain": "-2.08"
         }
       ]
     }
