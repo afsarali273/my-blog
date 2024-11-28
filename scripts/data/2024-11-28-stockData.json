@@ -103,6 +103,56 @@
           "percentGain": "1.26"
         }
       ]
+    },
+    {
+      "time": "4:54:10 AM",
+      "data": [
+        {
+          "company": "Adani Enterpris",
+          "high": "2,521.95",
+          "low": "2,400.00",
+          "lastPrice": "2,513.05",
+          "prevClose": "2,397.80",
+          "change": "115.25",
+          "percentGain": "4.81"
+        },
+        {
+          "company": "Coal India",
+          "high": "424.90",
+          "low": "419.25",
+          "lastPrice": "424.65",
+          "prevClose": "417.15",
+          "change": "7.50",
+          "percentGain": "1.80"
+        },
+        {
+          "company": "BPCL",
+          "high": "298.75",
+          "low": "293.40",
+          "lastPrice": "298.40",
+          "prevClose": "293.45",
+          "change": "4.95",
+          "percentGain": "1.69"
+        },
+        {
+          "company": "Adani Ports",
+          "high": "1,223.70",
+          "low": "1,190.05",
+          "lastPrice": "1,218.80",
+          "prevClose": "1,199.95",
+          "change": "18.85",
+          "percentGain": "1.57"
+        },
+        {
+          "company": "Shriram Finance",
+          "high": "3,075.00",
+          "low": "3,031.05",
+          "lastPrice": "3,053.55",
+          "prevClose": "3,019.00",
+          "change": "34.55",
+          "percentGain": "1.14"
+        }
+      ]
     }
   ],
   "losers": [
@@ -207,6 +257,56 @@
           "prevClose": "339.25",
           "change": "-3.20",
           "percentGain": "-0.94"
+        }
+      ]
+    },
+    {
+      "time": "4:54:10 AM",
+      "data": [
+        {
+          "company": "Eicher Motors",
+          "high": "4,920.00",
+          "low": "4,831.05",
+          "lastPrice": "4,849.90",
+          "prevClose": "4,917.50",
+          "change": "-67.60",
+          "percentGain": "-1.37"
+        },
+        {
+          "company": "M&M",
+          "high": "2,999.95",
+          "low": "2,950.20",
+          "lastPrice": "2,968.40",
+          "prevClose": "3,004.80",
+          "change": "-36.40",
+          "percentGain": "-1.21"
+        },
+        {
+          "company": "Tech Mahindra",
+          "high": "1,760.00",
+          "low": "1,725.25",
+          "lastPrice": "1,736.00",
+          "prevClose": "1,756.80",
+          "change": "-20.80",
+          "percentGain": "-1.18"
+        },
+        {
+          "company": "Infosys",
+          "high": "1,914.90",
+          "low": "1,894.30",
+          "lastPrice": "1,902.05",
+          "prevClose": "1,924.50",
+          "change": "-22.45",
+          "percentGain": "-1.17"
+        },
+        {
+          "company": "Power Grid Corp",
+          "high": "341.75",
+          "low": "335.65",
+          "lastPrice": "336.50",
+          "prevClose": "339.25",
+          "change": "-2.75",
+          "percentGain": "-0.81"
         }
       ]
     }
