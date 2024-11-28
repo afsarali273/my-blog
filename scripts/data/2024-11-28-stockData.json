@@ -456,6 +456,56 @@
     {
       "time": "8:21:42 AM",
       "data": []
+    },
+    {
+      "time": "8:45:24 AM",
+      "data": [
+        {
+          "company": "Adani Enterpris",
+          "high": "2,526.30",
+          "low": "2,400.00",
+          "lastPrice": "2,429.45",
+          "prevClose": "2,397.80",
+          "change": "31.65",
+          "percentGain": "1.32"
+        },
+        {
+          "company": "Shriram Finance",
+          "high": "3,075.00",
+          "low": "2,991.25",
+          "lastPrice": "3,040.00",
+          "prevClose": "3,019.00",
+          "change": "21.00",
+          "percentGain": "0.70"
+        },
+        {
+          "company": "SBI",
+          "high": "845.80",
+          "low": "830.50",
+          "lastPrice": "835.55",
+          "prevClose": "834.10",
+          "change": "1.45",
+          "percentGain": "0.17"
+        },
+        {
+          "company": "Tata Motors",
+          "high": "792.55",
+          "low": "778.00",
+          "lastPrice": "784.25",
+          "prevClose": "783.95",
+          "change": "0.30",
+          "percentGain": "0.04"
+        },
+        {
+          "company": "Cipla",
+          "high": "1,505.00",
+          "low": "1,473.90",
+          "lastPrice": "1,491.40",
+          "prevClose": "1,491.15",
+          "change": "0.25",
+          "percentGain": "0.02"
+        }
+      ]
     }
   ],
   "losers": [
@@ -924,6 +974,56 @@
     {
       "time": "8:21:42 AM",
       "data": []
+    },
+    {
+      "time": "8:45:24 AM",
+      "data": [
+        {
+          "company": "SBI Life Insura",
+          "high": "1,519.70",
+          "low": "1,407.55",
+          "lastPrice": "1,412.10",
+          "prevClose": "1,505.40",
+          "change": "-93.30",
+          "percentGain": "-6.20"
+        },
+        {
+          "company": "HDFC Life",
+          "high": "690.15",
+          "low": "640.35",
+          "lastPrice": "640.45",
+          "prevClose": "680.55",
+          "change": "-40.10",
+          "percentGain": "-5.89"
+        },
+        {
+          "company": "Infosys",
+          "high": "1,914.90",
+          "low": "1,851.65",
+          "lastPrice": "1,852.00",
+          "prevClose": "1,924.50",
+          "change": "-72.50",
+          "percentGain": "-3.77"
+        },
+        {
+          "company": "M&M",
+          "high": "2,999.95",
+          "low": "2,902.15",
+          "lastPrice": "2,904.65",
+          "prevClose": "3,004.80",
+          "change": "-100.15",
+          "percentGain": "-3.33"
+        },
+        {
+          "company": "Tech Mahindra",
+          "high": "1,760.00",
+          "low": "1,706.80",
+          "lastPrice": "1,708.10",
+          "prevClose": "1,756.80",
+          "change": "-48.70",
+          "percentGain": "-2.77"
+        }
+      ]
     }
   ]
 }
