@@ -547,6 +547,38 @@
           "percentGain": "0.53"
         }
       ]
+    },
+    {
+      "time": "9:40:27 AM",
+      "data": [
+        {
+          "company": "Adani Enterpris",
+          "high": "2,526.30",
+          "low": "2,400.00",
+          "lastPrice": "2,436.05",
+          "prevClose": "2,397.80",
+          "change": "38.25",
+          "percentGain": "1.60"
+        },
+        {
+          "company": "Shriram Finance",
+          "high": "3,075.00",
+          "low": "2,991.25",
+          "lastPrice": "3,045.80",
+          "prevClose": "3,019.00",
+          "change": "26.80",
+          "percentGain": "0.89"
+        },
+        {
+          "company": "SBI",
+          "high": "845.80",
+          "low": "830.50",
+          "lastPrice": "837.10",
+          "prevClose": "834.10",
+          "change": "3.00",
+          "percentGain": "0.36"
+        }
+      ]
     }
   ],
   "losers": [
@@ -1113,6 +1145,56 @@
           "prevClose": "3,291.65",
           "change": "-85.50",
           "percentGain": "-2.60"
+        }
+      ]
+    },
+    {
+      "time": "9:40:27 AM",
+      "data": [
+        {
+          "company": "SBI Life Insura",
+          "high": "1,519.70",
+          "low": "1,403.00",
+          "lastPrice": "1,431.30",
+          "prevClose": "1,505.40",
+          "change": "-74.10",
+          "percentGain": "-4.92"
+        },
+        {
+          "company": "HDFC Life",
+          "high": "690.15",
+          "low": "638.65",
+          "lastPrice": "655.85",
+          "prevClose": "680.55",
+          "change": "-24.70",
+          "percentGain": "-3.63"
+        },
+        {
+          "company": "M&M",
+          "high": "2,999.95",
+          "low": "2,893.00",
+          "lastPrice": "2,897.25",
+          "prevClose": "3,004.80",
+          "change": "-107.55",
+          "percentGain": "-3.58"
+        },
+        {
+          "company": "Infosys",
+          "high": "1,914.90",
+          "low": "1,851.65",
+          "lastPrice": "1,858.60",
+          "prevClose": "1,924.50",
+          "change": "-65.90",
+          "percentGain": "-3.42"
+        },
+        {
+          "company": "Bajaj Finance",
+          "high": "6,726.25",
+          "low": "6,499.50",
+          "lastPrice": "6,507.65",
+          "prevClose": "6,705.20",
+          "change": "-197.55",
+          "percentGain": "-2.95"
         }
       ]
     }
