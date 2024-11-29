@@ -49,6 +49,56 @@
           "percentGain": "1.23"
         }
       ]
+    },
+    {
+      "time": "4:20:10 AM",
+      "data": [
+        {
+          "company": "Cipla",
+          "high": "1,526.85",
+          "low": "1,490.00",
+          "lastPrice": "1,522.00",
+          "prevClose": "1,492.75",
+          "change": "29.25",
+          "percentGain": "1.96"
+        },
+        {
+          "company": "Sun Pharma",
+          "high": "1,769.25",
+          "low": "1,739.20",
+          "lastPrice": "1,766.40",
+          "prevClose": "1,734.25",
+          "change": "32.15",
+          "percentGain": "1.85"
+        },
+        {
+          "company": "Adani Ports",
+          "high": "1,193.50",
+          "low": "1,171.30",
+          "lastPrice": "1,186.40",
+          "prevClose": "1,167.60",
+          "change": "18.80",
+          "percentGain": "1.61"
+        },
+        {
+          "company": "M&M",
+          "high": "2,954.90",
+          "low": "2,903.00",
+          "lastPrice": "2,945.00",
+          "prevClose": "2,898.70",
+          "change": "46.30",
+          "percentGain": "1.60"
+        },
+        {
+          "company": "Bharat Elec",
+          "high": "310.30",
+          "low": "305.00",
+          "lastPrice": "310.10",
+          "prevClose": "305.75",
+          "change": "4.35",
+          "percentGain": "1.42"
+        }
+      ]
     }
   ],
   "losers": [
@@ -99,6 +149,56 @@
           "prevClose": "1,856.65",
           "change": "-8.40",
           "percentGain": "-0.45"
+        }
+      ]
+    },
+    {
+      "time": "4:20:10 AM",
+      "data": [
+        {
+          "company": "Power Grid Corp",
+          "high": "332.50",
+          "low": "327.60",
+          "lastPrice": "330.10",
+          "prevClose": "333.65",
+          "change": "-3.55",
+          "percentGain": "-1.06"
+        },
+        {
+          "company": "ITC",
+          "high": "474.90",
+          "low": "472.60",
+          "lastPrice": "472.65",
+          "prevClose": "474.90",
+          "change": "-2.25",
+          "percentGain": "-0.47"
+        },
+        {
+          "company": "Shriram Finance",
+          "high": "3,066.55",
+          "low": "3,022.15",
+          "lastPrice": "3,029.85",
+          "prevClose": "3,043.70",
+          "change": "-13.85",
+          "percentGain": "-0.46"
+        },
+        {
+          "company": "Tech Mahindra",
+          "high": "1,714.60",
+          "low": "1,700.50",
+          "lastPrice": "1,709.40",
+          "prevClose": "1,713.35",
+          "change": "-3.95",
+          "percentGain": "-0.23"
+        },
+        {
+          "company": "TCS",
+          "high": "4,248.05",
+          "low": "4,195.65",
+          "lastPrice": "4,236.35",
+          "prevClose": "4,244.90",
+          "change": "-8.55",
+          "percentGain": "-0.20"
         }
       ]
     }
