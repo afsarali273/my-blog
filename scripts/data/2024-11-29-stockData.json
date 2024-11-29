@@ -511,6 +511,56 @@
           "percentGain": "2.29"
         }
       ]
+    },
+    {
+      "time": "8:55:22 AM",
+      "data": [
+        {
+          "company": "Bharti Airtel",
+          "high": "1,648.90",
+          "low": "1,551.15",
+          "lastPrice": "1,631.65",
+          "prevClose": "1,560.40",
+          "change": "71.25",
+          "percentGain": "4.57"
+        },
+        {
+          "company": "Sun Pharma",
+          "high": "1,795.80",
+          "low": "1,739.20",
+          "lastPrice": "1,787.55",
+          "prevClose": "1,734.25",
+          "change": "53.30",
+          "percentGain": "3.07"
+        },
+        {
+          "company": "Cipla",
+          "high": "1,547.70",
+          "low": "1,490.00",
+          "lastPrice": "1,537.80",
+          "prevClose": "1,492.75",
+          "change": "45.05",
+          "percentGain": "3.02"
+        },
+        {
+          "company": "M&M",
+          "high": "2,991.65",
+          "low": "2,903.00",
+          "lastPrice": "2,973.65",
+          "prevClose": "2,898.70",
+          "change": "74.95",
+          "percentGain": "2.59"
+        },
+        {
+          "company": "Adani Ports",
+          "high": "1,201.90",
+          "low": "1,168.90",
+          "lastPrice": "1,195.55",
+          "prevClose": "1,167.60",
+          "change": "27.95",
+          "percentGain": "2.39"
+        }
+      ]
     }
   ],
   "losers": [
@@ -1023,6 +1073,56 @@
           "prevClose": "1,793.15",
           "change": "-7.05",
           "percentGain": "-0.39"
+        }
+      ]
+    },
+    {
+      "time": "8:55:22 AM",
+      "data": [
+        {
+          "company": "SBI Life Insura",
+          "high": "1,460.00",
+          "low": "1,396.65",
+          "lastPrice": "1,409.05",
+          "prevClose": "1,428.60",
+          "change": "-19.55",
+          "percentGain": "-1.37"
+        },
+        {
+          "company": "Power Grid Corp",
+          "high": "332.50",
+          "low": "326.50",
+          "lastPrice": "329.70",
+          "prevClose": "333.65",
+          "change": "-3.95",
+          "percentGain": "-1.18"
+        },
+        {
+          "company": "Hero Motocorp",
+          "high": "4,804.45",
+          "low": "4,732.10",
+          "lastPrice": "4,747.85",
+          "prevClose": "4,783.50",
+          "change": "-35.65",
+          "percentGain": "-0.75"
+        },
+        {
+          "company": "HDFC Life",
+          "high": "674.10",
+          "low": "651.30",
+          "lastPrice": "653.10",
+          "prevClose": "657.70",
+          "change": "-4.60",
+          "percentGain": "-0.70"
+        },
+        {
+          "company": "Apollo Hospital",
+          "high": "6,892.45",
+          "low": "6,812.00",
+          "lastPrice": "6,816.00",
+          "prevClose": "6,841.10",
+          "change": "-25.10",
+          "percentGain": "-0.37"
         }
       ]
     }
