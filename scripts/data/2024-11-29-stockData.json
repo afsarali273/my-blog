@@ -257,6 +257,56 @@
     {
       "time": "5:50:14 AM",
       "data": []
+    },
+    {
+      "time": "6:23:20 AM",
+      "data": [
+        {
+          "company": "Bharti Airtel",
+          "high": "1,624.00",
+          "low": "1,551.15",
+          "lastPrice": "1,619.70",
+          "prevClose": "1,560.40",
+          "change": "59.30",
+          "percentGain": "3.80"
+        },
+        {
+          "company": "Cipla",
+          "high": "1,543.40",
+          "low": "1,490.00",
+          "lastPrice": "1,538.80",
+          "prevClose": "1,492.75",
+          "change": "46.05",
+          "percentGain": "3.08"
+        },
+        {
+          "company": "Sun Pharma",
+          "high": "1,788.60",
+          "low": "1,739.20",
+          "lastPrice": "1,784.15",
+          "prevClose": "1,734.25",
+          "change": "49.90",
+          "percentGain": "2.88"
+        },
+        {
+          "company": "Larsen",
+          "high": "3,750.00",
+          "low": "3,635.10",
+          "lastPrice": "3,735.50",
+          "prevClose": "3,666.05",
+          "change": "69.45",
+          "percentGain": "1.89"
+        },
+        {
+          "company": "TATA Cons. Prod",
+          "high": "959.85",
+          "low": "941.50",
+          "lastPrice": "958.00",
+          "prevClose": "941.05",
+          "change": "16.95",
+          "percentGain": "1.80"
+        }
+      ]
     }
   ],
   "losers": [
@@ -517,6 +567,56 @@
     {
       "time": "5:50:14 AM",
       "data": []
+    },
+    {
+      "time": "6:23:20 AM",
+      "data": [
+        {
+          "company": "SBI Life Insura",
+          "high": "1,460.00",
+          "low": "1,398.50",
+          "lastPrice": "1,402.40",
+          "prevClose": "1,428.60",
+          "change": "-26.20",
+          "percentGain": "-1.83"
+        },
+        {
+          "company": "Shriram Finance",
+          "high": "3,066.55",
+          "low": "2,992.20",
+          "lastPrice": "2,994.80",
+          "prevClose": "3,043.70",
+          "change": "-48.90",
+          "percentGain": "-1.61"
+        },
+        {
+          "company": "Power Grid Corp",
+          "high": "332.50",
+          "low": "327.60",
+          "lastPrice": "328.35",
+          "prevClose": "333.65",
+          "change": "-5.30",
+          "percentGain": "-1.59"
+        },
+        {
+          "company": "Adani Enterpris",
+          "high": "2,489.95",
+          "low": "2,400.00",
+          "lastPrice": "2,414.70",
+          "prevClose": "2,437.10",
+          "change": "-22.40",
+          "percentGain": "-0.92"
+        },
+        {
+          "company": "SBI",
+          "high": "844.05",
+          "low": "831.65",
+          "lastPrice": "832.20",
+          "prevClose": "838.85",
+          "change": "-6.65",
+          "percentGain": "-0.79"
+        }
+      ]
     }
   ]
 }
