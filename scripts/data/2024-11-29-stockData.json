@@ -203,6 +203,56 @@
           "percentGain": "1.72"
         }
       ]
+    },
+    {
+      "time": "5:40:43 AM",
+      "data": [
+        {
+          "company": "Bharti Airtel",
+          "high": "1,605.65",
+          "low": "1,551.15",
+          "lastPrice": "1,605.55",
+          "prevClose": "1,560.40",
+          "change": "45.15",
+          "percentGain": "2.89"
+        },
+        {
+          "company": "Cipla",
+          "high": "1,537.00",
+          "low": "1,490.00",
+          "lastPrice": "1,535.50",
+          "prevClose": "1,492.75",
+          "change": "42.75",
+          "percentGain": "2.86"
+        },
+        {
+          "company": "Sun Pharma",
+          "high": "1,783.05",
+          "low": "1,739.20",
+          "lastPrice": "1,782.35",
+          "prevClose": "1,734.25",
+          "change": "48.10",
+          "percentGain": "2.77"
+        },
+        {
+          "company": "M&M",
+          "high": "2,962.00",
+          "low": "2,903.00",
+          "lastPrice": "2,959.15",
+          "prevClose": "2,898.70",
+          "change": "60.45",
+          "percentGain": "2.09"
+        },
+        {
+          "company": "Reliance",
+          "high": "1,299.50",
+          "low": "1,275.25",
+          "lastPrice": "1,297.15",
+          "prevClose": "1,270.80",
+          "change": "26.35",
+          "percentGain": "2.07"
+        }
+      ]
     }
   ],
   "losers": [
@@ -407,6 +457,56 @@
           "prevClose": "415.20",
           "change": "-1.50",
           "percentGain": "-0.36"
+        }
+      ]
+    },
+    {
+      "time": "5:40:43 AM",
+      "data": [
+        {
+          "company": "SBI Life Insura",
+          "high": "1,460.00",
+          "low": "1,405.35",
+          "lastPrice": "1,406.50",
+          "prevClose": "1,428.60",
+          "change": "-22.10",
+          "percentGain": "-1.55"
+        },
+        {
+          "company": "Shriram Finance",
+          "high": "3,066.55",
+          "low": "2,993.00",
+          "lastPrice": "3,011.20",
+          "prevClose": "3,043.70",
+          "change": "-32.50",
+          "percentGain": "-1.07"
+        },
+        {
+          "company": "Power Grid Corp",
+          "high": "332.50",
+          "low": "327.60",
+          "lastPrice": "330.75",
+          "prevClose": "333.65",
+          "change": "-2.90",
+          "percentGain": "-0.87"
+        },
+        {
+          "company": "Adani Enterpris",
+          "high": "2,489.95",
+          "low": "2,419.00",
+          "lastPrice": "2,422.05",
+          "prevClose": "2,437.10",
+          "change": "-15.05",
+          "percentGain": "-0.62"
+        },
+        {
+          "company": "Hero Motocorp",
+          "high": "4,804.45",
+          "low": "4,747.05",
+          "lastPrice": "4,765.95",
+          "prevClose": "4,783.50",
+          "change": "-17.55",
+          "percentGain": "-0.37"
         }
       ]
     }
