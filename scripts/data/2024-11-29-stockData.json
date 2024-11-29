@@ -361,6 +361,56 @@
     {
       "time": "7:37:59 AM",
       "data": []
+    },
+    {
+      "time": "7:49:59 AM",
+      "data": [
+        {
+          "company": "Bharti Airtel",
+          "high": "1,647.40",
+          "low": "1,551.15",
+          "lastPrice": "1,645.95",
+          "prevClose": "1,560.40",
+          "change": "85.55",
+          "percentGain": "5.48"
+        },
+        {
+          "company": "Sun Pharma",
+          "high": "1,795.80",
+          "low": "1,739.20",
+          "lastPrice": "1,792.55",
+          "prevClose": "1,734.25",
+          "change": "58.30",
+          "percentGain": "3.36"
+        },
+        {
+          "company": "Cipla",
+          "high": "1,547.70",
+          "low": "1,490.00",
+          "lastPrice": "1,535.45",
+          "prevClose": "1,492.75",
+          "change": "42.70",
+          "percentGain": "2.86"
+        },
+        {
+          "company": "M&M",
+          "high": "2,969.00",
+          "low": "2,903.00",
+          "lastPrice": "2,966.60",
+          "prevClose": "2,898.70",
+          "change": "67.90",
+          "percentGain": "2.34"
+        },
+        {
+          "company": "TATA Cons. Prod",
+          "high": "963.00",
+          "low": "941.50",
+          "lastPrice": "962.20",
+          "prevClose": "941.05",
+          "change": "21.15",
+          "percentGain": "2.25"
+        }
+      ]
     }
   ],
   "losers": [
@@ -725,6 +775,56 @@
     {
       "time": "7:37:59 AM",
       "data": []
+    },
+    {
+      "time": "7:49:59 AM",
+      "data": [
+        {
+          "company": "SBI Life Insura",
+          "high": "1,460.00",
+          "low": "1,396.65",
+          "lastPrice": "1,400.45",
+          "prevClose": "1,428.60",
+          "change": "-28.15",
+          "percentGain": "-1.97"
+        },
+        {
+          "company": "Power Grid Corp",
+          "high": "332.50",
+          "low": "326.50",
+          "lastPrice": "327.25",
+          "prevClose": "333.65",
+          "change": "-6.40",
+          "percentGain": "-1.92"
+        },
+        {
+          "company": "HDFC Life",
+          "high": "674.10",
+          "low": "651.30",
+          "lastPrice": "652.10",
+          "prevClose": "657.70",
+          "change": "-5.60",
+          "percentGain": "-0.85"
+        },
+        {
+          "company": "Hero Motocorp",
+          "high": "4,804.45",
+          "low": "4,732.10",
+          "lastPrice": "4,744.60",
+          "prevClose": "4,783.50",
+          "change": "-38.90",
+          "percentGain": "-0.81"
+        },
+        {
+          "company": "Shriram Finance",
+          "high": "3,066.55",
+          "low": "2,992.20",
+          "lastPrice": "3,022.05",
+          "prevClose": "3,043.70",
+          "change": "-21.65",
+          "percentGain": "-0.71"
+        }
+      ]
     }
   ]
 }
