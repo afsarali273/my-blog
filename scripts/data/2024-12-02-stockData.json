@@ -1,0 +1,106 @@
+{
+  "gainers": [
+    {
+      "time": "3:57:00 AM",
+      "data": [
+        {
+          "company": "Maruti Suzuki",
+          "high": "11,295.60",
+          "low": "11,151.00",
+          "lastPrice": "11,244.05",
+          "prevClose": "11,074.20",
+          "change": "169.85",
+          "percentGain": "1.53"
+        },
+        {
+          "company": "Apollo Hospital",
+          "high": "6,922.30",
+          "low": "6,821.10",
+          "lastPrice": "6,901.25",
+          "prevClose": "6,828.90",
+          "change": "72.35",
+          "percentGain": "1.06"
+        },
+        {
+          "company": "Shriram Finance",
+          "high": "3,071.45",
+          "low": "3,010.70",
+          "lastPrice": "3,048.10",
+          "prevClose": "3,019.65",
+          "change": "28.45",
+          "percentGain": "0.94"
+        },
+        {
+          "company": "Bajaj Auto",
+          "high": "9,119.45",
+          "low": "9,065.90",
+          "lastPrice": "9,116.05",
+          "prevClose": "9,033.65",
+          "change": "82.40",
+          "percentGain": "0.91"
+        },
+        {
+          "company": "M&M",
+          "high": "3,009.90",
+          "low": "2,961.90",
+          "lastPrice": "2,990.00",
+          "prevClose": "2,966.10",
+          "change": "23.90",
+          "percentGain": "0.81"
+        }
+      ]
+    }
+  ],
+  "losers": [
+    {
+      "time": "3:57:00 AM",
+      "data": [
+        {
+          "company": "HDFC Life",
+          "high": "664.00",
+          "low": "646.25",
+          "lastPrice": "647.95",
+          "prevClose": "657.75",
+          "change": "-9.80",
+          "percentGain": "-1.49"
+        },
+        {
+          "company": "ONGC",
+          "high": "256.05",
+          "low": "252.70",
+          "lastPrice": "253.50",
+          "prevClose": "256.70",
+          "change": "-3.20",
+          "percentGain": "-1.25"
+        },
+        {
+          "company": "Bajaj Finance",
+          "high": "6,646.00",
+          "low": "6,501.50",
+          "lastPrice": "6,504.30",
+          "prevClose": "6,575.90",
+          "change": "-71.60",
+          "percentGain": "-1.09"
+        },
+        {
+          "company": "Reliance",
+          "high": "1,291.40",
+          "low": "1,278.00",
+          "lastPrice": "1,278.40",
+          "prevClose": "1,292.20",
+          "change": "-13.80",
+          "percentGain": "-1.07"
+        },
+        {
+          "company": "Infosys",
+          "high": "1,861.00",
+          "low": "1,835.20",
+          "lastPrice": "1,839.95",
+          "prevClose": "1,857.85",
+          "change": "-17.90",
+          "percentGain": "-0.96"
+        }
+      ]
+    }
+  ]
+}
