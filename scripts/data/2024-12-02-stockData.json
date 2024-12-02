@@ -49,6 +49,56 @@
           "percentGain": "0.81"
         }
       ]
+    },
+    {
+      "time": "4:20:07 AM",
+      "data": [
+        {
+          "company": "Maruti Suzuki",
+          "high": "11,325.00",
+          "low": "11,151.00",
+          "lastPrice": "11,300.00",
+          "prevClose": "11,074.20",
+          "change": "225.80",
+          "percentGain": "2.04"
+        },
+        {
+          "company": "Shriram Finance",
+          "high": "3,084.90",
+          "low": "3,010.70",
+          "lastPrice": "3,078.05",
+          "prevClose": "3,019.65",
+          "change": "58.40",
+          "percentGain": "1.93"
+        },
+        {
+          "company": "Grasim",
+          "high": "2,651.00",
+          "low": "2,591.75",
+          "lastPrice": "2,651.00",
+          "prevClose": "2,606.25",
+          "change": "44.75",
+          "percentGain": "1.72"
+        },
+        {
+          "company": "Apollo Hospital",
+          "high": "6,938.40",
+          "low": "6,821.10",
+          "lastPrice": "6,936.00",
+          "prevClose": "6,828.90",
+          "change": "107.10",
+          "percentGain": "1.57"
+        },
+        {
+          "company": "Dr Reddys Labs",
+          "high": "1,221.00",
+          "low": "1,202.30",
+          "lastPrice": "1,219.80",
+          "prevClose": "1,202.30",
+          "change": "17.50",
+          "percentGain": "1.46"
+        }
+      ]
     }
   ],
   "losers": [
@@ -99,6 +149,56 @@
           "prevClose": "1,857.85",
           "change": "-17.90",
           "percentGain": "-0.96"
+        }
+      ]
+    },
+    {
+      "time": "4:20:07 AM",
+      "data": [
+        {
+          "company": "HDFC Life",
+          "high": "664.00",
+          "low": "646.25",
+          "lastPrice": "649.35",
+          "prevClose": "657.75",
+          "change": "-8.40",
+          "percentGain": "-1.28"
+        },
+        {
+          "company": "IndusInd Bank",
+          "high": "992.65",
+          "low": "982.00",
+          "lastPrice": "984.45",
+          "prevClose": "995.85",
+          "change": "-11.40",
+          "percentGain": "-1.14"
+        },
+        {
+          "company": "Bajaj Finance",
+          "high": "6,646.00",
+          "low": "6,491.00",
+          "lastPrice": "6,513.00",
+          "prevClose": "6,575.90",
+          "change": "-62.90",
+          "percentGain": "-0.96"
+        },
+        {
+          "company": "Cipla",
+          "high": "1,548.50",
+          "low": "1,515.00",
+          "lastPrice": "1,519.95",
+          "prevClose": "1,533.90",
+          "change": "-13.95",
+          "percentGain": "-0.91"
+        },
+        {
+          "company": "HDFC Bank",
+          "high": "1,807.00",
+          "low": "1,775.00",
+          "lastPrice": "1,782.00",
+          "prevClose": "1,796.05",
+          "change": "-14.05",
+          "percentGain": "-0.78"
         }
       ]
     }
