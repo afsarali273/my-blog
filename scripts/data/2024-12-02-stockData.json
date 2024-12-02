@@ -569,6 +569,56 @@
     {
       "time": "9:40:42 AM",
       "data": []
+    },
+    {
+      "time": "9:50:13 AM",
+      "data": [
+        {
+          "company": "UltraTechCement",
+          "high": "11,780.00",
+          "low": "11,206.70",
+          "lastPrice": "11,651.55",
+          "prevClose": "11,202.15",
+          "change": "449.40",
+          "percentGain": "4.01"
+        },
+        {
+          "company": "Apollo Hospital",
+          "high": "7,072.00",
+          "low": "6,821.10",
+          "lastPrice": "7,069.85",
+          "prevClose": "6,828.90",
+          "change": "240.95",
+          "percentGain": "3.53"
+        },
+        {
+          "company": "Grasim",
+          "high": "2,709.00",
+          "low": "2,591.75",
+          "lastPrice": "2,693.90",
+          "prevClose": "2,606.25",
+          "change": "87.65",
+          "percentGain": "3.36"
+        },
+        {
+          "company": "JSW Steel",
+          "high": "991.55",
+          "low": "961.75",
+          "lastPrice": "990.65",
+          "prevClose": "966.00",
+          "change": "24.65",
+          "percentGain": "2.55"
+        },
+        {
+          "company": "Shriram Finance",
+          "high": "3,114.85",
+          "low": "3,010.70",
+          "lastPrice": "3,094.60",
+          "prevClose": "3,019.65",
+          "change": "74.95",
+          "percentGain": "2.48"
+        }
+      ]
     }
   ],
   "losers": [
@@ -1141,6 +1191,56 @@
     {
       "time": "9:40:42 AM",
       "data": []
+    },
+    {
+      "time": "9:50:13 AM",
+      "data": [
+        {
+          "company": "HDFC Life",
+          "high": "664.00",
+          "low": "639.30",
+          "lastPrice": "640.00",
+          "prevClose": "657.75",
+          "change": "-17.75",
+          "percentGain": "-2.70"
+        },
+        {
+          "company": "Cipla",
+          "high": "1,548.50",
+          "low": "1,504.30",
+          "lastPrice": "1,505.20",
+          "prevClose": "1,533.90",
+          "change": "-28.70",
+          "percentGain": "-1.87"
+        },
+        {
+          "company": "NTPC",
+          "high": "363.90",
+          "low": "357.00",
+          "lastPrice": "358.25",
+          "prevClose": "363.65",
+          "change": "-5.40",
+          "percentGain": "-1.48"
+        },
+        {
+          "company": "SBI Life Insura",
+          "high": "1,449.80",
+          "low": "1,411.15",
+          "lastPrice": "1,422.70",
+          "prevClose": "1,437.75",
+          "change": "-15.05",
+          "percentGain": "-1.05"
+        },
+        {
+          "company": "HUL",
+          "high": "2,490.50",
+          "low": "2,460.55",
+          "lastPrice": "2,479.05",
+          "prevClose": "2,496.15",
+          "change": "-17.10",
+          "percentGain": "-0.69"
+        }
+      ]
     }
   ]
 }
