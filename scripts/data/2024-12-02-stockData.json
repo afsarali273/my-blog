@@ -407,6 +407,56 @@
           "percentGain": "1.78"
         }
       ]
+    },
+    {
+      "time": "7:38:26 AM",
+      "data": [
+        {
+          "company": "UltraTechCement",
+          "high": "11,675.00",
+          "low": "11,206.70",
+          "lastPrice": "11,604.80",
+          "prevClose": "11,202.15",
+          "change": "402.65",
+          "percentGain": "3.59"
+        },
+        {
+          "company": "Grasim",
+          "high": "2,707.00",
+          "low": "2,591.75",
+          "lastPrice": "2,695.30",
+          "prevClose": "2,606.25",
+          "change": "89.05",
+          "percentGain": "3.42"
+        },
+        {
+          "company": "Apollo Hospital",
+          "high": "7,010.00",
+          "low": "6,821.10",
+          "lastPrice": "7,002.00",
+          "prevClose": "6,828.90",
+          "change": "173.10",
+          "percentGain": "2.53"
+        },
+        {
+          "company": "Shriram Finance",
+          "high": "3,114.85",
+          "low": "3,010.70",
+          "lastPrice": "3,090.50",
+          "prevClose": "3,019.65",
+          "change": "70.85",
+          "percentGain": "2.35"
+        },
+        {
+          "company": "Dr Reddys Labs",
+          "high": "1,225.25",
+          "low": "1,202.30",
+          "lastPrice": "1,223.15",
+          "prevClose": "1,202.30",
+          "change": "20.85",
+          "percentGain": "1.73"
+        }
+      ]
     }
   ],
   "losers": [
@@ -815,6 +865,56 @@
           "prevClose": "1,437.75",
           "change": "-16.25",
           "percentGain": "-1.13"
+        }
+      ]
+    },
+    {
+      "time": "7:38:26 AM",
+      "data": [
+        {
+          "company": "HDFC Life",
+          "high": "664.00",
+          "low": "641.05",
+          "lastPrice": "641.25",
+          "prevClose": "657.75",
+          "change": "-16.50",
+          "percentGain": "-2.51"
+        },
+        {
+          "company": "Cipla",
+          "high": "1,548.50",
+          "low": "1,509.30",
+          "lastPrice": "1,511.35",
+          "prevClose": "1,533.90",
+          "change": "-22.55",
+          "percentGain": "-1.47"
+        },
+        {
+          "company": "SBI Life Insura",
+          "high": "1,449.80",
+          "low": "1,416.60",
+          "lastPrice": "1,417.35",
+          "prevClose": "1,437.75",
+          "change": "-20.40",
+          "percentGain": "-1.42"
+        },
+        {
+          "company": "IndusInd Bank",
+          "high": "992.65",
+          "low": "979.00",
+          "lastPrice": "981.85",
+          "prevClose": "995.85",
+          "change": "-14.00",
+          "percentGain": "-1.41"
+        },
+        {
+          "company": "NTPC",
+          "high": "363.90",
+          "low": "357.00",
+          "lastPrice": "358.55",
+          "prevClose": "363.65",
+          "change": "-5.10",
+          "percentGain": "-1.40"
         }
       ]
     }
