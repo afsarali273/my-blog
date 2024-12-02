@@ -207,6 +207,56 @@
           "percentGain": "1.58"
         }
       ]
+    },
+    {
+      "time": "5:50:35 AM",
+      "data": [
+        {
+          "company": "UltraTechCement",
+          "high": "11,524.95",
+          "low": "11,206.70",
+          "lastPrice": "11,520.00",
+          "prevClose": "11,202.15",
+          "change": "317.85",
+          "percentGain": "2.84"
+        },
+        {
+          "company": "Grasim",
+          "high": "2,684.15",
+          "low": "2,591.75",
+          "lastPrice": "2,678.05",
+          "prevClose": "2,606.25",
+          "change": "71.80",
+          "percentGain": "2.75"
+        },
+        {
+          "company": "Shriram Finance",
+          "high": "3,103.25",
+          "low": "3,010.70",
+          "lastPrice": "3,090.00",
+          "prevClose": "3,019.65",
+          "change": "70.35",
+          "percentGain": "2.33"
+        },
+        {
+          "company": "Maruti Suzuki",
+          "high": "11,325.00",
+          "low": "11,151.00",
+          "lastPrice": "11,290.55",
+          "prevClose": "11,074.20",
+          "change": "216.35",
+          "percentGain": "1.95"
+        },
+        {
+          "company": "Apollo Hospital",
+          "high": "6,962.90",
+          "low": "6,821.10",
+          "lastPrice": "6,930.45",
+          "prevClose": "6,828.90",
+          "change": "101.55",
+          "percentGain": "1.49"
+        }
+      ]
     }
   ],
   "losers": [
@@ -415,6 +465,56 @@
           "prevClose": "308.00",
           "change": "-3.35",
           "percentGain": "-1.09"
+        }
+      ]
+    },
+    {
+      "time": "5:50:35 AM",
+      "data": [
+        {
+          "company": "HDFC Life",
+          "high": "664.00",
+          "low": "644.40",
+          "lastPrice": "645.90",
+          "prevClose": "657.75",
+          "change": "-11.85",
+          "percentGain": "-1.80"
+        },
+        {
+          "company": "IndusInd Bank",
+          "high": "992.65",
+          "low": "979.00",
+          "lastPrice": "982.90",
+          "prevClose": "995.85",
+          "change": "-12.95",
+          "percentGain": "-1.30"
+        },
+        {
+          "company": "NTPC",
+          "high": "363.90",
+          "low": "359.30",
+          "lastPrice": "359.95",
+          "prevClose": "363.65",
+          "change": "-3.70",
+          "percentGain": "-1.02"
+        },
+        {
+          "company": "Larsen",
+          "high": "3,710.50",
+          "low": "3,675.00",
+          "lastPrice": "3,687.00",
+          "prevClose": "3,724.80",
+          "change": "-37.80",
+          "percentGain": "-1.01"
+        },
+        {
+          "company": "Bharat Elec",
+          "high": "309.40",
+          "low": "304.35",
+          "lastPrice": "305.20",
+          "prevClose": "308.00",
+          "change": "-2.80",
+          "percentGain": "-0.91"
         }
       ]
     }
