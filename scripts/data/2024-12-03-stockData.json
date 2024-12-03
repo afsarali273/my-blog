@@ -549,6 +549,56 @@
           "percentGain": "2.18"
         }
       ]
+    },
+    {
+      "time": "7:49:51 AM",
+      "data": [
+        {
+          "company": "Adani Ports",
+          "high": "1,309.50",
+          "low": "1,220.00",
+          "lastPrice": "1,283.80",
+          "prevClose": "1,215.80",
+          "change": "68.00",
+          "percentGain": "5.59"
+        },
+        {
+          "company": "Cipla",
+          "high": "1,549.40",
+          "low": "1,508.50",
+          "lastPrice": "1,541.75",
+          "prevClose": "1,507.70",
+          "change": "34.05",
+          "percentGain": "2.26"
+        },
+        {
+          "company": "NTPC",
+          "high": "367.45",
+          "low": "358.20",
+          "lastPrice": "366.15",
+          "prevClose": "358.20",
+          "change": "7.95",
+          "percentGain": "2.22"
+        },
+        {
+          "company": "UltraTechCement",
+          "high": "11,935.00",
+          "low": "11,624.95",
+          "lastPrice": "11,900.85",
+          "prevClose": "11,648.55",
+          "change": "252.30",
+          "percentGain": "2.17"
+        },
+        {
+          "company": "Adani Enterpris",
+          "high": "2,558.00",
+          "low": "2,462.05",
+          "lastPrice": "2,508.00",
+          "prevClose": "2,457.05",
+          "change": "50.95",
+          "percentGain": "2.07"
+        }
+      ]
     }
   ],
   "losers": [
@@ -1099,6 +1149,56 @@
           "prevClose": "4,748.45",
           "change": "-38.10",
           "percentGain": "-0.80"
+        }
+      ]
+    },
+    {
+      "time": "7:49:51 AM",
+      "data": [
+        {
+          "company": "ITC",
+          "high": "471.95",
+          "low": "462.75",
+          "lastPrice": "469.85",
+          "prevClose": "477.20",
+          "change": "-7.35",
+          "percentGain": "-1.54"
+        },
+        {
+          "company": "Trent",
+          "high": "6,859.15",
+          "low": "6,681.80",
+          "lastPrice": "6,708.00",
+          "prevClose": "6,805.30",
+          "change": "-97.30",
+          "percentGain": "-1.43"
+        },
+        {
+          "company": "Hero Motocorp",
+          "high": "4,784.00",
+          "low": "4,690.30",
+          "lastPrice": "4,691.05",
+          "prevClose": "4,748.45",
+          "change": "-57.40",
+          "percentGain": "-1.21"
+        },
+        {
+          "company": "Bharti Airtel",
+          "high": "1,652.90",
+          "low": "1,622.35",
+          "lastPrice": "1,626.20",
+          "prevClose": "1,643.60",
+          "change": "-17.40",
+          "percentGain": "-1.06"
+        },
+        {
+          "company": "Wipro",
+          "high": "296.20",
+          "low": "289.30",
+          "lastPrice": "290.00",
+          "prevClose": "292.28",
+          "change": "-2.28",
+          "percentGain": "-0.78"
         }
       ]
     }
