@@ -1,0 +1,106 @@
+{
+  "gainers": [
+    {
+      "time": "3:56:01 AM",
+      "data": [
+        {
+          "company": "Adani Ports",
+          "high": "1,253.00",
+          "low": "1,220.00",
+          "lastPrice": "1,251.45",
+          "prevClose": "1,215.80",
+          "change": "35.65",
+          "percentGain": "2.93"
+        },
+        {
+          "company": "Shriram Finance",
+          "high": "3,181.65",
+          "low": "3,125.05",
+          "lastPrice": "3,171.75",
+          "prevClose": "3,094.20",
+          "change": "77.55",
+          "percentGain": "2.51"
+        },
+        {
+          "company": "JSW Steel",
+          "high": "1,015.50",
+          "low": "994.00",
+          "lastPrice": "1,002.10",
+          "prevClose": "989.80",
+          "change": "12.30",
+          "percentGain": "1.24"
+        },
+        {
+          "company": "SBI",
+          "high": "845.80",
+          "low": "836.90",
+          "lastPrice": "845.75",
+          "prevClose": "836.40",
+          "change": "9.35",
+          "percentGain": "1.12"
+        },
+        {
+          "company": "HDFC Bank",
+          "high": "1,831.70",
+          "low": "1,816.10",
+          "lastPrice": "1,823.25",
+          "prevClose": "1,804.70",
+          "change": "18.55",
+          "percentGain": "1.03"
+        }
+      ]
+    }
+  ],
+  "losers": [
+    {
+      "time": "3:56:01 AM",
+      "data": [
+        {
+          "company": "ITC",
+          "high": "470.00",
+          "low": "462.75",
+          "lastPrice": "464.30",
+          "prevClose": "477.20",
+          "change": "-12.90",
+          "percentGain": "-2.70"
+        },
+        {
+          "company": "Bharti Airtel",
+          "high": "1,652.90",
+          "low": "1,627.10",
+          "lastPrice": "1,629.50",
+          "prevClose": "1,643.60",
+          "change": "-14.10",
+          "percentGain": "-0.86"
+        },
+        {
+          "company": "Sun Pharma",
+          "high": "1,832.00",
+          "low": "1,792.55",
+          "lastPrice": "1,794.05",
+          "prevClose": "1,808.55",
+          "change": "-14.50",
+          "percentGain": "-0.80"
+        },
+        {
+          "company": "TATA Cons. Prod",
+          "high": "959.75",
+          "low": "950.40",
+          "lastPrice": "950.85",
+          "prevClose": "957.00",
+          "change": "-6.15",
+          "percentGain": "-0.64"
+        },
+        {
+          "company": "Titan Company",
+          "high": "3,300.85",
+          "low": "3,276.60",
+          "lastPrice": "3,291.90",
+          "prevClose": "3,306.85",
+          "change": "-14.95",
+          "percentGain": "-0.45"
+        }
+      ]
+    }
+  ]
+}
