@@ -199,6 +199,56 @@
           "percentGain": "1.81"
         }
       ]
+    },
+    {
+      "time": "5:16:49 AM",
+      "data": [
+        {
+          "company": "Adani Ports",
+          "high": "1,265.00",
+          "low": "1,220.00",
+          "lastPrice": "1,263.25",
+          "prevClose": "1,215.80",
+          "change": "47.45",
+          "percentGain": "3.90"
+        },
+        {
+          "company": "Shriram Finance",
+          "high": "3,206.90",
+          "low": "3,125.05",
+          "lastPrice": "3,184.05",
+          "prevClose": "3,094.20",
+          "change": "89.85",
+          "percentGain": "2.90"
+        },
+        {
+          "company": "ONGC",
+          "high": "264.60",
+          "low": "258.85",
+          "lastPrice": "264.40",
+          "prevClose": "257.55",
+          "change": "6.85",
+          "percentGain": "2.66"
+        },
+        {
+          "company": "Larsen",
+          "high": "3,784.00",
+          "low": "3,701.50",
+          "lastPrice": "3,780.90",
+          "prevClose": "3,704.05",
+          "change": "76.85",
+          "percentGain": "2.07"
+        },
+        {
+          "company": "SBI",
+          "high": "854.50",
+          "low": "836.90",
+          "lastPrice": "853.00",
+          "prevClose": "836.40",
+          "change": "16.60",
+          "percentGain": "1.98"
+        }
+      ]
     }
   ],
   "losers": [
@@ -399,6 +449,56 @@
           "prevClose": "662.60",
           "change": "-3.15",
           "percentGain": "-0.48"
+        }
+      ]
+    },
+    {
+      "time": "5:16:49 AM",
+      "data": [
+        {
+          "company": "ITC",
+          "high": "470.40",
+          "low": "462.75",
+          "lastPrice": "469.25",
+          "prevClose": "477.20",
+          "change": "-7.95",
+          "percentGain": "-1.67"
+        },
+        {
+          "company": "Trent",
+          "high": "6,859.15",
+          "low": "6,692.75",
+          "lastPrice": "6,720.35",
+          "prevClose": "6,805.30",
+          "change": "-84.95",
+          "percentGain": "-1.25"
+        },
+        {
+          "company": "Bharti Airtel",
+          "high": "1,652.90",
+          "low": "1,623.05",
+          "lastPrice": "1,625.05",
+          "prevClose": "1,643.60",
+          "change": "-18.55",
+          "percentGain": "-1.13"
+        },
+        {
+          "company": "HDFC Life",
+          "high": "646.80",
+          "low": "634.00",
+          "lastPrice": "634.40",
+          "prevClose": "640.20",
+          "change": "-5.80",
+          "percentGain": "-0.91"
+        },
+        {
+          "company": "Hindalco",
+          "high": "665.85",
+          "low": "657.25",
+          "lastPrice": "657.60",
+          "prevClose": "662.60",
+          "change": "-5.00",
+          "percentGain": "-0.75"
         }
       ]
     }
