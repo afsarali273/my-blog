@@ -853,6 +853,56 @@
           "percentGain": "2.13"
         }
       ]
+    },
+    {
+      "time": "10:15:44 AM",
+      "data": [
+        {
+          "company": "Adani Ports",
+          "high": "1,309.50",
+          "low": "1,220.00",
+          "lastPrice": "1,288.65",
+          "prevClose": "1,215.80",
+          "change": "72.85",
+          "percentGain": "5.99"
+        },
+        {
+          "company": "NTPC",
+          "high": "370.00",
+          "low": "358.20",
+          "lastPrice": "367.45",
+          "prevClose": "358.20",
+          "change": "9.25",
+          "percentGain": "2.58"
+        },
+        {
+          "company": "Adani Enterpris",
+          "high": "2,558.00",
+          "low": "2,462.05",
+          "lastPrice": "2,514.20",
+          "prevClose": "2,457.05",
+          "change": "57.15",
+          "percentGain": "2.33"
+        },
+        {
+          "company": "Larsen",
+          "high": "3,798.85",
+          "low": "3,701.50",
+          "lastPrice": "3,787.05",
+          "prevClose": "3,704.05",
+          "change": "83.00",
+          "percentGain": "2.24"
+        },
+        {
+          "company": "SBI",
+          "high": "856.60",
+          "low": "836.90",
+          "lastPrice": "853.95",
+          "prevClose": "836.40",
+          "change": "17.55",
+          "percentGain": "2.10"
+        }
+      ]
     }
   ],
   "losers": [
@@ -1707,6 +1757,56 @@
           "prevClose": "1,808.55",
           "change": "-7.90",
           "percentGain": "-0.44"
+        }
+      ]
+    },
+    {
+      "time": "10:15:44 AM",
+      "data": [
+        {
+          "company": "Bharti Airtel",
+          "high": "1,652.90",
+          "low": "1,613.15",
+          "lastPrice": "1,620.55",
+          "prevClose": "1,643.60",
+          "change": "-23.05",
+          "percentGain": "-1.40"
+        },
+        {
+          "company": "Hero Motocorp",
+          "high": "4,784.00",
+          "low": "4,690.00",
+          "lastPrice": "4,697.00",
+          "prevClose": "4,748.45",
+          "change": "-51.45",
+          "percentGain": "-1.08"
+        },
+        {
+          "company": "ITC",
+          "high": "473.40",
+          "low": "462.75",
+          "lastPrice": "472.55",
+          "prevClose": "477.20",
+          "change": "-4.65",
+          "percentGain": "-0.97"
+        },
+        {
+          "company": "HDFC Life",
+          "high": "646.80",
+          "low": "632.30",
+          "lastPrice": "634.00",
+          "prevClose": "640.20",
+          "change": "-6.20",
+          "percentGain": "-0.97"
+        },
+        {
+          "company": "Sun Pharma",
+          "high": "1,832.00",
+          "low": "1,788.35",
+          "lastPrice": "1,800.05",
+          "prevClose": "1,808.55",
+          "change": "-8.50",
+          "percentGain": "-0.47"
         }
       ]
     }
