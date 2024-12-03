@@ -703,6 +703,56 @@
           "percentGain": "2.12"
         }
       ]
+    },
+    {
+      "time": "9:18:35 AM",
+      "data": [
+        {
+          "company": "Adani Ports",
+          "high": "1,309.50",
+          "low": "1,220.00",
+          "lastPrice": "1,290.00",
+          "prevClose": "1,215.80",
+          "change": "74.20",
+          "percentGain": "6.10"
+        },
+        {
+          "company": "NTPC",
+          "high": "370.00",
+          "low": "358.20",
+          "lastPrice": "367.25",
+          "prevClose": "358.20",
+          "change": "9.05",
+          "percentGain": "2.53"
+        },
+        {
+          "company": "Adani Enterpris",
+          "high": "2,558.00",
+          "low": "2,462.05",
+          "lastPrice": "2,514.05",
+          "prevClose": "2,457.05",
+          "change": "57.00",
+          "percentGain": "2.32"
+        },
+        {
+          "company": "Axis Bank",
+          "high": "1,164.90",
+          "low": "1,138.00",
+          "lastPrice": "1,160.55",
+          "prevClose": "1,137.10",
+          "change": "23.45",
+          "percentGain": "2.06"
+        },
+        {
+          "company": "SBI",
+          "high": "856.60",
+          "low": "836.90",
+          "lastPrice": "853.15",
+          "prevClose": "836.40",
+          "change": "16.75",
+          "percentGain": "2.00"
+        }
+      ]
     }
   ],
   "losers": [
@@ -1407,6 +1457,56 @@
           "prevClose": "2,479.05",
           "change": "-11.90",
           "percentGain": "-0.48"
+        }
+      ]
+    },
+    {
+      "time": "9:18:35 AM",
+      "data": [
+        {
+          "company": "Bharti Airtel",
+          "high": "1,652.90",
+          "low": "1,613.15",
+          "lastPrice": "1,615.65",
+          "prevClose": "1,643.60",
+          "change": "-27.95",
+          "percentGain": "-1.70"
+        },
+        {
+          "company": "ITC",
+          "high": "472.50",
+          "low": "462.75",
+          "lastPrice": "471.55",
+          "prevClose": "477.20",
+          "change": "-5.65",
+          "percentGain": "-1.18"
+        },
+        {
+          "company": "Hero Motocorp",
+          "high": "4,784.00",
+          "low": "4,690.00",
+          "lastPrice": "4,700.70",
+          "prevClose": "4,748.45",
+          "change": "-47.75",
+          "percentGain": "-1.01"
+        },
+        {
+          "company": "HDFC Life",
+          "high": "646.80",
+          "low": "632.30",
+          "lastPrice": "635.70",
+          "prevClose": "640.20",
+          "change": "-4.50",
+          "percentGain": "-0.70"
+        },
+        {
+          "company": "TATA Cons. Prod",
+          "high": "959.75",
+          "low": "948.65",
+          "lastPrice": "951.35",
+          "prevClose": "957.00",
+          "change": "-5.65",
+          "percentGain": "-0.59"
         }
       ]
     }
