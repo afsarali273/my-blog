@@ -349,6 +349,56 @@
           "percentGain": "2.09"
         }
       ]
+    },
+    {
+      "time": "6:24:13 AM",
+      "data": [
+        {
+          "company": "Adani Ports",
+          "high": "1,309.50",
+          "low": "1,220.00",
+          "lastPrice": "1,298.20",
+          "prevClose": "1,215.80",
+          "change": "82.40",
+          "percentGain": "6.78"
+        },
+        {
+          "company": "Adani Enterpris",
+          "high": "2,558.00",
+          "low": "2,462.05",
+          "lastPrice": "2,527.10",
+          "prevClose": "2,457.05",
+          "change": "70.05",
+          "percentGain": "2.85"
+        },
+        {
+          "company": "UltraTechCement",
+          "high": "11,915.00",
+          "low": "11,624.95",
+          "lastPrice": "11,899.60",
+          "prevClose": "11,648.55",
+          "change": "251.05",
+          "percentGain": "2.16"
+        },
+        {
+          "company": "ONGC",
+          "high": "264.70",
+          "low": "258.85",
+          "lastPrice": "263.00",
+          "prevClose": "257.55",
+          "change": "5.45",
+          "percentGain": "2.12"
+        },
+        {
+          "company": "Cipla",
+          "high": "1,549.40",
+          "low": "1,508.50",
+          "lastPrice": "1,538.50",
+          "prevClose": "1,507.70",
+          "change": "30.80",
+          "percentGain": "2.04"
+        }
+      ]
     }
   ],
   "losers": [
@@ -699,6 +749,56 @@
           "prevClose": "1,808.55",
           "change": "-11.75",
           "percentGain": "-0.65"
+        }
+      ]
+    },
+    {
+      "time": "6:24:13 AM",
+      "data": [
+        {
+          "company": "ITC",
+          "high": "470.40",
+          "low": "462.75",
+          "lastPrice": "469.15",
+          "prevClose": "477.20",
+          "change": "-8.05",
+          "percentGain": "-1.69"
+        },
+        {
+          "company": "Trent",
+          "high": "6,859.15",
+          "low": "6,692.75",
+          "lastPrice": "6,701.50",
+          "prevClose": "6,805.30",
+          "change": "-103.80",
+          "percentGain": "-1.53"
+        },
+        {
+          "company": "HDFC Life",
+          "high": "646.80",
+          "low": "632.30",
+          "lastPrice": "633.95",
+          "prevClose": "640.20",
+          "change": "-6.25",
+          "percentGain": "-0.98"
+        },
+        {
+          "company": "Bharti Airtel",
+          "high": "1,652.90",
+          "low": "1,623.05",
+          "lastPrice": "1,628.40",
+          "prevClose": "1,643.60",
+          "change": "-15.20",
+          "percentGain": "-0.92"
+        },
+        {
+          "company": "TATA Cons. Prod",
+          "high": "959.75",
+          "low": "950.00",
+          "lastPrice": "950.25",
+          "prevClose": "957.00",
+          "change": "-6.75",
+          "percentGain": "-0.71"
         }
       ]
     }
