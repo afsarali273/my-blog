@@ -103,6 +103,56 @@
           "percentGain": "1.50"
         }
       ]
+    },
+    {
+      "time": "4:54:07 AM",
+      "data": [
+        {
+          "company": "HDFC Life",
+          "high": "648.45",
+          "low": "635.00",
+          "lastPrice": "645.50",
+          "prevClose": "634.00",
+          "change": "11.50",
+          "percentGain": "1.81"
+        },
+        {
+          "company": "TCS",
+          "high": "4,383.00",
+          "low": "4,289.05",
+          "lastPrice": "4,378.25",
+          "prevClose": "4,302.75",
+          "change": "75.50",
+          "percentGain": "1.75"
+        },
+        {
+          "company": "SBI Life Insura",
+          "high": "1,472.35",
+          "low": "1,435.05",
+          "lastPrice": "1,461.05",
+          "prevClose": "1,440.95",
+          "change": "20.10",
+          "percentGain": "1.39"
+        },
+        {
+          "company": "Wipro",
+          "high": "297.00",
+          "low": "291.80",
+          "lastPrice": "295.45",
+          "prevClose": "291.65",
+          "change": "3.80",
+          "percentGain": "1.30"
+        },
+        {
+          "company": "BPCL",
+          "high": "299.55",
+          "low": "293.15",
+          "lastPrice": "297.90",
+          "prevClose": "294.25",
+          "change": "3.65",
+          "percentGain": "1.24"
+        }
+      ]
     }
   ],
   "losers": [
@@ -207,6 +257,56 @@
           "prevClose": "2,514.20",
           "change": "-15.20",
           "percentGain": "-0.60"
+        }
+      ]
+    },
+    {
+      "time": "4:54:07 AM",
+      "data": [
+        {
+          "company": "Bharti Airtel",
+          "high": "1,630.50",
+          "low": "1,595.90",
+          "lastPrice": "1,596.85",
+          "prevClose": "1,620.55",
+          "change": "-23.70",
+          "percentGain": "-1.46"
+        },
+        {
+          "company": "Adani Ports",
+          "high": "1,301.00",
+          "low": "1,271.00",
+          "lastPrice": "1,271.65",
+          "prevClose": "1,288.65",
+          "change": "-17.00",
+          "percentGain": "-1.32"
+        },
+        {
+          "company": "Cipla",
+          "high": "1,536.75",
+          "low": "1,512.35",
+          "lastPrice": "1,514.20",
+          "prevClose": "1,533.90",
+          "change": "-19.70",
+          "percentGain": "-1.28"
+        },
+        {
+          "company": "Adani Enterpris",
+          "high": "2,530.05",
+          "low": "2,482.20",
+          "lastPrice": "2,484.00",
+          "prevClose": "2,514.20",
+          "change": "-30.20",
+          "percentGain": "-1.20"
+        },
+        {
+          "company": "Dr Reddys Labs",
+          "high": "1,229.10",
+          "low": "1,212.10",
+          "lastPrice": "1,212.90",
+          "prevClose": "1,224.50",
+          "change": "-11.60",
+          "percentGain": "-0.95"
         }
       ]
     }
