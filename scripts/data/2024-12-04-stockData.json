@@ -357,6 +357,56 @@
           "percentGain": "1.44"
         }
       ]
+    },
+    {
+      "time": "7:16:47 AM",
+      "data": [
+        {
+          "company": "HDFC Life",
+          "high": "650.80",
+          "low": "635.00",
+          "lastPrice": "649.00",
+          "prevClose": "634.00",
+          "change": "15.00",
+          "percentGain": "2.37"
+        },
+        {
+          "company": "HDFC Bank",
+          "high": "1,865.00",
+          "low": "1,831.15",
+          "lastPrice": "1,856.10",
+          "prevClose": "1,826.30",
+          "change": "29.80",
+          "percentGain": "1.63"
+        },
+        {
+          "company": "TCS",
+          "high": "4,386.95",
+          "low": "4,289.05",
+          "lastPrice": "4,369.00",
+          "prevClose": "4,302.75",
+          "change": "66.25",
+          "percentGain": "1.54"
+        },
+        {
+          "company": "Apollo Hospital",
+          "high": "7,255.50",
+          "low": "7,125.05",
+          "lastPrice": "7,232.20",
+          "prevClose": "7,126.55",
+          "change": "105.65",
+          "percentGain": "1.48"
+        },
+        {
+          "company": "SBI Life Insura",
+          "high": "1,472.35",
+          "low": "1,435.05",
+          "lastPrice": "1,461.90",
+          "prevClose": "1,440.95",
+          "change": "20.95",
+          "percentGain": "1.45"
+        }
+      ]
     }
   ],
   "losers": [
@@ -715,6 +765,56 @@
           "prevClose": "1,533.90",
           "change": "-23.00",
           "percentGain": "-1.50"
+        }
+      ]
+    },
+    {
+      "time": "7:16:47 AM",
+      "data": [
+        {
+          "company": "Power Grid Corp",
+          "high": "331.25",
+          "low": "321.10",
+          "lastPrice": "321.40",
+          "prevClose": "329.65",
+          "change": "-8.25",
+          "percentGain": "-2.50"
+        },
+        {
+          "company": "Bharti Airtel",
+          "high": "1,630.50",
+          "low": "1,582.60",
+          "lastPrice": "1,584.40",
+          "prevClose": "1,620.55",
+          "change": "-36.15",
+          "percentGain": "-2.23"
+        },
+        {
+          "company": "Cipla",
+          "high": "1,536.75",
+          "low": "1,506.00",
+          "lastPrice": "1,507.45",
+          "prevClose": "1,533.90",
+          "change": "-26.45",
+          "percentGain": "-1.72"
+        },
+        {
+          "company": "Adani Ports",
+          "high": "1,301.00",
+          "low": "1,262.00",
+          "lastPrice": "1,266.95",
+          "prevClose": "1,288.65",
+          "change": "-21.70",
+          "percentGain": "-1.68"
+        },
+        {
+          "company": "Bajaj Auto",
+          "high": "9,240.00",
+          "low": "8,951.00",
+          "lastPrice": "9,011.85",
+          "prevClose": "9,161.80",
+          "change": "-149.95",
+          "percentGain": "-1.64"
         }
       ]
     }
