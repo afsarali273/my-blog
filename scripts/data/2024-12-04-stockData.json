@@ -1,0 +1,106 @@
+{
+  "gainers": [
+    {
+      "time": "3:55:51 AM",
+      "data": [
+        {
+          "company": "Bharat Elec",
+          "high": "320.85",
+          "low": "315.00",
+          "lastPrice": "317.40",
+          "prevClose": "312.10",
+          "change": "5.30",
+          "percentGain": "1.70"
+        },
+        {
+          "company": "HDFC Life",
+          "high": "641.90",
+          "low": "635.00",
+          "lastPrice": "641.70",
+          "prevClose": "634.00",
+          "change": "7.70",
+          "percentGain": "1.21"
+        },
+        {
+          "company": "SBI Life Insura",
+          "high": "1,456.00",
+          "low": "1,435.05",
+          "lastPrice": "1,455.95",
+          "prevClose": "1,440.95",
+          "change": "15.00",
+          "percentGain": "1.04"
+        },
+        {
+          "company": "Larsen",
+          "high": "3,828.00",
+          "low": "3,765.85",
+          "lastPrice": "3,824.10",
+          "prevClose": "3,787.05",
+          "change": "37.05",
+          "percentGain": "0.98"
+        },
+        {
+          "company": "Trent",
+          "high": "6,920.00",
+          "low": "6,855.00",
+          "lastPrice": "6,904.75",
+          "prevClose": "6,841.35",
+          "change": "63.40",
+          "percentGain": "0.93"
+        }
+      ]
+    }
+  ],
+  "losers": [
+    {
+      "time": "3:55:51 AM",
+      "data": [
+        {
+          "company": "Shriram Finance",
+          "high": "3,157.80",
+          "low": "3,119.70",
+          "lastPrice": "3,127.35",
+          "prevClose": "3,155.55",
+          "change": "-28.20",
+          "percentGain": "-0.89"
+        },
+        {
+          "company": "Bharti Airtel",
+          "high": "1,630.50",
+          "low": "1,605.15",
+          "lastPrice": "1,609.75",
+          "prevClose": "1,620.55",
+          "change": "-10.80",
+          "percentGain": "-0.67"
+        },
+        {
+          "company": "Reliance",
+          "high": "1,328.40",
+          "low": "1,315.45",
+          "lastPrice": "1,317.65",
+          "prevClose": "1,323.30",
+          "change": "-5.65",
+          "percentGain": "-0.43"
+        },
+        {
+          "company": "ICICI Bank",
+          "high": "1,307.80",
+          "low": "1,301.70",
+          "lastPrice": "1,303.30",
+          "prevClose": "1,308.40",
+          "change": "-5.10",
+          "percentGain": "-0.39"
+        },
+        {
+          "company": "Cipla",
+          "high": "1,536.75",
+          "low": "1,525.15",
+          "lastPrice": "1,528.55",
+          "prevClose": "1,533.90",
+          "change": "-5.35",
+          "percentGain": "-0.35"
+        }
+      ]
+    }
+  ]
+}
