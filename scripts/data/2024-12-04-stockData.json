@@ -707,6 +707,56 @@
           "percentGain": "1.23"
         }
       ]
+    },
+    {
+      "time": "9:49:59 AM",
+      "data": [
+        {
+          "company": "HDFC Life",
+          "high": "651.00",
+          "low": "635.00",
+          "lastPrice": "650.40",
+          "prevClose": "634.00",
+          "change": "16.40",
+          "percentGain": "2.59"
+        },
+        {
+          "company": "HDFC Bank",
+          "high": "1,865.00",
+          "low": "1,831.15",
+          "lastPrice": "1,860.80",
+          "prevClose": "1,826.30",
+          "change": "34.50",
+          "percentGain": "1.89"
+        },
+        {
+          "company": "Apollo Hospital",
+          "high": "7,269.10",
+          "low": "7,125.05",
+          "lastPrice": "7,239.85",
+          "prevClose": "7,126.55",
+          "change": "113.30",
+          "percentGain": "1.59"
+        },
+        {
+          "company": "NTPC",
+          "high": "375.15",
+          "low": "368.00",
+          "lastPrice": "372.90",
+          "prevClose": "367.45",
+          "change": "5.45",
+          "percentGain": "1.48"
+        },
+        {
+          "company": "Bajaj Finserv",
+          "high": "1,632.25",
+          "low": "1,606.10",
+          "lastPrice": "1,629.60",
+          "prevClose": "1,607.10",
+          "change": "22.50",
+          "percentGain": "1.40"
+        }
+      ]
     }
   ],
   "losers": [
@@ -1415,6 +1465,56 @@
           "prevClose": "329.65",
           "change": "-4.90",
           "percentGain": "-1.49"
+        }
+      ]
+    },
+    {
+      "time": "9:49:59 AM",
+      "data": [
+        {
+          "company": "Bharti Airtel",
+          "high": "1,630.50",
+          "low": "1,582.40",
+          "lastPrice": "1,584.15",
+          "prevClose": "1,620.55",
+          "change": "-36.40",
+          "percentGain": "-2.25"
+        },
+        {
+          "company": "Cipla",
+          "high": "1,536.75",
+          "low": "1,492.25",
+          "lastPrice": "1,499.80",
+          "prevClose": "1,533.90",
+          "change": "-34.10",
+          "percentGain": "-2.22"
+        },
+        {
+          "company": "Bajaj Auto",
+          "high": "9,240.00",
+          "low": "8,951.00",
+          "lastPrice": "8,998.70",
+          "prevClose": "9,161.80",
+          "change": "-163.10",
+          "percentGain": "-1.78"
+        },
+        {
+          "company": "Tata Motors",
+          "high": "806.00",
+          "low": "784.05",
+          "lastPrice": "787.35",
+          "prevClose": "801.25",
+          "change": "-13.90",
+          "percentGain": "-1.73"
+        },
+        {
+          "company": "Adani Ports",
+          "high": "1,301.00",
+          "low": "1,262.00",
+          "lastPrice": "1,270.10",
+          "prevClose": "1,288.65",
+          "change": "-18.55",
+          "percentGain": "-1.44"
         }
       ]
     }
