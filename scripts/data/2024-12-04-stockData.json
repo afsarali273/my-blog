@@ -253,6 +253,56 @@
           "percentGain": "1.06"
         }
       ]
+    },
+    {
+      "time": "5:50:07 AM",
+      "data": [
+        {
+          "company": "HDFC Bank",
+          "high": "1,865.00",
+          "low": "1,831.15",
+          "lastPrice": "1,861.15",
+          "prevClose": "1,826.30",
+          "change": "34.85",
+          "percentGain": "1.91"
+        },
+        {
+          "company": "HDFC Life",
+          "high": "648.45",
+          "low": "635.00",
+          "lastPrice": "645.25",
+          "prevClose": "634.00",
+          "change": "11.25",
+          "percentGain": "1.77"
+        },
+        {
+          "company": "TCS",
+          "high": "4,386.95",
+          "low": "4,289.05",
+          "lastPrice": "4,371.00",
+          "prevClose": "4,302.75",
+          "change": "68.25",
+          "percentGain": "1.59"
+        },
+        {
+          "company": "NTPC",
+          "high": "375.15",
+          "low": "368.00",
+          "lastPrice": "372.55",
+          "prevClose": "367.45",
+          "change": "5.10",
+          "percentGain": "1.39"
+        },
+        {
+          "company": "Titan Company",
+          "high": "3,375.00",
+          "low": "3,338.00",
+          "lastPrice": "3,370.95",
+          "prevClose": "3,332.75",
+          "change": "38.20",
+          "percentGain": "1.15"
+        }
+      ]
     }
   ],
   "losers": [
@@ -507,6 +557,56 @@
           "prevClose": "2,514.20",
           "change": "-24.80",
           "percentGain": "-0.99"
+        }
+      ]
+    },
+    {
+      "time": "5:50:07 AM",
+      "data": [
+        {
+          "company": "Bharti Airtel",
+          "high": "1,630.50",
+          "low": "1,585.05",
+          "lastPrice": "1,589.00",
+          "prevClose": "1,620.55",
+          "change": "-31.55",
+          "percentGain": "-1.95"
+        },
+        {
+          "company": "Cipla",
+          "high": "1,536.75",
+          "low": "1,506.00",
+          "lastPrice": "1,510.70",
+          "prevClose": "1,533.90",
+          "change": "-23.20",
+          "percentGain": "-1.51"
+        },
+        {
+          "company": "Tata Motors",
+          "high": "806.00",
+          "low": "790.00",
+          "lastPrice": "790.85",
+          "prevClose": "801.25",
+          "change": "-10.40",
+          "percentGain": "-1.30"
+        },
+        {
+          "company": "Adani Ports",
+          "high": "1,301.00",
+          "low": "1,268.35",
+          "lastPrice": "1,274.75",
+          "prevClose": "1,288.65",
+          "change": "-13.90",
+          "percentGain": "-1.08"
+        },
+        {
+          "company": "Tata Steel",
+          "high": "147.05",
+          "low": "145.16",
+          "lastPrice": "145.28",
+          "prevClose": "146.54",
+          "change": "-1.26",
+          "percentGain": "-0.86"
         }
       ]
     }
