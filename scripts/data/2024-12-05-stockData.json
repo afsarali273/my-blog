@@ -53,6 +53,56 @@
     {
       "time": "4:20:17 AM",
       "data": []
+    },
+    {
+      "time": "4:43:37 AM",
+      "data": [
+        {
+          "company": "Bharti Airtel",
+          "high": "1,604.00",
+          "low": "1,585.35",
+          "lastPrice": "1,600.15",
+          "prevClose": "1,584.10",
+          "change": "16.05",
+          "percentGain": "1.01"
+        },
+        {
+          "company": "TCS",
+          "high": "4,409.95",
+          "low": "4,365.10",
+          "lastPrice": "4,386.50",
+          "prevClose": "4,354.40",
+          "change": "32.10",
+          "percentGain": "0.74"
+        },
+        {
+          "company": "Tech Mahindra",
+          "high": "1,776.65",
+          "low": "1,755.10",
+          "lastPrice": "1,771.80",
+          "prevClose": "1,759.60",
+          "change": "12.20",
+          "percentGain": "0.69"
+        },
+        {
+          "company": "Infosys",
+          "high": "1,914.50",
+          "low": "1,896.25",
+          "lastPrice": "1,899.25",
+          "prevClose": "1,889.25",
+          "change": "10.00",
+          "percentGain": "0.53"
+        },
+        {
+          "company": "Wipro",
+          "high": "296.55",
+          "low": "294.30",
+          "lastPrice": "295.10",
+          "prevClose": "294.00",
+          "change": "1.10",
+          "percentGain": "0.37"
+        }
+      ]
     }
   ],
   "losers": [
@@ -109,6 +159,56 @@
     {
       "time": "4:20:17 AM",
       "data": []
+    },
+    {
+      "time": "4:43:37 AM",
+      "data": [
+        {
+          "company": "Bajaj Auto",
+          "high": "9,044.15",
+          "low": "8,825.50",
+          "lastPrice": "8,840.00",
+          "prevClose": "8,999.15",
+          "change": "-159.15",
+          "percentGain": "-1.77"
+        },
+        {
+          "company": "NTPC",
+          "high": "373.95",
+          "low": "365.70",
+          "lastPrice": "367.10",
+          "prevClose": "372.75",
+          "change": "-5.65",
+          "percentGain": "-1.52"
+        },
+        {
+          "company": "Power Grid Corp",
+          "high": "325.85",
+          "low": "320.00",
+          "lastPrice": "320.35",
+          "prevClose": "325.05",
+          "change": "-4.70",
+          "percentGain": "-1.45"
+        },
+        {
+          "company": "JSW Steel",
+          "high": "995.20",
+          "low": "980.10",
+          "lastPrice": "982.00",
+          "prevClose": "994.85",
+          "change": "-12.85",
+          "percentGain": "-1.29"
+        },
+        {
+          "company": "SBI Life Insura",
+          "high": "1,456.05",
+          "low": "1,429.70",
+          "lastPrice": "1,434.00",
+          "prevClose": "1,452.60",
+          "change": "-18.60",
+          "percentGain": "-1.28"
+        }
+      ]
     }
   ]
 }
