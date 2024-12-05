@@ -261,6 +261,56 @@
           "percentGain": "0.27"
         }
       ]
+    },
+    {
+      "time": "6:47:21 AM",
+      "data": [
+        {
+          "company": "Infosys",
+          "high": "1,921.65",
+          "low": "1,888.95",
+          "lastPrice": "1,921.65",
+          "prevClose": "1,889.25",
+          "change": "32.40",
+          "percentGain": "1.71"
+        },
+        {
+          "company": "TCS",
+          "high": "4,422.95",
+          "low": "4,360.00",
+          "lastPrice": "4,422.00",
+          "prevClose": "4,354.40",
+          "change": "67.60",
+          "percentGain": "1.55"
+        },
+        {
+          "company": "Titan Company",
+          "high": "3,412.65",
+          "low": "3,353.60",
+          "lastPrice": "3,410.75",
+          "prevClose": "3,364.45",
+          "change": "46.30",
+          "percentGain": "1.38"
+        },
+        {
+          "company": "SBI",
+          "high": "870.00",
+          "low": "855.60",
+          "lastPrice": "869.95",
+          "prevClose": "859.70",
+          "change": "10.25",
+          "percentGain": "1.19"
+        },
+        {
+          "company": "Reliance",
+          "high": "1,324.00",
+          "low": "1,306.15",
+          "lastPrice": "1,324.00",
+          "prevClose": "1,308.95",
+          "change": "15.05",
+          "percentGain": "1.15"
+        }
+      ]
     }
   ],
   "losers": [
@@ -523,6 +573,56 @@
           "prevClose": "994.85",
           "change": "-14.30",
           "percentGain": "-1.44"
+        }
+      ]
+    },
+    {
+      "time": "6:47:21 AM",
+      "data": [
+        {
+          "company": "Bajaj Auto",
+          "high": "9,044.15",
+          "low": "8,746.50",
+          "lastPrice": "8,802.00",
+          "prevClose": "8,999.15",
+          "change": "-197.15",
+          "percentGain": "-2.19"
+        },
+        {
+          "company": "SBI Life Insura",
+          "high": "1,456.05",
+          "low": "1,417.55",
+          "lastPrice": "1,430.35",
+          "prevClose": "1,452.60",
+          "change": "-22.25",
+          "percentGain": "-1.53"
+        },
+        {
+          "company": "NTPC",
+          "high": "373.95",
+          "low": "364.40",
+          "lastPrice": "369.50",
+          "prevClose": "372.75",
+          "change": "-3.25",
+          "percentGain": "-0.87"
+        },
+        {
+          "company": "Cipla",
+          "high": "1,507.00",
+          "low": "1,470.10",
+          "lastPrice": "1,490.30",
+          "prevClose": "1,500.85",
+          "change": "-10.55",
+          "percentGain": "-0.70"
+        },
+        {
+          "company": "Asian Paints",
+          "high": "2,465.55",
+          "low": "2,423.90",
+          "lastPrice": "2,443.40",
+          "prevClose": "2,459.45",
+          "change": "-16.05",
+          "percentGain": "-0.65"
         }
       ]
     }
