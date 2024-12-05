@@ -565,6 +565,56 @@
           "percentGain": "2.14"
         }
       ]
+    },
+    {
+      "time": "9:40:31 AM",
+      "data": [
+        {
+          "company": "TCS",
+          "high": "4,489.00",
+          "low": "4,360.00",
+          "lastPrice": "4,468.80",
+          "prevClose": "4,354.40",
+          "change": "114.40",
+          "percentGain": "2.63"
+        },
+        {
+          "company": "Infosys",
+          "high": "1,949.90",
+          "low": "1,888.95",
+          "lastPrice": "1,935.05",
+          "prevClose": "1,889.25",
+          "change": "45.80",
+          "percentGain": "2.42"
+        },
+        {
+          "company": "Titan Company",
+          "high": "3,465.40",
+          "low": "3,353.60",
+          "lastPrice": "3,432.20",
+          "prevClose": "3,364.45",
+          "change": "67.75",
+          "percentGain": "2.01"
+        },
+        {
+          "company": "Dr Reddys Labs",
+          "high": "1,249.50",
+          "low": "1,210.10",
+          "lastPrice": "1,239.90",
+          "prevClose": "1,215.55",
+          "change": "24.35",
+          "percentGain": "2.00"
+        },
+        {
+          "company": "Bharti Airtel",
+          "high": "1,620.55",
+          "low": "1,585.35",
+          "lastPrice": "1,614.55",
+          "prevClose": "1,584.10",
+          "change": "30.45",
+          "percentGain": "1.92"
+        }
+      ]
     }
   ],
   "losers": [
@@ -1122,6 +1172,56 @@
           "prevClose": "372.75",
           "change": "-1.90",
           "percentGain": "-0.51"
+        }
+      ]
+    },
+    {
+      "time": "9:40:31 AM",
+      "data": [
+        {
+          "company": "SBI Life Insura",
+          "high": "1,456.05",
+          "low": "1,417.55",
+          "lastPrice": "1,433.35",
+          "prevClose": "1,452.60",
+          "change": "-19.25",
+          "percentGain": "-1.33"
+        },
+        {
+          "company": "HDFC Life",
+          "high": "653.50",
+          "low": "639.35",
+          "lastPrice": "642.50",
+          "prevClose": "650.25",
+          "change": "-7.75",
+          "percentGain": "-1.19"
+        },
+        {
+          "company": "Bajaj Auto",
+          "high": "9,044.15",
+          "low": "8,746.50",
+          "lastPrice": "8,893.70",
+          "prevClose": "8,999.15",
+          "change": "-105.45",
+          "percentGain": "-1.17"
+        },
+        {
+          "company": "NTPC",
+          "high": "373.95",
+          "low": "364.40",
+          "lastPrice": "369.40",
+          "prevClose": "372.75",
+          "change": "-3.35",
+          "percentGain": "-0.90"
+        },
+        {
+          "company": "Asian Paints",
+          "high": "2,466.90",
+          "low": "2,423.90",
+          "lastPrice": "2,448.95",
+          "prevClose": "2,459.45",
+          "change": "-10.50",
+          "percentGain": "-0.43"
         }
       ]
     }
