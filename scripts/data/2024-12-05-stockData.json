@@ -465,6 +465,56 @@
     {
       "time": "8:21:53 AM",
       "data": []
+    },
+    {
+      "time": "8:45:44 AM",
+      "data": [
+        {
+          "company": "Infosys",
+          "high": "1,941.70",
+          "low": "1,888.95",
+          "lastPrice": "1,940.40",
+          "prevClose": "1,889.25",
+          "change": "51.15",
+          "percentGain": "2.71"
+        },
+        {
+          "company": "Titan Company",
+          "high": "3,450.80",
+          "low": "3,353.60",
+          "lastPrice": "3,450.15",
+          "prevClose": "3,364.45",
+          "change": "85.70",
+          "percentGain": "2.55"
+        },
+        {
+          "company": "TCS",
+          "high": "4,465.00",
+          "low": "4,360.00",
+          "lastPrice": "4,463.65",
+          "prevClose": "4,354.40",
+          "change": "109.25",
+          "percentGain": "2.51"
+        },
+        {
+          "company": "Dr Reddys Labs",
+          "high": "1,244.45",
+          "low": "1,210.10",
+          "lastPrice": "1,242.80",
+          "prevClose": "1,215.55",
+          "change": "27.25",
+          "percentGain": "2.24"
+        },
+        {
+          "company": "Wipro",
+          "high": "299.90",
+          "low": "293.90",
+          "lastPrice": "299.75",
+          "prevClose": "294.00",
+          "change": "5.75",
+          "percentGain": "1.96"
+        }
+      ]
     }
   ],
   "losers": [
@@ -933,6 +983,56 @@
     {
       "time": "8:21:53 AM",
       "data": []
+    },
+    {
+      "time": "8:45:44 AM",
+      "data": [
+        {
+          "company": "Bajaj Auto",
+          "high": "9,044.15",
+          "low": "8,746.50",
+          "lastPrice": "8,850.80",
+          "prevClose": "8,999.15",
+          "change": "-148.35",
+          "percentGain": "-1.65"
+        },
+        {
+          "company": "SBI Life Insura",
+          "high": "1,456.05",
+          "low": "1,417.55",
+          "lastPrice": "1,437.00",
+          "prevClose": "1,452.60",
+          "change": "-15.60",
+          "percentGain": "-1.07"
+        },
+        {
+          "company": "HDFC Life",
+          "high": "653.50",
+          "low": "640.00",
+          "lastPrice": "646.10",
+          "prevClose": "650.25",
+          "change": "-4.15",
+          "percentGain": "-0.64"
+        },
+        {
+          "company": "NTPC",
+          "high": "373.95",
+          "low": "364.40",
+          "lastPrice": "370.50",
+          "prevClose": "372.75",
+          "change": "-2.25",
+          "percentGain": "-0.60"
+        },
+        {
+          "company": "Asian Paints",
+          "high": "2,465.55",
+          "low": "2,423.90",
+          "lastPrice": "2,451.50",
+          "prevClose": "2,459.45",
+          "change": "-7.95",
+          "percentGain": "-0.32"
+        }
+      ]
     }
   ]
 }
