@@ -311,6 +311,56 @@
           "percentGain": "1.15"
         }
       ]
+    },
+    {
+      "time": "7:16:30 AM",
+      "data": [
+        {
+          "company": "Titan Company",
+          "high": "3,445.00",
+          "low": "3,353.60",
+          "lastPrice": "3,436.00",
+          "prevClose": "3,364.45",
+          "change": "71.55",
+          "percentGain": "2.13"
+        },
+        {
+          "company": "Infosys",
+          "high": "1,923.00",
+          "low": "1,888.95",
+          "lastPrice": "1,919.00",
+          "prevClose": "1,889.25",
+          "change": "29.75",
+          "percentGain": "1.57"
+        },
+        {
+          "company": "Dr Reddys Labs",
+          "high": "1,233.60",
+          "low": "1,210.10",
+          "lastPrice": "1,232.15",
+          "prevClose": "1,215.55",
+          "change": "16.60",
+          "percentGain": "1.37"
+        },
+        {
+          "company": "TCS",
+          "high": "4,425.00",
+          "low": "4,360.00",
+          "lastPrice": "4,412.35",
+          "prevClose": "4,354.40",
+          "change": "57.95",
+          "percentGain": "1.33"
+        },
+        {
+          "company": "Bharti Airtel",
+          "high": "1,608.05",
+          "low": "1,585.35",
+          "lastPrice": "1,603.65",
+          "prevClose": "1,584.10",
+          "change": "19.55",
+          "percentGain": "1.23"
+        }
+      ]
     }
   ],
   "losers": [
@@ -623,6 +673,56 @@
           "prevClose": "2,459.45",
           "change": "-16.05",
           "percentGain": "-0.65"
+        }
+      ]
+    },
+    {
+      "time": "7:16:30 AM",
+      "data": [
+        {
+          "company": "Bajaj Auto",
+          "high": "9,044.15",
+          "low": "8,746.50",
+          "lastPrice": "8,774.85",
+          "prevClose": "8,999.15",
+          "change": "-224.30",
+          "percentGain": "-2.49"
+        },
+        {
+          "company": "SBI Life Insura",
+          "high": "1,456.05",
+          "low": "1,417.55",
+          "lastPrice": "1,430.65",
+          "prevClose": "1,452.60",
+          "change": "-21.95",
+          "percentGain": "-1.51"
+        },
+        {
+          "company": "NTPC",
+          "high": "373.95",
+          "low": "364.40",
+          "lastPrice": "369.05",
+          "prevClose": "372.75",
+          "change": "-3.70",
+          "percentGain": "-0.99"
+        },
+        {
+          "company": "Cipla",
+          "high": "1,507.00",
+          "low": "1,470.10",
+          "lastPrice": "1,486.20",
+          "prevClose": "1,500.85",
+          "change": "-14.65",
+          "percentGain": "-0.98"
+        },
+        {
+          "company": "HDFC Life",
+          "high": "653.50",
+          "low": "640.00",
+          "lastPrice": "645.00",
+          "prevClose": "650.25",
+          "change": "-5.25",
+          "percentGain": "-0.81"
         }
       ]
     }
