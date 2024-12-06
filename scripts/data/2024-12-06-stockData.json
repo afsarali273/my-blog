@@ -203,6 +203,56 @@
     {
       "time": "5:16:19 AM",
       "data": []
+    },
+    {
+      "time": "5:40:27 AM",
+      "data": [
+        {
+          "company": "Bajaj Auto",
+          "high": "9,148.95",
+          "low": "8,930.10",
+          "lastPrice": "9,121.90",
+          "prevClose": "8,891.95",
+          "change": "229.95",
+          "percentGain": "2.59"
+        },
+        {
+          "company": "Axis Bank",
+          "high": "1,190.00",
+          "low": "1,160.00",
+          "lastPrice": "1,187.25",
+          "prevClose": "1,166.40",
+          "change": "20.85",
+          "percentGain": "1.79"
+        },
+        {
+          "company": "BPCL",
+          "high": "302.80",
+          "low": "296.40",
+          "lastPrice": "302.00",
+          "prevClose": "297.00",
+          "change": "5.00",
+          "percentGain": "1.68"
+        },
+        {
+          "company": "Eicher Motors",
+          "high": "4,928.70",
+          "low": "4,827.55",
+          "lastPrice": "4,897.55",
+          "prevClose": "4,837.55",
+          "change": "60.00",
+          "percentGain": "1.24"
+        },
+        {
+          "company": "ITC",
+          "high": "474.95",
+          "low": "467.70",
+          "lastPrice": "473.25",
+          "prevClose": "467.50",
+          "change": "5.75",
+          "percentGain": "1.23"
+        }
+      ]
     }
   ],
   "losers": [
@@ -409,6 +459,56 @@
     {
       "time": "5:16:19 AM",
       "data": []
+    },
+    {
+      "time": "5:40:27 AM",
+      "data": [
+        {
+          "company": "Cipla",
+          "high": "1,513.25",
+          "low": "1,480.10",
+          "lastPrice": "1,482.00",
+          "prevClose": "1,498.25",
+          "change": "-16.25",
+          "percentGain": "-1.08"
+        },
+        {
+          "company": "Infosys",
+          "high": "1,937.95",
+          "low": "1,915.00",
+          "lastPrice": "1,919.25",
+          "prevClose": "1,934.85",
+          "change": "-15.60",
+          "percentGain": "-0.81"
+        },
+        {
+          "company": "UltraTechCement",
+          "high": "11,956.35",
+          "low": "11,830.85",
+          "lastPrice": "11,853.15",
+          "prevClose": "11,932.80",
+          "change": "-79.65",
+          "percentGain": "-0.67"
+        },
+        {
+          "company": "TCS",
+          "high": "4,464.05",
+          "low": "4,412.75",
+          "lastPrice": "4,435.15",
+          "prevClose": "4,464.05",
+          "change": "-28.90",
+          "percentGain": "-0.65"
+        },
+        {
+          "company": "HDFC Life",
+          "high": "647.45",
+          "low": "638.10",
+          "lastPrice": "639.05",
+          "prevClose": "643.15",
+          "change": "-4.10",
+          "percentGain": "-0.64"
+        }
+      ]
     }
   ]
 }
