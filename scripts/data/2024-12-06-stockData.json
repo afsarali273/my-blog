@@ -1,0 +1,106 @@
+{
+  "gainers": [
+    {
+      "time": "3:55:40 AM",
+      "data": [
+        {
+          "company": "Trent",
+          "high": "7,140.00",
+          "low": "7,050.00",
+          "lastPrice": "7,126.00",
+          "prevClose": "6,970.10",
+          "change": "155.90",
+          "percentGain": "2.24"
+        },
+        {
+          "company": "Bajaj Auto",
+          "high": "9,068.00",
+          "low": "8,930.10",
+          "lastPrice": "9,060.25",
+          "prevClose": "8,891.95",
+          "change": "168.30",
+          "percentGain": "1.89"
+        },
+        {
+          "company": "Hero Motocorp",
+          "high": "4,719.80",
+          "low": "4,645.10",
+          "lastPrice": "4,718.85",
+          "prevClose": "4,644.35",
+          "change": "74.50",
+          "percentGain": "1.60"
+        },
+        {
+          "company": "ITC",
+          "high": "473.00",
+          "low": "467.70",
+          "lastPrice": "472.75",
+          "prevClose": "467.50",
+          "change": "5.25",
+          "percentGain": "1.12"
+        },
+        {
+          "company": "Power Grid Corp",
+          "high": "330.95",
+          "low": "326.70",
+          "lastPrice": "330.95",
+          "prevClose": "328.35",
+          "change": "2.60",
+          "percentGain": "0.79"
+        }
+      ]
+    }
+  ],
+  "losers": [
+    {
+      "time": "3:55:40 AM",
+      "data": [
+        {
+          "company": "TCS",
+          "high": "4,464.05",
+          "low": "4,418.95",
+          "lastPrice": "4,420.10",
+          "prevClose": "4,464.05",
+          "change": "-43.95",
+          "percentGain": "-0.98"
+        },
+        {
+          "company": "Larsen",
+          "high": "3,837.95",
+          "low": "3,800.05",
+          "lastPrice": "3,801.60",
+          "prevClose": "3,831.55",
+          "change": "-29.95",
+          "percentGain": "-0.78"
+        },
+        {
+          "company": "Wipro",
+          "high": "299.15",
+          "low": "297.30",
+          "lastPrice": "297.55",
+          "prevClose": "299.30",
+          "change": "-1.75",
+          "percentGain": "-0.58"
+        },
+        {
+          "company": "Tata Motors",
+          "high": "793.95",
+          "low": "786.05",
+          "lastPrice": "788.70",
+          "prevClose": "792.55",
+          "change": "-3.85",
+          "percentGain": "-0.49"
+        },
+        {
+          "company": "Infosys",
+          "high": "1,937.95",
+          "low": "1,922.40",
+          "lastPrice": "1,925.70",
+          "prevClose": "1,934.85",
+          "change": "-9.15",
+          "percentGain": "-0.47"
+        }
+      ]
+    }
+  ]
+}
