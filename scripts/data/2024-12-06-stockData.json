@@ -453,6 +453,56 @@
           "percentGain": "1.30"
         }
       ]
+    },
+    {
+      "time": "7:37:27 AM",
+      "data": [
+        {
+          "company": "Bajaj Auto",
+          "high": "9,148.95",
+          "low": "8,930.10",
+          "lastPrice": "9,097.30",
+          "prevClose": "8,891.95",
+          "change": "205.35",
+          "percentGain": "2.31"
+        },
+        {
+          "company": "BPCL",
+          "high": "303.00",
+          "low": "296.40",
+          "lastPrice": "302.90",
+          "prevClose": "297.00",
+          "change": "5.90",
+          "percentGain": "1.99"
+        },
+        {
+          "company": "Axis Bank",
+          "high": "1,193.85",
+          "low": "1,160.00",
+          "lastPrice": "1,189.15",
+          "prevClose": "1,166.40",
+          "change": "22.75",
+          "percentGain": "1.95"
+        },
+        {
+          "company": "Titan Company",
+          "high": "3,499.65",
+          "low": "3,430.00",
+          "lastPrice": "3,487.20",
+          "prevClose": "3,441.05",
+          "change": "46.15",
+          "percentGain": "1.34"
+        },
+        {
+          "company": "Maruti Suzuki",
+          "high": "11,375.95",
+          "low": "11,121.00",
+          "lastPrice": "11,326.85",
+          "prevClose": "11,182.25",
+          "change": "144.60",
+          "percentGain": "1.29"
+        }
+      ]
     }
   ],
   "losers": [
@@ -907,6 +957,56 @@
           "prevClose": "2,452.20",
           "change": "-17.90",
           "percentGain": "-0.73"
+        }
+      ]
+    },
+    {
+      "time": "7:37:27 AM",
+      "data": [
+        {
+          "company": "Cipla",
+          "high": "1,513.25",
+          "low": "1,476.30",
+          "lastPrice": "1,480.55",
+          "prevClose": "1,498.25",
+          "change": "-17.70",
+          "percentGain": "-1.18"
+        },
+        {
+          "company": "HDFC Life",
+          "high": "647.45",
+          "low": "635.50",
+          "lastPrice": "635.65",
+          "prevClose": "643.15",
+          "change": "-7.50",
+          "percentGain": "-1.17"
+        },
+        {
+          "company": "Bharti Airtel",
+          "high": "1,624.65",
+          "low": "1,599.15",
+          "lastPrice": "1,599.90",
+          "prevClose": "1,615.35",
+          "change": "-15.45",
+          "percentGain": "-0.96"
+        },
+        {
+          "company": "Infosys",
+          "high": "1,937.95",
+          "low": "1,914.15",
+          "lastPrice": "1,917.10",
+          "prevClose": "1,934.85",
+          "change": "-17.75",
+          "percentGain": "-0.92"
+        },
+        {
+          "company": "Adani Ports",
+          "high": "1,282.50",
+          "low": "1,262.05",
+          "lastPrice": "1,265.50",
+          "prevClose": "1,277.05",
+          "change": "-11.55",
+          "percentGain": "-0.90"
         }
       ]
     }
