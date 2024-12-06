@@ -353,6 +353,56 @@
           "percentGain": "1.07"
         }
       ]
+    },
+    {
+      "time": "6:47:45 AM",
+      "data": [
+        {
+          "company": "Bajaj Auto",
+          "high": "9,148.95",
+          "low": "8,930.10",
+          "lastPrice": "9,080.95",
+          "prevClose": "8,891.95",
+          "change": "189.00",
+          "percentGain": "2.13"
+        },
+        {
+          "company": "Axis Bank",
+          "high": "1,190.85",
+          "low": "1,160.00",
+          "lastPrice": "1,190.00",
+          "prevClose": "1,166.40",
+          "change": "23.60",
+          "percentGain": "2.02"
+        },
+        {
+          "company": "Titan Company",
+          "high": "3,499.65",
+          "low": "3,430.00",
+          "lastPrice": "3,484.95",
+          "prevClose": "3,441.05",
+          "change": "43.90",
+          "percentGain": "1.28"
+        },
+        {
+          "company": "ITC",
+          "high": "474.95",
+          "low": "467.70",
+          "lastPrice": "473.00",
+          "prevClose": "467.50",
+          "change": "5.50",
+          "percentGain": "1.18"
+        },
+        {
+          "company": "Dr Reddys Labs",
+          "high": "1,252.25",
+          "low": "1,236.35",
+          "lastPrice": "1,251.45",
+          "prevClose": "1,239.85",
+          "change": "11.60",
+          "percentGain": "0.94"
+        }
+      ]
     }
   ],
   "losers": [
@@ -707,6 +757,56 @@
           "prevClose": "1,615.35",
           "change": "-13.65",
           "percentGain": "-0.85"
+        }
+      ]
+    },
+    {
+      "time": "6:47:45 AM",
+      "data": [
+        {
+          "company": "Adani Ports",
+          "high": "1,282.50",
+          "low": "1,262.05",
+          "lastPrice": "1,263.45",
+          "prevClose": "1,277.05",
+          "change": "-13.60",
+          "percentGain": "-1.06"
+        },
+        {
+          "company": "Cipla",
+          "high": "1,513.25",
+          "low": "1,476.30",
+          "lastPrice": "1,483.25",
+          "prevClose": "1,498.25",
+          "change": "-15.00",
+          "percentGain": "-1.00"
+        },
+        {
+          "company": "HDFC Life",
+          "high": "647.45",
+          "low": "636.05",
+          "lastPrice": "636.75",
+          "prevClose": "643.15",
+          "change": "-6.40",
+          "percentGain": "-1.00"
+        },
+        {
+          "company": "Infosys",
+          "high": "1,937.95",
+          "low": "1,914.15",
+          "lastPrice": "1,919.00",
+          "prevClose": "1,934.85",
+          "change": "-15.85",
+          "percentGain": "-0.82"
+        },
+        {
+          "company": "Wipro",
+          "high": "299.15",
+          "low": "296.20",
+          "lastPrice": "297.00",
+          "prevClose": "299.30",
+          "change": "-2.30",
+          "percentGain": "-0.77"
         }
       ]
     }
