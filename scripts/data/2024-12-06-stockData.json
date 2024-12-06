@@ -149,6 +149,56 @@
           "percentGain": "0.54"
         }
       ]
+    },
+    {
+      "time": "4:53:56 AM",
+      "data": [
+        {
+          "company": "Bajaj Auto",
+          "high": "9,136.30",
+          "low": "8,930.10",
+          "lastPrice": "9,079.00",
+          "prevClose": "8,891.95",
+          "change": "187.05",
+          "percentGain": "2.10"
+        },
+        {
+          "company": "BPCL",
+          "high": "302.80",
+          "low": "296.40",
+          "lastPrice": "302.30",
+          "prevClose": "297.00",
+          "change": "5.30",
+          "percentGain": "1.78"
+        },
+        {
+          "company": "ITC",
+          "high": "474.95",
+          "low": "467.70",
+          "lastPrice": "472.20",
+          "prevClose": "467.50",
+          "change": "4.70",
+          "percentGain": "1.01"
+        },
+        {
+          "company": "Trent",
+          "high": "7,140.00",
+          "low": "6,942.05",
+          "lastPrice": "7,030.00",
+          "prevClose": "6,970.10",
+          "change": "59.90",
+          "percentGain": "0.86"
+        },
+        {
+          "company": "Power Grid Corp",
+          "high": "332.75",
+          "low": "326.70",
+          "lastPrice": "330.80",
+          "prevClose": "328.35",
+          "change": "2.45",
+          "percentGain": "0.75"
+        }
+      ]
     }
   ],
   "losers": [
@@ -299,6 +349,56 @@
           "prevClose": "6,850.40",
           "change": "-43.00",
           "percentGain": "-0.63"
+        }
+      ]
+    },
+    {
+      "time": "4:53:56 AM",
+      "data": [
+        {
+          "company": "Cipla",
+          "high": "1,513.25",
+          "low": "1,480.80",
+          "lastPrice": "1,485.25",
+          "prevClose": "1,498.25",
+          "change": "-13.00",
+          "percentGain": "-0.87"
+        },
+        {
+          "company": "HUL",
+          "high": "2,495.80",
+          "low": "2,478.00",
+          "lastPrice": "2,478.80",
+          "prevClose": "2,494.60",
+          "change": "-15.80",
+          "percentGain": "-0.63"
+        },
+        {
+          "company": "TCS",
+          "high": "4,464.05",
+          "low": "4,412.75",
+          "lastPrice": "4,436.85",
+          "prevClose": "4,464.05",
+          "change": "-27.20",
+          "percentGain": "-0.61"
+        },
+        {
+          "company": "Tata Motors",
+          "high": "793.95",
+          "low": "785.30",
+          "lastPrice": "787.70",
+          "prevClose": "792.55",
+          "change": "-4.85",
+          "percentGain": "-0.61"
+        },
+        {
+          "company": "Infosys",
+          "high": "1,937.95",
+          "low": "1,921.55",
+          "lastPrice": "1,925.65",
+          "prevClose": "1,934.85",
+          "change": "-9.20",
+          "percentGain": "-0.48"
         }
       ]
     }
