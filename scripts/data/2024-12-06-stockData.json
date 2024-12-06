@@ -99,6 +99,56 @@
           "percentGain": "1.05"
         }
       ]
+    },
+    {
+      "time": "4:43:45 AM",
+      "data": [
+        {
+          "company": "Bajaj Auto",
+          "high": "9,136.30",
+          "low": "8,930.10",
+          "lastPrice": "9,069.05",
+          "prevClose": "8,891.95",
+          "change": "177.10",
+          "percentGain": "1.99"
+        },
+        {
+          "company": "BPCL",
+          "high": "302.80",
+          "low": "296.40",
+          "lastPrice": "300.90",
+          "prevClose": "297.00",
+          "change": "3.90",
+          "percentGain": "1.31"
+        },
+        {
+          "company": "ITC",
+          "high": "474.95",
+          "low": "467.70",
+          "lastPrice": "472.75",
+          "prevClose": "467.50",
+          "change": "5.25",
+          "percentGain": "1.12"
+        },
+        {
+          "company": "Power Grid Corp",
+          "high": "332.75",
+          "low": "326.70",
+          "lastPrice": "330.90",
+          "prevClose": "328.35",
+          "change": "2.55",
+          "percentGain": "0.78"
+        },
+        {
+          "company": "Eicher Motors",
+          "high": "4,928.70",
+          "low": "4,827.55",
+          "lastPrice": "4,863.90",
+          "prevClose": "4,837.55",
+          "change": "26.35",
+          "percentGain": "0.54"
+        }
+      ]
     }
   ],
   "losers": [
@@ -199,6 +249,56 @@
           "prevClose": "7,274.75",
           "change": "-36.75",
           "percentGain": "-0.51"
+        }
+      ]
+    },
+    {
+      "time": "4:43:45 AM",
+      "data": [
+        {
+          "company": "Cipla",
+          "high": "1,513.25",
+          "low": "1,480.80",
+          "lastPrice": "1,483.20",
+          "prevClose": "1,498.25",
+          "change": "-15.05",
+          "percentGain": "-1.00"
+        },
+        {
+          "company": "IndusInd Bank",
+          "high": "1,000.35",
+          "low": "987.10",
+          "lastPrice": "989.50",
+          "prevClose": "998.20",
+          "change": "-8.70",
+          "percentGain": "-0.87"
+        },
+        {
+          "company": "Tata Motors",
+          "high": "793.95",
+          "low": "785.30",
+          "lastPrice": "786.40",
+          "prevClose": "792.55",
+          "change": "-6.15",
+          "percentGain": "-0.78"
+        },
+        {
+          "company": "HDFC Bank",
+          "high": "1,862.05",
+          "low": "1,845.00",
+          "lastPrice": "1,851.20",
+          "prevClose": "1,865.75",
+          "change": "-14.55",
+          "percentGain": "-0.78"
+        },
+        {
+          "company": "Bajaj Finance",
+          "high": "6,875.95",
+          "low": "6,794.05",
+          "lastPrice": "6,807.40",
+          "prevClose": "6,850.40",
+          "change": "-43.00",
+          "percentGain": "-0.63"
         }
       ]
     }
