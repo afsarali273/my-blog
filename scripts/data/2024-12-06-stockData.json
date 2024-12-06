@@ -253,6 +253,56 @@
           "percentGain": "1.23"
         }
       ]
+    },
+    {
+      "time": "5:49:58 AM",
+      "data": [
+        {
+          "company": "Bajaj Auto",
+          "high": "9,148.95",
+          "low": "8,930.10",
+          "lastPrice": "9,112.55",
+          "prevClose": "8,891.95",
+          "change": "220.60",
+          "percentGain": "2.48"
+        },
+        {
+          "company": "Axis Bank",
+          "high": "1,190.00",
+          "low": "1,160.00",
+          "lastPrice": "1,184.35",
+          "prevClose": "1,166.40",
+          "change": "17.95",
+          "percentGain": "1.54"
+        },
+        {
+          "company": "BPCL",
+          "high": "302.80",
+          "low": "296.40",
+          "lastPrice": "301.20",
+          "prevClose": "297.00",
+          "change": "4.20",
+          "percentGain": "1.41"
+        },
+        {
+          "company": "ITC",
+          "high": "474.95",
+          "low": "467.70",
+          "lastPrice": "472.95",
+          "prevClose": "467.50",
+          "change": "5.45",
+          "percentGain": "1.17"
+        },
+        {
+          "company": "Titan Company",
+          "high": "3,476.30",
+          "low": "3,430.00",
+          "lastPrice": "3,475.45",
+          "prevClose": "3,441.05",
+          "change": "34.40",
+          "percentGain": "1.00"
+        }
+      ]
     }
   ],
   "losers": [
@@ -507,6 +557,56 @@
           "prevClose": "643.15",
           "change": "-4.10",
           "percentGain": "-0.64"
+        }
+      ]
+    },
+    {
+      "time": "5:49:58 AM",
+      "data": [
+        {
+          "company": "Cipla",
+          "high": "1,513.25",
+          "low": "1,477.80",
+          "lastPrice": "1,478.55",
+          "prevClose": "1,498.25",
+          "change": "-19.70",
+          "percentGain": "-1.31"
+        },
+        {
+          "company": "HDFC Life",
+          "high": "647.45",
+          "low": "637.45",
+          "lastPrice": "637.45",
+          "prevClose": "643.15",
+          "change": "-5.70",
+          "percentGain": "-0.89"
+        },
+        {
+          "company": "Bajaj Finserv",
+          "high": "1,649.95",
+          "low": "1,629.00",
+          "lastPrice": "1,630.50",
+          "prevClose": "1,644.10",
+          "change": "-13.60",
+          "percentGain": "-0.83"
+        },
+        {
+          "company": "UltraTechCement",
+          "high": "11,956.35",
+          "low": "11,830.85",
+          "lastPrice": "11,848.10",
+          "prevClose": "11,932.80",
+          "change": "-84.70",
+          "percentGain": "-0.71"
+        },
+        {
+          "company": "TCS",
+          "high": "4,464.05",
+          "low": "4,412.75",
+          "lastPrice": "4,432.95",
+          "prevClose": "4,464.05",
+          "change": "-31.10",
+          "percentGain": "-0.70"
         }
       ]
     }
