@@ -215,6 +215,56 @@
     {
       "time": "6:24:43 AM",
       "data": []
+    },
+    {
+      "time": "6:48:29 AM",
+      "data": [
+        {
+          "company": "Larsen",
+          "high": "3,958.50",
+          "low": "3,867.50",
+          "lastPrice": "3,946.00",
+          "prevClose": "3,866.70",
+          "change": "79.30",
+          "percentGain": "2.05"
+        },
+        {
+          "company": "SBI Life Insura",
+          "high": "1,484.40",
+          "low": "1,449.05",
+          "lastPrice": "1,477.75",
+          "prevClose": "1,448.55",
+          "change": "29.20",
+          "percentGain": "2.02"
+        },
+        {
+          "company": "HDFC Bank",
+          "high": "1,878.00",
+          "low": "1,849.00",
+          "lastPrice": "1,876.80",
+          "prevClose": "1,855.85",
+          "change": "20.95",
+          "percentGain": "1.13"
+        },
+        {
+          "company": "Kotak Mahindra",
+          "high": "1,804.95",
+          "low": "1,768.10",
+          "lastPrice": "1,796.45",
+          "prevClose": "1,776.95",
+          "change": "19.50",
+          "percentGain": "1.10"
+        },
+        {
+          "company": "Bajaj Finance",
+          "high": "6,925.00",
+          "low": "6,827.90",
+          "lastPrice": "6,916.00",
+          "prevClose": "6,850.30",
+          "change": "65.70",
+          "percentGain": "0.96"
+        }
+      ]
     }
   ],
   "losers": [
@@ -433,6 +483,56 @@
     {
       "time": "6:24:43 AM",
       "data": []
+    },
+    {
+      "time": "6:48:29 AM",
+      "data": [
+        {
+          "company": "TATA Cons. Prod",
+          "high": "974.00",
+          "low": "935.15",
+          "lastPrice": "940.50",
+          "prevClose": "974.45",
+          "change": "-33.95",
+          "percentGain": "-3.48"
+        },
+        {
+          "company": "HUL",
+          "high": "2,476.95",
+          "low": "2,383.30",
+          "lastPrice": "2,404.95",
+          "prevClose": "2,483.80",
+          "change": "-78.85",
+          "percentGain": "-3.17"
+        },
+        {
+          "company": "Hindalco",
+          "high": "669.90",
+          "low": "654.25",
+          "lastPrice": "656.50",
+          "prevClose": "670.15",
+          "change": "-13.65",
+          "percentGain": "-2.04"
+        },
+        {
+          "company": "Nestle",
+          "high": "2,276.60",
+          "low": "2,213.65",
+          "lastPrice": "2,230.00",
+          "prevClose": "2,267.80",
+          "change": "-37.80",
+          "percentGain": "-1.67"
+        },
+        {
+          "company": "Britannia",
+          "high": "4,855.90",
+          "low": "4,750.05",
+          "lastPrice": "4,795.00",
+          "prevClose": "4,870.85",
+          "change": "-75.85",
+          "percentGain": "-1.56"
+        }
+      ]
     }
   ]
 }
