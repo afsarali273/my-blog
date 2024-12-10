@@ -557,6 +557,56 @@
           "percentGain": "0.81"
         }
       ]
+    },
+    {
+      "time": "8:46:01 AM",
+      "data": [
+        {
+          "company": "Shriram Finance",
+          "high": "3,197.15",
+          "low": "3,109.00",
+          "lastPrice": "3,179.00",
+          "prevClose": "3,106.90",
+          "change": "72.10",
+          "percentGain": "2.32"
+        },
+        {
+          "company": "Wipro",
+          "high": "311.00",
+          "low": "303.45",
+          "lastPrice": "308.70",
+          "prevClose": "303.75",
+          "change": "4.95",
+          "percentGain": "1.63"
+        },
+        {
+          "company": "Bajaj Finserv",
+          "high": "1,673.00",
+          "low": "1,637.10",
+          "lastPrice": "1,656.95",
+          "prevClose": "1,637.05",
+          "change": "19.90",
+          "percentGain": "1.22"
+        },
+        {
+          "company": "HCL Tech",
+          "high": "1,942.80",
+          "low": "1,912.20",
+          "lastPrice": "1,930.60",
+          "prevClose": "1,909.90",
+          "change": "20.70",
+          "percentGain": "1.08"
+        },
+        {
+          "company": "Bajaj Finance",
+          "high": "6,958.85",
+          "low": "6,844.05",
+          "lastPrice": "6,927.10",
+          "prevClose": "6,868.35",
+          "change": "58.75",
+          "percentGain": "0.86"
+        }
+      ]
     }
   ],
   "losers": [
@@ -1115,6 +1165,56 @@
           "prevClose": "641.80",
           "change": "-9.40",
           "percentGain": "-1.46"
+        }
+      ]
+    },
+    {
+      "time": "8:46:01 AM",
+      "data": [
+        {
+          "company": "Bharti Airtel",
+          "high": "1,611.85",
+          "low": "1,570.05",
+          "lastPrice": "1,573.10",
+          "prevClose": "1,602.55",
+          "change": "-29.45",
+          "percentGain": "-1.84"
+        },
+        {
+          "company": "Trent",
+          "high": "6,959.95",
+          "low": "6,810.00",
+          "lastPrice": "6,834.30",
+          "prevClose": "6,949.70",
+          "change": "-115.40",
+          "percentGain": "-1.66"
+        },
+        {
+          "company": "Adani Ports",
+          "high": "1,272.90",
+          "low": "1,244.40",
+          "lastPrice": "1,247.15",
+          "prevClose": "1,266.85",
+          "change": "-19.70",
+          "percentGain": "-1.56"
+        },
+        {
+          "company": "Dr Reddys Labs",
+          "high": "1,253.60",
+          "low": "1,234.00",
+          "lastPrice": "1,236.45",
+          "prevClose": "1,255.15",
+          "change": "-18.70",
+          "percentGain": "-1.49"
+        },
+        {
+          "company": "Adani Enterpris",
+          "high": "2,501.00",
+          "low": "2,455.00",
+          "lastPrice": "2,460.10",
+          "prevClose": "2,495.85",
+          "change": "-35.75",
+          "percentGain": "-1.43"
         }
       ]
     }
