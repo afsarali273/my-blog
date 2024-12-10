@@ -299,6 +299,56 @@
           "percentGain": "1.49"
         }
       ]
+    },
+    {
+      "time": "5:50:55 AM",
+      "data": [
+        {
+          "company": "Shriram Finance",
+          "high": "3,197.15",
+          "low": "3,109.00",
+          "lastPrice": "3,190.70",
+          "prevClose": "3,106.90",
+          "change": "83.80",
+          "percentGain": "2.70"
+        },
+        {
+          "company": "Bajaj Finserv",
+          "high": "1,672.00",
+          "low": "1,637.10",
+          "lastPrice": "1,670.75",
+          "prevClose": "1,637.05",
+          "change": "33.70",
+          "percentGain": "2.06"
+        },
+        {
+          "company": "Infosys",
+          "high": "1,965.60",
+          "low": "1,932.00",
+          "lastPrice": "1,954.10",
+          "prevClose": "1,923.65",
+          "change": "30.45",
+          "percentGain": "1.58"
+        },
+        {
+          "company": "Wipro",
+          "high": "311.00",
+          "low": "303.45",
+          "lastPrice": "308.45",
+          "prevClose": "303.75",
+          "change": "4.70",
+          "percentGain": "1.55"
+        },
+        {
+          "company": "Tata Steel",
+          "high": "152.50",
+          "low": "149.31",
+          "lastPrice": "151.89",
+          "prevClose": "149.88",
+          "change": "2.01",
+          "percentGain": "1.34"
+        }
+      ]
     }
   ],
   "losers": [
@@ -599,6 +649,56 @@
           "prevClose": "258.90",
           "change": "-2.05",
           "percentGain": "-0.79"
+        }
+      ]
+    },
+    {
+      "time": "5:50:55 AM",
+      "data": [
+        {
+          "company": "Bharti Airtel",
+          "high": "1,611.85",
+          "low": "1,579.00",
+          "lastPrice": "1,584.80",
+          "prevClose": "1,602.55",
+          "change": "-17.75",
+          "percentGain": "-1.11"
+        },
+        {
+          "company": "Dr Reddys Labs",
+          "high": "1,253.60",
+          "low": "1,237.15",
+          "lastPrice": "1,241.50",
+          "prevClose": "1,255.15",
+          "change": "-13.65",
+          "percentGain": "-1.09"
+        },
+        {
+          "company": "Trent",
+          "high": "6,959.95",
+          "low": "6,855.00",
+          "lastPrice": "6,884.90",
+          "prevClose": "6,949.70",
+          "change": "-64.80",
+          "percentGain": "-0.93"
+        },
+        {
+          "company": "Adani Ports",
+          "high": "1,272.90",
+          "low": "1,252.00",
+          "lastPrice": "1,255.20",
+          "prevClose": "1,266.85",
+          "change": "-11.65",
+          "percentGain": "-0.92"
+        },
+        {
+          "company": "Grasim",
+          "high": "2,708.00",
+          "low": "2,653.60",
+          "lastPrice": "2,658.35",
+          "prevClose": "2,681.40",
+          "change": "-23.05",
+          "percentGain": "-0.86"
         }
       ]
     }
