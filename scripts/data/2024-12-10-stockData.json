@@ -249,6 +249,56 @@
           "percentGain": "1.36"
         }
       ]
+    },
+    {
+      "time": "5:40:44 AM",
+      "data": [
+        {
+          "company": "Shriram Finance",
+          "high": "3,197.15",
+          "low": "3,109.00",
+          "lastPrice": "3,181.00",
+          "prevClose": "3,106.90",
+          "change": "74.10",
+          "percentGain": "2.39"
+        },
+        {
+          "company": "Bajaj Finserv",
+          "high": "1,669.70",
+          "low": "1,637.10",
+          "lastPrice": "1,669.05",
+          "prevClose": "1,637.05",
+          "change": "32.00",
+          "percentGain": "1.95"
+        },
+        {
+          "company": "Wipro",
+          "high": "311.00",
+          "low": "303.45",
+          "lastPrice": "308.40",
+          "prevClose": "303.75",
+          "change": "4.65",
+          "percentGain": "1.53"
+        },
+        {
+          "company": "Tata Steel",
+          "high": "152.50",
+          "low": "149.31",
+          "lastPrice": "152.13",
+          "prevClose": "149.88",
+          "change": "2.25",
+          "percentGain": "1.50"
+        },
+        {
+          "company": "Infosys",
+          "high": "1,965.60",
+          "low": "1,932.00",
+          "lastPrice": "1,952.30",
+          "prevClose": "1,923.65",
+          "change": "28.65",
+          "percentGain": "1.49"
+        }
+      ]
     }
   ],
   "losers": [
@@ -499,6 +549,56 @@
           "prevClose": "3,051.25",
           "change": "-25.40",
           "percentGain": "-0.83"
+        }
+      ]
+    },
+    {
+      "time": "5:40:44 AM",
+      "data": [
+        {
+          "company": "Dr Reddys Labs",
+          "high": "1,253.60",
+          "low": "1,237.30",
+          "lastPrice": "1,237.65",
+          "prevClose": "1,255.15",
+          "change": "-17.50",
+          "percentGain": "-1.39"
+        },
+        {
+          "company": "Bharti Airtel",
+          "high": "1,611.85",
+          "low": "1,579.00",
+          "lastPrice": "1,582.35",
+          "prevClose": "1,602.55",
+          "change": "-20.20",
+          "percentGain": "-1.26"
+        },
+        {
+          "company": "Trent",
+          "high": "6,959.95",
+          "low": "6,855.00",
+          "lastPrice": "6,870.50",
+          "prevClose": "6,949.70",
+          "change": "-79.20",
+          "percentGain": "-1.14"
+        },
+        {
+          "company": "Grasim",
+          "high": "2,708.00",
+          "low": "2,653.60",
+          "lastPrice": "2,658.55",
+          "prevClose": "2,681.40",
+          "change": "-22.85",
+          "percentGain": "-0.85"
+        },
+        {
+          "company": "ONGC",
+          "high": "258.75",
+          "low": "256.00",
+          "lastPrice": "256.85",
+          "prevClose": "258.90",
+          "change": "-2.05",
+          "percentGain": "-0.79"
         }
       ]
     }
