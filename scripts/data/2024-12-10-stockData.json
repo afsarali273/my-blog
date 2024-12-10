@@ -1,0 +1,106 @@
+{
+  "gainers": [
+    {
+      "time": "3:56:39 AM",
+      "data": [
+        {
+          "company": "Shriram Finance",
+          "high": "3,183.75",
+          "low": "3,109.00",
+          "lastPrice": "3,167.75",
+          "prevClose": "3,106.90",
+          "change": "60.85",
+          "percentGain": "1.96"
+        },
+        {
+          "company": "Apollo Hospital",
+          "high": "7,297.70",
+          "low": "7,215.20",
+          "lastPrice": "7,292.50",
+          "prevClose": "7,193.85",
+          "change": "98.65",
+          "percentGain": "1.37"
+        },
+        {
+          "company": "Infosys",
+          "high": "1,943.15",
+          "low": "1,932.00",
+          "lastPrice": "1,941.55",
+          "prevClose": "1,923.65",
+          "change": "17.90",
+          "percentGain": "0.93"
+        },
+        {
+          "company": "Bajaj Finserv",
+          "high": "1,652.00",
+          "low": "1,637.10",
+          "lastPrice": "1,652.00",
+          "prevClose": "1,637.05",
+          "change": "14.95",
+          "percentGain": "0.91"
+        },
+        {
+          "company": "HCL Tech",
+          "high": "1,930.00",
+          "low": "1,912.20",
+          "lastPrice": "1,926.95",
+          "prevClose": "1,909.90",
+          "change": "17.05",
+          "percentGain": "0.89"
+        }
+      ]
+    }
+  ],
+  "losers": [
+    {
+      "time": "3:56:39 AM",
+      "data": [
+        {
+          "company": "M&M",
+          "high": "3,057.10",
+          "low": "3,005.30",
+          "lastPrice": "3,014.15",
+          "prevClose": "3,051.25",
+          "change": "-37.10",
+          "percentGain": "-1.22"
+        },
+        {
+          "company": "Tech Mahindra",
+          "high": "1,777.00",
+          "low": "1,761.75",
+          "lastPrice": "1,763.00",
+          "prevClose": "1,777.85",
+          "change": "-14.85",
+          "percentGain": "-0.84"
+        },
+        {
+          "company": "Bajaj Auto",
+          "high": "9,094.90",
+          "low": "8,991.65",
+          "lastPrice": "9,000.75",
+          "prevClose": "9,077.45",
+          "change": "-76.70",
+          "percentGain": "-0.84"
+        },
+        {
+          "company": "ONGC",
+          "high": "258.75",
+          "low": "256.00",
+          "lastPrice": "256.90",
+          "prevClose": "258.90",
+          "change": "-2.00",
+          "percentGain": "-0.77"
+        },
+        {
+          "company": "Bharti Airtel",
+          "high": "1,611.85",
+          "low": "1,591.70",
+          "lastPrice": "1,592.05",
+          "prevClose": "1,602.55",
+          "change": "-10.50",
+          "percentGain": "-0.66"
+        }
+      ]
+    }
+  ]
+}
