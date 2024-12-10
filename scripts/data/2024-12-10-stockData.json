@@ -507,6 +507,56 @@
     {
       "time": "7:50:05 AM",
       "data": []
+    },
+    {
+      "time": "8:22:38 AM",
+      "data": [
+        {
+          "company": "Shriram Finance",
+          "high": "3,197.15",
+          "low": "3,109.00",
+          "lastPrice": "3,171.15",
+          "prevClose": "3,106.90",
+          "change": "64.25",
+          "percentGain": "2.07"
+        },
+        {
+          "company": "Wipro",
+          "high": "311.00",
+          "low": "303.45",
+          "lastPrice": "308.70",
+          "prevClose": "303.75",
+          "change": "4.95",
+          "percentGain": "1.63"
+        },
+        {
+          "company": "Bajaj Finserv",
+          "high": "1,673.00",
+          "low": "1,637.10",
+          "lastPrice": "1,654.95",
+          "prevClose": "1,637.05",
+          "change": "17.90",
+          "percentGain": "1.09"
+        },
+        {
+          "company": "Infosys",
+          "high": "1,965.60",
+          "low": "1,932.00",
+          "lastPrice": "1,939.15",
+          "prevClose": "1,923.65",
+          "change": "15.50",
+          "percentGain": "0.81"
+        },
+        {
+          "company": "HCL Tech",
+          "high": "1,942.80",
+          "low": "1,912.20",
+          "lastPrice": "1,925.35",
+          "prevClose": "1,909.90",
+          "change": "15.45",
+          "percentGain": "0.81"
+        }
+      ]
     }
   ],
   "losers": [
@@ -1017,6 +1067,56 @@
     {
       "time": "7:50:05 AM",
       "data": []
+    },
+    {
+      "time": "8:22:38 AM",
+      "data": [
+        {
+          "company": "Trent",
+          "high": "6,959.95",
+          "low": "6,810.00",
+          "lastPrice": "6,822.60",
+          "prevClose": "6,949.70",
+          "change": "-127.10",
+          "percentGain": "-1.83"
+        },
+        {
+          "company": "Bharti Airtel",
+          "high": "1,611.85",
+          "low": "1,570.15",
+          "lastPrice": "1,573.75",
+          "prevClose": "1,602.55",
+          "change": "-28.80",
+          "percentGain": "-1.80"
+        },
+        {
+          "company": "ONGC",
+          "high": "258.75",
+          "low": "255.00",
+          "lastPrice": "255.00",
+          "prevClose": "258.90",
+          "change": "-3.90",
+          "percentGain": "-1.51"
+        },
+        {
+          "company": "Dr Reddys Labs",
+          "high": "1,253.60",
+          "low": "1,234.00",
+          "lastPrice": "1,236.30",
+          "prevClose": "1,255.15",
+          "change": "-18.85",
+          "percentGain": "-1.50"
+        },
+        {
+          "company": "HDFC Life",
+          "high": "644.45",
+          "low": "631.60",
+          "lastPrice": "632.40",
+          "prevClose": "641.80",
+          "change": "-9.40",
+          "percentGain": "-1.46"
+        }
+      ]
     }
   ]
 }
