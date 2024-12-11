@@ -253,6 +253,56 @@
           "percentGain": "1.15"
         }
       ]
+    },
+    {
+      "time": "5:50:24 AM",
+      "data": [
+        {
+          "company": "UltraTechCement",
+          "high": "12,065.00",
+          "low": "11,815.30",
+          "lastPrice": "11,979.70",
+          "prevClose": "11,745.80",
+          "change": "233.90",
+          "percentGain": "1.99"
+        },
+        {
+          "company": "Britannia",
+          "high": "4,888.20",
+          "low": "4,793.25",
+          "lastPrice": "4,876.90",
+          "prevClose": "4,787.25",
+          "change": "89.65",
+          "percentGain": "1.87"
+        },
+        {
+          "company": "Nestle",
+          "high": "2,252.00",
+          "low": "2,223.00",
+          "lastPrice": "2,246.35",
+          "prevClose": "2,214.45",
+          "change": "31.90",
+          "percentGain": "1.44"
+        },
+        {
+          "company": "Grasim",
+          "high": "2,699.90",
+          "low": "2,661.10",
+          "lastPrice": "2,688.10",
+          "prevClose": "2,655.30",
+          "change": "32.80",
+          "percentGain": "1.24"
+        },
+        {
+          "company": "Hindalco",
+          "high": "679.80",
+          "low": "668.05",
+          "lastPrice": "677.05",
+          "prevClose": "668.90",
+          "change": "8.15",
+          "percentGain": "1.22"
+        }
+      ]
     }
   ],
   "losers": [
@@ -507,6 +557,56 @@
           "prevClose": "1,012.95",
           "change": "-2.65",
           "percentGain": "-0.26"
+        }
+      ]
+    },
+    {
+      "time": "5:50:24 AM",
+      "data": [
+        {
+          "company": "Adani Ports",
+          "high": "1,258.35",
+          "low": "1,235.20",
+          "lastPrice": "1,235.30",
+          "prevClose": "1,248.75",
+          "change": "-13.45",
+          "percentGain": "-1.08"
+        },
+        {
+          "company": "HCL Tech",
+          "high": "1,934.80",
+          "low": "1,916.00",
+          "lastPrice": "1,926.00",
+          "prevClose": "1,936.35",
+          "change": "-10.35",
+          "percentGain": "-0.53"
+        },
+        {
+          "company": "ICICI Bank",
+          "high": "1,327.80",
+          "low": "1,316.00",
+          "lastPrice": "1,324.85",
+          "prevClose": "1,330.45",
+          "change": "-5.60",
+          "percentGain": "-0.42"
+        },
+        {
+          "company": "Adani Enterpris",
+          "high": "2,480.00",
+          "low": "2,452.70",
+          "lastPrice": "2,457.00",
+          "prevClose": "2,467.20",
+          "change": "-10.20",
+          "percentGain": "-0.41"
+        },
+        {
+          "company": "HDFC Bank",
+          "high": "1,866.80",
+          "low": "1,856.75",
+          "lastPrice": "1,863.60",
+          "prevClose": "1,868.10",
+          "change": "-4.50",
+          "percentGain": "-0.24"
         }
       ]
     }
