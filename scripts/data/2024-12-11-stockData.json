@@ -99,6 +99,56 @@
           "percentGain": "1.19"
         }
       ]
+    },
+    {
+      "time": "4:43:44 AM",
+      "data": [
+        {
+          "company": "UltraTechCement",
+          "high": "12,065.00",
+          "low": "11,815.30",
+          "lastPrice": "11,992.90",
+          "prevClose": "11,745.80",
+          "change": "247.10",
+          "percentGain": "2.10"
+        },
+        {
+          "company": "Britannia",
+          "high": "4,884.00",
+          "low": "4,793.25",
+          "lastPrice": "4,870.00",
+          "prevClose": "4,787.25",
+          "change": "82.75",
+          "percentGain": "1.73"
+        },
+        {
+          "company": "Nestle",
+          "high": "2,251.85",
+          "low": "2,223.00",
+          "lastPrice": "2,248.25",
+          "prevClose": "2,214.45",
+          "change": "33.80",
+          "percentGain": "1.53"
+        },
+        {
+          "company": "TATA Cons. Prod",
+          "high": "942.95",
+          "low": "929.40",
+          "lastPrice": "940.45",
+          "prevClose": "926.75",
+          "change": "13.70",
+          "percentGain": "1.48"
+        },
+        {
+          "company": "Hindalco",
+          "high": "679.80",
+          "low": "668.05",
+          "lastPrice": "677.40",
+          "prevClose": "668.90",
+          "change": "8.50",
+          "percentGain": "1.27"
+        }
+      ]
     }
   ],
   "losers": [
@@ -199,6 +249,56 @@
           "prevClose": "1,330.45",
           "change": "-7.45",
           "percentGain": "-0.56"
+        }
+      ]
+    },
+    {
+      "time": "4:43:44 AM",
+      "data": [
+        {
+          "company": "HCL Tech",
+          "high": "1,934.80",
+          "low": "1,916.00",
+          "lastPrice": "1,919.70",
+          "prevClose": "1,936.35",
+          "change": "-16.65",
+          "percentGain": "-0.86"
+        },
+        {
+          "company": "ICICI Bank",
+          "high": "1,327.80",
+          "low": "1,318.10",
+          "lastPrice": "1,319.55",
+          "prevClose": "1,330.45",
+          "change": "-10.90",
+          "percentGain": "-0.82"
+        },
+        {
+          "company": "Wipro",
+          "high": "309.35",
+          "low": "305.55",
+          "lastPrice": "306.35",
+          "prevClose": "308.10",
+          "change": "-1.75",
+          "percentGain": "-0.57"
+        },
+        {
+          "company": "Tech Mahindra",
+          "high": "1,769.75",
+          "low": "1,750.05",
+          "lastPrice": "1,753.80",
+          "prevClose": "1,763.55",
+          "change": "-9.75",
+          "percentGain": "-0.55"
+        },
+        {
+          "company": "Bajaj Finserv",
+          "high": "1,672.25",
+          "low": "1,649.00",
+          "lastPrice": "1,655.85",
+          "prevClose": "1,663.40",
+          "change": "-7.55",
+          "percentGain": "-0.45"
         }
       ]
     }
