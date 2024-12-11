@@ -453,6 +453,56 @@
           "percentGain": "1.46"
         }
       ]
+    },
+    {
+      "time": "7:38:05 AM",
+      "data": [
+        {
+          "company": "Shriram Finance",
+          "high": "3,267.60",
+          "low": "3,178.00",
+          "lastPrice": "3,262.65",
+          "prevClose": "3,186.50",
+          "change": "76.15",
+          "percentGain": "2.39"
+        },
+        {
+          "company": "Bajaj Finance",
+          "high": "7,083.90",
+          "low": "6,893.10",
+          "lastPrice": "7,080.25",
+          "prevClose": "6,936.20",
+          "change": "144.05",
+          "percentGain": "2.08"
+        },
+        {
+          "company": "Britannia",
+          "high": "4,896.90",
+          "low": "4,793.25",
+          "lastPrice": "4,881.00",
+          "prevClose": "4,787.25",
+          "change": "93.75",
+          "percentGain": "1.96"
+        },
+        {
+          "company": "Nestle",
+          "high": "2,254.00",
+          "low": "2,223.00",
+          "lastPrice": "2,246.80",
+          "prevClose": "2,214.45",
+          "change": "32.35",
+          "percentGain": "1.46"
+        },
+        {
+          "company": "UltraTechCement",
+          "high": "12,065.00",
+          "low": "11,815.30",
+          "lastPrice": "11,912.65",
+          "prevClose": "11,745.80",
+          "change": "166.85",
+          "percentGain": "1.42"
+        }
+      ]
     }
   ],
   "losers": [
@@ -907,6 +957,56 @@
           "prevClose": "369.15",
           "change": "-1.75",
           "percentGain": "-0.47"
+        }
+      ]
+    },
+    {
+      "time": "7:38:05 AM",
+      "data": [
+        {
+          "company": "Adani Ports",
+          "high": "1,258.35",
+          "low": "1,233.20",
+          "lastPrice": "1,235.60",
+          "prevClose": "1,248.75",
+          "change": "-13.15",
+          "percentGain": "-1.05"
+        },
+        {
+          "company": "HCL Tech",
+          "high": "1,934.80",
+          "low": "1,916.00",
+          "lastPrice": "1,922.00",
+          "prevClose": "1,936.35",
+          "change": "-14.35",
+          "percentGain": "-0.74"
+        },
+        {
+          "company": "Adani Enterpris",
+          "high": "2,480.00",
+          "low": "2,451.10",
+          "lastPrice": "2,452.00",
+          "prevClose": "2,467.20",
+          "change": "-15.20",
+          "percentGain": "-0.62"
+        },
+        {
+          "company": "SBI",
+          "high": "869.85",
+          "low": "861.80",
+          "lastPrice": "862.65",
+          "prevClose": "867.50",
+          "change": "-4.85",
+          "percentGain": "-0.56"
+        },
+        {
+          "company": "TCS",
+          "high": "4,448.65",
+          "low": "4,407.00",
+          "lastPrice": "4,409.60",
+          "prevClose": "4,432.55",
+          "change": "-22.95",
+          "percentGain": "-0.52"
         }
       ]
     }
