@@ -203,6 +203,56 @@
     {
       "time": "5:16:25 AM",
       "data": []
+    },
+    {
+      "time": "5:40:34 AM",
+      "data": [
+        {
+          "company": "UltraTechCement",
+          "high": "12,065.00",
+          "low": "11,815.30",
+          "lastPrice": "11,991.95",
+          "prevClose": "11,745.80",
+          "change": "246.15",
+          "percentGain": "2.10"
+        },
+        {
+          "company": "Britannia",
+          "high": "4,888.20",
+          "low": "4,793.25",
+          "lastPrice": "4,880.00",
+          "prevClose": "4,787.25",
+          "change": "92.75",
+          "percentGain": "1.94"
+        },
+        {
+          "company": "Grasim",
+          "high": "2,699.90",
+          "low": "2,661.10",
+          "lastPrice": "2,690.05",
+          "prevClose": "2,655.30",
+          "change": "34.75",
+          "percentGain": "1.31"
+        },
+        {
+          "company": "Nestle",
+          "high": "2,252.00",
+          "low": "2,223.00",
+          "lastPrice": "2,242.90",
+          "prevClose": "2,214.45",
+          "change": "28.45",
+          "percentGain": "1.28"
+        },
+        {
+          "company": "TATA Cons. Prod",
+          "high": "942.95",
+          "low": "929.40",
+          "lastPrice": "937.45",
+          "prevClose": "926.75",
+          "change": "10.70",
+          "percentGain": "1.15"
+        }
+      ]
     }
   ],
   "losers": [
@@ -409,6 +459,56 @@
     {
       "time": "5:16:25 AM",
       "data": []
+    },
+    {
+      "time": "5:40:34 AM",
+      "data": [
+        {
+          "company": "Adani Ports",
+          "high": "1,258.35",
+          "low": "1,237.00",
+          "lastPrice": "1,238.50",
+          "prevClose": "1,248.75",
+          "change": "-10.25",
+          "percentGain": "-0.82"
+        },
+        {
+          "company": "Adani Enterpris",
+          "high": "2,480.00",
+          "low": "2,452.70",
+          "lastPrice": "2,454.20",
+          "prevClose": "2,467.20",
+          "change": "-13.00",
+          "percentGain": "-0.53"
+        },
+        {
+          "company": "HCL Tech",
+          "high": "1,934.80",
+          "low": "1,916.00",
+          "lastPrice": "1,928.80",
+          "prevClose": "1,936.35",
+          "change": "-7.55",
+          "percentGain": "-0.39"
+        },
+        {
+          "company": "ICICI Bank",
+          "high": "1,327.80",
+          "low": "1,316.00",
+          "lastPrice": "1,325.45",
+          "prevClose": "1,330.45",
+          "change": "-5.00",
+          "percentGain": "-0.38"
+        },
+        {
+          "company": "JSW Steel",
+          "high": "1,020.50",
+          "low": "1,008.00",
+          "lastPrice": "1,010.30",
+          "prevClose": "1,012.95",
+          "change": "-2.65",
+          "percentGain": "-0.26"
+        }
+      ]
     }
   ]
 }
