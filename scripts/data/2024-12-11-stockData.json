@@ -703,6 +703,56 @@
           "percentGain": "1.50"
         }
       ]
+    },
+    {
+      "time": "9:39:57 AM",
+      "data": [
+        {
+          "company": "Bajaj Finance",
+          "high": "7,165.00",
+          "low": "6,893.10",
+          "lastPrice": "7,126.00",
+          "prevClose": "6,936.20",
+          "change": "189.80",
+          "percentGain": "2.74"
+        },
+        {
+          "company": "Trent",
+          "high": "7,054.00",
+          "low": "6,834.80",
+          "lastPrice": "7,047.05",
+          "prevClose": "6,878.05",
+          "change": "169.00",
+          "percentGain": "2.46"
+        },
+        {
+          "company": "Britannia",
+          "high": "4,915.00",
+          "low": "4,793.25",
+          "lastPrice": "4,887.40",
+          "prevClose": "4,787.25",
+          "change": "100.15",
+          "percentGain": "2.09"
+        },
+        {
+          "company": "Shriram Finance",
+          "high": "3,267.60",
+          "low": "3,178.00",
+          "lastPrice": "3,252.15",
+          "prevClose": "3,186.50",
+          "change": "65.65",
+          "percentGain": "2.06"
+        },
+        {
+          "company": "Infosys",
+          "high": "1,977.85",
+          "low": "1,954.00",
+          "lastPrice": "1,977.85",
+          "prevClose": "1,948.55",
+          "change": "29.30",
+          "percentGain": "1.50"
+        }
+      ]
     }
   ],
   "losers": [
@@ -1407,6 +1457,56 @@
           "prevClose": "1,284.85",
           "change": "-7.65",
           "percentGain": "-0.60"
+        }
+      ]
+    },
+    {
+      "time": "9:39:57 AM",
+      "data": [
+        {
+          "company": "Adani Ports",
+          "high": "1,258.35",
+          "low": "1,233.20",
+          "lastPrice": "1,234.15",
+          "prevClose": "1,248.75",
+          "change": "-14.60",
+          "percentGain": "-1.17"
+        },
+        {
+          "company": "JSW Steel",
+          "high": "1,020.50",
+          "low": "1,000.00",
+          "lastPrice": "1,001.75",
+          "prevClose": "1,012.95",
+          "change": "-11.20",
+          "percentGain": "-1.11"
+        },
+        {
+          "company": "NTPC",
+          "high": "370.75",
+          "low": "365.30",
+          "lastPrice": "365.55",
+          "prevClose": "369.15",
+          "change": "-3.60",
+          "percentGain": "-0.98"
+        },
+        {
+          "company": "SBI",
+          "high": "869.85",
+          "low": "861.00",
+          "lastPrice": "861.50",
+          "prevClose": "867.50",
+          "change": "-6.00",
+          "percentGain": "-0.69"
+        },
+        {
+          "company": "Axis Bank",
+          "high": "1,158.35",
+          "low": "1,144.55",
+          "lastPrice": "1,147.10",
+          "prevClose": "1,153.65",
+          "change": "-6.55",
+          "percentGain": "-0.57"
         }
       ]
     }
