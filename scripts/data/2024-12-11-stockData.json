@@ -553,6 +553,56 @@
           "percentGain": "1.33"
         }
       ]
+    },
+    {
+      "time": "8:22:20 AM",
+      "data": [
+        {
+          "company": "Bajaj Finance",
+          "high": "7,116.95",
+          "low": "6,893.10",
+          "lastPrice": "7,112.50",
+          "prevClose": "6,936.20",
+          "change": "176.30",
+          "percentGain": "2.54"
+        },
+        {
+          "company": "Shriram Finance",
+          "high": "3,267.60",
+          "low": "3,178.00",
+          "lastPrice": "3,251.90",
+          "prevClose": "3,186.50",
+          "change": "65.40",
+          "percentGain": "2.05"
+        },
+        {
+          "company": "Britannia",
+          "high": "4,896.90",
+          "low": "4,793.25",
+          "lastPrice": "4,879.65",
+          "prevClose": "4,787.25",
+          "change": "92.40",
+          "percentGain": "1.93"
+        },
+        {
+          "company": "UltraTechCement",
+          "high": "12,065.00",
+          "low": "11,815.30",
+          "lastPrice": "11,917.90",
+          "prevClose": "11,745.80",
+          "change": "172.10",
+          "percentGain": "1.47"
+        },
+        {
+          "company": "BPCL",
+          "high": "307.80",
+          "low": "302.10",
+          "lastPrice": "307.30",
+          "prevClose": "303.50",
+          "change": "3.80",
+          "percentGain": "1.25"
+        }
+      ]
     }
   ],
   "losers": [
@@ -1107,6 +1157,56 @@
           "prevClose": "1,012.95",
           "change": "-4.40",
           "percentGain": "-0.43"
+        }
+      ]
+    },
+    {
+      "time": "8:22:20 AM",
+      "data": [
+        {
+          "company": "Adani Ports",
+          "high": "1,258.35",
+          "low": "1,233.20",
+          "lastPrice": "1,236.00",
+          "prevClose": "1,248.75",
+          "change": "-12.75",
+          "percentGain": "-1.02"
+        },
+        {
+          "company": "JSW Steel",
+          "high": "1,020.50",
+          "low": "1,004.85",
+          "lastPrice": "1,006.00",
+          "prevClose": "1,012.95",
+          "change": "-6.95",
+          "percentGain": "-0.69"
+        },
+        {
+          "company": "SBI",
+          "high": "869.85",
+          "low": "861.55",
+          "lastPrice": "862.70",
+          "prevClose": "867.50",
+          "change": "-4.80",
+          "percentGain": "-0.55"
+        },
+        {
+          "company": "HCL Tech",
+          "high": "1,934.80",
+          "low": "1,916.00",
+          "lastPrice": "1,926.70",
+          "prevClose": "1,936.35",
+          "change": "-9.65",
+          "percentGain": "-0.50"
+        },
+        {
+          "company": "Adani Enterpris",
+          "high": "2,480.00",
+          "low": "2,451.00",
+          "lastPrice": "2,457.85",
+          "prevClose": "2,467.20",
+          "change": "-9.35",
+          "percentGain": "-0.38"
         }
       ]
     }
