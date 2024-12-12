@@ -57,6 +57,56 @@
           "percentGain": "0.82"
         }
       ]
+    },
+    {
+      "time": "4:54:21 AM",
+      "data": [
+        {
+          "company": "Tech Mahindra",
+          "high": "1,807.70",
+          "low": "1,761.05",
+          "lastPrice": "1,798.95",
+          "prevClose": "1,762.80",
+          "change": "36.15",
+          "percentGain": "2.05"
+        },
+        {
+          "company": "Wipro",
+          "high": "313.80",
+          "low": "307.45",
+          "lastPrice": "312.75",
+          "prevClose": "309.00",
+          "change": "3.75",
+          "percentGain": "1.21"
+        },
+        {
+          "company": "Infosys",
+          "high": "1,998.80",
+          "low": "1,970.55",
+          "lastPrice": "1,994.60",
+          "prevClose": "1,974.15",
+          "change": "20.45",
+          "percentGain": "1.04"
+        },
+        {
+          "company": "TCS",
+          "high": "4,485.00",
+          "low": "4,426.00",
+          "lastPrice": "4,472.00",
+          "prevClose": "4,427.45",
+          "change": "44.55",
+          "percentGain": "1.01"
+        },
+        {
+          "company": "HCL Tech",
+          "high": "1,949.00",
+          "low": "1,921.50",
+          "lastPrice": "1,946.70",
+          "prevClose": "1,930.90",
+          "change": "15.80",
+          "percentGain": "0.82"
+        }
+      ]
     }
   ],
   "losers": [
@@ -115,6 +165,56 @@
           "prevClose": "3,473.10",
           "change": "-39.45",
           "percentGain": "-1.14"
+        }
+      ]
+    },
+    {
+      "time": "4:54:21 AM",
+      "data": [
+        {
+          "company": "Coal India",
+          "high": "417.85",
+          "low": "410.50",
+          "lastPrice": "410.65",
+          "prevClose": "416.95",
+          "change": "-6.30",
+          "percentGain": "-1.51"
+        },
+        {
+          "company": "TATA Cons. Prod",
+          "high": "938.45",
+          "low": "919.80",
+          "lastPrice": "921.95",
+          "prevClose": "935.05",
+          "change": "-13.10",
+          "percentGain": "-1.40"
+        },
+        {
+          "company": "Apollo Hospital",
+          "high": "7,318.65",
+          "low": "7,225.80",
+          "lastPrice": "7,245.50",
+          "prevClose": "7,340.80",
+          "change": "-95.30",
+          "percentGain": "-1.30"
+        },
+        {
+          "company": "Hero Motocorp",
+          "high": "4,660.15",
+          "low": "4,582.25",
+          "lastPrice": "4,593.70",
+          "prevClose": "4,650.45",
+          "change": "-56.75",
+          "percentGain": "-1.22"
+        },
+        {
+          "company": "Titan Company",
+          "high": "3,473.10",
+          "low": "3,412.00",
+          "lastPrice": "3,435.70",
+          "prevClose": "3,473.10",
+          "change": "-37.40",
+          "percentGain": "-1.08"
         }
       ]
     }
