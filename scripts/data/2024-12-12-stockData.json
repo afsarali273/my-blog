@@ -473,6 +473,56 @@
     {
       "time": "9:17:53 AM",
       "data": []
+    },
+    {
+      "time": "9:39:54 AM",
+      "data": [
+        {
+          "company": "Adani Enterpris",
+          "high": "2,534.80",
+          "low": "2,446.25",
+          "lastPrice": "2,504.25",
+          "prevClose": "2,457.25",
+          "change": "47.00",
+          "percentGain": "1.91"
+        },
+        {
+          "company": "Tech Mahindra",
+          "high": "1,807.70",
+          "low": "1,761.05",
+          "lastPrice": "1,790.75",
+          "prevClose": "1,762.80",
+          "change": "27.95",
+          "percentGain": "1.59"
+        },
+        {
+          "company": "Bharti Airtel",
+          "high": "1,617.90",
+          "low": "1,578.50",
+          "lastPrice": "1,610.90",
+          "prevClose": "1,586.00",
+          "change": "24.90",
+          "percentGain": "1.57"
+        },
+        {
+          "company": "IndusInd Bank",
+          "high": "1,005.50",
+          "low": "986.00",
+          "lastPrice": "999.35",
+          "prevClose": "984.85",
+          "change": "14.50",
+          "percentGain": "1.47"
+        },
+        {
+          "company": "Adani Ports",
+          "high": "1,268.00",
+          "low": "1,223.45",
+          "lastPrice": "1,245.45",
+          "prevClose": "1,233.80",
+          "change": "11.65",
+          "percentGain": "0.94"
+        }
+      ]
     }
   ],
   "losers": [
@@ -949,6 +999,56 @@
     {
       "time": "9:17:53 AM",
       "data": []
+    },
+    {
+      "time": "9:39:54 AM",
+      "data": [
+        {
+          "company": "NTPC",
+          "high": "367.00",
+          "low": "353.00",
+          "lastPrice": "355.55",
+          "prevClose": "365.50",
+          "change": "-9.95",
+          "percentGain": "-2.72"
+        },
+        {
+          "company": "HUL",
+          "high": "2,399.95",
+          "low": "2,338.00",
+          "lastPrice": "2,345.00",
+          "prevClose": "2,401.35",
+          "change": "-56.35",
+          "percentGain": "-2.35"
+        },
+        {
+          "company": "Hero Motocorp",
+          "high": "4,660.15",
+          "low": "4,542.00",
+          "lastPrice": "4,558.90",
+          "prevClose": "4,650.45",
+          "change": "-91.55",
+          "percentGain": "-1.97"
+        },
+        {
+          "company": "Coal India",
+          "high": "417.85",
+          "low": "408.50",
+          "lastPrice": "408.85",
+          "prevClose": "416.95",
+          "change": "-8.10",
+          "percentGain": "-1.94"
+        },
+        {
+          "company": "SBI Life Insura",
+          "high": "1,455.75",
+          "low": "1,420.35",
+          "lastPrice": "1,429.95",
+          "prevClose": "1,456.15",
+          "change": "-26.20",
+          "percentGain": "-1.80"
+        }
+      ]
     }
   ]
 }
