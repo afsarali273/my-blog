@@ -211,6 +211,56 @@
           "percentGain": "1.01"
         }
       ]
+    },
+    {
+      "time": "6:24:26 AM",
+      "data": [
+        {
+          "company": "Adani Enterpris",
+          "high": "2,516.95",
+          "low": "2,446.25",
+          "lastPrice": "2,498.70",
+          "prevClose": "2,457.25",
+          "change": "41.45",
+          "percentGain": "1.69"
+        },
+        {
+          "company": "IndusInd Bank",
+          "high": "1,005.50",
+          "low": "986.00",
+          "lastPrice": "1,000.60",
+          "prevClose": "984.85",
+          "change": "15.75",
+          "percentGain": "1.60"
+        },
+        {
+          "company": "Tech Mahindra",
+          "high": "1,807.70",
+          "low": "1,761.05",
+          "lastPrice": "1,789.25",
+          "prevClose": "1,762.80",
+          "change": "26.45",
+          "percentGain": "1.50"
+        },
+        {
+          "company": "Adani Ports",
+          "high": "1,262.50",
+          "low": "1,223.45",
+          "lastPrice": "1,251.95",
+          "prevClose": "1,233.80",
+          "change": "18.15",
+          "percentGain": "1.47"
+        },
+        {
+          "company": "Bharti Airtel",
+          "high": "1,608.95",
+          "low": "1,578.50",
+          "lastPrice": "1,605.70",
+          "prevClose": "1,586.00",
+          "change": "19.70",
+          "percentGain": "1.24"
+        }
+      ]
     }
   ],
   "losers": [
@@ -423,6 +473,56 @@
           "prevClose": "2,401.35",
           "change": "-35.40",
           "percentGain": "-1.47"
+        }
+      ]
+    },
+    {
+      "time": "6:24:26 AM",
+      "data": [
+        {
+          "company": "Hero Motocorp",
+          "high": "4,660.15",
+          "low": "4,561.95",
+          "lastPrice": "4,568.00",
+          "prevClose": "4,650.45",
+          "change": "-82.45",
+          "percentGain": "-1.77"
+        },
+        {
+          "company": "NTPC",
+          "high": "367.00",
+          "low": "359.00",
+          "lastPrice": "359.10",
+          "prevClose": "365.50",
+          "change": "-6.40",
+          "percentGain": "-1.75"
+        },
+        {
+          "company": "HUL",
+          "high": "2,399.95",
+          "low": "2,357.65",
+          "lastPrice": "2,359.60",
+          "prevClose": "2,401.35",
+          "change": "-41.75",
+          "percentGain": "-1.74"
+        },
+        {
+          "company": "TATA Cons. Prod",
+          "high": "938.45",
+          "low": "916.50",
+          "lastPrice": "921.00",
+          "prevClose": "935.05",
+          "change": "-14.05",
+          "percentGain": "-1.50"
+        },
+        {
+          "company": "Tata Motors",
+          "high": "802.00",
+          "low": "786.20",
+          "lastPrice": "787.50",
+          "prevClose": "799.10",
+          "change": "-11.60",
+          "percentGain": "-1.45"
         }
       ]
     }
