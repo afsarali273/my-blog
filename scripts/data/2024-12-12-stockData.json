@@ -523,6 +523,56 @@
           "percentGain": "0.94"
         }
       ]
+    },
+    {
+      "time": "9:50:36 AM",
+      "data": [
+        {
+          "company": "Adani Enterpris",
+          "high": "2,534.80",
+          "low": "2,446.25",
+          "lastPrice": "2,504.90",
+          "prevClose": "2,457.25",
+          "change": "47.65",
+          "percentGain": "1.94"
+        },
+        {
+          "company": "Bharti Airtel",
+          "high": "1,617.90",
+          "low": "1,578.50",
+          "lastPrice": "1,613.00",
+          "prevClose": "1,586.00",
+          "change": "27.00",
+          "percentGain": "1.70"
+        },
+        {
+          "company": "Tech Mahindra",
+          "high": "1,807.70",
+          "low": "1,761.05",
+          "lastPrice": "1,789.90",
+          "prevClose": "1,762.80",
+          "change": "27.10",
+          "percentGain": "1.54"
+        },
+        {
+          "company": "IndusInd Bank",
+          "high": "1,005.50",
+          "low": "986.00",
+          "lastPrice": "997.80",
+          "prevClose": "984.85",
+          "change": "12.95",
+          "percentGain": "1.31"
+        },
+        {
+          "company": "Adani Ports",
+          "high": "1,268.00",
+          "low": "1,223.45",
+          "lastPrice": "1,244.60",
+          "prevClose": "1,233.80",
+          "change": "10.80",
+          "percentGain": "0.88"
+        }
+      ]
     }
   ],
   "losers": [
@@ -1047,6 +1097,56 @@
           "prevClose": "1,456.15",
           "change": "-26.20",
           "percentGain": "-1.80"
+        }
+      ]
+    },
+    {
+      "time": "9:50:36 AM",
+      "data": [
+        {
+          "company": "NTPC",
+          "high": "367.00",
+          "low": "353.00",
+          "lastPrice": "355.40",
+          "prevClose": "365.50",
+          "change": "-10.10",
+          "percentGain": "-2.76"
+        },
+        {
+          "company": "HUL",
+          "high": "2,399.95",
+          "low": "2,338.00",
+          "lastPrice": "2,345.00",
+          "prevClose": "2,401.35",
+          "change": "-56.35",
+          "percentGain": "-2.35"
+        },
+        {
+          "company": "Hero Motocorp",
+          "high": "4,660.15",
+          "low": "4,542.00",
+          "lastPrice": "4,557.90",
+          "prevClose": "4,650.45",
+          "change": "-92.55",
+          "percentGain": "-1.99"
+        },
+        {
+          "company": "BPCL",
+          "high": "307.45",
+          "low": "301.85",
+          "lastPrice": "301.95",
+          "prevClose": "307.45",
+          "change": "-5.50",
+          "percentGain": "-1.79"
+        },
+        {
+          "company": "Coal India",
+          "high": "417.85",
+          "low": "408.50",
+          "lastPrice": "409.65",
+          "prevClose": "416.95",
+          "change": "-7.30",
+          "percentGain": "-1.75"
         }
       ]
     }
