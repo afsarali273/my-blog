@@ -315,6 +315,56 @@
           "percentGain": "1.20"
         }
       ]
+    },
+    {
+      "time": "7:38:09 AM",
+      "data": [
+        {
+          "company": "Adani Enterpris",
+          "high": "2,533.00",
+          "low": "2,446.25",
+          "lastPrice": "2,523.40",
+          "prevClose": "2,457.25",
+          "change": "66.15",
+          "percentGain": "2.69"
+        },
+        {
+          "company": "Adani Ports",
+          "high": "1,268.00",
+          "low": "1,223.45",
+          "lastPrice": "1,260.60",
+          "prevClose": "1,233.80",
+          "change": "26.80",
+          "percentGain": "2.17"
+        },
+        {
+          "company": "Tech Mahindra",
+          "high": "1,807.70",
+          "low": "1,761.05",
+          "lastPrice": "1,794.80",
+          "prevClose": "1,762.80",
+          "change": "32.00",
+          "percentGain": "1.82"
+        },
+        {
+          "company": "IndusInd Bank",
+          "high": "1,005.50",
+          "low": "986.00",
+          "lastPrice": "999.20",
+          "prevClose": "984.85",
+          "change": "14.35",
+          "percentGain": "1.46"
+        },
+        {
+          "company": "JSW Steel",
+          "high": "1,012.95",
+          "low": "991.00",
+          "lastPrice": "1,010.00",
+          "prevClose": "1,000.20",
+          "change": "9.80",
+          "percentGain": "0.98"
+        }
+      ]
     }
   ],
   "losers": [
@@ -631,6 +681,56 @@
           "prevClose": "7,340.80",
           "change": "-116.95",
           "percentGain": "-1.59"
+        }
+      ]
+    },
+    {
+      "time": "7:38:09 AM",
+      "data": [
+        {
+          "company": "NTPC",
+          "high": "367.00",
+          "low": "356.65",
+          "lastPrice": "357.30",
+          "prevClose": "365.50",
+          "change": "-8.20",
+          "percentGain": "-2.24"
+        },
+        {
+          "company": "HUL",
+          "high": "2,399.95",
+          "low": "2,345.40",
+          "lastPrice": "2,348.65",
+          "prevClose": "2,401.35",
+          "change": "-52.70",
+          "percentGain": "-2.19"
+        },
+        {
+          "company": "Hero Motocorp",
+          "high": "4,660.15",
+          "low": "4,555.00",
+          "lastPrice": "4,560.30",
+          "prevClose": "4,650.45",
+          "change": "-90.15",
+          "percentGain": "-1.94"
+        },
+        {
+          "company": "TATA Cons. Prod",
+          "high": "938.45",
+          "low": "916.50",
+          "lastPrice": "918.30",
+          "prevClose": "935.05",
+          "change": "-16.75",
+          "percentGain": "-1.79"
+        },
+        {
+          "company": "Britannia",
+          "high": "4,908.95",
+          "low": "4,815.00",
+          "lastPrice": "4,819.05",
+          "prevClose": "4,889.50",
+          "change": "-70.45",
+          "percentGain": "-1.44"
         }
       ]
     }
