@@ -265,6 +265,56 @@
     {
       "time": "6:48:05 AM",
       "data": []
+    },
+    {
+      "time": "7:16:57 AM",
+      "data": [
+        {
+          "company": "Adani Enterpris",
+          "high": "2,524.00",
+          "low": "2,446.25",
+          "lastPrice": "2,521.95",
+          "prevClose": "2,457.25",
+          "change": "64.70",
+          "percentGain": "2.63"
+        },
+        {
+          "company": "Adani Ports",
+          "high": "1,265.00",
+          "low": "1,223.45",
+          "lastPrice": "1,263.50",
+          "prevClose": "1,233.80",
+          "change": "29.70",
+          "percentGain": "2.41"
+        },
+        {
+          "company": "Tech Mahindra",
+          "high": "1,807.70",
+          "low": "1,761.05",
+          "lastPrice": "1,792.45",
+          "prevClose": "1,762.80",
+          "change": "29.65",
+          "percentGain": "1.68"
+        },
+        {
+          "company": "IndusInd Bank",
+          "high": "1,005.50",
+          "low": "986.00",
+          "lastPrice": "997.15",
+          "prevClose": "984.85",
+          "change": "12.30",
+          "percentGain": "1.25"
+        },
+        {
+          "company": "Bharti Airtel",
+          "high": "1,610.80",
+          "low": "1,578.50",
+          "lastPrice": "1,605.00",
+          "prevClose": "1,586.00",
+          "change": "19.00",
+          "percentGain": "1.20"
+        }
+      ]
     }
   ],
   "losers": [
@@ -533,6 +583,56 @@
     {
       "time": "6:48:05 AM",
       "data": []
+    },
+    {
+      "time": "7:16:57 AM",
+      "data": [
+        {
+          "company": "NTPC",
+          "high": "367.00",
+          "low": "357.10",
+          "lastPrice": "357.85",
+          "prevClose": "365.50",
+          "change": "-7.65",
+          "percentGain": "-2.09"
+        },
+        {
+          "company": "HUL",
+          "high": "2,399.95",
+          "low": "2,347.70",
+          "lastPrice": "2,351.60",
+          "prevClose": "2,401.35",
+          "change": "-49.75",
+          "percentGain": "-2.07"
+        },
+        {
+          "company": "Hero Motocorp",
+          "high": "4,660.15",
+          "low": "4,555.00",
+          "lastPrice": "4,563.05",
+          "prevClose": "4,650.45",
+          "change": "-87.40",
+          "percentGain": "-1.88"
+        },
+        {
+          "company": "TATA Cons. Prod",
+          "high": "938.45",
+          "low": "916.50",
+          "lastPrice": "919.95",
+          "prevClose": "935.05",
+          "change": "-15.10",
+          "percentGain": "-1.61"
+        },
+        {
+          "company": "Apollo Hospital",
+          "high": "7,318.65",
+          "low": "7,189.50",
+          "lastPrice": "7,223.85",
+          "prevClose": "7,340.80",
+          "change": "-116.95",
+          "percentGain": "-1.59"
+        }
+      ]
     }
   ]
 }
