@@ -103,6 +103,29 @@
     {
       "time": "4:43:11 AM",
       "data": []
+    },
+    {
+      "time": "4:53:23 AM",
+      "data": [
+        {
+          "company": "Bharti Airtel",
+          "high": "1,637.00",
+          "low": "1,606.80",
+          "lastPrice": "1,630.15",
+          "prevClose": "1,610.55",
+          "change": "19.60",
+          "percentGain": "1.22"
+        },
+        {
+          "company": "Apollo Hospital",
+          "high": "7,268.05",
+          "low": "7,204.20",
+          "lastPrice": "7,231.75",
+          "prevClose": "7,227.10",
+          "change": "4.65",
+          "percentGain": "0.06"
+        }
+      ]
     }
   ],
   "losers": [
@@ -209,6 +232,56 @@
     {
       "time": "4:43:11 AM",
       "data": []
+    },
+    {
+      "time": "4:53:23 AM",
+      "data": [
+        {
+          "company": "Shriram Finance",
+          "high": "3,254.65",
+          "low": "3,134.40",
+          "lastPrice": "3,138.85",
+          "prevClose": "3,248.10",
+          "change": "-109.25",
+          "percentGain": "-3.36"
+        },
+        {
+          "company": "Tata Steel",
+          "high": "150.05",
+          "low": "145.70",
+          "lastPrice": "145.82",
+          "prevClose": "150.78",
+          "change": "-4.96",
+          "percentGain": "-3.29"
+        },
+        {
+          "company": "Hindalco",
+          "high": "664.80",
+          "low": "648.40",
+          "lastPrice": "649.55",
+          "prevClose": "668.70",
+          "change": "-19.15",
+          "percentGain": "-2.86"
+        },
+        {
+          "company": "JSW Steel",
+          "high": "1,000.00",
+          "low": "975.35",
+          "lastPrice": "978.00",
+          "prevClose": "1,005.80",
+          "change": "-27.80",
+          "percentGain": "-2.76"
+        },
+        {
+          "company": "IndusInd Bank",
+          "high": "997.65",
+          "low": "973.10",
+          "lastPrice": "973.50",
+          "prevClose": "997.95",
+          "change": "-24.45",
+          "percentGain": "-2.45"
+        }
+      ]
     }
   ]
 }
