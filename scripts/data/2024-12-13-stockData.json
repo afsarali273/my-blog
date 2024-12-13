@@ -126,6 +126,29 @@
           "percentGain": "0.06"
         }
       ]
+    },
+    {
+      "time": "5:16:21 AM",
+      "data": [
+        {
+          "company": "Bharti Airtel",
+          "high": "1,637.00",
+          "low": "1,606.80",
+          "lastPrice": "1,632.50",
+          "prevClose": "1,610.55",
+          "change": "21.95",
+          "percentGain": "1.36"
+        },
+        {
+          "company": "Apollo Hospital",
+          "high": "7,268.05",
+          "low": "7,204.20",
+          "lastPrice": "7,239.55",
+          "prevClose": "7,227.10",
+          "change": "12.45",
+          "percentGain": "0.17"
+        }
+      ]
     }
   ],
   "losers": [
@@ -280,6 +303,56 @@
           "prevClose": "997.95",
           "change": "-24.45",
           "percentGain": "-2.45"
+        }
+      ]
+    },
+    {
+      "time": "5:16:21 AM",
+      "data": [
+        {
+          "company": "Shriram Finance",
+          "high": "3,254.65",
+          "low": "3,119.25",
+          "lastPrice": "3,127.65",
+          "prevClose": "3,248.10",
+          "change": "-120.45",
+          "percentGain": "-3.71"
+        },
+        {
+          "company": "Tata Steel",
+          "high": "150.05",
+          "low": "145.55",
+          "lastPrice": "145.96",
+          "prevClose": "150.78",
+          "change": "-4.82",
+          "percentGain": "-3.20"
+        },
+        {
+          "company": "JSW Steel",
+          "high": "1,000.00",
+          "low": "973.05",
+          "lastPrice": "975.35",
+          "prevClose": "1,005.80",
+          "change": "-30.45",
+          "percentGain": "-3.03"
+        },
+        {
+          "company": "IndusInd Bank",
+          "high": "997.65",
+          "low": "968.00",
+          "lastPrice": "968.10",
+          "prevClose": "997.95",
+          "change": "-29.85",
+          "percentGain": "-2.99"
+        },
+        {
+          "company": "Hindalco",
+          "high": "664.80",
+          "low": "648.00",
+          "lastPrice": "649.80",
+          "prevClose": "668.70",
+          "change": "-18.90",
+          "percentGain": "-2.83"
         }
       ]
     }
