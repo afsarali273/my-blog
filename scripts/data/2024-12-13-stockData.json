@@ -203,6 +203,56 @@
           "percentGain": "0.06"
         }
       ]
+    },
+    {
+      "time": "6:24:02 AM",
+      "data": [
+        {
+          "company": "Bharti Airtel",
+          "high": "1,646.00",
+          "low": "1,606.80",
+          "lastPrice": "1,645.25",
+          "prevClose": "1,610.55",
+          "change": "34.70",
+          "percentGain": "2.15"
+        },
+        {
+          "company": "HUL",
+          "high": "2,371.75",
+          "low": "2,333.45",
+          "lastPrice": "2,368.05",
+          "prevClose": "2,344.95",
+          "change": "23.10",
+          "percentGain": "0.99"
+        },
+        {
+          "company": "Nestle",
+          "high": "2,237.30",
+          "low": "2,208.25",
+          "lastPrice": "2,236.00",
+          "prevClose": "2,224.05",
+          "change": "11.95",
+          "percentGain": "0.54"
+        },
+        {
+          "company": "UltraTechCement",
+          "high": "11,920.00",
+          "low": "11,730.00",
+          "lastPrice": "11,918.75",
+          "prevClose": "11,856.95",
+          "change": "61.80",
+          "percentGain": "0.52"
+        },
+        {
+          "company": "Adani Enterpris",
+          "high": "2,523.00",
+          "low": "2,479.05",
+          "lastPrice": "2,516.30",
+          "prevClose": "2,504.10",
+          "change": "12.20",
+          "percentGain": "0.49"
+        }
+      ]
     }
   ],
   "losers": [
@@ -461,6 +511,56 @@
           "prevClose": "668.70",
           "change": "-15.15",
           "percentGain": "-2.27"
+        }
+      ]
+    },
+    {
+      "time": "6:24:02 AM",
+      "data": [
+        {
+          "company": "Shriram Finance",
+          "high": "3,254.65",
+          "low": "3,117.60",
+          "lastPrice": "3,132.65",
+          "prevClose": "3,248.10",
+          "change": "-115.45",
+          "percentGain": "-3.55"
+        },
+        {
+          "company": "Tata Steel",
+          "high": "150.05",
+          "low": "145.55",
+          "lastPrice": "146.62",
+          "prevClose": "150.78",
+          "change": "-4.16",
+          "percentGain": "-2.76"
+        },
+        {
+          "company": "IndusInd Bank",
+          "high": "997.65",
+          "low": "965.55",
+          "lastPrice": "972.90",
+          "prevClose": "997.95",
+          "change": "-25.05",
+          "percentGain": "-2.51"
+        },
+        {
+          "company": "JSW Steel",
+          "high": "1,000.00",
+          "low": "973.05",
+          "lastPrice": "981.40",
+          "prevClose": "1,005.80",
+          "change": "-24.40",
+          "percentGain": "-2.43"
+        },
+        {
+          "company": "Hindalco",
+          "high": "664.80",
+          "low": "648.00",
+          "lastPrice": "654.40",
+          "prevClose": "668.70",
+          "change": "-14.30",
+          "percentGain": "-2.14"
         }
       ]
     }
