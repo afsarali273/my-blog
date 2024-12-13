@@ -1,0 +1,106 @@
+{
+  "gainers": [
+    {
+      "time": "3:56:11 AM",
+      "data": [
+        {
+          "company": "HUL",
+          "high": "2,360.00",
+          "low": "2,344.95",
+          "lastPrice": "2,352.80",
+          "prevClose": "2,344.95",
+          "change": "7.85",
+          "percentGain": "0.33"
+        },
+        {
+          "company": "Tata Motors",
+          "high": "790.00",
+          "low": "786.35",
+          "lastPrice": "788.15",
+          "prevClose": "786.35",
+          "change": "1.80",
+          "percentGain": "0.23"
+        },
+        {
+          "company": "Eicher Motors",
+          "high": "4,844.50",
+          "low": "4,788.00",
+          "lastPrice": "4,818.45",
+          "prevClose": "4,807.65",
+          "change": "10.80",
+          "percentGain": "0.22"
+        },
+        {
+          "company": "Adani Enterpris",
+          "high": "2,519.75",
+          "low": "2,494.05",
+          "lastPrice": "2,509.30",
+          "prevClose": "2,504.10",
+          "change": "5.20",
+          "percentGain": "0.21"
+        },
+        {
+          "company": "Nestle",
+          "high": "2,236.60",
+          "low": "2,225.00",
+          "lastPrice": "2,228.35",
+          "prevClose": "2,224.05",
+          "change": "4.30",
+          "percentGain": "0.19"
+        }
+      ]
+    }
+  ],
+  "losers": [
+    {
+      "time": "3:56:11 AM",
+      "data": [
+        {
+          "company": "Tata Steel",
+          "high": "150.05",
+          "low": "147.01",
+          "lastPrice": "147.09",
+          "prevClose": "150.78",
+          "change": "-3.69",
+          "percentGain": "-2.45"
+        },
+        {
+          "company": "JSW Steel",
+          "high": "1,000.00",
+          "low": "980.50",
+          "lastPrice": "981.30",
+          "prevClose": "1,005.80",
+          "change": "-24.50",
+          "percentGain": "-2.44"
+        },
+        {
+          "company": "Shriram Finance",
+          "high": "3,254.65",
+          "low": "3,183.10",
+          "lastPrice": "3,184.70",
+          "prevClose": "3,248.10",
+          "change": "-63.40",
+          "percentGain": "-1.95"
+        },
+        {
+          "company": "Hindalco",
+          "high": "664.80",
+          "low": "656.50",
+          "lastPrice": "656.60",
+          "prevClose": "668.70",
+          "change": "-12.10",
+          "percentGain": "-1.81"
+        },
+        {
+          "company": "IndusInd Bank",
+          "high": "997.65",
+          "low": "985.05",
+          "lastPrice": "985.40",
+          "prevClose": "997.95",
+          "change": "-12.55",
+          "percentGain": "-1.26"
+        }
+      ]
+    }
+  ]
+}
