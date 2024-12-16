@@ -207,6 +207,47 @@
           "percentGain": "0.01"
         }
       ]
+    },
+    {
+      "time": "5:50:17 AM",
+      "data": [
+        {
+          "company": "IndusInd Bank",
+          "high": "1,007.95",
+          "low": "985.55",
+          "lastPrice": "995.90",
+          "prevClose": "986.65",
+          "change": "9.25",
+          "percentGain": "0.94"
+        },
+        {
+          "company": "Bajaj Finance",
+          "high": "7,248.00",
+          "low": "7,156.10",
+          "lastPrice": "7,212.50",
+          "prevClose": "7,182.80",
+          "change": "29.70",
+          "percentGain": "0.41"
+        },
+        {
+          "company": "Dr Reddys Labs",
+          "high": "1,254.95",
+          "low": "1,245.20",
+          "lastPrice": "1,250.00",
+          "prevClose": "1,246.35",
+          "change": "3.65",
+          "percentGain": "0.29"
+        },
+        {
+          "company": "Power Grid Corp",
+          "high": "335.00",
+          "low": "331.60",
+          "lastPrice": "333.95",
+          "prevClose": "333.85",
+          "change": "0.10",
+          "percentGain": "0.03"
+        }
+      ]
     }
   ],
   "losers": [
@@ -415,6 +456,56 @@
           "prevClose": "3,081.40",
           "change": "-31.10",
           "percentGain": "-1.01"
+        }
+      ]
+    },
+    {
+      "time": "5:50:17 AM",
+      "data": [
+        {
+          "company": "BPCL",
+          "high": "301.70",
+          "low": "295.95",
+          "lastPrice": "296.50",
+          "prevClose": "301.70",
+          "change": "-5.20",
+          "percentGain": "-1.72"
+        },
+        {
+          "company": "Titan Company",
+          "high": "3,511.00",
+          "low": "3,447.55",
+          "lastPrice": "3,449.95",
+          "prevClose": "3,508.85",
+          "change": "-58.90",
+          "percentGain": "-1.68"
+        },
+        {
+          "company": "JSW Steel",
+          "high": "1,006.30",
+          "low": "984.00",
+          "lastPrice": "986.15",
+          "prevClose": "999.85",
+          "change": "-13.70",
+          "percentGain": "-1.37"
+        },
+        {
+          "company": "Adani Ports",
+          "high": "1,261.85",
+          "low": "1,241.70",
+          "lastPrice": "1,244.55",
+          "prevClose": "1,259.95",
+          "change": "-15.40",
+          "percentGain": "-1.22"
+        },
+        {
+          "company": "Tech Mahindra",
+          "high": "1,793.50",
+          "low": "1,774.25",
+          "lastPrice": "1,775.65",
+          "prevClose": "1,796.40",
+          "change": "-20.75",
+          "percentGain": "-1.16"
         }
       ]
     }
