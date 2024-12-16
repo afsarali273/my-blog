@@ -306,6 +306,56 @@
           "percentGain": "0.21"
         }
       ]
+    },
+    {
+      "time": "7:38:57 AM",
+      "data": [
+        {
+          "company": "Dr Reddys Labs",
+          "high": "1,266.80",
+          "low": "1,245.20",
+          "lastPrice": "1,265.55",
+          "prevClose": "1,246.35",
+          "change": "19.20",
+          "percentGain": "1.54"
+        },
+        {
+          "company": "IndusInd Bank",
+          "high": "1,007.95",
+          "low": "985.55",
+          "lastPrice": "997.05",
+          "prevClose": "986.65",
+          "change": "10.40",
+          "percentGain": "1.05"
+        },
+        {
+          "company": "Bajaj Finance",
+          "high": "7,248.00",
+          "low": "7,156.10",
+          "lastPrice": "7,205.75",
+          "prevClose": "7,182.80",
+          "change": "22.95",
+          "percentGain": "0.32"
+        },
+        {
+          "company": "HDFC Life",
+          "high": "635.45",
+          "low": "628.55",
+          "lastPrice": "634.30",
+          "prevClose": "632.55",
+          "change": "1.75",
+          "percentGain": "0.28"
+        },
+        {
+          "company": "Cipla",
+          "high": "1,457.55",
+          "low": "1,436.10",
+          "lastPrice": "1,451.00",
+          "prevClose": "1,447.30",
+          "change": "3.70",
+          "percentGain": "0.26"
+        }
+      ]
     }
   ],
   "losers": [
@@ -622,6 +672,56 @@
           "prevClose": "999.85",
           "change": "-12.05",
           "percentGain": "-1.21"
+        }
+      ]
+    },
+    {
+      "time": "7:38:57 AM",
+      "data": [
+        {
+          "company": "Titan Company",
+          "high": "3,511.00",
+          "low": "3,429.00",
+          "lastPrice": "3,433.00",
+          "prevClose": "3,508.85",
+          "change": "-75.85",
+          "percentGain": "-2.16"
+        },
+        {
+          "company": "BPCL",
+          "high": "301.70",
+          "low": "295.80",
+          "lastPrice": "296.45",
+          "prevClose": "301.70",
+          "change": "-5.25",
+          "percentGain": "-1.74"
+        },
+        {
+          "company": "UltraTechCement",
+          "high": "12,145.35",
+          "low": "11,891.00",
+          "lastPrice": "11,915.60",
+          "prevClose": "12,083.90",
+          "change": "-168.30",
+          "percentGain": "-1.39"
+        },
+        {
+          "company": "Tech Mahindra",
+          "high": "1,793.50",
+          "low": "1,766.00",
+          "lastPrice": "1,772.75",
+          "prevClose": "1,796.40",
+          "change": "-23.65",
+          "percentGain": "-1.32"
+        },
+        {
+          "company": "NTPC",
+          "high": "358.90",
+          "low": "352.45",
+          "lastPrice": "352.55",
+          "prevClose": "357.15",
+          "change": "-4.60",
+          "percentGain": "-1.29"
         }
       ]
     }
