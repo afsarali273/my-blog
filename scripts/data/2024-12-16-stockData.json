@@ -3,12 +3,112 @@
     {
       "time": "3:57:09 AM",
       "data": []
+    },
+    {
+      "time": "4:20:06 AM",
+      "data": [
+        {
+          "company": "Shriram Finance",
+          "high": "3,194.00",
+          "low": "3,162.55",
+          "lastPrice": "3,191.90",
+          "prevClose": "3,162.55",
+          "change": "29.35",
+          "percentGain": "0.93"
+        },
+        {
+          "company": "ITC",
+          "high": "474.40",
+          "low": "470.25",
+          "lastPrice": "473.65",
+          "prevClose": "470.00",
+          "change": "3.65",
+          "percentGain": "0.78"
+        },
+        {
+          "company": "SBI",
+          "high": "865.20",
+          "low": "857.80",
+          "lastPrice": "865.10",
+          "prevClose": "861.55",
+          "change": "3.55",
+          "percentGain": "0.41"
+        },
+        {
+          "company": "Reliance",
+          "high": "1,281.00",
+          "low": "1,275.00",
+          "lastPrice": "1,278.00",
+          "prevClose": "1,272.85",
+          "change": "5.15",
+          "percentGain": "0.40"
+        },
+        {
+          "company": "Bajaj Finance",
+          "high": "7,228.50",
+          "low": "7,156.10",
+          "lastPrice": "7,209.65",
+          "prevClose": "7,182.80",
+          "change": "26.85",
+          "percentGain": "0.37"
+        }
+      ]
     }
   ],
   "losers": [
     {
       "time": "3:57:09 AM",
       "data": []
+    },
+    {
+      "time": "4:20:06 AM",
+      "data": [
+        {
+          "company": "JSW Steel",
+          "high": "1,006.30",
+          "low": "984.00",
+          "lastPrice": "989.90",
+          "prevClose": "999.85",
+          "change": "-9.95",
+          "percentGain": "-1.00"
+        },
+        {
+          "company": "Titan Company",
+          "high": "3,511.00",
+          "low": "3,457.75",
+          "lastPrice": "3,477.55",
+          "prevClose": "3,508.85",
+          "change": "-31.30",
+          "percentGain": "-0.89"
+        },
+        {
+          "company": "Hero Motocorp",
+          "high": "4,590.00",
+          "low": "4,533.10",
+          "lastPrice": "4,541.95",
+          "prevClose": "4,575.45",
+          "change": "-33.50",
+          "percentGain": "-0.73"
+        },
+        {
+          "company": "BPCL",
+          "high": "301.70",
+          "low": "298.60",
+          "lastPrice": "299.85",
+          "prevClose": "301.70",
+          "change": "-1.85",
+          "percentGain": "-0.61"
+        },
+        {
+          "company": "Bharti Airtel",
+          "high": "1,687.00",
+          "low": "1,664.25",
+          "lastPrice": "1,671.45",
+          "prevClose": "1,681.75",
+          "change": "-10.30",
+          "percentGain": "-0.61"
+        }
+      ]
     }
   ]
 }
