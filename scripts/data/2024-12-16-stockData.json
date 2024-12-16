@@ -107,6 +107,56 @@
           "percentGain": "0.23"
         }
       ]
+    },
+    {
+      "time": "5:17:22 AM",
+      "data": [
+        {
+          "company": "IndusInd Bank",
+          "high": "1,007.95",
+          "low": "985.55",
+          "lastPrice": "999.65",
+          "prevClose": "986.65",
+          "change": "13.00",
+          "percentGain": "1.32"
+        },
+        {
+          "company": "Bajaj Finance",
+          "high": "7,248.00",
+          "low": "7,156.10",
+          "lastPrice": "7,211.25",
+          "prevClose": "7,182.80",
+          "change": "28.45",
+          "percentGain": "0.40"
+        },
+        {
+          "company": "Shriram Finance",
+          "high": "3,197.00",
+          "low": "3,162.55",
+          "lastPrice": "3,167.50",
+          "prevClose": "3,162.55",
+          "change": "4.95",
+          "percentGain": "0.16"
+        },
+        {
+          "company": "Dr Reddys Labs",
+          "high": "1,254.95",
+          "low": "1,245.20",
+          "lastPrice": "1,248.00",
+          "prevClose": "1,246.35",
+          "change": "1.65",
+          "percentGain": "0.13"
+        },
+        {
+          "company": "ICICI Bank",
+          "high": "1,350.45",
+          "low": "1,340.55",
+          "lastPrice": "1,346.25",
+          "prevClose": "1,344.90",
+          "change": "1.35",
+          "percentGain": "0.10"
+        }
+      ]
     }
   ],
   "losers": [
@@ -215,6 +265,56 @@
           "prevClose": "4,575.45",
           "change": "-45.15",
           "percentGain": "-0.99"
+        }
+      ]
+    },
+    {
+      "time": "5:17:22 AM",
+      "data": [
+        {
+          "company": "Titan Company",
+          "high": "3,511.00",
+          "low": "3,457.75",
+          "lastPrice": "3,462.05",
+          "prevClose": "3,508.85",
+          "change": "-46.80",
+          "percentGain": "-1.33"
+        },
+        {
+          "company": "Adani Ports",
+          "high": "1,261.85",
+          "low": "1,242.50",
+          "lastPrice": "1,243.40",
+          "prevClose": "1,259.95",
+          "change": "-16.55",
+          "percentGain": "-1.31"
+        },
+        {
+          "company": "BPCL",
+          "high": "301.70",
+          "low": "297.05",
+          "lastPrice": "297.85",
+          "prevClose": "301.70",
+          "change": "-3.85",
+          "percentGain": "-1.28"
+        },
+        {
+          "company": "JSW Steel",
+          "high": "1,006.30",
+          "low": "984.00",
+          "lastPrice": "988.00",
+          "prevClose": "999.85",
+          "change": "-11.85",
+          "percentGain": "-1.19"
+        },
+        {
+          "company": "Bharti Airtel",
+          "high": "1,687.00",
+          "low": "1,662.25",
+          "lastPrice": "1,662.85",
+          "prevClose": "1,681.75",
+          "change": "-18.90",
+          "percentGain": "-1.12"
         }
       ]
     }
