@@ -157,6 +157,56 @@
           "percentGain": "0.10"
         }
       ]
+    },
+    {
+      "time": "5:41:17 AM",
+      "data": [
+        {
+          "company": "IndusInd Bank",
+          "high": "1,007.95",
+          "low": "985.55",
+          "lastPrice": "997.55",
+          "prevClose": "986.65",
+          "change": "10.90",
+          "percentGain": "1.10"
+        },
+        {
+          "company": "Bajaj Finance",
+          "high": "7,248.00",
+          "low": "7,156.10",
+          "lastPrice": "7,225.00",
+          "prevClose": "7,182.80",
+          "change": "42.20",
+          "percentGain": "0.59"
+        },
+        {
+          "company": "Dr Reddys Labs",
+          "high": "1,254.95",
+          "low": "1,245.20",
+          "lastPrice": "1,250.30",
+          "prevClose": "1,246.35",
+          "change": "3.95",
+          "percentGain": "0.32"
+        },
+        {
+          "company": "Power Grid Corp",
+          "high": "335.00",
+          "low": "331.60",
+          "lastPrice": "334.25",
+          "prevClose": "333.85",
+          "change": "0.40",
+          "percentGain": "0.12"
+        },
+        {
+          "company": "ICICI Bank",
+          "high": "1,350.45",
+          "low": "1,340.55",
+          "lastPrice": "1,345.05",
+          "prevClose": "1,344.90",
+          "change": "0.15",
+          "percentGain": "0.01"
+        }
+      ]
     }
   ],
   "losers": [
@@ -315,6 +365,56 @@
           "prevClose": "1,681.75",
           "change": "-18.90",
           "percentGain": "-1.12"
+        }
+      ]
+    },
+    {
+      "time": "5:41:17 AM",
+      "data": [
+        {
+          "company": "Titan Company",
+          "high": "3,511.00",
+          "low": "3,451.45",
+          "lastPrice": "3,453.35",
+          "prevClose": "3,508.85",
+          "change": "-55.50",
+          "percentGain": "-1.58"
+        },
+        {
+          "company": "BPCL",
+          "high": "301.70",
+          "low": "296.00",
+          "lastPrice": "297.00",
+          "prevClose": "301.70",
+          "change": "-4.70",
+          "percentGain": "-1.56"
+        },
+        {
+          "company": "Adani Ports",
+          "high": "1,261.85",
+          "low": "1,241.70",
+          "lastPrice": "1,246.20",
+          "prevClose": "1,259.95",
+          "change": "-13.75",
+          "percentGain": "-1.09"
+        },
+        {
+          "company": "JSW Steel",
+          "high": "1,006.30",
+          "low": "984.00",
+          "lastPrice": "989.15",
+          "prevClose": "999.85",
+          "change": "-10.70",
+          "percentGain": "-1.07"
+        },
+        {
+          "company": "M&M",
+          "high": "3,092.15",
+          "low": "3,040.00",
+          "lastPrice": "3,050.30",
+          "prevClose": "3,081.40",
+          "change": "-31.10",
+          "percentGain": "-1.01"
         }
       ]
     }
