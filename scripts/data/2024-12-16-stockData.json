@@ -410,6 +410,56 @@
           "percentGain": "0.24"
         }
       ]
+    },
+    {
+      "time": "8:46:10 AM",
+      "data": [
+        {
+          "company": "Dr Reddys Labs",
+          "high": "1,272.20",
+          "low": "1,245.20",
+          "lastPrice": "1,271.80",
+          "prevClose": "1,246.35",
+          "change": "25.45",
+          "percentGain": "2.04"
+        },
+        {
+          "company": "IndusInd Bank",
+          "high": "1,007.95",
+          "low": "985.55",
+          "lastPrice": "999.60",
+          "prevClose": "986.65",
+          "change": "12.95",
+          "percentGain": "1.31"
+        },
+        {
+          "company": "Bajaj Finance",
+          "high": "7,248.00",
+          "low": "7,156.10",
+          "lastPrice": "7,219.30",
+          "prevClose": "7,182.80",
+          "change": "36.50",
+          "percentGain": "0.51"
+        },
+        {
+          "company": "Power Grid Corp",
+          "high": "336.25",
+          "low": "331.60",
+          "lastPrice": "335.55",
+          "prevClose": "333.85",
+          "change": "1.70",
+          "percentGain": "0.51"
+        },
+        {
+          "company": "HDFC Life",
+          "high": "636.40",
+          "low": "628.55",
+          "lastPrice": "634.60",
+          "prevClose": "632.55",
+          "change": "2.05",
+          "percentGain": "0.32"
+        }
+      ]
     }
   ],
   "losers": [
@@ -830,6 +880,56 @@
           "prevClose": "929.70",
           "change": "-11.70",
           "percentGain": "-1.26"
+        }
+      ]
+    },
+    {
+      "time": "8:46:10 AM",
+      "data": [
+        {
+          "company": "Titan Company",
+          "high": "3,511.00",
+          "low": "3,429.00",
+          "lastPrice": "3,437.05",
+          "prevClose": "3,508.85",
+          "change": "-71.80",
+          "percentGain": "-2.05"
+        },
+        {
+          "company": "TCS",
+          "high": "4,475.00",
+          "low": "4,397.00",
+          "lastPrice": "4,407.40",
+          "prevClose": "4,473.90",
+          "change": "-66.50",
+          "percentGain": "-1.49"
+        },
+        {
+          "company": "UltraTechCement",
+          "high": "12,145.35",
+          "low": "11,871.00",
+          "lastPrice": "11,909.00",
+          "prevClose": "12,083.90",
+          "change": "-174.90",
+          "percentGain": "-1.45"
+        },
+        {
+          "company": "NTPC",
+          "high": "358.90",
+          "low": "351.70",
+          "lastPrice": "352.60",
+          "prevClose": "357.15",
+          "change": "-4.55",
+          "percentGain": "-1.27"
+        },
+        {
+          "company": "Adani Ports",
+          "high": "1,261.85",
+          "low": "1,241.70",
+          "lastPrice": "1,244.45",
+          "prevClose": "1,259.95",
+          "change": "-15.50",
+          "percentGain": "-1.23"
         }
       ]
     }
