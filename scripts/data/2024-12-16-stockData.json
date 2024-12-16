@@ -360,6 +360,56 @@
     {
       "time": "7:49:44 AM",
       "data": []
+    },
+    {
+      "time": "8:23:18 AM",
+      "data": [
+        {
+          "company": "Dr Reddys Labs",
+          "high": "1,272.20",
+          "low": "1,245.20",
+          "lastPrice": "1,270.00",
+          "prevClose": "1,246.35",
+          "change": "23.65",
+          "percentGain": "1.90"
+        },
+        {
+          "company": "IndusInd Bank",
+          "high": "1,007.95",
+          "low": "985.55",
+          "lastPrice": "998.35",
+          "prevClose": "986.65",
+          "change": "11.70",
+          "percentGain": "1.19"
+        },
+        {
+          "company": "Power Grid Corp",
+          "high": "336.25",
+          "low": "331.60",
+          "lastPrice": "335.70",
+          "prevClose": "333.85",
+          "change": "1.85",
+          "percentGain": "0.55"
+        },
+        {
+          "company": "Bajaj Finance",
+          "high": "7,248.00",
+          "low": "7,156.10",
+          "lastPrice": "7,213.25",
+          "prevClose": "7,182.80",
+          "change": "30.45",
+          "percentGain": "0.42"
+        },
+        {
+          "company": "HDFC Life",
+          "high": "635.45",
+          "low": "628.55",
+          "lastPrice": "634.05",
+          "prevClose": "632.55",
+          "change": "1.50",
+          "percentGain": "0.24"
+        }
+      ]
     }
   ],
   "losers": [
@@ -732,6 +782,56 @@
     {
       "time": "7:49:44 AM",
       "data": []
+    },
+    {
+      "time": "8:23:18 AM",
+      "data": [
+        {
+          "company": "Titan Company",
+          "high": "3,511.00",
+          "low": "3,429.00",
+          "lastPrice": "3,434.85",
+          "prevClose": "3,508.85",
+          "change": "-74.00",
+          "percentGain": "-2.11"
+        },
+        {
+          "company": "UltraTechCement",
+          "high": "12,145.35",
+          "low": "11,871.00",
+          "lastPrice": "11,890.85",
+          "prevClose": "12,083.90",
+          "change": "-193.05",
+          "percentGain": "-1.60"
+        },
+        {
+          "company": "TCS",
+          "high": "4,475.00",
+          "low": "4,397.00",
+          "lastPrice": "4,406.95",
+          "prevClose": "4,473.90",
+          "change": "-66.95",
+          "percentGain": "-1.50"
+        },
+        {
+          "company": "NTPC",
+          "high": "358.90",
+          "low": "351.70",
+          "lastPrice": "352.05",
+          "prevClose": "357.15",
+          "change": "-5.10",
+          "percentGain": "-1.43"
+        },
+        {
+          "company": "TATA Cons. Prod",
+          "high": "934.65",
+          "low": "917.00",
+          "lastPrice": "918.00",
+          "prevClose": "929.70",
+          "change": "-11.70",
+          "percentGain": "-1.26"
+        }
+      ]
     }
   ]
 }
