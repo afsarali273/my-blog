@@ -444,6 +444,56 @@
           "percentGain": "0.20"
         }
       ]
+    },
+    {
+      "time": "7:37:27 AM",
+      "data": [
+        {
+          "company": "ITC",
+          "high": "475.80",
+          "low": "463.05",
+          "lastPrice": "474.60",
+          "prevClose": "470.10",
+          "change": "4.50",
+          "percentGain": "0.96"
+        },
+        {
+          "company": "Cipla",
+          "high": "1,483.00",
+          "low": "1,452.05",
+          "lastPrice": "1,454.15",
+          "prevClose": "1,448.45",
+          "change": "5.70",
+          "percentGain": "0.39"
+        },
+        {
+          "company": "Tata Motors",
+          "high": "796.35",
+          "low": "783.00",
+          "lastPrice": "787.35",
+          "prevClose": "784.80",
+          "change": "2.55",
+          "percentGain": "0.32"
+        },
+        {
+          "company": "HUL",
+          "high": "2,380.00",
+          "low": "2,353.35",
+          "lastPrice": "2,373.00",
+          "prevClose": "2,366.15",
+          "change": "6.85",
+          "percentGain": "0.29"
+        },
+        {
+          "company": "Adani Ports",
+          "high": "1,259.50",
+          "low": "1,234.35",
+          "lastPrice": "1,246.20",
+          "prevClose": "1,243.15",
+          "change": "3.05",
+          "percentGain": "0.25"
+        }
+      ]
     }
   ],
   "losers": [
@@ -898,6 +948,56 @@
           "prevClose": "3,877.85",
           "change": "-67.85",
           "percentGain": "-1.75"
+        }
+      ]
+    },
+    {
+      "time": "7:37:27 AM",
+      "data": [
+        {
+          "company": "Shriram Finance",
+          "high": "3,135.00",
+          "low": "3,005.05",
+          "lastPrice": "3,013.20",
+          "prevClose": "3,137.45",
+          "change": "-124.25",
+          "percentGain": "-3.96"
+        },
+        {
+          "company": "Bharti Airtel",
+          "high": "1,658.65",
+          "low": "1,611.00",
+          "lastPrice": "1,615.15",
+          "prevClose": "1,662.55",
+          "change": "-47.40",
+          "percentGain": "-2.85"
+        },
+        {
+          "company": "Grasim",
+          "high": "2,685.00",
+          "low": "2,621.10",
+          "lastPrice": "2,624.70",
+          "prevClose": "2,685.15",
+          "change": "-60.45",
+          "percentGain": "-2.25"
+        },
+        {
+          "company": "Hindalco",
+          "high": "653.60",
+          "low": "640.25",
+          "lastPrice": "640.90",
+          "prevClose": "653.50",
+          "change": "-12.60",
+          "percentGain": "-1.93"
+        },
+        {
+          "company": "TCS",
+          "high": "4,432.95",
+          "low": "4,323.40",
+          "lastPrice": "4,331.00",
+          "prevClose": "4,415.20",
+          "change": "-84.20",
+          "percentGain": "-1.91"
         }
       ]
     }
