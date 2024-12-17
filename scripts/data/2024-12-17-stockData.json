@@ -590,6 +590,20 @@
           "percentGain": "0.14"
         }
       ]
+    },
+    {
+      "time": "9:49:57 AM",
+      "data": [
+        {
+          "company": "Cipla",
+          "high": "1,483.00",
+          "low": "1,449.00",
+          "lastPrice": "1,450.05",
+          "prevClose": "1,448.45",
+          "change": "1.60",
+          "percentGain": "0.11"
+        }
+      ]
     }
   ],
   "losers": [
@@ -1298,6 +1312,56 @@
           "prevClose": "999.35",
           "change": "-21.75",
           "percentGain": "-2.18"
+        }
+      ]
+    },
+    {
+      "time": "9:49:57 AM",
+      "data": [
+        {
+          "company": "Shriram Finance",
+          "high": "3,135.00",
+          "low": "2,968.05",
+          "lastPrice": "2,972.00",
+          "prevClose": "3,137.45",
+          "change": "-165.45",
+          "percentGain": "-5.27"
+        },
+        {
+          "company": "Grasim",
+          "high": "2,685.00",
+          "low": "2,595.35",
+          "lastPrice": "2,598.25",
+          "prevClose": "2,685.15",
+          "change": "-86.90",
+          "percentGain": "-3.24"
+        },
+        {
+          "company": "Bharti Airtel",
+          "high": "1,658.65",
+          "low": "1,608.50",
+          "lastPrice": "1,615.75",
+          "prevClose": "1,662.55",
+          "change": "-46.80",
+          "percentGain": "-2.81"
+        },
+        {
+          "company": "Hero Motocorp",
+          "high": "4,558.55",
+          "low": "4,410.00",
+          "lastPrice": "4,412.45",
+          "prevClose": "4,539.00",
+          "change": "-126.55",
+          "percentGain": "-2.79"
+        },
+        {
+          "company": "IndusInd Bank",
+          "high": "1,002.00",
+          "low": "972.85",
+          "lastPrice": "973.60",
+          "prevClose": "999.35",
+          "change": "-25.75",
+          "percentGain": "-2.58"
         }
       ]
     }
