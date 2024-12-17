@@ -49,6 +49,56 @@
           "percentGain": "0.28"
         }
       ]
+    },
+    {
+      "time": "4:20:14 AM",
+      "data": [
+        {
+          "company": "Cipla",
+          "high": "1,483.00",
+          "low": "1,462.75",
+          "lastPrice": "1,470.40",
+          "prevClose": "1,448.45",
+          "change": "21.95",
+          "percentGain": "1.52"
+        },
+        {
+          "company": "Tata Motors",
+          "high": "796.35",
+          "low": "784.95",
+          "lastPrice": "790.60",
+          "prevClose": "784.80",
+          "change": "5.80",
+          "percentGain": "0.74"
+        },
+        {
+          "company": "Tech Mahindra",
+          "high": "1,786.05",
+          "low": "1,769.10",
+          "lastPrice": "1,783.60",
+          "prevClose": "1,775.55",
+          "change": "8.05",
+          "percentGain": "0.45"
+        },
+        {
+          "company": "Bharat Elec",
+          "high": "318.65",
+          "low": "314.80",
+          "lastPrice": "317.55",
+          "prevClose": "316.20",
+          "change": "1.35",
+          "percentGain": "0.43"
+        },
+        {
+          "company": "Wipro",
+          "high": "312.25",
+          "low": "308.80",
+          "lastPrice": "310.45",
+          "prevClose": "309.20",
+          "change": "1.25",
+          "percentGain": "0.40"
+        }
+      ]
     }
   ],
   "losers": [
@@ -99,6 +149,56 @@
           "prevClose": "1,662.55",
           "change": "-10.45",
           "percentGain": "-0.63"
+        }
+      ]
+    },
+    {
+      "time": "4:20:14 AM",
+      "data": [
+        {
+          "company": "Shriram Finance",
+          "high": "3,135.00",
+          "low": "3,060.05",
+          "lastPrice": "3,062.10",
+          "prevClose": "3,137.45",
+          "change": "-75.35",
+          "percentGain": "-2.40"
+        },
+        {
+          "company": "Reliance",
+          "high": "1,263.90",
+          "low": "1,251.60",
+          "lastPrice": "1,252.00",
+          "prevClose": "1,268.30",
+          "change": "-16.30",
+          "percentGain": "-1.29"
+        },
+        {
+          "company": "Bajaj Finserv",
+          "high": "1,673.65",
+          "low": "1,653.00",
+          "lastPrice": "1,653.00",
+          "prevClose": "1,673.65",
+          "change": "-20.65",
+          "percentGain": "-1.23"
+        },
+        {
+          "company": "Grasim",
+          "high": "2,685.00",
+          "low": "2,645.20",
+          "lastPrice": "2,652.00",
+          "prevClose": "2,685.15",
+          "change": "-33.15",
+          "percentGain": "-1.23"
+        },
+        {
+          "company": "Bharti Airtel",
+          "high": "1,658.65",
+          "low": "1,643.45",
+          "lastPrice": "1,643.50",
+          "prevClose": "1,662.55",
+          "change": "-19.05",
+          "percentGain": "-1.15"
         }
       ]
     }
