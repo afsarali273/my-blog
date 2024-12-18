@@ -1,0 +1,106 @@
+{
+  "gainers": [
+    {
+      "time": "3:53:39 AM",
+      "data": [
+        {
+          "company": "Dr Reddys Labs",
+          "high": "1,270.90",
+          "low": "1,249.55",
+          "lastPrice": "1,270.60",
+          "prevClose": "1,247.65",
+          "change": "22.95",
+          "percentGain": "1.84"
+        },
+        {
+          "company": "Sun Pharma",
+          "high": "1,817.85",
+          "low": "1,792.80",
+          "lastPrice": "1,815.85",
+          "prevClose": "1,789.05",
+          "change": "26.80",
+          "percentGain": "1.50"
+        },
+        {
+          "company": "Shriram Finance",
+          "high": "3,033.00",
+          "low": "2,976.90",
+          "lastPrice": "3,014.80",
+          "prevClose": "2,976.90",
+          "change": "37.90",
+          "percentGain": "1.27"
+        },
+        {
+          "company": "Wipro",
+          "high": "312.65",
+          "low": "308.55",
+          "lastPrice": "312.50",
+          "prevClose": "308.85",
+          "change": "3.65",
+          "percentGain": "1.18"
+        },
+        {
+          "company": "Tech Mahindra",
+          "high": "1,784.90",
+          "low": "1,760.55",
+          "lastPrice": "1,784.90",
+          "prevClose": "1,770.75",
+          "change": "14.15",
+          "percentGain": "0.80"
+        }
+      ]
+    }
+  ],
+  "losers": [
+    {
+      "time": "3:53:39 AM",
+      "data": [
+        {
+          "company": "Tata Motors",
+          "high": "774.25",
+          "low": "761.35",
+          "lastPrice": "762.30",
+          "prevClose": "779.75",
+          "change": "-17.45",
+          "percentGain": "-2.24"
+        },
+        {
+          "company": "Larsen",
+          "high": "3,819.00",
+          "low": "3,768.40",
+          "lastPrice": "3,769.95",
+          "prevClose": "3,807.20",
+          "change": "-37.25",
+          "percentGain": "-0.98"
+        },
+        {
+          "company": "Power Grid Corp",
+          "high": "329.10",
+          "low": "325.65",
+          "lastPrice": "326.75",
+          "prevClose": "329.80",
+          "change": "-3.05",
+          "percentGain": "-0.92"
+        },
+        {
+          "company": "Maruti Suzuki",
+          "high": "11,098.05",
+          "low": "10,990.10",
+          "lastPrice": "11,031.00",
+          "prevClose": "11,108.55",
+          "change": "-77.55",
+          "percentGain": "-0.70"
+        },
+        {
+          "company": "Bharat Elec",
+          "high": "310.60",
+          "low": "307.35",
+          "lastPrice": "308.45",
+          "prevClose": "310.60",
+          "change": "-2.15",
+          "percentGain": "-0.69"
+        }
+      ]
+    }
+  ]
+}
