@@ -157,6 +157,56 @@
     {
       "time": "5:15:47 AM",
       "data": []
+    },
+    {
+      "time": "5:39:30 AM",
+      "data": [
+        {
+          "company": "Dr Reddys Labs",
+          "high": "1,281.00",
+          "low": "1,249.55",
+          "lastPrice": "1,276.35",
+          "prevClose": "1,247.65",
+          "change": "28.70",
+          "percentGain": "2.30"
+        },
+        {
+          "company": "Cipla",
+          "high": "1,477.90",
+          "low": "1,453.20",
+          "lastPrice": "1,473.85",
+          "prevClose": "1,450.85",
+          "change": "23.00",
+          "percentGain": "1.59"
+        },
+        {
+          "company": "Sun Pharma",
+          "high": "1,822.45",
+          "low": "1,792.80",
+          "lastPrice": "1,809.25",
+          "prevClose": "1,789.05",
+          "change": "20.20",
+          "percentGain": "1.13"
+        },
+        {
+          "company": "TATA Cons. Prod",
+          "high": "916.90",
+          "low": "904.45",
+          "lastPrice": "913.50",
+          "prevClose": "904.90",
+          "change": "8.60",
+          "percentGain": "0.95"
+        },
+        {
+          "company": "Reliance",
+          "high": "1,259.95",
+          "low": "1,240.65",
+          "lastPrice": "1,254.20",
+          "prevClose": "1,245.30",
+          "change": "8.90",
+          "percentGain": "0.71"
+        }
+      ]
     }
   ],
   "losers": [
@@ -317,6 +367,56 @@
     {
       "time": "5:15:47 AM",
       "data": []
+    },
+    {
+      "time": "5:39:30 AM",
+      "data": [
+        {
+          "company": "Tata Motors",
+          "high": "774.25",
+          "low": "759.10",
+          "lastPrice": "763.65",
+          "prevClose": "779.75",
+          "change": "-16.10",
+          "percentGain": "-2.06"
+        },
+        {
+          "company": "Power Grid Corp",
+          "high": "329.10",
+          "low": "322.60",
+          "lastPrice": "323.10",
+          "prevClose": "329.80",
+          "change": "-6.70",
+          "percentGain": "-2.03"
+        },
+        {
+          "company": "Bharat Elec",
+          "high": "310.60",
+          "low": "304.35",
+          "lastPrice": "304.40",
+          "prevClose": "310.60",
+          "change": "-6.20",
+          "percentGain": "-2.00"
+        },
+        {
+          "company": "ICICI Bank",
+          "high": "1,334.95",
+          "low": "1,313.50",
+          "lastPrice": "1,314.90",
+          "prevClose": "1,333.75",
+          "change": "-18.85",
+          "percentGain": "-1.41"
+        },
+        {
+          "company": "NTPC",
+          "high": "351.00",
+          "low": "344.25",
+          "lastPrice": "344.40",
+          "prevClose": "349.05",
+          "change": "-4.65",
+          "percentGain": "-1.33"
+        }
+      ]
     }
   ]
 }
