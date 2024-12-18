@@ -49,6 +49,56 @@
           "percentGain": "0.80"
         }
       ]
+    },
+    {
+      "time": "4:19:34 AM",
+      "data": [
+        {
+          "company": "Dr Reddys Labs",
+          "high": "1,277.00",
+          "low": "1,249.55",
+          "lastPrice": "1,274.90",
+          "prevClose": "1,247.65",
+          "change": "27.25",
+          "percentGain": "2.18"
+        },
+        {
+          "company": "Sun Pharma",
+          "high": "1,822.45",
+          "low": "1,792.80",
+          "lastPrice": "1,821.55",
+          "prevClose": "1,789.05",
+          "change": "32.50",
+          "percentGain": "1.82"
+        },
+        {
+          "company": "Cipla",
+          "high": "1,473.90",
+          "low": "1,453.20",
+          "lastPrice": "1,473.30",
+          "prevClose": "1,450.85",
+          "change": "22.45",
+          "percentGain": "1.55"
+        },
+        {
+          "company": "Eicher Motors",
+          "high": "4,791.50",
+          "low": "4,716.35",
+          "lastPrice": "4,791.00",
+          "prevClose": "4,742.65",
+          "change": "48.35",
+          "percentGain": "1.02"
+        },
+        {
+          "company": "TATA Cons. Prod",
+          "high": "914.00",
+          "low": "904.45",
+          "lastPrice": "914.00",
+          "prevClose": "904.90",
+          "change": "9.10",
+          "percentGain": "1.01"
+        }
+      ]
     }
   ],
   "losers": [
@@ -99,6 +149,56 @@
           "prevClose": "310.60",
           "change": "-2.15",
           "percentGain": "-0.69"
+        }
+      ]
+    },
+    {
+      "time": "4:19:34 AM",
+      "data": [
+        {
+          "company": "Tata Motors",
+          "high": "774.25",
+          "low": "759.10",
+          "lastPrice": "764.80",
+          "prevClose": "779.75",
+          "change": "-14.95",
+          "percentGain": "-1.92"
+        },
+        {
+          "company": "Power Grid Corp",
+          "high": "329.10",
+          "low": "323.85",
+          "lastPrice": "325.15",
+          "prevClose": "329.80",
+          "change": "-4.65",
+          "percentGain": "-1.41"
+        },
+        {
+          "company": "Larsen",
+          "high": "3,819.00",
+          "low": "3,745.00",
+          "lastPrice": "3,771.75",
+          "prevClose": "3,807.20",
+          "change": "-35.45",
+          "percentGain": "-0.93"
+        },
+        {
+          "company": "Bharat Elec",
+          "high": "310.60",
+          "low": "306.20",
+          "lastPrice": "308.45",
+          "prevClose": "310.60",
+          "change": "-2.15",
+          "percentGain": "-0.69"
+        },
+        {
+          "company": "Maruti Suzuki",
+          "high": "11,098.05",
+          "low": "10,983.40",
+          "lastPrice": "11,040.00",
+          "prevClose": "11,108.55",
+          "change": "-68.55",
+          "percentGain": "-0.62"
         }
       ]
     }
