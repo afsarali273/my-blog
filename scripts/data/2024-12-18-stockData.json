@@ -207,6 +207,56 @@
           "percentGain": "0.71"
         }
       ]
+    },
+    {
+      "time": "5:50:02 AM",
+      "data": [
+        {
+          "company": "Dr Reddys Labs",
+          "high": "1,281.00",
+          "low": "1,249.55",
+          "lastPrice": "1,273.50",
+          "prevClose": "1,247.65",
+          "change": "25.85",
+          "percentGain": "2.07"
+        },
+        {
+          "company": "Cipla",
+          "high": "1,477.90",
+          "low": "1,453.20",
+          "lastPrice": "1,476.75",
+          "prevClose": "1,450.85",
+          "change": "25.90",
+          "percentGain": "1.79"
+        },
+        {
+          "company": "TATA Cons. Prod",
+          "high": "916.90",
+          "low": "904.45",
+          "lastPrice": "914.30",
+          "prevClose": "904.90",
+          "change": "9.40",
+          "percentGain": "1.04"
+        },
+        {
+          "company": "Sun Pharma",
+          "high": "1,822.45",
+          "low": "1,792.80",
+          "lastPrice": "1,806.80",
+          "prevClose": "1,789.05",
+          "change": "17.75",
+          "percentGain": "0.99"
+        },
+        {
+          "company": "Bajaj Auto",
+          "high": "9,006.25",
+          "low": "8,800.00",
+          "lastPrice": "8,959.30",
+          "prevClose": "8,895.00",
+          "change": "64.30",
+          "percentGain": "0.72"
+        }
+      ]
     }
   ],
   "losers": [
@@ -415,6 +465,56 @@
           "prevClose": "349.05",
           "change": "-4.65",
           "percentGain": "-1.33"
+        }
+      ]
+    },
+    {
+      "time": "5:50:02 AM",
+      "data": [
+        {
+          "company": "Bharat Elec",
+          "high": "310.60",
+          "low": "303.45",
+          "lastPrice": "303.50",
+          "prevClose": "310.60",
+          "change": "-7.10",
+          "percentGain": "-2.29"
+        },
+        {
+          "company": "Power Grid Corp",
+          "high": "329.10",
+          "low": "322.30",
+          "lastPrice": "322.35",
+          "prevClose": "329.80",
+          "change": "-7.45",
+          "percentGain": "-2.26"
+        },
+        {
+          "company": "Tata Motors",
+          "high": "774.25",
+          "low": "759.10",
+          "lastPrice": "764.05",
+          "prevClose": "779.75",
+          "change": "-15.70",
+          "percentGain": "-2.01"
+        },
+        {
+          "company": "ICICI Bank",
+          "high": "1,334.95",
+          "low": "1,313.50",
+          "lastPrice": "1,315.00",
+          "prevClose": "1,333.75",
+          "change": "-18.75",
+          "percentGain": "-1.41"
+        },
+        {
+          "company": "Axis Bank",
+          "high": "1,139.90",
+          "low": "1,121.10",
+          "lastPrice": "1,121.95",
+          "prevClose": "1,136.25",
+          "change": "-14.30",
+          "percentGain": "-1.26"
         }
       ]
     }
