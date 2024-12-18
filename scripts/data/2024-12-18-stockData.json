@@ -711,6 +711,56 @@
           "percentGain": "0.81"
         }
       ]
+    },
+    {
+      "time": "9:38:46 AM",
+      "data": [
+        {
+          "company": "Trent",
+          "high": "7,177.00",
+          "low": "6,848.80",
+          "lastPrice": "7,095.70",
+          "prevClose": "6,941.65",
+          "change": "154.05",
+          "percentGain": "2.22"
+        },
+        {
+          "company": "Dr Reddys Labs",
+          "high": "1,281.00",
+          "low": "1,249.55",
+          "lastPrice": "1,275.05",
+          "prevClose": "1,247.65",
+          "change": "27.40",
+          "percentGain": "2.20"
+        },
+        {
+          "company": "Cipla",
+          "high": "1,482.95",
+          "low": "1,453.20",
+          "lastPrice": "1,472.75",
+          "prevClose": "1,450.85",
+          "change": "21.90",
+          "percentGain": "1.51"
+        },
+        {
+          "company": "Wipro",
+          "high": "313.25",
+          "low": "308.55",
+          "lastPrice": "312.85",
+          "prevClose": "308.85",
+          "change": "4.00",
+          "percentGain": "1.30"
+        },
+        {
+          "company": "Sun Pharma",
+          "high": "1,822.45",
+          "low": "1,792.80",
+          "lastPrice": "1,802.30",
+          "prevClose": "1,789.05",
+          "change": "13.25",
+          "percentGain": "0.74"
+        }
+      ]
     }
   ],
   "losers": [
@@ -1423,6 +1473,56 @@
           "prevClose": "966.85",
           "change": "-23.55",
           "percentGain": "-2.44"
+        }
+      ]
+    },
+    {
+      "time": "9:38:46 AM",
+      "data": [
+        {
+          "company": "Tata Motors",
+          "high": "774.25",
+          "low": "756.00",
+          "lastPrice": "756.20",
+          "prevClose": "779.75",
+          "change": "-23.55",
+          "percentGain": "-3.02"
+        },
+        {
+          "company": "Power Grid Corp",
+          "high": "329.10",
+          "low": "320.65",
+          "lastPrice": "321.55",
+          "prevClose": "329.80",
+          "change": "-8.25",
+          "percentGain": "-2.50"
+        },
+        {
+          "company": "Bharat Elec",
+          "high": "310.60",
+          "low": "301.65",
+          "lastPrice": "302.95",
+          "prevClose": "310.60",
+          "change": "-7.65",
+          "percentGain": "-2.46"
+        },
+        {
+          "company": "JSW Steel",
+          "high": "969.50",
+          "low": "941.55",
+          "lastPrice": "944.80",
+          "prevClose": "966.85",
+          "change": "-22.05",
+          "percentGain": "-2.28"
+        },
+        {
+          "company": "NTPC",
+          "high": "351.00",
+          "low": "340.00",
+          "lastPrice": "341.40",
+          "prevClose": "349.05",
+          "change": "-7.65",
+          "percentGain": "-2.19"
         }
       ]
     }
