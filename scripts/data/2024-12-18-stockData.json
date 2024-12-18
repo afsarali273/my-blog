@@ -103,6 +103,56 @@
     {
       "time": "4:41:41 AM",
       "data": []
+    },
+    {
+      "time": "4:51:30 AM",
+      "data": [
+        {
+          "company": "Dr Reddys Labs",
+          "high": "1,280.45",
+          "low": "1,249.55",
+          "lastPrice": "1,271.35",
+          "prevClose": "1,247.65",
+          "change": "23.70",
+          "percentGain": "1.90"
+        },
+        {
+          "company": "Cipla",
+          "high": "1,474.55",
+          "low": "1,453.20",
+          "lastPrice": "1,470.85",
+          "prevClose": "1,450.85",
+          "change": "20.00",
+          "percentGain": "1.38"
+        },
+        {
+          "company": "Trent",
+          "high": "7,027.00",
+          "low": "6,848.80",
+          "lastPrice": "7,025.25",
+          "prevClose": "6,941.65",
+          "change": "83.60",
+          "percentGain": "1.20"
+        },
+        {
+          "company": "Sun Pharma",
+          "high": "1,822.45",
+          "low": "1,792.80",
+          "lastPrice": "1,807.00",
+          "prevClose": "1,789.05",
+          "change": "17.95",
+          "percentGain": "1.00"
+        },
+        {
+          "company": "TATA Cons. Prod",
+          "high": "915.75",
+          "low": "904.45",
+          "lastPrice": "912.15",
+          "prevClose": "904.90",
+          "change": "7.25",
+          "percentGain": "0.80"
+        }
+      ]
     }
   ],
   "losers": [
@@ -209,6 +259,56 @@
     {
       "time": "4:41:41 AM",
       "data": []
+    },
+    {
+      "time": "4:51:30 AM",
+      "data": [
+        {
+          "company": "Power Grid Corp",
+          "high": "329.10",
+          "low": "323.00",
+          "lastPrice": "323.20",
+          "prevClose": "329.80",
+          "change": "-6.60",
+          "percentGain": "-2.00"
+        },
+        {
+          "company": "Tata Motors",
+          "high": "774.25",
+          "low": "759.10",
+          "lastPrice": "764.40",
+          "prevClose": "779.75",
+          "change": "-15.35",
+          "percentGain": "-1.97"
+        },
+        {
+          "company": "Bharat Elec",
+          "high": "310.60",
+          "low": "305.40",
+          "lastPrice": "305.40",
+          "prevClose": "310.60",
+          "change": "-5.20",
+          "percentGain": "-1.67"
+        },
+        {
+          "company": "Adani Ports",
+          "high": "1,238.90",
+          "low": "1,214.30",
+          "lastPrice": "1,215.60",
+          "prevClose": "1,231.90",
+          "change": "-16.30",
+          "percentGain": "-1.32"
+        },
+        {
+          "company": "JSW Steel",
+          "high": "969.50",
+          "low": "955.20",
+          "lastPrice": "955.85",
+          "prevClose": "966.85",
+          "change": "-11.00",
+          "percentGain": "-1.14"
+        }
+      ]
     }
   ]
 }
