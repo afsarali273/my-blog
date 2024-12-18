@@ -257,6 +257,56 @@
           "percentGain": "0.72"
         }
       ]
+    },
+    {
+      "time": "6:23:05 AM",
+      "data": [
+        {
+          "company": "Dr Reddys Labs",
+          "high": "1,281.00",
+          "low": "1,249.55",
+          "lastPrice": "1,275.05",
+          "prevClose": "1,247.65",
+          "change": "27.40",
+          "percentGain": "2.20"
+        },
+        {
+          "company": "Cipla",
+          "high": "1,479.80",
+          "low": "1,453.20",
+          "lastPrice": "1,476.80",
+          "prevClose": "1,450.85",
+          "change": "25.95",
+          "percentGain": "1.79"
+        },
+        {
+          "company": "Trent",
+          "high": "7,039.15",
+          "low": "6,848.80",
+          "lastPrice": "7,022.60",
+          "prevClose": "6,941.65",
+          "change": "80.95",
+          "percentGain": "1.17"
+        },
+        {
+          "company": "Wipro",
+          "high": "312.80",
+          "low": "308.55",
+          "lastPrice": "312.00",
+          "prevClose": "308.85",
+          "change": "3.15",
+          "percentGain": "1.02"
+        },
+        {
+          "company": "TATA Cons. Prod",
+          "high": "916.90",
+          "low": "904.45",
+          "lastPrice": "913.75",
+          "prevClose": "904.90",
+          "change": "8.85",
+          "percentGain": "0.98"
+        }
+      ]
     }
   ],
   "losers": [
@@ -515,6 +565,56 @@
           "prevClose": "1,136.25",
           "change": "-14.30",
           "percentGain": "-1.26"
+        }
+      ]
+    },
+    {
+      "time": "6:23:05 AM",
+      "data": [
+        {
+          "company": "Bharat Elec",
+          "high": "310.60",
+          "low": "303.00",
+          "lastPrice": "303.20",
+          "prevClose": "310.60",
+          "change": "-7.40",
+          "percentGain": "-2.38"
+        },
+        {
+          "company": "Power Grid Corp",
+          "high": "329.10",
+          "low": "321.90",
+          "lastPrice": "322.50",
+          "prevClose": "329.80",
+          "change": "-7.30",
+          "percentGain": "-2.21"
+        },
+        {
+          "company": "JSW Steel",
+          "high": "969.50",
+          "low": "947.30",
+          "lastPrice": "947.65",
+          "prevClose": "966.85",
+          "change": "-19.20",
+          "percentGain": "-1.99"
+        },
+        {
+          "company": "Tata Motors",
+          "high": "774.25",
+          "low": "759.10",
+          "lastPrice": "764.35",
+          "prevClose": "779.75",
+          "change": "-15.40",
+          "percentGain": "-1.97"
+        },
+        {
+          "company": "ICICI Bank",
+          "high": "1,334.95",
+          "low": "1,311.00",
+          "lastPrice": "1,312.50",
+          "prevClose": "1,333.75",
+          "change": "-21.25",
+          "percentGain": "-1.59"
         }
       ]
     }
