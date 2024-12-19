@@ -159,6 +159,56 @@
           "percentGain": "0.55"
         }
       ]
+    },
+    {
+      "time": "5:39:38 AM",
+      "data": [
+        {
+          "company": "Dr Reddys Labs",
+          "high": "1,318.55",
+          "low": "1,271.65",
+          "lastPrice": "1,317.55",
+          "prevClose": "1,275.40",
+          "change": "42.15",
+          "percentGain": "3.30"
+        },
+        {
+          "company": "BPCL",
+          "high": "293.75",
+          "low": "282.05",
+          "lastPrice": "293.60",
+          "prevClose": "288.30",
+          "change": "5.30",
+          "percentGain": "1.84"
+        },
+        {
+          "company": "Cipla",
+          "high": "1,491.40",
+          "low": "1,449.90",
+          "lastPrice": "1,484.55",
+          "prevClose": "1,472.40",
+          "change": "12.15",
+          "percentGain": "0.83"
+        },
+        {
+          "company": "Hero Motocorp",
+          "high": "4,423.70",
+          "low": "4,325.00",
+          "lastPrice": "4,417.15",
+          "prevClose": "4,389.45",
+          "change": "27.70",
+          "percentGain": "0.63"
+        },
+        {
+          "company": "Trent",
+          "high": "7,175.00",
+          "low": "6,991.60",
+          "lastPrice": "7,148.05",
+          "prevClose": "7,113.75",
+          "change": "34.30",
+          "percentGain": "0.48"
+        }
+      ]
     }
   ],
   "losers": [
@@ -409,6 +459,56 @@
           "prevClose": "1,979.15",
           "change": "-35.40",
           "percentGain": "-1.79"
+        }
+      ]
+    },
+    {
+      "time": "5:39:38 AM",
+      "data": [
+        {
+          "company": "Asian Paints",
+          "high": "2,325.00",
+          "low": "2,265.35",
+          "lastPrice": "2,282.50",
+          "prevClose": "2,345.45",
+          "change": "-62.95",
+          "percentGain": "-2.68"
+        },
+        {
+          "company": "Bajaj Finance",
+          "high": "7,024.45",
+          "low": "6,892.20",
+          "lastPrice": "6,912.00",
+          "prevClose": "7,074.45",
+          "change": "-162.45",
+          "percentGain": "-2.30"
+        },
+        {
+          "company": "JSW Steel",
+          "high": "942.70",
+          "low": "925.10",
+          "lastPrice": "925.90",
+          "prevClose": "946.85",
+          "change": "-20.95",
+          "percentGain": "-2.21"
+        },
+        {
+          "company": "Bajaj Finserv",
+          "high": "1,624.15",
+          "low": "1,592.75",
+          "lastPrice": "1,594.75",
+          "prevClose": "1,630.75",
+          "change": "-36.00",
+          "percentGain": "-2.21"
+        },
+        {
+          "company": "Bharat Elec",
+          "high": "299.45",
+          "low": "295.00",
+          "lastPrice": "298.10",
+          "prevClose": "303.80",
+          "change": "-5.70",
+          "percentGain": "-1.88"
         }
       ]
     }
