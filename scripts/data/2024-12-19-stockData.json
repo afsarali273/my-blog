@@ -109,6 +109,56 @@
           "percentGain": "0.15"
         }
       ]
+    },
+    {
+      "time": "5:15:53 AM",
+      "data": [
+        {
+          "company": "Dr Reddys Labs",
+          "high": "1,315.00",
+          "low": "1,271.65",
+          "lastPrice": "1,314.55",
+          "prevClose": "1,275.40",
+          "change": "39.15",
+          "percentGain": "3.07"
+        },
+        {
+          "company": "Cipla",
+          "high": "1,483.90",
+          "low": "1,449.90",
+          "lastPrice": "1,483.65",
+          "prevClose": "1,472.40",
+          "change": "11.25",
+          "percentGain": "0.76"
+        },
+        {
+          "company": "Trent",
+          "high": "7,159.95",
+          "low": "6,991.60",
+          "lastPrice": "7,154.00",
+          "prevClose": "7,113.75",
+          "change": "40.25",
+          "percentGain": "0.57"
+        },
+        {
+          "company": "TATA Cons. Prod",
+          "high": "916.50",
+          "low": "901.10",
+          "lastPrice": "914.45",
+          "prevClose": "909.35",
+          "change": "5.10",
+          "percentGain": "0.56"
+        },
+        {
+          "company": "BPCL",
+          "high": "289.90",
+          "low": "282.05",
+          "lastPrice": "289.90",
+          "prevClose": "288.30",
+          "change": "1.60",
+          "percentGain": "0.55"
+        }
+      ]
     }
   ],
   "losers": [
@@ -309,6 +359,56 @@
           "prevClose": "946.85",
           "change": "-18.85",
           "percentGain": "-1.99"
+        }
+      ]
+    },
+    {
+      "time": "5:15:53 AM",
+      "data": [
+        {
+          "company": "Asian Paints",
+          "high": "2,325.00",
+          "low": "2,265.35",
+          "lastPrice": "2,281.00",
+          "prevClose": "2,345.45",
+          "change": "-64.45",
+          "percentGain": "-2.75"
+        },
+        {
+          "company": "Bajaj Finance",
+          "high": "7,024.45",
+          "low": "6,892.20",
+          "lastPrice": "6,902.15",
+          "prevClose": "7,074.45",
+          "change": "-172.30",
+          "percentGain": "-2.44"
+        },
+        {
+          "company": "Bajaj Finserv",
+          "high": "1,624.15",
+          "low": "1,592.75",
+          "lastPrice": "1,599.00",
+          "prevClose": "1,630.75",
+          "change": "-31.75",
+          "percentGain": "-1.95"
+        },
+        {
+          "company": "Bharat Elec",
+          "high": "299.45",
+          "low": "295.00",
+          "lastPrice": "298.00",
+          "prevClose": "303.80",
+          "change": "-5.80",
+          "percentGain": "-1.91"
+        },
+        {
+          "company": "Infosys",
+          "high": "1,959.75",
+          "low": "1,920.00",
+          "lastPrice": "1,943.75",
+          "prevClose": "1,979.15",
+          "change": "-35.40",
+          "percentGain": "-1.79"
         }
       ]
     }
