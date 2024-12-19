@@ -54,6 +54,20 @@
           "percentGain": "0.03"
         }
       ]
+    },
+    {
+      "time": "4:42:01 AM",
+      "data": [
+        {
+          "company": "Dr Reddys Labs",
+          "high": "1,308.90",
+          "low": "1,271.65",
+          "lastPrice": "1,306.00",
+          "prevClose": "1,275.40",
+          "change": "30.60",
+          "percentGain": "2.40"
+        }
+      ]
     }
   ],
   "losers": [
@@ -154,6 +168,56 @@
           "prevClose": "303.80",
           "change": "-5.40",
           "percentGain": "-1.78"
+        }
+      ]
+    },
+    {
+      "time": "4:42:01 AM",
+      "data": [
+        {
+          "company": "Asian Paints",
+          "high": "2,325.00",
+          "low": "2,268.05",
+          "lastPrice": "2,277.85",
+          "prevClose": "2,345.45",
+          "change": "-67.60",
+          "percentGain": "-2.88"
+        },
+        {
+          "company": "Bharat Elec",
+          "high": "299.45",
+          "low": "295.00",
+          "lastPrice": "297.15",
+          "prevClose": "303.80",
+          "change": "-6.65",
+          "percentGain": "-2.19"
+        },
+        {
+          "company": "Bajaj Finserv",
+          "high": "1,624.15",
+          "low": "1,593.95",
+          "lastPrice": "1,595.80",
+          "prevClose": "1,630.75",
+          "change": "-34.95",
+          "percentGain": "-2.14"
+        },
+        {
+          "company": "Bajaj Finance",
+          "high": "7,024.45",
+          "low": "6,917.50",
+          "lastPrice": "6,940.40",
+          "prevClose": "7,074.45",
+          "change": "-134.05",
+          "percentGain": "-1.89"
+        },
+        {
+          "company": "Tata Steel",
+          "high": "142.55",
+          "low": "141.10",
+          "lastPrice": "141.73",
+          "prevClose": "144.46",
+          "change": "-2.73",
+          "percentGain": "-1.89"
         }
       ]
     }
