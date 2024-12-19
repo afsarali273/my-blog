@@ -1,0 +1,88 @@
+{
+  "gainers": [
+    {
+      "time": "3:54:00 AM",
+      "data": [
+        {
+          "company": "Dr Reddys Labs",
+          "high": "1,289.90",
+          "low": "1,271.65",
+          "lastPrice": "1,285.50",
+          "prevClose": "1,275.40",
+          "change": "10.10",
+          "percentGain": "0.79"
+        },
+        {
+          "company": "HUL",
+          "high": "2,386.95",
+          "low": "2,342.05",
+          "lastPrice": "2,375.70",
+          "prevClose": "2,359.20",
+          "change": "16.50",
+          "percentGain": "0.70"
+        },
+        {
+          "company": "ITC",
+          "high": "474.35",
+          "low": "468.25",
+          "lastPrice": "472.45",
+          "prevClose": "470.50",
+          "change": "1.95",
+          "percentGain": "0.41"
+        }
+      ]
+    }
+  ],
+  "losers": [
+    {
+      "time": "3:54:00 AM",
+      "data": [
+        {
+          "company": "Wipro",
+          "high": "307.50",
+          "low": "301.40",
+          "lastPrice": "301.85",
+          "prevClose": "312.60",
+          "change": "-10.75",
+          "percentGain": "-3.44"
+        },
+        {
+          "company": "Infosys",
+          "high": "1,949.20",
+          "low": "1,920.00",
+          "lastPrice": "1,925.00",
+          "prevClose": "1,979.15",
+          "change": "-54.15",
+          "percentGain": "-2.74"
+        },
+        {
+          "company": "Shriram Finance",
+          "high": "2,900.00",
+          "low": "2,858.65",
+          "lastPrice": "2,860.45",
+          "prevClose": "2,931.40",
+          "change": "-70.95",
+          "percentGain": "-2.42"
+        },
+        {
+          "company": "Hindalco",
+          "high": "622.95",
+          "low": "614.10",
+          "lastPrice": "618.10",
+          "prevClose": "633.00",
+          "change": "-14.90",
+          "percentGain": "-2.35"
+        },
+        {
+          "company": "Adani Enterpris",
+          "high": "2,430.00",
+          "low": "2,397.10",
+          "lastPrice": "2,407.85",
+          "prevClose": "2,457.40",
+          "change": "-49.55",
+          "percentGain": "-2.02"
+        }
+      ]
+    }
+  ]
+}
