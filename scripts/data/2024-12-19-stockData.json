@@ -363,6 +363,56 @@
           "percentGain": "0.69"
         }
       ]
+    },
+    {
+      "time": "7:36:00 AM",
+      "data": [
+        {
+          "company": "Dr Reddys Labs",
+          "high": "1,330.00",
+          "low": "1,271.65",
+          "lastPrice": "1,327.45",
+          "prevClose": "1,275.40",
+          "change": "52.05",
+          "percentGain": "4.08"
+        },
+        {
+          "company": "BPCL",
+          "high": "295.85",
+          "low": "282.05",
+          "lastPrice": "294.95",
+          "prevClose": "288.30",
+          "change": "6.65",
+          "percentGain": "2.31"
+        },
+        {
+          "company": "Cipla",
+          "high": "1,507.70",
+          "low": "1,449.90",
+          "lastPrice": "1,506.00",
+          "prevClose": "1,472.40",
+          "change": "33.60",
+          "percentGain": "2.28"
+        },
+        {
+          "company": "TATA Cons. Prod",
+          "high": "918.00",
+          "low": "901.10",
+          "lastPrice": "916.00",
+          "prevClose": "909.35",
+          "change": "6.65",
+          "percentGain": "0.73"
+        },
+        {
+          "company": "Hero Motocorp",
+          "high": "4,458.10",
+          "low": "4,325.00",
+          "lastPrice": "4,418.55",
+          "prevClose": "4,389.45",
+          "change": "29.10",
+          "percentGain": "0.66"
+        }
+      ]
     }
   ],
   "losers": [
@@ -817,6 +867,56 @@
           "prevClose": "2,594.15",
           "change": "-53.85",
           "percentGain": "-2.08"
+        }
+      ]
+    },
+    {
+      "time": "7:36:00 AM",
+      "data": [
+        {
+          "company": "Asian Paints",
+          "high": "2,325.00",
+          "low": "2,265.35",
+          "lastPrice": "2,285.90",
+          "prevClose": "2,345.45",
+          "change": "-59.55",
+          "percentGain": "-2.54"
+        },
+        {
+          "company": "Bajaj Finance",
+          "high": "7,024.45",
+          "low": "6,892.20",
+          "lastPrice": "6,904.65",
+          "prevClose": "7,074.45",
+          "change": "-169.80",
+          "percentGain": "-2.40"
+        },
+        {
+          "company": "JSW Steel",
+          "high": "942.70",
+          "low": "924.10",
+          "lastPrice": "925.65",
+          "prevClose": "946.85",
+          "change": "-21.20",
+          "percentGain": "-2.24"
+        },
+        {
+          "company": "Bajaj Finserv",
+          "high": "1,624.15",
+          "low": "1,590.00",
+          "lastPrice": "1,595.00",
+          "prevClose": "1,630.75",
+          "change": "-35.75",
+          "percentGain": "-2.19"
+        },
+        {
+          "company": "Grasim",
+          "high": "2,594.00",
+          "low": "2,533.75",
+          "lastPrice": "2,539.10",
+          "prevClose": "2,594.15",
+          "change": "-55.05",
+          "percentGain": "-2.12"
         }
       ]
     }
