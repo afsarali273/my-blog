@@ -209,6 +209,56 @@
           "percentGain": "0.48"
         }
       ]
+    },
+    {
+      "time": "5:49:40 AM",
+      "data": [
+        {
+          "company": "Dr Reddys Labs",
+          "high": "1,324.50",
+          "low": "1,271.65",
+          "lastPrice": "1,323.40",
+          "prevClose": "1,275.40",
+          "change": "48.00",
+          "percentGain": "3.76"
+        },
+        {
+          "company": "BPCL",
+          "high": "295.35",
+          "low": "282.05",
+          "lastPrice": "294.20",
+          "prevClose": "288.30",
+          "change": "5.90",
+          "percentGain": "2.05"
+        },
+        {
+          "company": "Cipla",
+          "high": "1,491.40",
+          "low": "1,449.90",
+          "lastPrice": "1,490.45",
+          "prevClose": "1,472.40",
+          "change": "18.05",
+          "percentGain": "1.23"
+        },
+        {
+          "company": "Hero Motocorp",
+          "high": "4,429.80",
+          "low": "4,325.00",
+          "lastPrice": "4,429.30",
+          "prevClose": "4,389.45",
+          "change": "39.85",
+          "percentGain": "0.91"
+        },
+        {
+          "company": "Power Grid Corp",
+          "high": "323.25",
+          "low": "316.85",
+          "lastPrice": "322.40",
+          "prevClose": "321.55",
+          "change": "0.85",
+          "percentGain": "0.26"
+        }
+      ]
     }
   ],
   "losers": [
@@ -509,6 +559,56 @@
           "prevClose": "303.80",
           "change": "-5.70",
           "percentGain": "-1.88"
+        }
+      ]
+    },
+    {
+      "time": "5:49:40 AM",
+      "data": [
+        {
+          "company": "Asian Paints",
+          "high": "2,325.00",
+          "low": "2,265.35",
+          "lastPrice": "2,281.70",
+          "prevClose": "2,345.45",
+          "change": "-63.75",
+          "percentGain": "-2.72"
+        },
+        {
+          "company": "Bajaj Finance",
+          "high": "7,024.45",
+          "low": "6,892.20",
+          "lastPrice": "6,919.95",
+          "prevClose": "7,074.45",
+          "change": "-154.50",
+          "percentGain": "-2.18"
+        },
+        {
+          "company": "JSW Steel",
+          "high": "942.70",
+          "low": "925.10",
+          "lastPrice": "926.70",
+          "prevClose": "946.85",
+          "change": "-20.15",
+          "percentGain": "-2.13"
+        },
+        {
+          "company": "Bajaj Finserv",
+          "high": "1,624.15",
+          "low": "1,592.75",
+          "lastPrice": "1,596.55",
+          "prevClose": "1,630.75",
+          "change": "-34.20",
+          "percentGain": "-2.10"
+        },
+        {
+          "company": "Infosys",
+          "high": "1,959.75",
+          "low": "1,920.00",
+          "lastPrice": "1,939.50",
+          "prevClose": "1,979.15",
+          "change": "-39.65",
+          "percentGain": "-2.00"
         }
       ]
     }
