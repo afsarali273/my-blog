@@ -31,6 +31,29 @@
           "percentGain": "0.41"
         }
       ]
+    },
+    {
+      "time": "4:19:26 AM",
+      "data": [
+        {
+          "company": "Dr Reddys Labs",
+          "high": "1,299.85",
+          "low": "1,271.65",
+          "lastPrice": "1,295.35",
+          "prevClose": "1,275.40",
+          "change": "19.95",
+          "percentGain": "1.56"
+        },
+        {
+          "company": "ITC",
+          "high": "474.35",
+          "low": "468.25",
+          "lastPrice": "470.65",
+          "prevClose": "470.50",
+          "change": "0.15",
+          "percentGain": "0.03"
+        }
+      ]
     }
   ],
   "losers": [
@@ -81,6 +104,56 @@
           "prevClose": "2,457.40",
           "change": "-49.55",
           "percentGain": "-2.02"
+        }
+      ]
+    },
+    {
+      "time": "4:19:26 AM",
+      "data": [
+        {
+          "company": "Asian Paints",
+          "high": "2,325.00",
+          "low": "2,280.70",
+          "lastPrice": "2,285.15",
+          "prevClose": "2,345.45",
+          "change": "-60.30",
+          "percentGain": "-2.57"
+        },
+        {
+          "company": "M&M",
+          "high": "3,045.00",
+          "low": "2,986.00",
+          "lastPrice": "2,987.70",
+          "prevClose": "3,051.20",
+          "change": "-63.50",
+          "percentGain": "-2.08"
+        },
+        {
+          "company": "Wipro",
+          "high": "308.25",
+          "low": "301.15",
+          "lastPrice": "306.70",
+          "prevClose": "312.60",
+          "change": "-5.90",
+          "percentGain": "-1.89"
+        },
+        {
+          "company": "Bajaj Finserv",
+          "high": "1,624.15",
+          "low": "1,598.25",
+          "lastPrice": "1,601.60",
+          "prevClose": "1,630.75",
+          "change": "-29.15",
+          "percentGain": "-1.79"
+        },
+        {
+          "company": "Bharat Elec",
+          "high": "299.45",
+          "low": "295.00",
+          "lastPrice": "298.40",
+          "prevClose": "303.80",
+          "change": "-5.40",
+          "percentGain": "-1.78"
         }
       ]
     }
