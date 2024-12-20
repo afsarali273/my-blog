@@ -779,6 +779,47 @@
           "percentGain": "0.01"
         }
       ]
+    },
+    {
+      "time": "10:13:39 AM",
+      "data": [
+        {
+          "company": "Dr Reddys Labs",
+          "high": "1,368.70",
+          "low": "1,317.40",
+          "lastPrice": "1,343.65",
+          "prevClose": "1,325.60",
+          "change": "18.05",
+          "percentGain": "1.36"
+        },
+        {
+          "company": "Nestle",
+          "high": "2,175.00",
+          "low": "2,145.40",
+          "lastPrice": "2,163.50",
+          "prevClose": "2,160.40",
+          "change": "3.10",
+          "percentGain": "0.14"
+        },
+        {
+          "company": "ICICI Bank",
+          "high": "1,297.75",
+          "low": "1,272.40",
+          "lastPrice": "1,288.40",
+          "prevClose": "1,286.90",
+          "change": "1.50",
+          "percentGain": "0.12"
+        },
+        {
+          "company": "HDFC Life",
+          "high": "626.50",
+          "low": "618.20",
+          "lastPrice": "623.80",
+          "prevClose": "623.55",
+          "change": "0.25",
+          "percentGain": "0.04"
+        }
+      ]
     }
   ],
   "losers": [
@@ -1595,6 +1636,56 @@
           "prevClose": "1,108.90",
           "change": "-37.35",
           "percentGain": "-3.37"
+        }
+      ]
+    },
+    {
+      "time": "10:13:39 AM",
+      "data": [
+        {
+          "company": "Tech Mahindra",
+          "high": "1,770.85",
+          "low": "1,680.10",
+          "lastPrice": "1,686.05",
+          "prevClose": "1,754.35",
+          "change": "-68.30",
+          "percentGain": "-3.89"
+        },
+        {
+          "company": "Trent",
+          "high": "7,188.00",
+          "low": "6,789.40",
+          "lastPrice": "6,831.55",
+          "prevClose": "7,092.00",
+          "change": "-260.45",
+          "percentGain": "-3.67"
+        },
+        {
+          "company": "IndusInd Bank",
+          "high": "966.85",
+          "low": "926.45",
+          "lastPrice": "929.45",
+          "prevClose": "964.40",
+          "change": "-34.95",
+          "percentGain": "-3.62"
+        },
+        {
+          "company": "M&M",
+          "high": "3,025.00",
+          "low": "2,886.35",
+          "lastPrice": "2,906.35",
+          "prevClose": "3,014.65",
+          "change": "-108.30",
+          "percentGain": "-3.59"
+        },
+        {
+          "company": "Axis Bank",
+          "high": "1,105.85",
+          "low": "1,065.00",
+          "lastPrice": "1,071.85",
+          "prevClose": "1,108.90",
+          "change": "-37.05",
+          "percentGain": "-3.34"
         }
       ]
     }
