@@ -99,6 +99,56 @@
           "percentGain": "1.17"
         }
       ]
+    },
+    {
+      "time": "4:40:35 AM",
+      "data": [
+        {
+          "company": "Dr Reddys Labs",
+          "high": "1,365.95",
+          "low": "1,317.40",
+          "lastPrice": "1,363.65",
+          "prevClose": "1,325.60",
+          "change": "38.05",
+          "percentGain": "2.87"
+        },
+        {
+          "company": "Adani Enterpris",
+          "high": "2,452.50",
+          "low": "2,420.00",
+          "lastPrice": "2,451.45",
+          "prevClose": "2,419.35",
+          "change": "32.10",
+          "percentGain": "1.33"
+        },
+        {
+          "company": "Eicher Motors",
+          "high": "4,817.00",
+          "low": "4,748.00",
+          "lastPrice": "4,810.85",
+          "prevClose": "4,771.95",
+          "change": "38.90",
+          "percentGain": "0.82"
+        },
+        {
+          "company": "Titan Company",
+          "high": "3,419.00",
+          "low": "3,333.15",
+          "lastPrice": "3,384.50",
+          "prevClose": "3,356.85",
+          "change": "27.65",
+          "percentGain": "0.82"
+        },
+        {
+          "company": "Adani Ports",
+          "high": "1,213.90",
+          "low": "1,199.30",
+          "lastPrice": "1,213.15",
+          "prevClose": "1,205.00",
+          "change": "8.15",
+          "percentGain": "0.68"
+        }
+      ]
     }
   ],
   "losers": [
@@ -199,6 +249,56 @@
           "prevClose": "321.65",
           "change": "-1.95",
           "percentGain": "-0.61"
+        }
+      ]
+    },
+    {
+      "time": "4:40:35 AM",
+      "data": [
+        {
+          "company": "Axis Bank",
+          "high": "1,105.85",
+          "low": "1,079.05",
+          "lastPrice": "1,079.05",
+          "prevClose": "1,108.90",
+          "change": "-29.85",
+          "percentGain": "-2.69"
+        },
+        {
+          "company": "Tech Mahindra",
+          "high": "1,770.85",
+          "low": "1,718.15",
+          "lastPrice": "1,722.55",
+          "prevClose": "1,754.35",
+          "change": "-31.80",
+          "percentGain": "-1.81"
+        },
+        {
+          "company": "JSW Steel",
+          "high": "927.90",
+          "low": "912.05",
+          "lastPrice": "914.00",
+          "prevClose": "925.95",
+          "change": "-11.95",
+          "percentGain": "-1.29"
+        },
+        {
+          "company": "Larsen",
+          "high": "3,725.00",
+          "low": "3,665.05",
+          "lastPrice": "3,668.65",
+          "prevClose": "3,716.35",
+          "change": "-47.70",
+          "percentGain": "-1.28"
+        },
+        {
+          "company": "ITC",
+          "high": "467.45",
+          "low": "460.60",
+          "lastPrice": "461.10",
+          "prevClose": "466.55",
+          "change": "-5.45",
+          "percentGain": "-1.17"
         }
       ]
     }
