@@ -357,6 +357,56 @@
           "percentGain": "0.90"
         }
       ]
+    },
+    {
+      "time": "6:53:27 AM",
+      "data": [
+        {
+          "company": "Dr Reddys Labs",
+          "high": "1,368.70",
+          "low": "1,317.40",
+          "lastPrice": "1,356.60",
+          "prevClose": "1,325.60",
+          "change": "31.00",
+          "percentGain": "2.34"
+        },
+        {
+          "company": "Hindalco",
+          "high": "640.60",
+          "low": "625.20",
+          "lastPrice": "638.40",
+          "prevClose": "629.35",
+          "change": "9.05",
+          "percentGain": "1.44"
+        },
+        {
+          "company": "Adani Enterpris",
+          "high": "2,453.85",
+          "low": "2,415.00",
+          "lastPrice": "2,439.65",
+          "prevClose": "2,419.35",
+          "change": "20.30",
+          "percentGain": "0.84"
+        },
+        {
+          "company": "JSW Steel",
+          "high": "941.70",
+          "low": "912.05",
+          "lastPrice": "933.50",
+          "prevClose": "925.95",
+          "change": "7.55",
+          "percentGain": "0.82"
+        },
+        {
+          "company": "Apollo Hospital",
+          "high": "7,389.90",
+          "low": "7,245.00",
+          "lastPrice": "7,354.85",
+          "prevClose": "7,297.55",
+          "change": "57.30",
+          "percentGain": "0.79"
+        }
+      ]
     }
   ],
   "losers": [
@@ -715,6 +765,56 @@
           "prevClose": "3,716.35",
           "change": "-39.45",
           "percentGain": "-1.06"
+        }
+      ]
+    },
+    {
+      "time": "6:53:27 AM",
+      "data": [
+        {
+          "company": "Tech Mahindra",
+          "high": "1,770.85",
+          "low": "1,714.10",
+          "lastPrice": "1,717.20",
+          "prevClose": "1,754.35",
+          "change": "-37.15",
+          "percentGain": "-2.12"
+        },
+        {
+          "company": "Axis Bank",
+          "high": "1,105.85",
+          "low": "1,078.15",
+          "lastPrice": "1,085.90",
+          "prevClose": "1,108.90",
+          "change": "-23.00",
+          "percentGain": "-2.07"
+        },
+        {
+          "company": "Larsen",
+          "high": "3,725.00",
+          "low": "3,662.80",
+          "lastPrice": "3,663.75",
+          "prevClose": "3,716.35",
+          "change": "-52.60",
+          "percentGain": "-1.42"
+        },
+        {
+          "company": "TCS",
+          "high": "4,382.00",
+          "low": "4,207.20",
+          "lastPrice": "4,211.70",
+          "prevClose": "4,271.90",
+          "change": "-60.20",
+          "percentGain": "-1.41"
+        },
+        {
+          "company": "IndusInd Bank",
+          "high": "966.85",
+          "low": "950.25",
+          "lastPrice": "951.10",
+          "prevClose": "964.40",
+          "change": "-13.30",
+          "percentGain": "-1.38"
         }
       ]
     }
