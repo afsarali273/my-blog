@@ -515,6 +515,56 @@
     {
       "time": "7:49:44 AM",
       "data": []
+    },
+    {
+      "time": "8:19:55 AM",
+      "data": [
+        {
+          "company": "Dr Reddys Labs",
+          "high": "1,368.70",
+          "low": "1,317.40",
+          "lastPrice": "1,350.50",
+          "prevClose": "1,325.60",
+          "change": "24.90",
+          "percentGain": "1.88"
+        },
+        {
+          "company": "Apollo Hospital",
+          "high": "7,389.90",
+          "low": "7,245.00",
+          "lastPrice": "7,335.70",
+          "prevClose": "7,297.55",
+          "change": "38.15",
+          "percentGain": "0.52"
+        },
+        {
+          "company": "Hindalco",
+          "high": "640.60",
+          "low": "625.20",
+          "lastPrice": "631.50",
+          "prevClose": "629.35",
+          "change": "2.15",
+          "percentGain": "0.34"
+        },
+        {
+          "company": "Asian Paints",
+          "high": "2,318.00",
+          "low": "2,282.00",
+          "lastPrice": "2,295.40",
+          "prevClose": "2,291.85",
+          "change": "3.55",
+          "percentGain": "0.15"
+        },
+        {
+          "company": "Nestle",
+          "high": "2,175.00",
+          "low": "2,145.40",
+          "lastPrice": "2,163.45",
+          "prevClose": "2,160.40",
+          "change": "3.05",
+          "percentGain": "0.14"
+        }
+      ]
     }
   ],
   "losers": [
@@ -1033,6 +1083,56 @@
     {
       "time": "7:49:44 AM",
       "data": []
+    },
+    {
+      "time": "8:19:55 AM",
+      "data": [
+        {
+          "company": "Axis Bank",
+          "high": "1,105.85",
+          "low": "1,075.00",
+          "lastPrice": "1,075.10",
+          "prevClose": "1,108.90",
+          "change": "-33.80",
+          "percentGain": "-3.05"
+        },
+        {
+          "company": "Tech Mahindra",
+          "high": "1,770.85",
+          "low": "1,701.65",
+          "lastPrice": "1,702.40",
+          "prevClose": "1,754.35",
+          "change": "-51.95",
+          "percentGain": "-2.96"
+        },
+        {
+          "company": "IndusInd Bank",
+          "high": "966.85",
+          "low": "936.00",
+          "lastPrice": "937.50",
+          "prevClose": "964.40",
+          "change": "-26.90",
+          "percentGain": "-2.79"
+        },
+        {
+          "company": "M&M",
+          "high": "3,025.00",
+          "low": "2,935.90",
+          "lastPrice": "2,941.60",
+          "prevClose": "3,014.65",
+          "change": "-73.05",
+          "percentGain": "-2.42"
+        },
+        {
+          "company": "TCS",
+          "high": "4,382.00",
+          "low": "4,160.80",
+          "lastPrice": "4,174.00",
+          "prevClose": "4,271.90",
+          "change": "-97.90",
+          "percentGain": "-2.29"
+        }
+      ]
     }
   ]
 }
