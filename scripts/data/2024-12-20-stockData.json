@@ -149,6 +149,56 @@
           "percentGain": "0.68"
         }
       ]
+    },
+    {
+      "time": "4:49:58 AM",
+      "data": [
+        {
+          "company": "Dr Reddys Labs",
+          "high": "1,365.95",
+          "low": "1,317.40",
+          "lastPrice": "1,361.35",
+          "prevClose": "1,325.60",
+          "change": "35.75",
+          "percentGain": "2.70"
+        },
+        {
+          "company": "Titan Company",
+          "high": "3,419.00",
+          "low": "3,333.15",
+          "lastPrice": "3,406.40",
+          "prevClose": "3,356.85",
+          "change": "49.55",
+          "percentGain": "1.48"
+        },
+        {
+          "company": "NTPC",
+          "high": "343.90",
+          "low": "335.80",
+          "lastPrice": "341.85",
+          "prevClose": "337.40",
+          "change": "4.45",
+          "percentGain": "1.32"
+        },
+        {
+          "company": "Bharti Airtel",
+          "high": "1,622.30",
+          "low": "1,597.20",
+          "lastPrice": "1,612.20",
+          "prevClose": "1,600.30",
+          "change": "11.90",
+          "percentGain": "0.74"
+        },
+        {
+          "company": "Adani Enterpris",
+          "high": "2,453.85",
+          "low": "2,420.00",
+          "lastPrice": "2,436.40",
+          "prevClose": "2,419.35",
+          "change": "17.05",
+          "percentGain": "0.70"
+        }
+      ]
     }
   ],
   "losers": [
@@ -299,6 +349,56 @@
           "prevClose": "466.55",
           "change": "-5.45",
           "percentGain": "-1.17"
+        }
+      ]
+    },
+    {
+      "time": "4:49:58 AM",
+      "data": [
+        {
+          "company": "Axis Bank",
+          "high": "1,105.85",
+          "low": "1,078.15",
+          "lastPrice": "1,084.60",
+          "prevClose": "1,108.90",
+          "change": "-24.30",
+          "percentGain": "-2.19"
+        },
+        {
+          "company": "Tech Mahindra",
+          "high": "1,770.85",
+          "low": "1,718.15",
+          "lastPrice": "1,726.50",
+          "prevClose": "1,754.35",
+          "change": "-27.85",
+          "percentGain": "-1.59"
+        },
+        {
+          "company": "ITC",
+          "high": "467.45",
+          "low": "460.25",
+          "lastPrice": "460.75",
+          "prevClose": "466.55",
+          "change": "-5.80",
+          "percentGain": "-1.24"
+        },
+        {
+          "company": "Shriram Finance",
+          "high": "2,960.70",
+          "low": "2,908.20",
+          "lastPrice": "2,914.40",
+          "prevClose": "2,945.45",
+          "change": "-31.05",
+          "percentGain": "-1.05"
+        },
+        {
+          "company": "IndusInd Bank",
+          "high": "966.85",
+          "low": "952.60",
+          "lastPrice": "954.85",
+          "prevClose": "964.40",
+          "change": "-9.55",
+          "percentGain": "-0.99"
         }
       ]
     }
