@@ -199,6 +199,56 @@
           "percentGain": "0.70"
         }
       ]
+    },
+    {
+      "time": "5:15:34 AM",
+      "data": [
+        {
+          "company": "Dr Reddys Labs",
+          "high": "1,368.70",
+          "low": "1,317.40",
+          "lastPrice": "1,363.10",
+          "prevClose": "1,325.60",
+          "change": "37.50",
+          "percentGain": "2.83"
+        },
+        {
+          "company": "Hindalco",
+          "high": "638.70",
+          "low": "625.20",
+          "lastPrice": "638.40",
+          "prevClose": "629.35",
+          "change": "9.05",
+          "percentGain": "1.44"
+        },
+        {
+          "company": "JSW Steel",
+          "high": "936.40",
+          "low": "912.05",
+          "lastPrice": "935.75",
+          "prevClose": "925.95",
+          "change": "9.80",
+          "percentGain": "1.06"
+        },
+        {
+          "company": "Apollo Hospital",
+          "high": "7,369.00",
+          "low": "7,245.00",
+          "lastPrice": "7,367.40",
+          "prevClose": "7,297.55",
+          "change": "69.85",
+          "percentGain": "0.96"
+        },
+        {
+          "company": "Titan Company",
+          "high": "3,419.00",
+          "low": "3,333.15",
+          "lastPrice": "3,389.00",
+          "prevClose": "3,356.85",
+          "change": "32.15",
+          "percentGain": "0.96"
+        }
+      ]
     }
   ],
   "losers": [
@@ -399,6 +449,56 @@
           "prevClose": "964.40",
           "change": "-9.55",
           "percentGain": "-0.99"
+        }
+      ]
+    },
+    {
+      "time": "5:15:34 AM",
+      "data": [
+        {
+          "company": "Axis Bank",
+          "high": "1,105.85",
+          "low": "1,078.15",
+          "lastPrice": "1,085.60",
+          "prevClose": "1,108.90",
+          "change": "-23.30",
+          "percentGain": "-2.10"
+        },
+        {
+          "company": "Tech Mahindra",
+          "high": "1,770.85",
+          "low": "1,718.15",
+          "lastPrice": "1,724.30",
+          "prevClose": "1,754.35",
+          "change": "-30.05",
+          "percentGain": "-1.71"
+        },
+        {
+          "company": "UltraTechCement",
+          "high": "11,748.00",
+          "low": "11,466.20",
+          "lastPrice": "11,494.40",
+          "prevClose": "11,670.80",
+          "change": "-176.40",
+          "percentGain": "-1.51"
+        },
+        {
+          "company": "M&M",
+          "high": "3,025.00",
+          "low": "2,968.30",
+          "lastPrice": "2,984.10",
+          "prevClose": "3,014.65",
+          "change": "-30.55",
+          "percentGain": "-1.01"
+        },
+        {
+          "company": "Larsen",
+          "high": "3,725.00",
+          "low": "3,665.05",
+          "lastPrice": "3,683.05",
+          "prevClose": "3,716.35",
+          "change": "-33.30",
+          "percentGain": "-0.90"
         }
       ]
     }
