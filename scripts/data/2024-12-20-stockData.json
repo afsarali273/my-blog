@@ -1,0 +1,106 @@
+{
+  "gainers": [
+    {
+      "time": "3:51:30 AM",
+      "data": [
+        {
+          "company": "TCS",
+          "high": "4,382.00",
+          "low": "4,314.60",
+          "lastPrice": "4,321.15",
+          "prevClose": "4,271.90",
+          "change": "49.25",
+          "percentGain": "1.15"
+        },
+        {
+          "company": "Tata Motors",
+          "high": "748.45",
+          "low": "741.80",
+          "lastPrice": "748.45",
+          "prevClose": "744.05",
+          "change": "4.40",
+          "percentGain": "0.59"
+        },
+        {
+          "company": "Hero Motocorp",
+          "high": "4,429.00",
+          "low": "4,389.85",
+          "lastPrice": "4,429.00",
+          "prevClose": "4,406.95",
+          "change": "22.05",
+          "percentGain": "0.50"
+        },
+        {
+          "company": "NTPC",
+          "high": "339.25",
+          "low": "335.80",
+          "lastPrice": "339.10",
+          "prevClose": "337.40",
+          "change": "1.70",
+          "percentGain": "0.50"
+        },
+        {
+          "company": "Dr Reddys Labs",
+          "high": "1,333.40",
+          "low": "1,317.40",
+          "lastPrice": "1,331.90",
+          "prevClose": "1,325.60",
+          "change": "6.30",
+          "percentGain": "0.48"
+        }
+      ]
+    }
+  ],
+  "losers": [
+    {
+      "time": "3:51:30 AM",
+      "data": [
+        {
+          "company": "Axis Bank",
+          "high": "1,105.85",
+          "low": "1,093.80",
+          "lastPrice": "1,097.95",
+          "prevClose": "1,108.90",
+          "change": "-10.95",
+          "percentGain": "-0.99"
+        },
+        {
+          "company": "Tech Mahindra",
+          "high": "1,770.85",
+          "low": "1,740.50",
+          "lastPrice": "1,742.40",
+          "prevClose": "1,754.35",
+          "change": "-11.95",
+          "percentGain": "-0.68"
+        },
+        {
+          "company": "Larsen",
+          "high": "3,720.35",
+          "low": "3,674.00",
+          "lastPrice": "3,694.20",
+          "prevClose": "3,716.35",
+          "change": "-22.15",
+          "percentGain": "-0.60"
+        },
+        {
+          "company": "JSW Steel",
+          "high": "927.90",
+          "low": "916.85",
+          "lastPrice": "920.40",
+          "prevClose": "925.95",
+          "change": "-5.55",
+          "percentGain": "-0.60"
+        },
+        {
+          "company": "Cipla",
+          "high": "1,506.60",
+          "low": "1,494.00",
+          "lastPrice": "1,497.75",
+          "prevClose": "1,506.55",
+          "change": "-8.80",
+          "percentGain": "-0.58"
+        }
+      ]
+    }
+  ]
+}
