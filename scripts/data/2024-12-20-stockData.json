@@ -307,6 +307,56 @@
           "percentGain": "0.89"
         }
       ]
+    },
+    {
+      "time": "6:43:51 AM",
+      "data": [
+        {
+          "company": "Dr Reddys Labs",
+          "high": "1,368.70",
+          "low": "1,317.40",
+          "lastPrice": "1,359.15",
+          "prevClose": "1,325.60",
+          "change": "33.55",
+          "percentGain": "2.53"
+        },
+        {
+          "company": "Hindalco",
+          "high": "640.60",
+          "low": "625.20",
+          "lastPrice": "638.90",
+          "prevClose": "629.35",
+          "change": "9.55",
+          "percentGain": "1.52"
+        },
+        {
+          "company": "JSW Steel",
+          "high": "941.70",
+          "low": "912.05",
+          "lastPrice": "937.45",
+          "prevClose": "925.95",
+          "change": "11.50",
+          "percentGain": "1.24"
+        },
+        {
+          "company": "Apollo Hospital",
+          "high": "7,389.90",
+          "low": "7,245.00",
+          "lastPrice": "7,371.00",
+          "prevClose": "7,297.55",
+          "change": "73.45",
+          "percentGain": "1.01"
+        },
+        {
+          "company": "Bharat Elec",
+          "high": "302.10",
+          "low": "297.25",
+          "lastPrice": "301.20",
+          "prevClose": "298.50",
+          "change": "2.70",
+          "percentGain": "0.90"
+        }
+      ]
     }
   ],
   "losers": [
@@ -615,6 +665,56 @@
           "prevClose": "4,271.90",
           "change": "-42.35",
           "percentGain": "-0.99"
+        }
+      ]
+    },
+    {
+      "time": "6:43:51 AM",
+      "data": [
+        {
+          "company": "Tech Mahindra",
+          "high": "1,770.85",
+          "low": "1,718.15",
+          "lastPrice": "1,720.25",
+          "prevClose": "1,754.35",
+          "change": "-34.10",
+          "percentGain": "-1.94"
+        },
+        {
+          "company": "Axis Bank",
+          "high": "1,105.85",
+          "low": "1,078.15",
+          "lastPrice": "1,089.50",
+          "prevClose": "1,108.90",
+          "change": "-19.40",
+          "percentGain": "-1.75"
+        },
+        {
+          "company": "UltraTechCement",
+          "high": "11,748.00",
+          "low": "11,451.00",
+          "lastPrice": "11,518.40",
+          "prevClose": "11,670.80",
+          "change": "-152.40",
+          "percentGain": "-1.31"
+        },
+        {
+          "company": "TCS",
+          "high": "4,382.00",
+          "low": "4,221.00",
+          "lastPrice": "4,223.10",
+          "prevClose": "4,271.90",
+          "change": "-48.80",
+          "percentGain": "-1.14"
+        },
+        {
+          "company": "Larsen",
+          "high": "3,725.00",
+          "low": "3,665.05",
+          "lastPrice": "3,676.90",
+          "prevClose": "3,716.35",
+          "change": "-39.45",
+          "percentGain": "-1.06"
         }
       ]
     }
