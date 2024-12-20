@@ -49,6 +49,56 @@
           "percentGain": "0.48"
         }
       ]
+    },
+    {
+      "time": "4:18:41 AM",
+      "data": [
+        {
+          "company": "Dr Reddys Labs",
+          "high": "1,353.00",
+          "low": "1,317.40",
+          "lastPrice": "1,347.95",
+          "prevClose": "1,325.60",
+          "change": "22.35",
+          "percentGain": "1.69"
+        },
+        {
+          "company": "NTPC",
+          "high": "343.90",
+          "low": "335.80",
+          "lastPrice": "343.05",
+          "prevClose": "337.40",
+          "change": "5.65",
+          "percentGain": "1.67"
+        },
+        {
+          "company": "Titan Company",
+          "high": "3,419.00",
+          "low": "3,333.15",
+          "lastPrice": "3,411.85",
+          "prevClose": "3,356.85",
+          "change": "55.00",
+          "percentGain": "1.64"
+        },
+        {
+          "company": "Bharti Airtel",
+          "high": "1,622.30",
+          "low": "1,597.20",
+          "lastPrice": "1,619.60",
+          "prevClose": "1,600.30",
+          "change": "19.30",
+          "percentGain": "1.21"
+        },
+        {
+          "company": "Bajaj Finance",
+          "high": "7,024.00",
+          "low": "6,892.00",
+          "lastPrice": "6,999.60",
+          "prevClose": "6,918.55",
+          "change": "81.05",
+          "percentGain": "1.17"
+        }
+      ]
     }
   ],
   "losers": [
@@ -99,6 +149,56 @@
           "prevClose": "1,506.55",
           "change": "-8.80",
           "percentGain": "-0.58"
+        }
+      ]
+    },
+    {
+      "time": "4:18:41 AM",
+      "data": [
+        {
+          "company": "Cipla",
+          "high": "1,506.60",
+          "low": "1,487.10",
+          "lastPrice": "1,489.80",
+          "prevClose": "1,506.55",
+          "change": "-16.75",
+          "percentGain": "-1.11"
+        },
+        {
+          "company": "Axis Bank",
+          "high": "1,105.85",
+          "low": "1,091.00",
+          "lastPrice": "1,096.70",
+          "prevClose": "1,108.90",
+          "change": "-12.20",
+          "percentGain": "-1.10"
+        },
+        {
+          "company": "ITC",
+          "high": "467.45",
+          "low": "460.60",
+          "lastPrice": "462.05",
+          "prevClose": "466.55",
+          "change": "-4.50",
+          "percentGain": "-0.96"
+        },
+        {
+          "company": "Tech Mahindra",
+          "high": "1,770.85",
+          "low": "1,733.60",
+          "lastPrice": "1,742.95",
+          "prevClose": "1,754.35",
+          "change": "-11.40",
+          "percentGain": "-0.65"
+        },
+        {
+          "company": "Power Grid Corp",
+          "high": "321.65",
+          "low": "317.80",
+          "lastPrice": "319.70",
+          "prevClose": "321.65",
+          "change": "-1.95",
+          "percentGain": "-0.61"
         }
       ]
     }
