@@ -565,6 +565,56 @@
           "percentGain": "0.14"
         }
       ]
+    },
+    {
+      "time": "8:41:44 AM",
+      "data": [
+        {
+          "company": "Dr Reddys Labs",
+          "high": "1,368.70",
+          "low": "1,317.40",
+          "lastPrice": "1,353.80",
+          "prevClose": "1,325.60",
+          "change": "28.20",
+          "percentGain": "2.13"
+        },
+        {
+          "company": "Apollo Hospital",
+          "high": "7,389.90",
+          "low": "7,245.00",
+          "lastPrice": "7,329.80",
+          "prevClose": "7,297.55",
+          "change": "32.25",
+          "percentGain": "0.44"
+        },
+        {
+          "company": "Hindalco",
+          "high": "640.60",
+          "low": "625.20",
+          "lastPrice": "630.35",
+          "prevClose": "629.35",
+          "change": "1.00",
+          "percentGain": "0.16"
+        },
+        {
+          "company": "SBI Life Insura",
+          "high": "1,410.95",
+          "low": "1,391.10",
+          "lastPrice": "1,407.95",
+          "prevClose": "1,405.90",
+          "change": "2.05",
+          "percentGain": "0.15"
+        },
+        {
+          "company": "Nestle",
+          "high": "2,175.00",
+          "low": "2,145.40",
+          "lastPrice": "2,162.55",
+          "prevClose": "2,160.40",
+          "change": "2.15",
+          "percentGain": "0.10"
+        }
+      ]
     }
   ],
   "losers": [
@@ -1131,6 +1181,56 @@
           "prevClose": "4,271.90",
           "change": "-97.90",
           "percentGain": "-2.29"
+        }
+      ]
+    },
+    {
+      "time": "8:41:44 AM",
+      "data": [
+        {
+          "company": "Tech Mahindra",
+          "high": "1,770.85",
+          "low": "1,693.30",
+          "lastPrice": "1,694.05",
+          "prevClose": "1,754.35",
+          "change": "-60.30",
+          "percentGain": "-3.44"
+        },
+        {
+          "company": "IndusInd Bank",
+          "high": "966.85",
+          "low": "933.90",
+          "lastPrice": "934.05",
+          "prevClose": "964.40",
+          "change": "-30.35",
+          "percentGain": "-3.15"
+        },
+        {
+          "company": "Trent",
+          "high": "7,188.00",
+          "low": "6,881.30",
+          "lastPrice": "6,881.65",
+          "prevClose": "7,092.00",
+          "change": "-210.35",
+          "percentGain": "-2.97"
+        },
+        {
+          "company": "Axis Bank",
+          "high": "1,105.85",
+          "low": "1,073.00",
+          "lastPrice": "1,076.40",
+          "prevClose": "1,108.90",
+          "change": "-32.50",
+          "percentGain": "-2.93"
+        },
+        {
+          "company": "Tata Motors",
+          "high": "749.55",
+          "low": "724.85",
+          "lastPrice": "725.50",
+          "prevClose": "744.05",
+          "change": "-18.55",
+          "percentGain": "-2.49"
         }
       ]
     }
