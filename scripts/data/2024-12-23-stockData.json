@@ -119,6 +119,56 @@
           "percentGain": "1.81"
         }
       ]
+    },
+    {
+      "time": "6:22:47 AM",
+      "data": [
+        {
+          "company": "Trent",
+          "high": "7,066.00",
+          "low": "6,860.05",
+          "lastPrice": "7,063.00",
+          "prevClose": "6,831.55",
+          "change": "231.45",
+          "percentGain": "3.39"
+        },
+        {
+          "company": "JSW Steel",
+          "high": "950.95",
+          "low": "929.60",
+          "lastPrice": "948.00",
+          "prevClose": "917.35",
+          "change": "30.65",
+          "percentGain": "3.34"
+        },
+        {
+          "company": "Tech Mahindra",
+          "high": "1,725.00",
+          "low": "1,685.85",
+          "lastPrice": "1,724.40",
+          "prevClose": "1,686.05",
+          "change": "38.35",
+          "percentGain": "2.27"
+        },
+        {
+          "company": "ITC",
+          "high": "474.80",
+          "low": "467.60",
+          "lastPrice": "474.75",
+          "prevClose": "464.65",
+          "change": "10.10",
+          "percentGain": "2.17"
+        },
+        {
+          "company": "ONGC",
+          "high": "242.30",
+          "low": "236.85",
+          "lastPrice": "242.10",
+          "prevClose": "237.10",
+          "change": "5.00",
+          "percentGain": "2.11"
+        }
+      ]
     }
   ],
   "losers": [
@@ -239,6 +289,29 @@
           "prevClose": "315.80",
           "change": "-0.25",
           "percentGain": "-0.08"
+        }
+      ]
+    },
+    {
+      "time": "6:22:47 AM",
+      "data": [
+        {
+          "company": "TCS",
+          "high": "4,217.00",
+          "low": "4,133.30",
+          "lastPrice": "4,146.95",
+          "prevClose": "4,170.30",
+          "change": "-23.35",
+          "percentGain": "-0.56"
+        },
+        {
+          "company": "Bajaj Auto",
+          "high": "8,874.95",
+          "low": "8,719.90",
+          "lastPrice": "8,786.70",
+          "prevClose": "8,787.25",
+          "change": "-0.55",
+          "percentGain": "-0.01"
         }
       ]
     }
