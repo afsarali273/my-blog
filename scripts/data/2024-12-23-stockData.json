@@ -277,6 +277,56 @@
     {
       "time": "7:35:29 AM",
       "data": []
+    },
+    {
+      "time": "7:49:56 AM",
+      "data": [
+        {
+          "company": "Trent",
+          "high": "7,070.00",
+          "low": "6,860.05",
+          "lastPrice": "6,991.00",
+          "prevClose": "6,831.55",
+          "change": "159.45",
+          "percentGain": "2.33"
+        },
+        {
+          "company": "JSW Steel",
+          "high": "950.95",
+          "low": "929.60",
+          "lastPrice": "936.95",
+          "prevClose": "917.35",
+          "change": "19.60",
+          "percentGain": "2.14"
+        },
+        {
+          "company": "ITC",
+          "high": "477.70",
+          "low": "467.60",
+          "lastPrice": "473.00",
+          "prevClose": "464.65",
+          "change": "8.35",
+          "percentGain": "1.80"
+        },
+        {
+          "company": "Hindalco",
+          "high": "635.90",
+          "low": "625.55",
+          "lastPrice": "633.75",
+          "prevClose": "622.65",
+          "change": "11.10",
+          "percentGain": "1.78"
+        },
+        {
+          "company": "IndusInd Bank",
+          "high": "948.80",
+          "low": "930.05",
+          "lastPrice": "944.55",
+          "prevClose": "929.45",
+          "change": "15.10",
+          "percentGain": "1.62"
+        }
+      ]
     }
   ],
   "losers": [
@@ -530,6 +580,56 @@
     {
       "time": "7:35:29 AM",
       "data": []
+    },
+    {
+      "time": "7:49:56 AM",
+      "data": [
+        {
+          "company": "Hero Motocorp",
+          "high": "4,375.50",
+          "low": "4,268.70",
+          "lastPrice": "4,280.20",
+          "prevClose": "4,339.95",
+          "change": "-59.75",
+          "percentGain": "-1.38"
+        },
+        {
+          "company": "Power Grid Corp",
+          "high": "318.30",
+          "low": "311.65",
+          "lastPrice": "311.80",
+          "prevClose": "315.80",
+          "change": "-4.00",
+          "percentGain": "-1.27"
+        },
+        {
+          "company": "TCS",
+          "high": "4,217.00",
+          "low": "4,114.90",
+          "lastPrice": "4,136.95",
+          "prevClose": "4,170.30",
+          "change": "-33.35",
+          "percentGain": "-0.80"
+        },
+        {
+          "company": "Maruti Suzuki",
+          "high": "10,989.80",
+          "low": "10,811.00",
+          "lastPrice": "10,818.40",
+          "prevClose": "10,901.05",
+          "change": "-82.65",
+          "percentGain": "-0.76"
+        },
+        {
+          "company": "HDFC Life",
+          "high": "626.45",
+          "low": "613.60",
+          "lastPrice": "620.55",
+          "prevClose": "623.80",
+          "change": "-3.25",
+          "percentGain": "-0.52"
+        }
+      ]
     }
   ]
 }
