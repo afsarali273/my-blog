@@ -223,6 +223,56 @@
           "percentGain": "1.64"
         }
       ]
+    },
+    {
+      "time": "7:15:26 AM",
+      "data": [
+        {
+          "company": "JSW Steel",
+          "high": "950.95",
+          "low": "929.60",
+          "lastPrice": "940.95",
+          "prevClose": "917.35",
+          "change": "23.60",
+          "percentGain": "2.57"
+        },
+        {
+          "company": "ITC",
+          "high": "477.00",
+          "low": "467.60",
+          "lastPrice": "476.55",
+          "prevClose": "464.65",
+          "change": "11.90",
+          "percentGain": "2.56"
+        },
+        {
+          "company": "Trent",
+          "high": "7,070.00",
+          "low": "6,860.05",
+          "lastPrice": "7,002.55",
+          "prevClose": "6,831.55",
+          "change": "171.00",
+          "percentGain": "2.50"
+        },
+        {
+          "company": "Hindalco",
+          "high": "635.90",
+          "low": "625.55",
+          "lastPrice": "633.85",
+          "prevClose": "622.65",
+          "change": "11.20",
+          "percentGain": "1.80"
+        },
+        {
+          "company": "IndusInd Bank",
+          "high": "948.75",
+          "low": "930.05",
+          "lastPrice": "944.70",
+          "prevClose": "929.45",
+          "change": "15.25",
+          "percentGain": "1.64"
+        }
+      ]
     }
   ],
   "losers": [
@@ -420,6 +470,56 @@
           "prevClose": "4,339.95",
           "change": "-8.05",
           "percentGain": "-0.19"
+        }
+      ]
+    },
+    {
+      "time": "7:15:26 AM",
+      "data": [
+        {
+          "company": "TCS",
+          "high": "4,217.00",
+          "low": "4,114.90",
+          "lastPrice": "4,124.80",
+          "prevClose": "4,170.30",
+          "change": "-45.50",
+          "percentGain": "-1.09"
+        },
+        {
+          "company": "Power Grid Corp",
+          "high": "318.30",
+          "low": "313.20",
+          "lastPrice": "313.55",
+          "prevClose": "315.80",
+          "change": "-2.25",
+          "percentGain": "-0.71"
+        },
+        {
+          "company": "Hero Motocorp",
+          "high": "4,375.50",
+          "low": "4,280.00",
+          "lastPrice": "4,321.30",
+          "prevClose": "4,339.95",
+          "change": "-18.65",
+          "percentGain": "-0.43"
+        },
+        {
+          "company": "Maruti Suzuki",
+          "high": "10,989.80",
+          "low": "10,835.00",
+          "lastPrice": "10,860.30",
+          "prevClose": "10,901.05",
+          "change": "-40.75",
+          "percentGain": "-0.37"
+        },
+        {
+          "company": "Bajaj Auto",
+          "high": "8,874.95",
+          "low": "8,719.90",
+          "lastPrice": "8,765.00",
+          "prevClose": "8,787.25",
+          "change": "-22.25",
+          "percentGain": "-0.25"
         }
       ]
     }
