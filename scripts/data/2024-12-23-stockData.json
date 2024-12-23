@@ -335,6 +335,56 @@
     {
       "time": "8:42:19 AM",
       "data": []
+    },
+    {
+      "time": "8:52:16 AM",
+      "data": [
+        {
+          "company": "Trent",
+          "high": "7,070.00",
+          "low": "6,860.05",
+          "lastPrice": "7,009.85",
+          "prevClose": "6,831.55",
+          "change": "178.30",
+          "percentGain": "2.61"
+        },
+        {
+          "company": "JSW Steel",
+          "high": "950.95",
+          "low": "921.60",
+          "lastPrice": "936.20",
+          "prevClose": "917.35",
+          "change": "18.85",
+          "percentGain": "2.05"
+        },
+        {
+          "company": "Hindalco",
+          "high": "635.90",
+          "low": "625.55",
+          "lastPrice": "634.30",
+          "prevClose": "622.65",
+          "change": "11.65",
+          "percentGain": "1.87"
+        },
+        {
+          "company": "ONGC",
+          "high": "242.30",
+          "low": "236.85",
+          "lastPrice": "241.25",
+          "prevClose": "237.10",
+          "change": "4.15",
+          "percentGain": "1.75"
+        },
+        {
+          "company": "ITC",
+          "high": "477.70",
+          "low": "467.60",
+          "lastPrice": "472.35",
+          "prevClose": "464.65",
+          "change": "7.70",
+          "percentGain": "1.66"
+        }
+      ]
     }
   ],
   "losers": [
@@ -646,6 +696,56 @@
     {
       "time": "8:42:19 AM",
       "data": []
+    },
+    {
+      "time": "8:52:16 AM",
+      "data": [
+        {
+          "company": "Hero Motocorp",
+          "high": "4,375.50",
+          "low": "4,258.35",
+          "lastPrice": "4,274.30",
+          "prevClose": "4,339.95",
+          "change": "-65.65",
+          "percentGain": "-1.51"
+        },
+        {
+          "company": "Maruti Suzuki",
+          "high": "10,989.80",
+          "low": "10,755.40",
+          "lastPrice": "10,793.55",
+          "prevClose": "10,901.05",
+          "change": "-107.50",
+          "percentGain": "-0.99"
+        },
+        {
+          "company": "Dr Reddys Labs",
+          "high": "1,367.00",
+          "low": "1,330.30",
+          "lastPrice": "1,332.00",
+          "prevClose": "1,343.65",
+          "change": "-11.65",
+          "percentGain": "-0.87"
+        },
+        {
+          "company": "HUL",
+          "high": "2,351.75",
+          "low": "2,315.25",
+          "lastPrice": "2,321.40",
+          "prevClose": "2,333.90",
+          "change": "-12.50",
+          "percentGain": "-0.54"
+        },
+        {
+          "company": "HDFC Life",
+          "high": "626.45",
+          "low": "613.60",
+          "lastPrice": "620.70",
+          "prevClose": "623.80",
+          "change": "-3.10",
+          "percentGain": "-0.50"
+        }
+      ]
     }
   ]
 }
