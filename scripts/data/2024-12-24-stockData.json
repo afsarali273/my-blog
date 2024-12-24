@@ -669,6 +669,56 @@
           "percentGain": "0.92"
         }
       ]
+    },
+    {
+      "time": "9:36:33 AM",
+      "data": [
+        {
+          "company": "Tata Motors",
+          "high": "745.30",
+          "low": "722.50",
+          "lastPrice": "735.90",
+          "prevClose": "722.20",
+          "change": "13.70",
+          "percentGain": "1.90"
+        },
+        {
+          "company": "Adani Enterpris",
+          "high": "2,412.90",
+          "low": "2,340.00",
+          "lastPrice": "2,373.20",
+          "prevClose": "2,338.95",
+          "change": "34.25",
+          "percentGain": "1.46"
+        },
+        {
+          "company": "Britannia",
+          "high": "4,766.55",
+          "low": "4,690.05",
+          "lastPrice": "4,759.45",
+          "prevClose": "4,704.35",
+          "change": "55.10",
+          "percentGain": "1.17"
+        },
+        {
+          "company": "Trent",
+          "high": "7,079.00",
+          "low": "6,902.00",
+          "lastPrice": "7,025.70",
+          "prevClose": "6,946.00",
+          "change": "79.70",
+          "percentGain": "1.15"
+        },
+        {
+          "company": "ITC",
+          "high": "480.25",
+          "low": "472.65",
+          "lastPrice": "479.05",
+          "prevClose": "474.25",
+          "change": "4.80",
+          "percentGain": "1.01"
+        }
+      ]
     }
   ],
   "losers": [
@@ -1339,6 +1389,56 @@
           "prevClose": "3,396.95",
           "change": "-46.55",
           "percentGain": "-1.37"
+        }
+      ]
+    },
+    {
+      "time": "9:36:33 AM",
+      "data": [
+        {
+          "company": "JSW Steel",
+          "high": "937.95",
+          "low": "918.45",
+          "lastPrice": "920.60",
+          "prevClose": "937.05",
+          "change": "-16.45",
+          "percentGain": "-1.76"
+        },
+        {
+          "company": "Titan Company",
+          "high": "3,419.00",
+          "low": "3,338.20",
+          "lastPrice": "3,342.50",
+          "prevClose": "3,396.95",
+          "change": "-54.45",
+          "percentGain": "-1.60"
+        },
+        {
+          "company": "Power Grid Corp",
+          "high": "316.65",
+          "low": "310.35",
+          "lastPrice": "310.45",
+          "prevClose": "315.30",
+          "change": "-4.85",
+          "percentGain": "-1.54"
+        },
+        {
+          "company": "SBI Life Insura",
+          "high": "1,418.00",
+          "low": "1,386.70",
+          "lastPrice": "1,387.00",
+          "prevClose": "1,405.30",
+          "change": "-18.30",
+          "percentGain": "-1.30"
+        },
+        {
+          "company": "Hindalco",
+          "high": "638.10",
+          "low": "625.75",
+          "lastPrice": "626.25",
+          "prevClose": "634.15",
+          "change": "-7.90",
+          "percentGain": "-1.25"
         }
       ]
     }
