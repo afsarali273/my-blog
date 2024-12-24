@@ -1,0 +1,106 @@
+{
+  "gainers": [
+    {
+      "time": "3:51:24 AM",
+      "data": [
+        {
+          "company": "Tata Motors",
+          "high": "727.75",
+          "low": "722.50",
+          "lastPrice": "726.95",
+          "prevClose": "722.20",
+          "change": "4.75",
+          "percentGain": "0.66"
+        },
+        {
+          "company": "TCS",
+          "high": "4,180.00",
+          "low": "4,158.30",
+          "lastPrice": "4,178.90",
+          "prevClose": "4,158.30",
+          "change": "20.60",
+          "percentGain": "0.50"
+        },
+        {
+          "company": "Hero Motocorp",
+          "high": "4,297.75",
+          "low": "4,250.00",
+          "lastPrice": "4,291.40",
+          "prevClose": "4,272.60",
+          "change": "18.80",
+          "percentGain": "0.44"
+        },
+        {
+          "company": "Bharti Airtel",
+          "high": "1,598.80",
+          "low": "1,587.00",
+          "lastPrice": "1,593.35",
+          "prevClose": "1,586.90",
+          "change": "6.45",
+          "percentGain": "0.41"
+        },
+        {
+          "company": "Dr Reddys Labs",
+          "high": "1,348.10",
+          "low": "1,336.20",
+          "lastPrice": "1,345.95",
+          "prevClose": "1,341.35",
+          "change": "4.60",
+          "percentGain": "0.34"
+        }
+      ]
+    }
+  ],
+  "losers": [
+    {
+      "time": "3:51:24 AM",
+      "data": [
+        {
+          "company": "Cipla",
+          "high": "1,476.00",
+          "low": "1,461.30",
+          "lastPrice": "1,465.00",
+          "prevClose": "1,476.05",
+          "change": "-11.05",
+          "percentGain": "-0.75"
+        },
+        {
+          "company": "JSW Steel",
+          "high": "937.95",
+          "low": "928.50",
+          "lastPrice": "930.80",
+          "prevClose": "937.05",
+          "change": "-6.25",
+          "percentGain": "-0.67"
+        },
+        {
+          "company": "Shriram Finance",
+          "high": "2,897.60",
+          "low": "2,858.85",
+          "lastPrice": "2,867.15",
+          "prevClose": "2,882.90",
+          "change": "-15.75",
+          "percentGain": "-0.55"
+        },
+        {
+          "company": "NTPC",
+          "high": "335.90",
+          "low": "331.75",
+          "lastPrice": "332.10",
+          "prevClose": "333.65",
+          "change": "-1.55",
+          "percentGain": "-0.46"
+        },
+        {
+          "company": "Kotak Mahindra",
+          "high": "1,747.35",
+          "low": "1,738.05",
+          "lastPrice": "1,738.75",
+          "prevClose": "1,745.35",
+          "change": "-6.60",
+          "percentGain": "-0.38"
+        }
+      ]
+    }
+  ]
+}
