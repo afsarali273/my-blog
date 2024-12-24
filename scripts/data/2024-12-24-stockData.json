@@ -619,6 +619,56 @@
           "percentGain": "0.87"
         }
       ]
+    },
+    {
+      "time": "9:15:44 AM",
+      "data": [
+        {
+          "company": "Tata Motors",
+          "high": "745.30",
+          "low": "722.50",
+          "lastPrice": "736.00",
+          "prevClose": "722.20",
+          "change": "13.80",
+          "percentGain": "1.91"
+        },
+        {
+          "company": "Adani Enterpris",
+          "high": "2,412.90",
+          "low": "2,340.00",
+          "lastPrice": "2,375.25",
+          "prevClose": "2,338.95",
+          "change": "36.30",
+          "percentGain": "1.55"
+        },
+        {
+          "company": "ITC",
+          "high": "480.25",
+          "low": "472.65",
+          "lastPrice": "479.50",
+          "prevClose": "474.25",
+          "change": "5.25",
+          "percentGain": "1.11"
+        },
+        {
+          "company": "Britannia",
+          "high": "4,764.15",
+          "low": "4,690.05",
+          "lastPrice": "4,750.00",
+          "prevClose": "4,704.35",
+          "change": "45.65",
+          "percentGain": "0.97"
+        },
+        {
+          "company": "BPCL",
+          "high": "295.45",
+          "low": "287.35",
+          "lastPrice": "291.75",
+          "prevClose": "289.10",
+          "change": "2.65",
+          "percentGain": "0.92"
+        }
+      ]
     }
   ],
   "losers": [
@@ -1239,6 +1289,56 @@
           "prevClose": "3,396.95",
           "change": "-47.95",
           "percentGain": "-1.41"
+        }
+      ]
+    },
+    {
+      "time": "9:15:44 AM",
+      "data": [
+        {
+          "company": "JSW Steel",
+          "high": "937.95",
+          "low": "919.00",
+          "lastPrice": "919.70",
+          "prevClose": "937.05",
+          "change": "-17.35",
+          "percentGain": "-1.85"
+        },
+        {
+          "company": "Tata Steel",
+          "high": "141.50",
+          "low": "139.25",
+          "lastPrice": "139.41",
+          "prevClose": "141.71",
+          "change": "-2.30",
+          "percentGain": "-1.62"
+        },
+        {
+          "company": "Wipro",
+          "high": "309.20",
+          "low": "302.80",
+          "lastPrice": "303.05",
+          "prevClose": "307.90",
+          "change": "-4.85",
+          "percentGain": "-1.58"
+        },
+        {
+          "company": "IndusInd Bank",
+          "high": "946.00",
+          "low": "929.80",
+          "lastPrice": "931.45",
+          "prevClose": "945.70",
+          "change": "-14.25",
+          "percentGain": "-1.51"
+        },
+        {
+          "company": "Titan Company",
+          "high": "3,419.00",
+          "low": "3,347.15",
+          "lastPrice": "3,350.40",
+          "prevClose": "3,396.95",
+          "change": "-46.55",
+          "percentGain": "-1.37"
         }
       ]
     }
