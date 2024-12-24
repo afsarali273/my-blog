@@ -199,6 +199,56 @@
           "percentGain": "1.04"
         }
       ]
+    },
+    {
+      "time": "5:14:51 AM",
+      "data": [
+        {
+          "company": "Tata Motors",
+          "high": "745.30",
+          "low": "722.50",
+          "lastPrice": "741.70",
+          "prevClose": "722.20",
+          "change": "19.50",
+          "percentGain": "2.70"
+        },
+        {
+          "company": "Adani Enterpris",
+          "high": "2,406.00",
+          "low": "2,340.00",
+          "lastPrice": "2,396.90",
+          "prevClose": "2,338.95",
+          "change": "57.95",
+          "percentGain": "2.48"
+        },
+        {
+          "company": "BPCL",
+          "high": "293.75",
+          "low": "287.35",
+          "lastPrice": "293.00",
+          "prevClose": "289.10",
+          "change": "3.90",
+          "percentGain": "1.35"
+        },
+        {
+          "company": "Trent",
+          "high": "7,049.00",
+          "low": "6,902.00",
+          "lastPrice": "7,018.75",
+          "prevClose": "6,946.00",
+          "change": "72.75",
+          "percentGain": "1.05"
+        },
+        {
+          "company": "M&M",
+          "high": "2,947.20",
+          "low": "2,900.80",
+          "lastPrice": "2,937.00",
+          "prevClose": "2,909.30",
+          "change": "27.70",
+          "percentGain": "0.95"
+        }
+      ]
     }
   ],
   "losers": [
@@ -399,6 +449,56 @@
           "prevClose": "1,586.90",
           "change": "-1.95",
           "percentGain": "-0.12"
+        }
+      ]
+    },
+    {
+      "time": "5:14:51 AM",
+      "data": [
+        {
+          "company": "IndusInd Bank",
+          "high": "945.50",
+          "low": "938.00",
+          "lastPrice": "940.10",
+          "prevClose": "945.70",
+          "change": "-5.60",
+          "percentGain": "-0.59"
+        },
+        {
+          "company": "JSW Steel",
+          "high": "937.95",
+          "low": "925.05",
+          "lastPrice": "932.10",
+          "prevClose": "937.05",
+          "change": "-4.95",
+          "percentGain": "-0.53"
+        },
+        {
+          "company": "Tata Steel",
+          "high": "141.50",
+          "low": "140.15",
+          "lastPrice": "141.05",
+          "prevClose": "141.71",
+          "change": "-0.66",
+          "percentGain": "-0.47"
+        },
+        {
+          "company": "ICICI Bank",
+          "high": "1,304.50",
+          "low": "1,290.25",
+          "lastPrice": "1,291.25",
+          "prevClose": "1,296.80",
+          "change": "-5.55",
+          "percentGain": "-0.43"
+        },
+        {
+          "company": "Bajaj Finance",
+          "high": "6,910.00",
+          "low": "6,826.60",
+          "lastPrice": "6,840.60",
+          "prevClose": "6,866.70",
+          "change": "-26.10",
+          "percentGain": "-0.38"
         }
       ]
     }
