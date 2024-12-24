@@ -149,6 +149,56 @@
           "percentGain": "0.83"
         }
       ]
+    },
+    {
+      "time": "4:49:55 AM",
+      "data": [
+        {
+          "company": "Tata Motors",
+          "high": "739.05",
+          "low": "722.50",
+          "lastPrice": "738.50",
+          "prevClose": "722.20",
+          "change": "16.30",
+          "percentGain": "2.26"
+        },
+        {
+          "company": "Adani Enterpris",
+          "high": "2,378.25",
+          "low": "2,340.00",
+          "lastPrice": "2,378.25",
+          "prevClose": "2,338.95",
+          "change": "39.30",
+          "percentGain": "1.68"
+        },
+        {
+          "company": "TCS",
+          "high": "4,215.00",
+          "low": "4,158.30",
+          "lastPrice": "4,214.70",
+          "prevClose": "4,158.30",
+          "change": "56.40",
+          "percentGain": "1.36"
+        },
+        {
+          "company": "BPCL",
+          "high": "292.20",
+          "low": "287.35",
+          "lastPrice": "292.15",
+          "prevClose": "289.10",
+          "change": "3.05",
+          "percentGain": "1.05"
+        },
+        {
+          "company": "HCL Tech",
+          "high": "1,923.65",
+          "low": "1,895.60",
+          "lastPrice": "1,922.85",
+          "prevClose": "1,903.00",
+          "change": "19.85",
+          "percentGain": "1.04"
+        }
+      ]
     }
   ],
   "losers": [
@@ -299,6 +349,56 @@
           "prevClose": "6,866.70",
           "change": "-16.70",
           "percentGain": "-0.24"
+        }
+      ]
+    },
+    {
+      "time": "4:49:55 AM",
+      "data": [
+        {
+          "company": "IndusInd Bank",
+          "high": "944.10",
+          "low": "938.00",
+          "lastPrice": "940.50",
+          "prevClose": "945.70",
+          "change": "-5.20",
+          "percentGain": "-0.55"
+        },
+        {
+          "company": "Tata Steel",
+          "high": "141.50",
+          "low": "140.15",
+          "lastPrice": "141.14",
+          "prevClose": "141.71",
+          "change": "-0.57",
+          "percentGain": "-0.40"
+        },
+        {
+          "company": "JSW Steel",
+          "high": "937.95",
+          "low": "925.05",
+          "lastPrice": "933.45",
+          "prevClose": "937.05",
+          "change": "-3.60",
+          "percentGain": "-0.38"
+        },
+        {
+          "company": "ICICI Bank",
+          "high": "1,304.50",
+          "low": "1,290.25",
+          "lastPrice": "1,294.15",
+          "prevClose": "1,296.80",
+          "change": "-2.65",
+          "percentGain": "-0.20"
+        },
+        {
+          "company": "Bharti Airtel",
+          "high": "1,598.80",
+          "low": "1,575.00",
+          "lastPrice": "1,584.95",
+          "prevClose": "1,586.90",
+          "change": "-1.95",
+          "percentGain": "-0.12"
         }
       ]
     }
