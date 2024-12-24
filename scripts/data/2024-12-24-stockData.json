@@ -465,6 +465,56 @@
     {
       "time": "7:37:48 AM",
       "data": []
+    },
+    {
+      "time": "7:50:08 AM",
+      "data": [
+        {
+          "company": "Tata Motors",
+          "high": "745.30",
+          "low": "722.50",
+          "lastPrice": "738.25",
+          "prevClose": "722.20",
+          "change": "16.05",
+          "percentGain": "2.22"
+        },
+        {
+          "company": "Adani Enterpris",
+          "high": "2,412.90",
+          "low": "2,340.00",
+          "lastPrice": "2,380.10",
+          "prevClose": "2,338.95",
+          "change": "41.15",
+          "percentGain": "1.76"
+        },
+        {
+          "company": "Dr Reddys Labs",
+          "high": "1,365.00",
+          "low": "1,336.20",
+          "lastPrice": "1,361.80",
+          "prevClose": "1,341.35",
+          "change": "20.45",
+          "percentGain": "1.52"
+        },
+        {
+          "company": "Trent",
+          "high": "7,079.00",
+          "low": "6,902.00",
+          "lastPrice": "7,046.55",
+          "prevClose": "6,946.00",
+          "change": "100.55",
+          "percentGain": "1.45"
+        },
+        {
+          "company": "Britannia",
+          "high": "4,764.15",
+          "low": "4,690.05",
+          "lastPrice": "4,757.00",
+          "prevClose": "4,704.35",
+          "change": "52.65",
+          "percentGain": "1.12"
+        }
+      ]
     }
   ],
   "losers": [
@@ -933,6 +983,56 @@
     {
       "time": "7:37:48 AM",
       "data": []
+    },
+    {
+      "time": "7:50:08 AM",
+      "data": [
+        {
+          "company": "Titan Company",
+          "high": "3,419.00",
+          "low": "3,351.00",
+          "lastPrice": "3,357.00",
+          "prevClose": "3,396.95",
+          "change": "-39.95",
+          "percentGain": "-1.18"
+        },
+        {
+          "company": "Tata Steel",
+          "high": "141.50",
+          "low": "139.41",
+          "lastPrice": "140.10",
+          "prevClose": "141.71",
+          "change": "-1.61",
+          "percentGain": "-1.14"
+        },
+        {
+          "company": "IndusInd Bank",
+          "high": "946.00",
+          "low": "933.30",
+          "lastPrice": "935.20",
+          "prevClose": "945.70",
+          "change": "-10.50",
+          "percentGain": "-1.11"
+        },
+        {
+          "company": "Wipro",
+          "high": "309.20",
+          "low": "304.45",
+          "lastPrice": "304.50",
+          "prevClose": "307.90",
+          "change": "-3.40",
+          "percentGain": "-1.10"
+        },
+        {
+          "company": "SBI",
+          "high": "826.20",
+          "low": "813.10",
+          "lastPrice": "814.25",
+          "prevClose": "821.15",
+          "change": "-6.90",
+          "percentGain": "-0.84"
+        }
+      ]
     }
   ]
 }
