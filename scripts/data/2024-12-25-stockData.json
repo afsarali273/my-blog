@@ -199,6 +199,56 @@
           "percentGain": "0.89"
         }
       ]
+    },
+    {
+      "time": "5:15:05 AM",
+      "data": [
+        {
+          "company": "Tata Motors",
+          "high": "745.30",
+          "low": "722.50",
+          "lastPrice": "736.10",
+          "prevClose": "722.20",
+          "change": "13.90",
+          "percentGain": "1.92"
+        },
+        {
+          "company": "Adani Enterpris",
+          "high": "2,412.90",
+          "low": "2,340.00",
+          "lastPrice": "2,372.45",
+          "prevClose": "2,338.95",
+          "change": "33.50",
+          "percentGain": "1.43"
+        },
+        {
+          "company": "BPCL",
+          "high": "295.45",
+          "low": "287.35",
+          "lastPrice": "292.00",
+          "prevClose": "289.10",
+          "change": "2.90",
+          "percentGain": "1.00"
+        },
+        {
+          "company": "Eicher Motors",
+          "high": "4,808.00",
+          "low": "4,738.65",
+          "lastPrice": "4,792.90",
+          "prevClose": "4,750.55",
+          "change": "42.35",
+          "percentGain": "0.89"
+        },
+        {
+          "company": "ITC",
+          "high": "480.25",
+          "low": "472.65",
+          "lastPrice": "478.45",
+          "prevClose": "474.25",
+          "change": "4.20",
+          "percentGain": "0.89"
+        }
+      ]
     }
   ],
   "losers": [
@@ -354,6 +404,56 @@
     },
     {
       "time": "4:50:25 AM",
+      "data": [
+        {
+          "company": "Power Grid Corp",
+          "high": "316.65",
+          "low": "308.75",
+          "lastPrice": "310.10",
+          "prevClose": "315.30",
+          "change": "-5.20",
+          "percentGain": "-1.65"
+        },
+        {
+          "company": "JSW Steel",
+          "high": "937.95",
+          "low": "918.45",
+          "lastPrice": "921.85",
+          "prevClose": "937.05",
+          "change": "-15.20",
+          "percentGain": "-1.62"
+        },
+        {
+          "company": "SBI Life Insura",
+          "high": "1,418.00",
+          "low": "1,385.00",
+          "lastPrice": "1,387.00",
+          "prevClose": "1,405.30",
+          "change": "-18.30",
+          "percentGain": "-1.30"
+        },
+        {
+          "company": "Titan Company",
+          "high": "3,419.00",
+          "low": "3,338.20",
+          "lastPrice": "3,353.40",
+          "prevClose": "3,396.95",
+          "change": "-43.55",
+          "percentGain": "-1.28"
+        },
+        {
+          "company": "SBI",
+          "high": "826.20",
+          "low": "809.20",
+          "lastPrice": "812.05",
+          "prevClose": "821.15",
+          "change": "-9.10",
+          "percentGain": "-1.11"
+        }
+      ]
+    },
+    {
+      "time": "5:15:05 AM",
       "data": [
         {
           "company": "Power Grid Corp",
