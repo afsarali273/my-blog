@@ -1,0 +1,97 @@
+{
+  "gainers": [
+    {
+      "time": "3:51:27 AM",
+      "data": [
+        {
+          "company": "Kotak Mahindra",
+          "high": "1,769.45",
+          "low": "1,754.35",
+          "lastPrice": "1,768.45",
+          "prevClose": "1,749.05",
+          "change": "19.40",
+          "percentGain": "1.11"
+        },
+        {
+          "company": "ICICI Bank",
+          "high": "1,312.55",
+          "low": "1,302.10",
+          "lastPrice": "1,311.50",
+          "prevClose": "1,297.25",
+          "change": "14.25",
+          "percentGain": "1.10"
+        },
+        {
+          "company": "Maruti Suzuki",
+          "high": "10,856.10",
+          "low": "10,770.00",
+          "lastPrice": "10,851.95",
+          "prevClose": "10,736.60",
+          "change": "115.35",
+          "percentGain": "1.07"
+        },
+        {
+          "company": "SBI",
+          "high": "822.00",
+          "low": "812.05",
+          "lastPrice": "820.40",
+          "prevClose": "812.05",
+          "change": "8.35",
+          "percentGain": "1.03"
+        },
+        {
+          "company": "Axis Bank",
+          "high": "1,090.65",
+          "low": "1,082.00",
+          "lastPrice": "1,089.50",
+          "prevClose": "1,078.90",
+          "change": "10.60",
+          "percentGain": "0.98"
+        }
+      ]
+    }
+  ],
+  "losers": [
+    {
+      "time": "3:51:27 AM",
+      "data": [
+        {
+          "company": "Asian Paints",
+          "high": "2,287.45",
+          "low": "2,273.70",
+          "lastPrice": "2,277.80",
+          "prevClose": "2,284.00",
+          "change": "-6.20",
+          "percentGain": "-0.27"
+        },
+        {
+          "company": "Dr Reddys Labs",
+          "high": "1,356.00",
+          "low": "1,346.55",
+          "lastPrice": "1,347.80",
+          "prevClose": "1,350.90",
+          "change": "-3.10",
+          "percentGain": "-0.23"
+        },
+        {
+          "company": "Cipla",
+          "high": "1,478.95",
+          "low": "1,470.30",
+          "lastPrice": "1,473.50",
+          "prevClose": "1,475.75",
+          "change": "-2.25",
+          "percentGain": "-0.15"
+        },
+        {
+          "company": "Trent",
+          "high": "7,047.95",
+          "low": "6,995.15",
+          "lastPrice": "7,000.00",
+          "prevClose": "7,007.15",
+          "change": "-7.15",
+          "percentGain": "-0.10"
+        }
+      ]
+    }
+  ]
+}
