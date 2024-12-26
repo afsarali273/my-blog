@@ -199,6 +199,56 @@
           "percentGain": "0.97"
         }
       ]
+    },
+    {
+      "time": "5:15:07 AM",
+      "data": [
+        {
+          "company": "SBI Life Insura",
+          "high": "1,410.00",
+          "low": "1,385.20",
+          "lastPrice": "1,408.40",
+          "prevClose": "1,387.00",
+          "change": "21.40",
+          "percentGain": "1.54"
+        },
+        {
+          "company": "BPCL",
+          "high": "299.30",
+          "low": "294.25",
+          "lastPrice": "296.40",
+          "prevClose": "292.00",
+          "change": "4.40",
+          "percentGain": "1.51"
+        },
+        {
+          "company": "Maruti Suzuki",
+          "high": "10,895.75",
+          "low": "10,770.00",
+          "lastPrice": "10,881.25",
+          "prevClose": "10,736.60",
+          "change": "144.65",
+          "percentGain": "1.35"
+        },
+        {
+          "company": "Adani Ports",
+          "high": "1,197.15",
+          "low": "1,182.55",
+          "lastPrice": "1,194.35",
+          "prevClose": "1,182.20",
+          "change": "12.15",
+          "percentGain": "1.03"
+        },
+        {
+          "company": "HDFC Life",
+          "high": "629.20",
+          "low": "619.20",
+          "lastPrice": "628.90",
+          "prevClose": "622.50",
+          "change": "6.40",
+          "percentGain": "1.03"
+        }
+      ]
     }
   ],
   "losers": [
@@ -390,6 +440,56 @@
           "prevClose": "1,475.75",
           "change": "-6.30",
           "percentGain": "-0.43"
+        }
+      ]
+    },
+    {
+      "time": "5:15:07 AM",
+      "data": [
+        {
+          "company": "Asian Paints",
+          "high": "2,287.45",
+          "low": "2,261.05",
+          "lastPrice": "2,270.35",
+          "prevClose": "2,284.00",
+          "change": "-13.65",
+          "percentGain": "-0.60"
+        },
+        {
+          "company": "TCS",
+          "high": "4,199.95",
+          "low": "4,147.95",
+          "lastPrice": "4,155.40",
+          "prevClose": "4,179.50",
+          "change": "-24.10",
+          "percentGain": "-0.58"
+        },
+        {
+          "company": "IndusInd Bank",
+          "high": "945.00",
+          "low": "930.50",
+          "lastPrice": "931.90",
+          "prevClose": "935.30",
+          "change": "-3.40",
+          "percentGain": "-0.36"
+        },
+        {
+          "company": "Tata Steel",
+          "high": "141.15",
+          "low": "139.81",
+          "lastPrice": "139.93",
+          "prevClose": "140.38",
+          "change": "-0.45",
+          "percentGain": "-0.32"
+        },
+        {
+          "company": "Eicher Motors",
+          "high": "4,824.35",
+          "low": "4,772.00",
+          "lastPrice": "4,778.60",
+          "prevClose": "4,792.90",
+          "change": "-14.30",
+          "percentGain": "-0.30"
         }
       ]
     }
