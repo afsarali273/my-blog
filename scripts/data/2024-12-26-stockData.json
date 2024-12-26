@@ -407,6 +407,56 @@
           "percentGain": "1.12"
         }
       ]
+    },
+    {
+      "time": "7:14:20 AM",
+      "data": [
+        {
+          "company": "Maruti Suzuki",
+          "high": "10,974.80",
+          "low": "10,770.00",
+          "lastPrice": "10,924.00",
+          "prevClose": "10,736.60",
+          "change": "187.40",
+          "percentGain": "1.75"
+        },
+        {
+          "company": "Adani Ports",
+          "high": "1,206.95",
+          "low": "1,182.55",
+          "lastPrice": "1,202.25",
+          "prevClose": "1,182.20",
+          "change": "20.05",
+          "percentGain": "1.70"
+        },
+        {
+          "company": "M&M",
+          "high": "2,984.00",
+          "low": "2,923.35",
+          "lastPrice": "2,975.10",
+          "prevClose": "2,928.70",
+          "change": "46.40",
+          "percentGain": "1.58"
+        },
+        {
+          "company": "SBI Life Insura",
+          "high": "1,410.90",
+          "low": "1,385.20",
+          "lastPrice": "1,403.35",
+          "prevClose": "1,387.00",
+          "change": "16.35",
+          "percentGain": "1.18"
+        },
+        {
+          "company": "Shriram Finance",
+          "high": "2,915.00",
+          "low": "2,871.15",
+          "lastPrice": "2,910.75",
+          "prevClose": "2,882.95",
+          "change": "27.80",
+          "percentGain": "0.96"
+        }
+      ]
     }
   ],
   "losers": [
@@ -806,6 +856,56 @@
           "prevClose": "1,078.90",
           "change": "-4.40",
           "percentGain": "-0.41"
+        }
+      ]
+    },
+    {
+      "time": "7:14:20 AM",
+      "data": [
+        {
+          "company": "Asian Paints",
+          "high": "2,287.45",
+          "low": "2,261.05",
+          "lastPrice": "2,268.25",
+          "prevClose": "2,284.00",
+          "change": "-15.75",
+          "percentGain": "-0.69"
+        },
+        {
+          "company": "Grasim",
+          "high": "2,518.25",
+          "low": "2,483.40",
+          "lastPrice": "2,485.90",
+          "prevClose": "2,501.85",
+          "change": "-15.95",
+          "percentGain": "-0.64"
+        },
+        {
+          "company": "TATA Cons. Prod",
+          "high": "911.35",
+          "low": "902.00",
+          "lastPrice": "902.65",
+          "prevClose": "907.30",
+          "change": "-4.65",
+          "percentGain": "-0.51"
+        },
+        {
+          "company": "HDFC Bank",
+          "high": "1,812.00",
+          "low": "1,787.75",
+          "lastPrice": "1,789.50",
+          "prevClose": "1,798.10",
+          "change": "-8.60",
+          "percentGain": "-0.48"
+        },
+        {
+          "company": "JSW Steel",
+          "high": "929.40",
+          "low": "916.60",
+          "lastPrice": "917.75",
+          "prevClose": "921.85",
+          "change": "-4.10",
+          "percentGain": "-0.44"
         }
       ]
     }
