@@ -49,6 +49,56 @@
           "percentGain": "0.98"
         }
       ]
+    },
+    {
+      "time": "4:18:42 AM",
+      "data": [
+        {
+          "company": "BPCL",
+          "high": "298.00",
+          "low": "294.25",
+          "lastPrice": "297.85",
+          "prevClose": "292.00",
+          "change": "5.85",
+          "percentGain": "2.00"
+        },
+        {
+          "company": "SBI Life Insura",
+          "high": "1,406.70",
+          "low": "1,385.20",
+          "lastPrice": "1,402.60",
+          "prevClose": "1,387.00",
+          "change": "15.60",
+          "percentGain": "1.12"
+        },
+        {
+          "company": "SBI",
+          "high": "822.85",
+          "low": "812.05",
+          "lastPrice": "821.00",
+          "prevClose": "812.05",
+          "change": "8.95",
+          "percentGain": "1.10"
+        },
+        {
+          "company": "Axis Bank",
+          "high": "1,092.60",
+          "low": "1,082.00",
+          "lastPrice": "1,090.00",
+          "prevClose": "1,078.90",
+          "change": "11.10",
+          "percentGain": "1.03"
+        },
+        {
+          "company": "ONGC",
+          "high": "242.00",
+          "low": "239.25",
+          "lastPrice": "241.10",
+          "prevClose": "238.95",
+          "change": "2.15",
+          "percentGain": "0.90"
+        }
+      ]
     }
   ],
   "losers": [
@@ -90,6 +140,56 @@
           "prevClose": "7,007.15",
           "change": "-7.15",
           "percentGain": "-0.10"
+        }
+      ]
+    },
+    {
+      "time": "4:18:42 AM",
+      "data": [
+        {
+          "company": "Tech Mahindra",
+          "high": "1,714.65",
+          "low": "1,693.85",
+          "lastPrice": "1,696.00",
+          "prevClose": "1,704.90",
+          "change": "-8.90",
+          "percentGain": "-0.52"
+        },
+        {
+          "company": "Asian Paints",
+          "high": "2,287.45",
+          "low": "2,262.15",
+          "lastPrice": "2,273.65",
+          "prevClose": "2,284.00",
+          "change": "-10.35",
+          "percentGain": "-0.45"
+        },
+        {
+          "company": "Trent",
+          "high": "7,047.95",
+          "low": "6,966.45",
+          "lastPrice": "6,983.00",
+          "prevClose": "7,007.15",
+          "change": "-24.15",
+          "percentGain": "-0.34"
+        },
+        {
+          "company": "Britannia",
+          "high": "4,755.50",
+          "low": "4,725.80",
+          "lastPrice": "4,730.45",
+          "prevClose": "4,744.10",
+          "change": "-13.65",
+          "percentGain": "-0.29"
+        },
+        {
+          "company": "TCS",
+          "high": "4,199.95",
+          "low": "4,164.65",
+          "lastPrice": "4,167.85",
+          "prevClose": "4,179.50",
+          "change": "-11.65",
+          "percentGain": "-0.28"
         }
       ]
     }
