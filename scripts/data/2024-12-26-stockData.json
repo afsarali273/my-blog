@@ -769,6 +769,56 @@
           "percentGain": "1.51"
         }
       ]
+    },
+    {
+      "time": "10:13:21 AM",
+      "data": [
+        {
+          "company": "Adani Ports",
+          "high": "1,249.00",
+          "low": "1,182.55",
+          "lastPrice": "1,243.95",
+          "prevClose": "1,182.20",
+          "change": "61.75",
+          "percentGain": "5.22"
+        },
+        {
+          "company": "M&M",
+          "high": "2,984.45",
+          "low": "2,923.35",
+          "lastPrice": "2,975.65",
+          "prevClose": "2,928.70",
+          "change": "46.95",
+          "percentGain": "1.60"
+        },
+        {
+          "company": "SBI Life Insura",
+          "high": "1,411.80",
+          "low": "1,385.20",
+          "lastPrice": "1,409.05",
+          "prevClose": "1,387.00",
+          "change": "22.05",
+          "percentGain": "1.59"
+        },
+        {
+          "company": "Shriram Finance",
+          "high": "2,935.95",
+          "low": "2,871.15",
+          "lastPrice": "2,926.90",
+          "prevClose": "2,882.95",
+          "change": "43.95",
+          "percentGain": "1.52"
+        },
+        {
+          "company": "Maruti Suzuki",
+          "high": "10,974.80",
+          "low": "10,770.00",
+          "lastPrice": "10,896.00",
+          "prevClose": "10,736.60",
+          "change": "159.40",
+          "percentGain": "1.48"
+        }
+      ]
     }
   ],
   "losers": [
@@ -1530,6 +1580,56 @@
           "prevClose": "2,166.70",
           "change": "-16.70",
           "percentGain": "-0.77"
+        }
+      ]
+    },
+    {
+      "time": "10:13:21 AM",
+      "data": [
+        {
+          "company": "Asian Paints",
+          "high": "2,287.45",
+          "low": "2,256.50",
+          "lastPrice": "2,262.40",
+          "prevClose": "2,284.00",
+          "change": "-21.60",
+          "percentGain": "-0.95"
+        },
+        {
+          "company": "Titan Company",
+          "high": "3,371.85",
+          "low": "3,312.65",
+          "lastPrice": "3,323.05",
+          "prevClose": "3,353.40",
+          "change": "-30.35",
+          "percentGain": "-0.91"
+        },
+        {
+          "company": "JSW Steel",
+          "high": "929.40",
+          "low": "913.10",
+          "lastPrice": "914.45",
+          "prevClose": "921.85",
+          "change": "-7.40",
+          "percentGain": "-0.80"
+        },
+        {
+          "company": "Grasim",
+          "high": "2,518.25",
+          "low": "2,472.50",
+          "lastPrice": "2,482.05",
+          "prevClose": "2,501.85",
+          "change": "-19.80",
+          "percentGain": "-0.79"
+        },
+        {
+          "company": "Nestle",
+          "high": "2,176.00",
+          "low": "2,146.40",
+          "lastPrice": "2,149.90",
+          "prevClose": "2,166.70",
+          "change": "-16.80",
+          "percentGain": "-0.78"
         }
       ]
     }
