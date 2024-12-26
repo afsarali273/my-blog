@@ -561,6 +561,56 @@
           "percentGain": "1.26"
         }
       ]
+    },
+    {
+      "time": "8:19:47 AM",
+      "data": [
+        {
+          "company": "Adani Ports",
+          "high": "1,219.75",
+          "low": "1,182.55",
+          "lastPrice": "1,217.00",
+          "prevClose": "1,182.20",
+          "change": "34.80",
+          "percentGain": "2.94"
+        },
+        {
+          "company": "Maruti Suzuki",
+          "high": "10,974.80",
+          "low": "10,770.00",
+          "lastPrice": "10,931.60",
+          "prevClose": "10,736.60",
+          "change": "195.00",
+          "percentGain": "1.82"
+        },
+        {
+          "company": "M&M",
+          "high": "2,984.00",
+          "low": "2,923.35",
+          "lastPrice": "2,975.95",
+          "prevClose": "2,928.70",
+          "change": "47.25",
+          "percentGain": "1.61"
+        },
+        {
+          "company": "SBI Life Insura",
+          "high": "1,410.90",
+          "low": "1,385.20",
+          "lastPrice": "1,408.00",
+          "prevClose": "1,387.00",
+          "change": "21.00",
+          "percentGain": "1.51"
+        },
+        {
+          "company": "Tata Motors",
+          "high": "747.80",
+          "low": "735.55",
+          "lastPrice": "746.80",
+          "prevClose": "736.10",
+          "change": "10.70",
+          "percentGain": "1.45"
+        }
+      ]
     }
   ],
   "losers": [
@@ -1113,6 +1163,56 @@
           "lastPrice": "3,339.80",
           "prevClose": "3,353.40",
           "change": "-13.60",
+          "percentGain": "-0.41"
+        }
+      ]
+    },
+    {
+      "time": "8:19:47 AM",
+      "data": [
+        {
+          "company": "Grasim",
+          "high": "2,518.25",
+          "low": "2,475.00",
+          "lastPrice": "2,484.85",
+          "prevClose": "2,501.85",
+          "change": "-17.00",
+          "percentGain": "-0.68"
+        },
+        {
+          "company": "Asian Paints",
+          "high": "2,287.45",
+          "low": "2,258.45",
+          "lastPrice": "2,269.40",
+          "prevClose": "2,284.00",
+          "change": "-14.60",
+          "percentGain": "-0.64"
+        },
+        {
+          "company": "Titan Company",
+          "high": "3,371.85",
+          "low": "3,320.10",
+          "lastPrice": "3,335.25",
+          "prevClose": "3,353.40",
+          "change": "-18.15",
+          "percentGain": "-0.54"
+        },
+        {
+          "company": "Nestle",
+          "high": "2,176.00",
+          "low": "2,151.90",
+          "lastPrice": "2,157.30",
+          "prevClose": "2,166.70",
+          "change": "-9.40",
+          "percentGain": "-0.43"
+        },
+        {
+          "company": "HDFC Bank",
+          "high": "1,812.00",
+          "low": "1,780.75",
+          "lastPrice": "1,790.80",
+          "prevClose": "1,798.10",
+          "change": "-7.30",
           "percentGain": "-0.41"
         }
       ]
