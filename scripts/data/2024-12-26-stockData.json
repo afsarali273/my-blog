@@ -299,6 +299,56 @@
           "percentGain": "1.04"
         }
       ]
+    },
+    {
+      "time": "5:50:11 AM",
+      "data": [
+        {
+          "company": "Adani Ports",
+          "high": "1,206.95",
+          "low": "1,182.55",
+          "lastPrice": "1,205.55",
+          "prevClose": "1,182.20",
+          "change": "23.35",
+          "percentGain": "1.98"
+        },
+        {
+          "company": "Maruti Suzuki",
+          "high": "10,963.05",
+          "low": "10,770.00",
+          "lastPrice": "10,941.00",
+          "prevClose": "10,736.60",
+          "change": "204.40",
+          "percentGain": "1.90"
+        },
+        {
+          "company": "SBI Life Insura",
+          "high": "1,410.90",
+          "low": "1,385.20",
+          "lastPrice": "1,409.40",
+          "prevClose": "1,387.00",
+          "change": "22.40",
+          "percentGain": "1.61"
+        },
+        {
+          "company": "M&M",
+          "high": "2,972.75",
+          "low": "2,923.35",
+          "lastPrice": "2,966.45",
+          "prevClose": "2,928.70",
+          "change": "37.75",
+          "percentGain": "1.29"
+        },
+        {
+          "company": "Coal India",
+          "high": "389.50",
+          "low": "385.05",
+          "lastPrice": "388.85",
+          "prevClose": "384.50",
+          "change": "4.35",
+          "percentGain": "1.13"
+        }
+      ]
     }
   ],
   "losers": [
@@ -590,6 +640,56 @@
           "prevClose": "140.38",
           "change": "-0.52",
           "percentGain": "-0.37"
+        }
+      ]
+    },
+    {
+      "time": "5:50:11 AM",
+      "data": [
+        {
+          "company": "Trent",
+          "high": "7,047.95",
+          "low": "6,948.05",
+          "lastPrice": "6,962.90",
+          "prevClose": "7,007.15",
+          "change": "-44.25",
+          "percentGain": "-0.63"
+        },
+        {
+          "company": "TCS",
+          "high": "4,199.95",
+          "low": "4,146.00",
+          "lastPrice": "4,155.95",
+          "prevClose": "4,179.50",
+          "change": "-23.55",
+          "percentGain": "-0.56"
+        },
+        {
+          "company": "Asian Paints",
+          "high": "2,287.45",
+          "low": "2,261.05",
+          "lastPrice": "2,271.75",
+          "prevClose": "2,284.00",
+          "change": "-12.25",
+          "percentGain": "-0.54"
+        },
+        {
+          "company": "ICICI Bank",
+          "high": "1,312.75",
+          "low": "1,289.20",
+          "lastPrice": "1,292.10",
+          "prevClose": "1,297.25",
+          "change": "-5.15",
+          "percentGain": "-0.40"
+        },
+        {
+          "company": "Grasim",
+          "high": "2,518.25",
+          "low": "2,491.75",
+          "lastPrice": "2,493.40",
+          "prevClose": "2,501.85",
+          "change": "-8.45",
+          "percentGain": "-0.34"
         }
       ]
     }
