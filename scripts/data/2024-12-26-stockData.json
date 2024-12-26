@@ -511,6 +511,56 @@
           "percentGain": "1.11"
         }
       ]
+    },
+    {
+      "time": "7:49:49 AM",
+      "data": [
+        {
+          "company": "Adani Ports",
+          "high": "1,206.95",
+          "low": "1,182.55",
+          "lastPrice": "1,203.85",
+          "prevClose": "1,182.20",
+          "change": "21.65",
+          "percentGain": "1.83"
+        },
+        {
+          "company": "M&M",
+          "high": "2,984.00",
+          "low": "2,923.35",
+          "lastPrice": "2,975.40",
+          "prevClose": "2,928.70",
+          "change": "46.70",
+          "percentGain": "1.59"
+        },
+        {
+          "company": "Maruti Suzuki",
+          "high": "10,974.80",
+          "low": "10,770.00",
+          "lastPrice": "10,905.00",
+          "prevClose": "10,736.60",
+          "change": "168.40",
+          "percentGain": "1.57"
+        },
+        {
+          "company": "SBI Life Insura",
+          "high": "1,410.90",
+          "low": "1,385.20",
+          "lastPrice": "1,407.20",
+          "prevClose": "1,387.00",
+          "change": "20.20",
+          "percentGain": "1.46"
+        },
+        {
+          "company": "Tata Motors",
+          "high": "745.75",
+          "low": "735.55",
+          "lastPrice": "745.35",
+          "prevClose": "736.10",
+          "change": "9.25",
+          "percentGain": "1.26"
+        }
+      ]
     }
   ],
   "losers": [
@@ -1014,6 +1064,56 @@
           "prevClose": "4,179.50",
           "change": "-17.55",
           "percentGain": "-0.42"
+        }
+      ]
+    },
+    {
+      "time": "7:49:49 AM",
+      "data": [
+        {
+          "company": "Asian Paints",
+          "high": "2,287.45",
+          "low": "2,261.05",
+          "lastPrice": "2,265.65",
+          "prevClose": "2,284.00",
+          "change": "-18.35",
+          "percentGain": "-0.80"
+        },
+        {
+          "company": "Grasim",
+          "high": "2,518.25",
+          "low": "2,481.85",
+          "lastPrice": "2,484.35",
+          "prevClose": "2,501.85",
+          "change": "-17.50",
+          "percentGain": "-0.70"
+        },
+        {
+          "company": "TATA Cons. Prod",
+          "high": "911.35",
+          "low": "901.50",
+          "lastPrice": "902.80",
+          "prevClose": "907.30",
+          "change": "-4.50",
+          "percentGain": "-0.50"
+        },
+        {
+          "company": "HDFC Bank",
+          "high": "1,812.00",
+          "low": "1,787.75",
+          "lastPrice": "1,789.60",
+          "prevClose": "1,798.10",
+          "change": "-8.50",
+          "percentGain": "-0.47"
+        },
+        {
+          "company": "Titan Company",
+          "high": "3,371.85",
+          "low": "3,337.65",
+          "lastPrice": "3,339.80",
+          "prevClose": "3,353.40",
+          "change": "-13.60",
+          "percentGain": "-0.41"
         }
       ]
     }
