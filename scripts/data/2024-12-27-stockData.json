@@ -149,6 +149,56 @@
           "percentGain": "1.99"
         }
       ]
+    },
+    {
+      "time": "4:49:54 AM",
+      "data": [
+        {
+          "company": "Bajaj Auto",
+          "high": "9,170.00",
+          "low": "8,896.25",
+          "lastPrice": "9,165.30",
+          "prevClose": "8,878.50",
+          "change": "286.80",
+          "percentGain": "3.23"
+        },
+        {
+          "company": "Tata Motors",
+          "high": "765.00",
+          "low": "745.70",
+          "lastPrice": "763.40",
+          "prevClose": "740.80",
+          "change": "22.60",
+          "percentGain": "3.05"
+        },
+        {
+          "company": "IndusInd Bank",
+          "high": "961.90",
+          "low": "933.05",
+          "lastPrice": "959.30",
+          "prevClose": "931.95",
+          "change": "27.35",
+          "percentGain": "2.93"
+        },
+        {
+          "company": "Eicher Motors",
+          "high": "4,934.65",
+          "low": "4,789.55",
+          "lastPrice": "4,922.35",
+          "prevClose": "4,801.35",
+          "change": "121.00",
+          "percentGain": "2.52"
+        },
+        {
+          "company": "M&M",
+          "high": "3,057.00",
+          "low": "2,978.05",
+          "lastPrice": "3,049.00",
+          "prevClose": "2,975.65",
+          "change": "73.35",
+          "percentGain": "2.47"
+        }
+      ]
     }
   ],
   "losers": [
@@ -299,6 +349,56 @@
           "prevClose": "3,629.50",
           "change": "-3.30",
           "percentGain": "-0.09"
+        }
+      ]
+    },
+    {
+      "time": "4:49:54 AM",
+      "data": [
+        {
+          "company": "Power Grid Corp",
+          "high": "312.30",
+          "low": "309.10",
+          "lastPrice": "309.45",
+          "prevClose": "310.30",
+          "change": "-0.85",
+          "percentGain": "-0.27"
+        },
+        {
+          "company": "TCS",
+          "high": "4,179.90",
+          "low": "4,149.05",
+          "lastPrice": "4,162.00",
+          "prevClose": "4,169.10",
+          "change": "-7.10",
+          "percentGain": "-0.17"
+        },
+        {
+          "company": "Larsen",
+          "high": "3,643.65",
+          "low": "3,611.00",
+          "lastPrice": "3,625.15",
+          "prevClose": "3,629.50",
+          "change": "-4.35",
+          "percentGain": "-0.12"
+        },
+        {
+          "company": "HCL Tech",
+          "high": "1,901.30",
+          "low": "1,882.70",
+          "lastPrice": "1,898.95",
+          "prevClose": "1,900.75",
+          "change": "-1.80",
+          "percentGain": "-0.09"
+        },
+        {
+          "company": "Shriram Finance",
+          "high": "2,939.85",
+          "low": "2,920.50",
+          "lastPrice": "2,926.75",
+          "prevClose": "2,926.90",
+          "change": "-0.15",
+          "percentGain": "-0.01"
         }
       ]
     }
