@@ -715,6 +715,56 @@
           "percentGain": "1.79"
         }
       ]
+    },
+    {
+      "time": "9:36:26 AM",
+      "data": [
+        {
+          "company": "Dr Reddys Labs",
+          "high": "1,398.25",
+          "low": "1,345.50",
+          "lastPrice": "1,390.80",
+          "prevClose": "1,355.15",
+          "change": "35.65",
+          "percentGain": "2.63"
+        },
+        {
+          "company": "M&M",
+          "high": "3,064.00",
+          "low": "2,978.05",
+          "lastPrice": "3,049.10",
+          "prevClose": "2,975.65",
+          "change": "73.45",
+          "percentGain": "2.47"
+        },
+        {
+          "company": "IndusInd Bank",
+          "high": "971.10",
+          "low": "933.05",
+          "lastPrice": "953.05",
+          "prevClose": "931.95",
+          "change": "21.10",
+          "percentGain": "2.26"
+        },
+        {
+          "company": "Eicher Motors",
+          "high": "4,954.95",
+          "low": "4,789.55",
+          "lastPrice": "4,887.45",
+          "prevClose": "4,801.35",
+          "change": "86.10",
+          "percentGain": "1.79"
+        },
+        {
+          "company": "Bajaj Finance",
+          "high": "6,976.70",
+          "low": "6,830.40",
+          "lastPrice": "6,906.55",
+          "prevClose": "6,815.75",
+          "change": "90.80",
+          "percentGain": "1.33"
+        }
+      ]
     }
   ],
   "losers": [
@@ -1431,6 +1481,56 @@
           "prevClose": "140.36",
           "change": "-1.11",
           "percentGain": "-0.79"
+        }
+      ]
+    },
+    {
+      "time": "9:36:26 AM",
+      "data": [
+        {
+          "company": "Hindalco",
+          "high": "632.85",
+          "low": "615.70",
+          "lastPrice": "618.60",
+          "prevClose": "628.75",
+          "change": "-10.15",
+          "percentGain": "-1.61"
+        },
+        {
+          "company": "SBI",
+          "high": "818.30",
+          "low": "797.20",
+          "lastPrice": "800.15",
+          "prevClose": "812.45",
+          "change": "-12.30",
+          "percentGain": "-1.51"
+        },
+        {
+          "company": "Coal India",
+          "high": "388.45",
+          "low": "379.75",
+          "lastPrice": "380.80",
+          "prevClose": "386.60",
+          "change": "-5.80",
+          "percentGain": "-1.50"
+        },
+        {
+          "company": "ONGC",
+          "high": "241.00",
+          "low": "236.90",
+          "lastPrice": "237.00",
+          "prevClose": "240.25",
+          "change": "-3.25",
+          "percentGain": "-1.35"
+        },
+        {
+          "company": "Bharat Elec",
+          "high": "296.15",
+          "low": "291.35",
+          "lastPrice": "291.75",
+          "prevClose": "295.20",
+          "change": "-3.45",
+          "percentGain": "-1.17"
         }
       ]
     }
