@@ -457,6 +457,56 @@
     {
       "time": "7:14:51 AM",
       "data": []
+    },
+    {
+      "time": "7:29:11 AM",
+      "data": [
+        {
+          "company": "IndusInd Bank",
+          "high": "971.10",
+          "low": "933.05",
+          "lastPrice": "957.65",
+          "prevClose": "931.95",
+          "change": "25.70",
+          "percentGain": "2.76"
+        },
+        {
+          "company": "M&M",
+          "high": "3,060.00",
+          "low": "2,978.05",
+          "lastPrice": "3,053.40",
+          "prevClose": "2,975.65",
+          "change": "77.75",
+          "percentGain": "2.61"
+        },
+        {
+          "company": "Dr Reddys Labs",
+          "high": "1,390.90",
+          "low": "1,345.50",
+          "lastPrice": "1,389.85",
+          "prevClose": "1,355.15",
+          "change": "34.70",
+          "percentGain": "2.56"
+        },
+        {
+          "company": "Tata Motors",
+          "high": "766.85",
+          "low": "745.70",
+          "lastPrice": "754.95",
+          "prevClose": "740.80",
+          "change": "14.15",
+          "percentGain": "1.91"
+        },
+        {
+          "company": "Wipro",
+          "high": "310.90",
+          "low": "304.70",
+          "lastPrice": "310.30",
+          "prevClose": "305.05",
+          "change": "5.25",
+          "percentGain": "1.72"
+        }
+      ]
     }
   ],
   "losers": [
@@ -917,6 +967,56 @@
     {
       "time": "7:14:51 AM",
       "data": []
+    },
+    {
+      "time": "7:29:11 AM",
+      "data": [
+        {
+          "company": "Bharat Elec",
+          "high": "296.15",
+          "low": "291.60",
+          "lastPrice": "292.00",
+          "prevClose": "295.20",
+          "change": "-3.20",
+          "percentGain": "-1.08"
+        },
+        {
+          "company": "ONGC",
+          "high": "241.00",
+          "low": "237.60",
+          "lastPrice": "237.70",
+          "prevClose": "240.25",
+          "change": "-2.55",
+          "percentGain": "-1.06"
+        },
+        {
+          "company": "Hindalco",
+          "high": "632.85",
+          "low": "622.05",
+          "lastPrice": "622.30",
+          "prevClose": "628.75",
+          "change": "-6.45",
+          "percentGain": "-1.03"
+        },
+        {
+          "company": "Coal India",
+          "high": "388.45",
+          "low": "382.75",
+          "lastPrice": "382.80",
+          "prevClose": "386.60",
+          "change": "-3.80",
+          "percentGain": "-0.98"
+        },
+        {
+          "company": "Hero Motocorp",
+          "high": "4,348.65",
+          "low": "4,237.20",
+          "lastPrice": "4,241.30",
+          "prevClose": "4,275.00",
+          "change": "-33.70",
+          "percentGain": "-0.79"
+        }
+      ]
     }
   ]
 }
