@@ -199,6 +199,56 @@
           "percentGain": "2.47"
         }
       ]
+    },
+    {
+      "time": "5:14:42 AM",
+      "data": [
+        {
+          "company": "IndusInd Bank",
+          "high": "968.95",
+          "low": "933.05",
+          "lastPrice": "964.95",
+          "prevClose": "931.95",
+          "change": "33.00",
+          "percentGain": "3.54"
+        },
+        {
+          "company": "Bajaj Auto",
+          "high": "9,179.15",
+          "low": "8,896.25",
+          "lastPrice": "9,150.75",
+          "prevClose": "8,878.50",
+          "change": "272.25",
+          "percentGain": "3.07"
+        },
+        {
+          "company": "Eicher Motors",
+          "high": "4,954.95",
+          "low": "4,789.55",
+          "lastPrice": "4,937.95",
+          "prevClose": "4,801.35",
+          "change": "136.60",
+          "percentGain": "2.85"
+        },
+        {
+          "company": "Tata Motors",
+          "high": "766.85",
+          "low": "745.70",
+          "lastPrice": "761.30",
+          "prevClose": "740.80",
+          "change": "20.50",
+          "percentGain": "2.77"
+        },
+        {
+          "company": "M&M",
+          "high": "3,060.00",
+          "low": "2,978.05",
+          "lastPrice": "3,054.00",
+          "prevClose": "2,975.65",
+          "change": "78.35",
+          "percentGain": "2.63"
+        }
+      ]
     }
   ],
   "losers": [
@@ -399,6 +449,56 @@
           "prevClose": "2,926.90",
           "change": "-0.15",
           "percentGain": "-0.01"
+        }
+      ]
+    },
+    {
+      "time": "5:14:42 AM",
+      "data": [
+        {
+          "company": "Bharat Elec",
+          "high": "296.15",
+          "low": "293.80",
+          "lastPrice": "293.85",
+          "prevClose": "295.20",
+          "change": "-1.35",
+          "percentGain": "-0.46"
+        },
+        {
+          "company": "TCS",
+          "high": "4,179.90",
+          "low": "4,149.05",
+          "lastPrice": "4,157.00",
+          "prevClose": "4,169.10",
+          "change": "-12.10",
+          "percentGain": "-0.29"
+        },
+        {
+          "company": "Power Grid Corp",
+          "high": "312.30",
+          "low": "309.00",
+          "lastPrice": "309.70",
+          "prevClose": "310.30",
+          "change": "-0.60",
+          "percentGain": "-0.19"
+        },
+        {
+          "company": "HDFC Life",
+          "high": "629.40",
+          "low": "625.00",
+          "lastPrice": "625.35",
+          "prevClose": "626.40",
+          "change": "-1.05",
+          "percentGain": "-0.17"
+        },
+        {
+          "company": "HCL Tech",
+          "high": "1,901.85",
+          "low": "1,882.70",
+          "lastPrice": "1,898.10",
+          "prevClose": "1,900.75",
+          "change": "-2.65",
+          "percentGain": "-0.14"
         }
       ]
     }
