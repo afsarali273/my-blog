@@ -49,6 +49,56 @@
           "percentGain": "0.44"
         }
       ]
+    },
+    {
+      "time": "4:18:51 AM",
+      "data": [
+        {
+          "company": "Adani Enterpris",
+          "high": "2,493.30",
+          "low": "2,421.95",
+          "lastPrice": "2,479.60",
+          "prevClose": "2,409.95",
+          "change": "69.65",
+          "percentGain": "2.89"
+        },
+        {
+          "company": "Adani Ports",
+          "high": "1,257.65",
+          "low": "1,233.00",
+          "lastPrice": "1,252.50",
+          "prevClose": "1,230.70",
+          "change": "21.80",
+          "percentGain": "1.77"
+        },
+        {
+          "company": "Shriram Finance",
+          "high": "2,918.65",
+          "low": "2,895.30",
+          "lastPrice": "2,915.70",
+          "prevClose": "2,898.90",
+          "change": "16.80",
+          "percentGain": "0.58"
+        },
+        {
+          "company": "UltraTechCement",
+          "high": "11,470.85",
+          "low": "11,391.00",
+          "lastPrice": "11,461.70",
+          "prevClose": "11,406.55",
+          "change": "55.15",
+          "percentGain": "0.48"
+        },
+        {
+          "company": "Apollo Hospital",
+          "high": "7,318.00",
+          "low": "7,220.05",
+          "lastPrice": "7,280.10",
+          "prevClose": "7,246.30",
+          "change": "33.80",
+          "percentGain": "0.47"
+        }
+      ]
     }
   ],
   "losers": [
@@ -99,6 +149,56 @@
           "prevClose": "1,506.60",
           "change": "-9.50",
           "percentGain": "-0.63"
+        }
+      ]
+    },
+    {
+      "time": "4:18:51 AM",
+      "data": [
+        {
+          "company": "Infosys",
+          "high": "1,916.00",
+          "low": "1,886.50",
+          "lastPrice": "1,886.55",
+          "prevClose": "1,916.75",
+          "change": "-30.20",
+          "percentGain": "-1.58"
+        },
+        {
+          "company": "Wipro",
+          "high": "309.40",
+          "low": "304.70",
+          "lastPrice": "304.70",
+          "prevClose": "309.10",
+          "change": "-4.40",
+          "percentGain": "-1.42"
+        },
+        {
+          "company": "HCL Tech",
+          "high": "1,892.00",
+          "low": "1,865.65",
+          "lastPrice": "1,868.70",
+          "prevClose": "1,892.00",
+          "change": "-23.30",
+          "percentGain": "-1.23"
+        },
+        {
+          "company": "Trent",
+          "high": "7,145.05",
+          "low": "7,001.15",
+          "lastPrice": "7,031.70",
+          "prevClose": "7,118.30",
+          "change": "-86.60",
+          "percentGain": "-1.22"
+        },
+        {
+          "company": "Tech Mahindra",
+          "high": "1,719.75",
+          "low": "1,693.80",
+          "lastPrice": "1,695.05",
+          "prevClose": "1,711.65",
+          "change": "-16.60",
+          "percentGain": "-0.97"
         }
       ]
     }
