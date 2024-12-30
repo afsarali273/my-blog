@@ -453,6 +453,56 @@
           "percentGain": "1.16"
         }
       ]
+    },
+    {
+      "time": "7:16:30 AM",
+      "data": [
+        {
+          "company": "Adani Enterpris",
+          "high": "2,576.70",
+          "low": "2,421.95",
+          "lastPrice": "2,564.10",
+          "prevClose": "2,409.95",
+          "change": "154.15",
+          "percentGain": "6.40"
+        },
+        {
+          "company": "Shriram Finance",
+          "high": "2,968.85",
+          "low": "2,895.30",
+          "lastPrice": "2,938.00",
+          "prevClose": "2,898.90",
+          "change": "39.10",
+          "percentGain": "1.35"
+        },
+        {
+          "company": "Cipla",
+          "high": "1,525.90",
+          "low": "1,495.10",
+          "lastPrice": "1,525.90",
+          "prevClose": "1,506.60",
+          "change": "19.30",
+          "percentGain": "1.28"
+        },
+        {
+          "company": "Apollo Hospital",
+          "high": "7,345.00",
+          "low": "7,220.05",
+          "lastPrice": "7,322.50",
+          "prevClose": "7,246.30",
+          "change": "76.20",
+          "percentGain": "1.05"
+        },
+        {
+          "company": "Sun Pharma",
+          "high": "1,884.00",
+          "low": "1,855.00",
+          "lastPrice": "1,879.40",
+          "prevClose": "1,861.25",
+          "change": "18.15",
+          "percentGain": "0.98"
+        }
+      ]
     }
   ],
   "losers": [
@@ -907,6 +957,56 @@
           "prevClose": "1,389.45",
           "change": "-12.50",
           "percentGain": "-0.90"
+        }
+      ]
+    },
+    {
+      "time": "7:16:30 AM",
+      "data": [
+        {
+          "company": "Wipro",
+          "high": "309.40",
+          "low": "303.30",
+          "lastPrice": "304.50",
+          "prevClose": "309.10",
+          "change": "-4.60",
+          "percentGain": "-1.49"
+        },
+        {
+          "company": "Hindalco",
+          "high": "620.30",
+          "low": "610.00",
+          "lastPrice": "610.75",
+          "prevClose": "617.40",
+          "change": "-6.65",
+          "percentGain": "-1.08"
+        },
+        {
+          "company": "Hero Motocorp",
+          "high": "4,274.00",
+          "low": "4,176.15",
+          "lastPrice": "4,194.00",
+          "prevClose": "4,237.95",
+          "change": "-43.95",
+          "percentGain": "-1.04"
+        },
+        {
+          "company": "Bharat Elec",
+          "high": "292.50",
+          "low": "288.00",
+          "lastPrice": "289.40",
+          "prevClose": "292.05",
+          "change": "-2.65",
+          "percentGain": "-0.91"
+        },
+        {
+          "company": "Bajaj Auto",
+          "high": "8,962.45",
+          "low": "8,812.30",
+          "lastPrice": "8,850.00",
+          "prevClose": "8,928.30",
+          "change": "-78.30",
+          "percentGain": "-0.88"
         }
       ]
     }
