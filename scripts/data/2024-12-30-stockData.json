@@ -603,6 +603,56 @@
           "percentGain": "0.92"
         }
       ]
+    },
+    {
+      "time": "8:20:30 AM",
+      "data": [
+        {
+          "company": "Adani Enterpris",
+          "high": "2,576.90",
+          "low": "2,421.95",
+          "lastPrice": "2,574.00",
+          "prevClose": "2,409.95",
+          "change": "164.05",
+          "percentGain": "6.81"
+        },
+        {
+          "company": "Sun Pharma",
+          "high": "1,884.00",
+          "low": "1,855.00",
+          "lastPrice": "1,880.25",
+          "prevClose": "1,861.25",
+          "change": "19.00",
+          "percentGain": "1.02"
+        },
+        {
+          "company": "Cipla",
+          "high": "1,526.70",
+          "low": "1,495.10",
+          "lastPrice": "1,520.55",
+          "prevClose": "1,506.60",
+          "change": "13.95",
+          "percentGain": "0.93"
+        },
+        {
+          "company": "Shriram Finance",
+          "high": "2,968.85",
+          "low": "2,895.30",
+          "lastPrice": "2,923.05",
+          "prevClose": "2,898.90",
+          "change": "24.15",
+          "percentGain": "0.83"
+        },
+        {
+          "company": "HCL Tech",
+          "high": "1,912.00",
+          "low": "1,865.65",
+          "lastPrice": "1,905.50",
+          "prevClose": "1,892.00",
+          "change": "13.50",
+          "percentGain": "0.71"
+        }
+      ]
     }
   ],
   "losers": [
@@ -1207,6 +1257,56 @@
           "prevClose": "750.50",
           "change": "-7.30",
           "percentGain": "-0.97"
+        }
+      ]
+    },
+    {
+      "time": "8:20:30 AM",
+      "data": [
+        {
+          "company": "Hindalco",
+          "high": "620.30",
+          "low": "600.65",
+          "lastPrice": "601.40",
+          "prevClose": "617.40",
+          "change": "-16.00",
+          "percentGain": "-2.59"
+        },
+        {
+          "company": "Wipro",
+          "high": "309.40",
+          "low": "303.00",
+          "lastPrice": "303.75",
+          "prevClose": "309.10",
+          "change": "-5.35",
+          "percentGain": "-1.73"
+        },
+        {
+          "company": "Tata Motors",
+          "high": "754.90",
+          "low": "738.50",
+          "lastPrice": "738.80",
+          "prevClose": "750.50",
+          "change": "-11.70",
+          "percentGain": "-1.56"
+        },
+        {
+          "company": "Hero Motocorp",
+          "high": "4,274.00",
+          "low": "4,168.25",
+          "lastPrice": "4,174.85",
+          "prevClose": "4,237.95",
+          "change": "-63.10",
+          "percentGain": "-1.49"
+        },
+        {
+          "company": "JSW Steel",
+          "high": "916.70",
+          "low": "900.20",
+          "lastPrice": "901.25",
+          "prevClose": "913.30",
+          "change": "-12.05",
+          "percentGain": "-1.32"
         }
       ]
     }
