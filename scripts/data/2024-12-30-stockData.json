@@ -303,6 +303,56 @@
           "percentGain": "0.93"
         }
       ]
+    },
+    {
+      "time": "6:22:22 AM",
+      "data": [
+        {
+          "company": "Adani Enterpris",
+          "high": "2,536.70",
+          "low": "2,421.95",
+          "lastPrice": "2,518.95",
+          "prevClose": "2,409.95",
+          "change": "109.00",
+          "percentGain": "4.52"
+        },
+        {
+          "company": "Shriram Finance",
+          "high": "2,968.00",
+          "low": "2,895.30",
+          "lastPrice": "2,966.70",
+          "prevClose": "2,898.90",
+          "change": "67.80",
+          "percentGain": "2.34"
+        },
+        {
+          "company": "IndusInd Bank",
+          "high": "972.85",
+          "low": "948.85",
+          "lastPrice": "971.55",
+          "prevClose": "953.40",
+          "change": "18.15",
+          "percentGain": "1.90"
+        },
+        {
+          "company": "Axis Bank",
+          "high": "1,096.00",
+          "low": "1,074.10",
+          "lastPrice": "1,095.50",
+          "prevClose": "1,077.45",
+          "change": "18.05",
+          "percentGain": "1.68"
+        },
+        {
+          "company": "ICICI Bank",
+          "high": "1,324.90",
+          "low": "1,301.75",
+          "lastPrice": "1,324.00",
+          "prevClose": "1,307.55",
+          "change": "16.45",
+          "percentGain": "1.26"
+        }
+      ]
     }
   ],
   "losers": [
@@ -607,6 +657,56 @@
           "prevClose": "4,237.95",
           "change": "-38.15",
           "percentGain": "-0.90"
+        }
+      ]
+    },
+    {
+      "time": "6:22:22 AM",
+      "data": [
+        {
+          "company": "Wipro",
+          "high": "309.40",
+          "low": "304.50",
+          "lastPrice": "305.35",
+          "prevClose": "309.10",
+          "change": "-3.75",
+          "percentGain": "-1.21"
+        },
+        {
+          "company": "Dr Reddys Labs",
+          "high": "1,392.00",
+          "low": "1,372.70",
+          "lastPrice": "1,373.10",
+          "prevClose": "1,389.45",
+          "change": "-16.35",
+          "percentGain": "-1.18"
+        },
+        {
+          "company": "Trent",
+          "high": "7,145.05",
+          "low": "6,980.85",
+          "lastPrice": "7,050.00",
+          "prevClose": "7,118.30",
+          "change": "-68.30",
+          "percentGain": "-0.96"
+        },
+        {
+          "company": "Grasim",
+          "high": "2,490.00",
+          "low": "2,450.20",
+          "lastPrice": "2,459.00",
+          "prevClose": "2,480.30",
+          "change": "-21.30",
+          "percentGain": "-0.86"
+        },
+        {
+          "company": "Hero Motocorp",
+          "high": "4,274.00",
+          "low": "4,196.60",
+          "lastPrice": "4,206.60",
+          "prevClose": "4,237.95",
+          "change": "-31.35",
+          "percentGain": "-0.74"
         }
       ]
     }
