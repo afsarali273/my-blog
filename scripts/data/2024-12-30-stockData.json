@@ -203,6 +203,56 @@
     {
       "time": "5:15:31 AM",
       "data": []
+    },
+    {
+      "time": "5:38:29 AM",
+      "data": [
+        {
+          "company": "Adani Enterpris",
+          "high": "2,536.70",
+          "low": "2,421.95",
+          "lastPrice": "2,529.00",
+          "prevClose": "2,409.95",
+          "change": "119.05",
+          "percentGain": "4.94"
+        },
+        {
+          "company": "Apollo Hospital",
+          "high": "7,345.00",
+          "low": "7,220.05",
+          "lastPrice": "7,327.70",
+          "prevClose": "7,246.30",
+          "change": "81.40",
+          "percentGain": "1.12"
+        },
+        {
+          "company": "Shriram Finance",
+          "high": "2,932.30",
+          "low": "2,895.30",
+          "lastPrice": "2,928.45",
+          "prevClose": "2,898.90",
+          "change": "29.55",
+          "percentGain": "1.02"
+        },
+        {
+          "company": "Adani Ports",
+          "high": "1,258.80",
+          "low": "1,233.00",
+          "lastPrice": "1,242.70",
+          "prevClose": "1,230.70",
+          "change": "12.00",
+          "percentGain": "0.98"
+        },
+        {
+          "company": "Sun Pharma",
+          "high": "1,882.05",
+          "low": "1,855.00",
+          "lastPrice": "1,878.95",
+          "prevClose": "1,861.25",
+          "change": "17.70",
+          "percentGain": "0.95"
+        }
+      ]
     }
   ],
   "losers": [
@@ -409,6 +459,56 @@
     {
       "time": "5:15:31 AM",
       "data": []
+    },
+    {
+      "time": "5:38:29 AM",
+      "data": [
+        {
+          "company": "Trent",
+          "high": "7,145.05",
+          "low": "6,980.85",
+          "lastPrice": "6,999.10",
+          "prevClose": "7,118.30",
+          "change": "-119.20",
+          "percentGain": "-1.67"
+        },
+        {
+          "company": "Wipro",
+          "high": "309.40",
+          "low": "304.50",
+          "lastPrice": "305.00",
+          "prevClose": "309.10",
+          "change": "-4.10",
+          "percentGain": "-1.33"
+        },
+        {
+          "company": "Infosys",
+          "high": "1,916.00",
+          "low": "1,886.50",
+          "lastPrice": "1,894.10",
+          "prevClose": "1,916.75",
+          "change": "-22.65",
+          "percentGain": "-1.18"
+        },
+        {
+          "company": "Hero Motocorp",
+          "high": "4,274.00",
+          "low": "4,196.60",
+          "lastPrice": "4,199.00",
+          "prevClose": "4,237.95",
+          "change": "-38.95",
+          "percentGain": "-0.92"
+        },
+        {
+          "company": "Bajaj Auto",
+          "high": "8,962.45",
+          "low": "8,812.30",
+          "lastPrice": "8,853.00",
+          "prevClose": "8,928.30",
+          "change": "-75.30",
+          "percentGain": "-0.84"
+        }
+      ]
     }
   ]
 }
