@@ -657,6 +657,56 @@
     {
       "time": "8:41:37 AM",
       "data": []
+    },
+    {
+      "time": "8:51:24 AM",
+      "data": [
+        {
+          "company": "Adani Enterpris",
+          "high": "2,579.90",
+          "low": "2,421.95",
+          "lastPrice": "2,574.15",
+          "prevClose": "2,409.95",
+          "change": "164.20",
+          "percentGain": "6.81"
+        },
+        {
+          "company": "Sun Pharma",
+          "high": "1,884.75",
+          "low": "1,855.00",
+          "lastPrice": "1,884.15",
+          "prevClose": "1,861.25",
+          "change": "22.90",
+          "percentGain": "1.23"
+        },
+        {
+          "company": "HCL Tech",
+          "high": "1,912.00",
+          "low": "1,865.65",
+          "lastPrice": "1,911.90",
+          "prevClose": "1,892.00",
+          "change": "19.90",
+          "percentGain": "1.05"
+        },
+        {
+          "company": "Cipla",
+          "high": "1,526.70",
+          "low": "1,495.10",
+          "lastPrice": "1,520.00",
+          "prevClose": "1,506.60",
+          "change": "13.40",
+          "percentGain": "0.89"
+        },
+        {
+          "company": "Apollo Hospital",
+          "high": "7,345.00",
+          "low": "7,220.05",
+          "lastPrice": "7,292.60",
+          "prevClose": "7,246.30",
+          "change": "46.30",
+          "percentGain": "0.64"
+        }
+      ]
     }
   ],
   "losers": [
@@ -1317,6 +1367,56 @@
     {
       "time": "8:41:37 AM",
       "data": []
+    },
+    {
+      "time": "8:51:24 AM",
+      "data": [
+        {
+          "company": "Hindalco",
+          "high": "620.30",
+          "low": "600.65",
+          "lastPrice": "602.20",
+          "prevClose": "617.40",
+          "change": "-15.20",
+          "percentGain": "-2.46"
+        },
+        {
+          "company": "Wipro",
+          "high": "309.40",
+          "low": "303.00",
+          "lastPrice": "303.65",
+          "prevClose": "309.10",
+          "change": "-5.45",
+          "percentGain": "-1.76"
+        },
+        {
+          "company": "Tata Motors",
+          "high": "754.90",
+          "low": "738.00",
+          "lastPrice": "738.55",
+          "prevClose": "750.50",
+          "change": "-11.95",
+          "percentGain": "-1.59"
+        },
+        {
+          "company": "Bharat Elec",
+          "high": "292.50",
+          "low": "287.35",
+          "lastPrice": "287.80",
+          "prevClose": "292.05",
+          "change": "-4.25",
+          "percentGain": "-1.46"
+        },
+        {
+          "company": "Trent",
+          "high": "7,145.05",
+          "low": "6,980.85",
+          "lastPrice": "7,016.60",
+          "prevClose": "7,118.30",
+          "change": "-101.70",
+          "percentGain": "-1.43"
+        }
+      ]
     }
   ]
 }
