@@ -149,6 +149,56 @@
           "percentGain": "0.44"
         }
       ]
+    },
+    {
+      "time": "4:49:50 AM",
+      "data": [
+        {
+          "company": "Adani Enterpris",
+          "high": "2,506.00",
+          "low": "2,421.95",
+          "lastPrice": "2,495.25",
+          "prevClose": "2,409.95",
+          "change": "85.30",
+          "percentGain": "3.54"
+        },
+        {
+          "company": "Apollo Hospital",
+          "high": "7,322.05",
+          "low": "7,220.05",
+          "lastPrice": "7,317.95",
+          "prevClose": "7,246.30",
+          "change": "71.65",
+          "percentGain": "0.99"
+        },
+        {
+          "company": "Adani Ports",
+          "high": "1,258.80",
+          "low": "1,233.00",
+          "lastPrice": "1,240.80",
+          "prevClose": "1,230.70",
+          "change": "10.10",
+          "percentGain": "0.82"
+        },
+        {
+          "company": "Shriram Finance",
+          "high": "2,928.80",
+          "low": "2,895.30",
+          "lastPrice": "2,921.00",
+          "prevClose": "2,898.90",
+          "change": "22.10",
+          "percentGain": "0.76"
+        },
+        {
+          "company": "IndusInd Bank",
+          "high": "959.90",
+          "low": "948.85",
+          "lastPrice": "958.60",
+          "prevClose": "953.40",
+          "change": "5.20",
+          "percentGain": "0.55"
+        }
+      ]
     }
   ],
   "losers": [
@@ -299,6 +349,56 @@
           "prevClose": "10,941.05",
           "change": "-114.05",
           "percentGain": "-1.04"
+        }
+      ]
+    },
+    {
+      "time": "4:49:50 AM",
+      "data": [
+        {
+          "company": "Trent",
+          "high": "7,145.05",
+          "low": "6,990.00",
+          "lastPrice": "7,008.40",
+          "prevClose": "7,118.30",
+          "change": "-109.90",
+          "percentGain": "-1.54"
+        },
+        {
+          "company": "Bajaj Auto",
+          "high": "8,962.45",
+          "low": "8,812.30",
+          "lastPrice": "8,813.00",
+          "prevClose": "8,928.30",
+          "change": "-115.30",
+          "percentGain": "-1.29"
+        },
+        {
+          "company": "M&M",
+          "high": "3,039.55",
+          "low": "3,007.35",
+          "lastPrice": "3,016.00",
+          "prevClose": "3,049.45",
+          "change": "-33.45",
+          "percentGain": "-1.10"
+        },
+        {
+          "company": "Maruti Suzuki",
+          "high": "10,950.00",
+          "low": "10,815.00",
+          "lastPrice": "10,822.90",
+          "prevClose": "10,941.05",
+          "change": "-118.15",
+          "percentGain": "-1.08"
+        },
+        {
+          "company": "Wipro",
+          "high": "309.40",
+          "low": "304.65",
+          "lastPrice": "305.80",
+          "prevClose": "309.10",
+          "change": "-3.30",
+          "percentGain": "-1.07"
         }
       ]
     }
