@@ -707,6 +707,56 @@
           "percentGain": "0.64"
         }
       ]
+    },
+    {
+      "time": "9:16:38 AM",
+      "data": [
+        {
+          "company": "Adani Enterpris",
+          "high": "2,588.45",
+          "low": "2,421.95",
+          "lastPrice": "2,574.95",
+          "prevClose": "2,409.95",
+          "change": "165.00",
+          "percentGain": "6.85"
+        },
+        {
+          "company": "HCL Tech",
+          "high": "1,917.00",
+          "low": "1,865.65",
+          "lastPrice": "1,915.40",
+          "prevClose": "1,892.00",
+          "change": "23.40",
+          "percentGain": "1.24"
+        },
+        {
+          "company": "Sun Pharma",
+          "high": "1,885.00",
+          "low": "1,855.00",
+          "lastPrice": "1,883.30",
+          "prevClose": "1,861.25",
+          "change": "22.05",
+          "percentGain": "1.18"
+        },
+        {
+          "company": "Cipla",
+          "high": "1,526.70",
+          "low": "1,495.10",
+          "lastPrice": "1,520.45",
+          "prevClose": "1,506.60",
+          "change": "13.85",
+          "percentGain": "0.92"
+        },
+        {
+          "company": "Tech Mahindra",
+          "high": "1,725.85",
+          "low": "1,693.80",
+          "lastPrice": "1,724.35",
+          "prevClose": "1,711.65",
+          "change": "12.70",
+          "percentGain": "0.74"
+        }
+      ]
     }
   ],
   "losers": [
@@ -1415,6 +1465,56 @@
           "prevClose": "7,118.30",
           "change": "-101.70",
           "percentGain": "-1.43"
+        }
+      ]
+    },
+    {
+      "time": "9:16:38 AM",
+      "data": [
+        {
+          "company": "Hindalco",
+          "high": "620.30",
+          "low": "600.55",
+          "lastPrice": "602.40",
+          "prevClose": "617.40",
+          "change": "-15.00",
+          "percentGain": "-2.43"
+        },
+        {
+          "company": "Tata Motors",
+          "high": "754.90",
+          "low": "737.00",
+          "lastPrice": "738.70",
+          "prevClose": "750.50",
+          "change": "-11.80",
+          "percentGain": "-1.57"
+        },
+        {
+          "company": "Wipro",
+          "high": "309.40",
+          "low": "303.00",
+          "lastPrice": "304.45",
+          "prevClose": "309.10",
+          "change": "-4.65",
+          "percentGain": "-1.50"
+        },
+        {
+          "company": "Trent",
+          "high": "7,145.05",
+          "low": "6,980.85",
+          "lastPrice": "7,017.75",
+          "prevClose": "7,118.30",
+          "change": "-100.55",
+          "percentGain": "-1.41"
+        },
+        {
+          "company": "M&M",
+          "high": "3,044.60",
+          "low": "3,006.65",
+          "lastPrice": "3,012.95",
+          "prevClose": "3,049.45",
+          "change": "-36.50",
+          "percentGain": "-1.20"
         }
       ]
     }
