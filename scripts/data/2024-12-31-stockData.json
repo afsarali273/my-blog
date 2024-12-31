@@ -557,6 +557,56 @@
     {
       "time": "7:37:33 AM",
       "data": []
+    },
+    {
+      "time": "7:49:52 AM",
+      "data": [
+        {
+          "company": "Kotak Mahindra",
+          "high": "1,793.00",
+          "low": "1,735.05",
+          "lastPrice": "1,790.75",
+          "prevClose": "1,740.70",
+          "change": "50.05",
+          "percentGain": "2.88"
+        },
+        {
+          "company": "ONGC",
+          "high": "238.80",
+          "low": "232.35",
+          "lastPrice": "238.20",
+          "prevClose": "232.65",
+          "change": "5.55",
+          "percentGain": "2.39"
+        },
+        {
+          "company": "Bharat Elec",
+          "high": "292.00",
+          "low": "284.25",
+          "lastPrice": "291.30",
+          "prevClose": "284.90",
+          "change": "6.40",
+          "percentGain": "2.25"
+        },
+        {
+          "company": "SBI",
+          "high": "798.00",
+          "low": "786.00",
+          "lastPrice": "796.25",
+          "prevClose": "788.30",
+          "change": "7.95",
+          "percentGain": "1.01"
+        },
+        {
+          "company": "Dr Reddys Labs",
+          "high": "1,395.00",
+          "low": "1,366.55",
+          "lastPrice": "1,390.20",
+          "prevClose": "1,376.90",
+          "change": "13.30",
+          "percentGain": "0.97"
+        }
+      ]
     }
   ],
   "losers": [
@@ -1117,6 +1167,56 @@
     {
       "time": "7:37:33 AM",
       "data": []
+    },
+    {
+      "time": "7:49:52 AM",
+      "data": [
+        {
+          "company": "Adani Enterpris",
+          "high": "2,577.75",
+          "low": "2,507.45",
+          "lastPrice": "2,514.70",
+          "prevClose": "2,592.35",
+          "change": "-77.65",
+          "percentGain": "-3.00"
+        },
+        {
+          "company": "Tech Mahindra",
+          "high": "1,729.00",
+          "low": "1,682.45",
+          "lastPrice": "1,694.50",
+          "prevClose": "1,740.85",
+          "change": "-46.35",
+          "percentGain": "-2.66"
+        },
+        {
+          "company": "TCS",
+          "high": "4,139.95",
+          "low": "4,032.05",
+          "lastPrice": "4,067.75",
+          "prevClose": "4,158.80",
+          "change": "-91.05",
+          "percentGain": "-2.19"
+        },
+        {
+          "company": "Infosys",
+          "high": "1,897.00",
+          "low": "1,845.05",
+          "lastPrice": "1,871.80",
+          "prevClose": "1,906.00",
+          "change": "-34.20",
+          "percentGain": "-1.79"
+        },
+        {
+          "company": "Grasim",
+          "high": "2,442.65",
+          "low": "2,413.10",
+          "lastPrice": "2,415.80",
+          "prevClose": "2,443.50",
+          "change": "-27.70",
+          "percentGain": "-1.13"
+        }
+      ]
     }
   ]
 }
