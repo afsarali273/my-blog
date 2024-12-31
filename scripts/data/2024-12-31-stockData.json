@@ -149,6 +149,56 @@
           "percentGain": "0.27"
         }
       ]
+    },
+    {
+      "time": "4:50:00 AM",
+      "data": [
+        {
+          "company": "ONGC",
+          "high": "237.50",
+          "low": "232.35",
+          "lastPrice": "236.85",
+          "prevClose": "232.65",
+          "change": "4.20",
+          "percentGain": "1.81"
+        },
+        {
+          "company": "Kotak Mahindra",
+          "high": "1,771.90",
+          "low": "1,735.05",
+          "lastPrice": "1,770.85",
+          "prevClose": "1,740.70",
+          "change": "30.15",
+          "percentGain": "1.73"
+        },
+        {
+          "company": "Bharat Elec",
+          "high": "290.20",
+          "low": "284.25",
+          "lastPrice": "289.75",
+          "prevClose": "284.90",
+          "change": "4.85",
+          "percentGain": "1.70"
+        },
+        {
+          "company": "SBI",
+          "high": "796.00",
+          "low": "786.00",
+          "lastPrice": "794.75",
+          "prevClose": "788.30",
+          "change": "6.45",
+          "percentGain": "0.82"
+        },
+        {
+          "company": "Tata Motors",
+          "high": "738.35",
+          "low": "732.75",
+          "lastPrice": "738.05",
+          "prevClose": "733.65",
+          "change": "4.40",
+          "percentGain": "0.60"
+        }
+      ]
     }
   ],
   "losers": [
@@ -299,6 +349,56 @@
           "prevClose": "1,928.95",
           "change": "-32.90",
           "percentGain": "-1.71"
+        }
+      ]
+    },
+    {
+      "time": "4:50:00 AM",
+      "data": [
+        {
+          "company": "Infosys",
+          "high": "1,897.00",
+          "low": "1,845.05",
+          "lastPrice": "1,851.25",
+          "prevClose": "1,906.00",
+          "change": "-54.75",
+          "percentGain": "-2.87"
+        },
+        {
+          "company": "Tech Mahindra",
+          "high": "1,729.00",
+          "low": "1,682.45",
+          "lastPrice": "1,691.60",
+          "prevClose": "1,740.85",
+          "change": "-49.25",
+          "percentGain": "-2.83"
+        },
+        {
+          "company": "TCS",
+          "high": "4,139.95",
+          "low": "4,032.05",
+          "lastPrice": "4,045.35",
+          "prevClose": "4,158.80",
+          "change": "-113.45",
+          "percentGain": "-2.73"
+        },
+        {
+          "company": "Wipro",
+          "high": "301.30",
+          "low": "295.25",
+          "lastPrice": "296.70",
+          "prevClose": "303.70",
+          "change": "-7.00",
+          "percentGain": "-2.30"
+        },
+        {
+          "company": "HCL Tech",
+          "high": "1,916.35",
+          "low": "1,878.55",
+          "lastPrice": "1,886.15",
+          "prevClose": "1,928.95",
+          "change": "-42.80",
+          "percentGain": "-2.22"
         }
       ]
     }
