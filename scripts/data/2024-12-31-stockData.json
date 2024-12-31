@@ -453,6 +453,56 @@
           "percentGain": "1.07"
         }
       ]
+    },
+    {
+      "time": "7:14:18 AM",
+      "data": [
+        {
+          "company": "Kotak Mahindra",
+          "high": "1,787.90",
+          "low": "1,735.05",
+          "lastPrice": "1,784.25",
+          "prevClose": "1,740.70",
+          "change": "43.55",
+          "percentGain": "2.50"
+        },
+        {
+          "company": "ONGC",
+          "high": "238.80",
+          "low": "232.35",
+          "lastPrice": "238.20",
+          "prevClose": "232.65",
+          "change": "5.55",
+          "percentGain": "2.39"
+        },
+        {
+          "company": "Bharat Elec",
+          "high": "292.00",
+          "low": "284.25",
+          "lastPrice": "291.10",
+          "prevClose": "284.90",
+          "change": "6.20",
+          "percentGain": "2.18"
+        },
+        {
+          "company": "SBI",
+          "high": "797.40",
+          "low": "786.00",
+          "lastPrice": "797.30",
+          "prevClose": "788.30",
+          "change": "9.00",
+          "percentGain": "1.14"
+        },
+        {
+          "company": "Dr Reddys Labs",
+          "high": "1,395.00",
+          "low": "1,366.55",
+          "lastPrice": "1,390.35",
+          "prevClose": "1,376.90",
+          "change": "13.45",
+          "percentGain": "0.98"
+        }
+      ]
     }
   ],
   "losers": [
@@ -907,6 +957,56 @@
           "prevClose": "303.70",
           "change": "-3.90",
           "percentGain": "-1.28"
+        }
+      ]
+    },
+    {
+      "time": "7:14:18 AM",
+      "data": [
+        {
+          "company": "Adani Enterpris",
+          "high": "2,577.75",
+          "low": "2,507.45",
+          "lastPrice": "2,518.90",
+          "prevClose": "2,592.35",
+          "change": "-73.45",
+          "percentGain": "-2.83"
+        },
+        {
+          "company": "Tech Mahindra",
+          "high": "1,729.00",
+          "low": "1,682.45",
+          "lastPrice": "1,692.65",
+          "prevClose": "1,740.85",
+          "change": "-48.20",
+          "percentGain": "-2.77"
+        },
+        {
+          "company": "TCS",
+          "high": "4,139.95",
+          "low": "4,032.05",
+          "lastPrice": "4,067.70",
+          "prevClose": "4,158.80",
+          "change": "-91.10",
+          "percentGain": "-2.19"
+        },
+        {
+          "company": "Infosys",
+          "high": "1,897.00",
+          "low": "1,845.05",
+          "lastPrice": "1,876.00",
+          "prevClose": "1,906.00",
+          "change": "-30.00",
+          "percentGain": "-1.57"
+        },
+        {
+          "company": "Wipro",
+          "high": "301.30",
+          "low": "295.25",
+          "lastPrice": "300.45",
+          "prevClose": "303.70",
+          "change": "-3.25",
+          "percentGain": "-1.07"
         }
       ]
     }
