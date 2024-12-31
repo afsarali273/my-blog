@@ -711,6 +711,56 @@
           "percentGain": "1.38"
         }
       ]
+    },
+    {
+      "time": "9:15:38 AM",
+      "data": [
+        {
+          "company": "ONGC",
+          "high": "239.80",
+          "low": "232.35",
+          "lastPrice": "239.40",
+          "prevClose": "232.65",
+          "change": "6.75",
+          "percentGain": "2.90"
+        },
+        {
+          "company": "Bharat Elec",
+          "high": "294.00",
+          "low": "284.25",
+          "lastPrice": "293.05",
+          "prevClose": "284.90",
+          "change": "8.15",
+          "percentGain": "2.86"
+        },
+        {
+          "company": "Kotak Mahindra",
+          "high": "1,796.60",
+          "low": "1,735.05",
+          "lastPrice": "1,790.00",
+          "prevClose": "1,740.70",
+          "change": "49.30",
+          "percentGain": "2.83"
+        },
+        {
+          "company": "Trent",
+          "high": "7,125.00",
+          "low": "6,817.80",
+          "lastPrice": "7,089.10",
+          "prevClose": "6,954.35",
+          "change": "134.75",
+          "percentGain": "1.94"
+        },
+        {
+          "company": "Coal India",
+          "high": "384.00",
+          "low": "376.10",
+          "lastPrice": "383.35",
+          "prevClose": "377.90",
+          "change": "5.45",
+          "percentGain": "1.44"
+        }
+      ]
     }
   ],
   "losers": [
@@ -1423,6 +1473,56 @@
           "prevClose": "6,888.25",
           "change": "-64.10",
           "percentGain": "-0.93"
+        }
+      ]
+    },
+    {
+      "time": "9:15:38 AM",
+      "data": [
+        {
+          "company": "Adani Enterpris",
+          "high": "2,577.75",
+          "low": "2,507.45",
+          "lastPrice": "2,529.00",
+          "prevClose": "2,592.35",
+          "change": "-63.35",
+          "percentGain": "-2.44"
+        },
+        {
+          "company": "Tech Mahindra",
+          "high": "1,729.00",
+          "low": "1,682.45",
+          "lastPrice": "1,705.70",
+          "prevClose": "1,740.85",
+          "change": "-35.15",
+          "percentGain": "-2.02"
+        },
+        {
+          "company": "TCS",
+          "high": "4,139.95",
+          "low": "4,032.05",
+          "lastPrice": "4,098.35",
+          "prevClose": "4,158.80",
+          "change": "-60.45",
+          "percentGain": "-1.45"
+        },
+        {
+          "company": "Infosys",
+          "high": "1,897.00",
+          "low": "1,845.05",
+          "lastPrice": "1,879.35",
+          "prevClose": "1,906.00",
+          "change": "-26.65",
+          "percentGain": "-1.40"
+        },
+        {
+          "company": "Bajaj Finance",
+          "high": "6,877.00",
+          "low": "6,792.00",
+          "lastPrice": "6,819.15",
+          "prevClose": "6,888.25",
+          "change": "-69.10",
+          "percentGain": "-1.00"
         }
       ]
     }
