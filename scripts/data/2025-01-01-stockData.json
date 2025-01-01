@@ -1,0 +1,106 @@
+{
+  "gainers": [
+    {
+      "time": "3:52:08 AM",
+      "data": [
+        {
+          "company": "Apollo Hospital",
+          "high": "7,370.00",
+          "low": "7,300.40",
+          "lastPrice": "7,364.00",
+          "prevClose": "7,296.35",
+          "change": "67.65",
+          "percentGain": "0.93"
+        },
+        {
+          "company": "Britannia",
+          "high": "4,798.00",
+          "low": "4,752.20",
+          "lastPrice": "4,798.00",
+          "prevClose": "4,762.75",
+          "change": "35.25",
+          "percentGain": "0.74"
+        },
+        {
+          "company": "Adani Enterpris",
+          "high": "2,548.00",
+          "low": "2,527.55",
+          "lastPrice": "2,546.85",
+          "prevClose": "2,528.65",
+          "change": "18.20",
+          "percentGain": "0.72"
+        },
+        {
+          "company": "Asian Paints",
+          "high": "2,301.40",
+          "low": "2,280.00",
+          "lastPrice": "2,296.45",
+          "prevClose": "2,281.35",
+          "change": "15.10",
+          "percentGain": "0.66"
+        },
+        {
+          "company": "Sun Pharma",
+          "high": "1,902.95",
+          "low": "1,888.05",
+          "lastPrice": "1,898.15",
+          "prevClose": "1,886.35",
+          "change": "11.80",
+          "percentGain": "0.63"
+        }
+      ]
+    }
+  ],
+  "losers": [
+    {
+      "time": "3:52:08 AM",
+      "data": [
+        {
+          "company": "Bajaj Auto",
+          "high": "8,767.00",
+          "low": "8,551.00",
+          "lastPrice": "8,641.90",
+          "prevClose": "8,798.60",
+          "change": "-156.70",
+          "percentGain": "-1.78"
+        },
+        {
+          "company": "Adani Ports",
+          "high": "1,227.25",
+          "low": "1,220.00",
+          "lastPrice": "1,221.85",
+          "prevClose": "1,231.10",
+          "change": "-9.25",
+          "percentGain": "-0.75"
+        },
+        {
+          "company": "JSW Steel",
+          "high": "903.75",
+          "low": "896.30",
+          "lastPrice": "896.85",
+          "prevClose": "901.50",
+          "change": "-4.65",
+          "percentGain": "-0.52"
+        },
+        {
+          "company": "Hindalco",
+          "high": "603.75",
+          "low": "597.00",
+          "lastPrice": "600.10",
+          "prevClose": "602.45",
+          "change": "-2.35",
+          "percentGain": "-0.39"
+        },
+        {
+          "company": "Eicher Motors",
+          "high": "4,847.00",
+          "low": "4,800.00",
+          "lastPrice": "4,805.50",
+          "prevClose": "4,821.90",
+          "change": "-16.40",
+          "percentGain": "-0.34"
+        }
+      ]
+    }
+  ]
+}
