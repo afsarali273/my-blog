@@ -53,6 +53,56 @@
     {
       "time": "4:19:00 AM",
       "data": []
+    },
+    {
+      "time": "4:40:23 AM",
+      "data": [
+        {
+          "company": "Apollo Hospital",
+          "high": "7,414.40",
+          "low": "7,300.40",
+          "lastPrice": "7,388.90",
+          "prevClose": "7,296.35",
+          "change": "92.55",
+          "percentGain": "1.27"
+        },
+        {
+          "company": "Asian Paints",
+          "high": "2,305.00",
+          "low": "2,280.00",
+          "lastPrice": "2,296.90",
+          "prevClose": "2,281.35",
+          "change": "15.55",
+          "percentGain": "0.68"
+        },
+        {
+          "company": "Larsen",
+          "high": "3,634.80",
+          "low": "3,599.95",
+          "lastPrice": "3,631.60",
+          "prevClose": "3,607.65",
+          "change": "23.95",
+          "percentGain": "0.66"
+        },
+        {
+          "company": "Infosys",
+          "high": "1,892.95",
+          "low": "1,874.00",
+          "lastPrice": "1,888.45",
+          "prevClose": "1,880.00",
+          "change": "8.45",
+          "percentGain": "0.45"
+        },
+        {
+          "company": "Britannia",
+          "high": "4,798.00",
+          "low": "4,752.20",
+          "lastPrice": "4,778.15",
+          "prevClose": "4,762.75",
+          "change": "15.40",
+          "percentGain": "0.32"
+        }
+      ]
     }
   ],
   "losers": [
@@ -109,6 +159,56 @@
     {
       "time": "4:19:00 AM",
       "data": []
+    },
+    {
+      "time": "4:40:23 AM",
+      "data": [
+        {
+          "company": "Bajaj Auto",
+          "high": "8,767.00",
+          "low": "8,551.00",
+          "lastPrice": "8,630.00",
+          "prevClose": "8,798.60",
+          "change": "-168.60",
+          "percentGain": "-1.92"
+        },
+        {
+          "company": "Adani Ports",
+          "high": "1,227.90",
+          "low": "1,206.35",
+          "lastPrice": "1,207.95",
+          "prevClose": "1,231.10",
+          "change": "-23.15",
+          "percentGain": "-1.88"
+        },
+        {
+          "company": "Dr Reddys Labs",
+          "high": "1,389.05",
+          "low": "1,368.00",
+          "lastPrice": "1,368.50",
+          "prevClose": "1,388.50",
+          "change": "-20.00",
+          "percentGain": "-1.44"
+        },
+        {
+          "company": "Hindalco",
+          "high": "603.75",
+          "low": "594.00",
+          "lastPrice": "594.30",
+          "prevClose": "602.45",
+          "change": "-8.15",
+          "percentGain": "-1.35"
+        },
+        {
+          "company": "ONGC",
+          "high": "239.24",
+          "low": "236.80",
+          "lastPrice": "237.06",
+          "prevClose": "239.25",
+          "change": "-2.19",
+          "percentGain": "-0.92"
+        }
+      ]
     }
   ]
 }
