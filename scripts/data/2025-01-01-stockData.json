@@ -153,6 +153,56 @@
           "percentGain": "0.48"
         }
       ]
+    },
+    {
+      "time": "5:15:15 AM",
+      "data": [
+        {
+          "company": "Apollo Hospital",
+          "high": "7,429.95",
+          "low": "7,300.40",
+          "lastPrice": "7,395.00",
+          "prevClose": "7,296.35",
+          "change": "98.65",
+          "percentGain": "1.35"
+        },
+        {
+          "company": "Asian Paints",
+          "high": "2,305.00",
+          "low": "2,280.00",
+          "lastPrice": "2,301.45",
+          "prevClose": "2,281.35",
+          "change": "20.10",
+          "percentGain": "0.88"
+        },
+        {
+          "company": "Britannia",
+          "high": "4,810.00",
+          "low": "4,752.20",
+          "lastPrice": "4,802.95",
+          "prevClose": "4,762.75",
+          "change": "40.20",
+          "percentGain": "0.84"
+        },
+        {
+          "company": "Bajaj Finance",
+          "high": "6,885.95",
+          "low": "6,806.00",
+          "lastPrice": "6,875.90",
+          "prevClose": "6,823.00",
+          "change": "52.90",
+          "percentGain": "0.78"
+        },
+        {
+          "company": "Cipla",
+          "high": "1,539.50",
+          "low": "1,518.70",
+          "lastPrice": "1,537.80",
+          "prevClose": "1,529.00",
+          "change": "8.80",
+          "percentGain": "0.58"
+        }
+      ]
     }
   ],
   "losers": [
@@ -307,6 +357,56 @@
           "prevClose": "333.35",
           "change": "-2.95",
           "percentGain": "-0.88"
+        }
+      ]
+    },
+    {
+      "time": "5:15:15 AM",
+      "data": [
+        {
+          "company": "Bajaj Auto",
+          "high": "8,767.00",
+          "low": "8,551.00",
+          "lastPrice": "8,640.85",
+          "prevClose": "8,798.60",
+          "change": "-157.75",
+          "percentGain": "-1.79"
+        },
+        {
+          "company": "Dr Reddys Labs",
+          "high": "1,389.05",
+          "low": "1,364.35",
+          "lastPrice": "1,367.00",
+          "prevClose": "1,388.50",
+          "change": "-21.50",
+          "percentGain": "-1.55"
+        },
+        {
+          "company": "Eicher Motors",
+          "high": "4,847.00",
+          "low": "4,742.45",
+          "lastPrice": "4,748.60",
+          "prevClose": "4,821.90",
+          "change": "-73.30",
+          "percentGain": "-1.52"
+        },
+        {
+          "company": "Hindalco",
+          "high": "603.75",
+          "low": "591.05",
+          "lastPrice": "594.05",
+          "prevClose": "602.45",
+          "change": "-8.40",
+          "percentGain": "-1.39"
+        },
+        {
+          "company": "Adani Ports",
+          "high": "1,227.90",
+          "low": "1,206.35",
+          "lastPrice": "1,218.35",
+          "prevClose": "1,231.10",
+          "change": "-12.75",
+          "percentGain": "-1.04"
         }
       ]
     }
