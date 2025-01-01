@@ -611,6 +611,56 @@
     {
       "time": "8:19:41 AM",
       "data": []
+    },
+    {
+      "time": "8:41:46 AM",
+      "data": [
+        {
+          "company": "Maruti Suzuki",
+          "high": "11,111.00",
+          "low": "10,800.20",
+          "lastPrice": "11,110.90",
+          "prevClose": "10,858.40",
+          "change": "252.50",
+          "percentGain": "2.33"
+        },
+        {
+          "company": "M&M",
+          "high": "3,077.00",
+          "low": "2,995.20",
+          "lastPrice": "3,072.85",
+          "prevClose": "3,007.10",
+          "change": "65.75",
+          "percentGain": "2.19"
+        },
+        {
+          "company": "Larsen",
+          "high": "3,689.00",
+          "low": "3,599.95",
+          "lastPrice": "3,682.30",
+          "prevClose": "3,607.65",
+          "change": "74.65",
+          "percentGain": "2.07"
+        },
+        {
+          "company": "IndusInd Bank",
+          "high": "977.50",
+          "low": "953.50",
+          "lastPrice": "975.60",
+          "prevClose": "960.15",
+          "change": "15.45",
+          "percentGain": "1.61"
+        },
+        {
+          "company": "Adani Enterpris",
+          "high": "2,644.20",
+          "low": "2,518.25",
+          "lastPrice": "2,568.60",
+          "prevClose": "2,528.65",
+          "change": "39.95",
+          "percentGain": "1.58"
+        }
+      ]
     }
   ],
   "losers": [
@@ -1225,6 +1275,56 @@
     {
       "time": "8:19:41 AM",
       "data": []
+    },
+    {
+      "time": "8:41:46 AM",
+      "data": [
+        {
+          "company": "Dr Reddys Labs",
+          "high": "1,389.05",
+          "low": "1,355.35",
+          "lastPrice": "1,364.55",
+          "prevClose": "1,388.50",
+          "change": "-23.95",
+          "percentGain": "-1.72"
+        },
+        {
+          "company": "Hindalco",
+          "high": "603.75",
+          "low": "587.50",
+          "lastPrice": "596.00",
+          "prevClose": "602.45",
+          "change": "-6.45",
+          "percentGain": "-1.07"
+        },
+        {
+          "company": "Bajaj Auto",
+          "high": "8,767.00",
+          "low": "8,551.00",
+          "lastPrice": "8,717.05",
+          "prevClose": "8,798.60",
+          "change": "-81.55",
+          "percentGain": "-0.93"
+        },
+        {
+          "company": "Adani Ports",
+          "high": "1,231.80",
+          "low": "1,206.35",
+          "lastPrice": "1,220.95",
+          "prevClose": "1,231.10",
+          "change": "-10.15",
+          "percentGain": "-0.82"
+        },
+        {
+          "company": "Tata Steel",
+          "high": "138.45",
+          "low": "136.80",
+          "lastPrice": "137.11",
+          "prevClose": "138.05",
+          "change": "-0.94",
+          "percentGain": "-0.68"
+        }
+      ]
     }
   ]
 }
