@@ -407,6 +407,56 @@
     {
       "time": "6:54:00 AM",
       "data": []
+    },
+    {
+      "time": "7:14:46 AM",
+      "data": [
+        {
+          "company": "Larsen",
+          "high": "3,684.00",
+          "low": "3,599.95",
+          "lastPrice": "3,683.30",
+          "prevClose": "3,607.65",
+          "change": "75.65",
+          "percentGain": "2.10"
+        },
+        {
+          "company": "M&M",
+          "high": "3,073.00",
+          "low": "2,995.20",
+          "lastPrice": "3,066.95",
+          "prevClose": "3,007.10",
+          "change": "59.85",
+          "percentGain": "1.99"
+        },
+        {
+          "company": "Adani Enterpris",
+          "high": "2,644.20",
+          "low": "2,518.25",
+          "lastPrice": "2,573.75",
+          "prevClose": "2,528.65",
+          "change": "45.10",
+          "percentGain": "1.78"
+        },
+        {
+          "company": "Asian Paints",
+          "high": "2,323.20",
+          "low": "2,280.00",
+          "lastPrice": "2,321.00",
+          "prevClose": "2,281.35",
+          "change": "39.65",
+          "percentGain": "1.74"
+        },
+        {
+          "company": "Apollo Hospital",
+          "high": "7,445.00",
+          "low": "7,300.40",
+          "lastPrice": "7,398.25",
+          "prevClose": "7,296.35",
+          "change": "101.90",
+          "percentGain": "1.40"
+        }
+      ]
     }
   ],
   "losers": [
@@ -817,6 +867,56 @@
     {
       "time": "6:54:00 AM",
       "data": []
+    },
+    {
+      "time": "7:14:46 AM",
+      "data": [
+        {
+          "company": "Dr Reddys Labs",
+          "high": "1,389.05",
+          "low": "1,359.35",
+          "lastPrice": "1,359.85",
+          "prevClose": "1,388.50",
+          "change": "-28.65",
+          "percentGain": "-2.06"
+        },
+        {
+          "company": "Hindalco",
+          "high": "603.75",
+          "low": "587.50",
+          "lastPrice": "592.05",
+          "prevClose": "602.45",
+          "change": "-10.40",
+          "percentGain": "-1.73"
+        },
+        {
+          "company": "Bajaj Auto",
+          "high": "8,767.00",
+          "low": "8,551.00",
+          "lastPrice": "8,655.35",
+          "prevClose": "8,798.60",
+          "change": "-143.25",
+          "percentGain": "-1.63"
+        },
+        {
+          "company": "ONGC",
+          "high": "239.24",
+          "low": "236.70",
+          "lastPrice": "237.01",
+          "prevClose": "239.25",
+          "change": "-2.24",
+          "percentGain": "-0.94"
+        },
+        {
+          "company": "Tata Steel",
+          "high": "138.45",
+          "low": "136.80",
+          "lastPrice": "137.00",
+          "prevClose": "138.05",
+          "change": "-1.05",
+          "percentGain": "-0.76"
+        }
+      ]
     }
   ]
 }
