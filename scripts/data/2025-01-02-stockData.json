@@ -103,6 +103,56 @@
           "percentGain": "1.68"
         }
       ]
+    },
+    {
+      "time": "4:50:00 AM",
+      "data": [
+        {
+          "company": "Bajaj Finance",
+          "high": "7,183.00",
+          "low": "6,971.00",
+          "lastPrice": "7,179.50",
+          "prevClose": "6,935.30",
+          "change": "244.20",
+          "percentGain": "3.52"
+        },
+        {
+          "company": "Bajaj Finserv",
+          "high": "1,624.95",
+          "low": "1,576.40",
+          "lastPrice": "1,622.80",
+          "prevClose": "1,576.40",
+          "change": "46.40",
+          "percentGain": "2.94"
+        },
+        {
+          "company": "Maruti Suzuki",
+          "high": "11,449.00",
+          "low": "11,226.00",
+          "lastPrice": "11,435.30",
+          "prevClose": "11,208.30",
+          "change": "227.00",
+          "percentGain": "2.03"
+        },
+        {
+          "company": "Kotak Mahindra",
+          "high": "1,835.85",
+          "low": "1,796.90",
+          "lastPrice": "1,823.65",
+          "prevClose": "1,788.40",
+          "change": "35.25",
+          "percentGain": "1.97"
+        },
+        {
+          "company": "Infosys",
+          "high": "1,920.00",
+          "low": "1,885.30",
+          "lastPrice": "1,915.80",
+          "prevClose": "1,882.50",
+          "change": "33.30",
+          "percentGain": "1.77"
+        }
+      ]
     }
   ],
   "losers": [
@@ -207,6 +257,56 @@
           "prevClose": "295.30",
           "change": "-1.20",
           "percentGain": "-0.41"
+        }
+      ]
+    },
+    {
+      "time": "4:50:00 AM",
+      "data": [
+        {
+          "company": "Britannia",
+          "high": "4,806.95",
+          "low": "4,730.00",
+          "lastPrice": "4,736.00",
+          "prevClose": "4,794.75",
+          "change": "-58.75",
+          "percentGain": "-1.23"
+        },
+        {
+          "company": "Sun Pharma",
+          "high": "1,896.00",
+          "low": "1,867.30",
+          "lastPrice": "1,869.05",
+          "prevClose": "1,889.95",
+          "change": "-20.90",
+          "percentGain": "-1.11"
+        },
+        {
+          "company": "BPCL",
+          "high": "297.35",
+          "low": "293.20",
+          "lastPrice": "293.45",
+          "prevClose": "295.30",
+          "change": "-1.85",
+          "percentGain": "-0.63"
+        },
+        {
+          "company": "NTPC",
+          "high": "334.80",
+          "low": "330.00",
+          "lastPrice": "331.55",
+          "prevClose": "333.65",
+          "change": "-2.10",
+          "percentGain": "-0.63"
+        },
+        {
+          "company": "TATA Cons. Prod",
+          "high": "924.35",
+          "low": "913.05",
+          "lastPrice": "915.80",
+          "prevClose": "920.30",
+          "change": "-4.50",
+          "percentGain": "-0.49"
         }
       ]
     }
