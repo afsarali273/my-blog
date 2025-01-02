@@ -623,6 +623,56 @@
     {
       "time": "9:15:54 AM",
       "data": []
+    },
+    {
+      "time": "9:36:47 AM",
+      "data": [
+        {
+          "company": "Eicher Motors",
+          "high": "5,323.80",
+          "low": "4,867.25",
+          "lastPrice": "5,305.00",
+          "prevClose": "4,885.30",
+          "change": "419.70",
+          "percentGain": "8.59"
+        },
+        {
+          "company": "Bajaj Finserv",
+          "high": "1,717.90",
+          "low": "1,576.40",
+          "lastPrice": "1,699.45",
+          "prevClose": "1,576.40",
+          "change": "123.05",
+          "percentGain": "7.81"
+        },
+        {
+          "company": "Bajaj Finance",
+          "high": "7,430.00",
+          "low": "6,971.00",
+          "lastPrice": "7,384.60",
+          "prevClose": "6,935.30",
+          "change": "449.30",
+          "percentGain": "6.48"
+        },
+        {
+          "company": "Maruti Suzuki",
+          "high": "11,859.00",
+          "low": "11,226.00",
+          "lastPrice": "11,845.90",
+          "prevClose": "11,208.30",
+          "change": "637.60",
+          "percentGain": "5.69"
+        },
+        {
+          "company": "Shriram Finance",
+          "high": "3,068.90",
+          "low": "2,931.60",
+          "lastPrice": "3,055.80",
+          "prevClose": "2,918.65",
+          "change": "137.15",
+          "percentGain": "4.70"
+        }
+      ]
     }
   ],
   "losers": [
@@ -1231,6 +1281,29 @@
     {
       "time": "9:15:54 AM",
       "data": []
+    },
+    {
+      "time": "9:36:47 AM",
+      "data": [
+        {
+          "company": "Sun Pharma",
+          "high": "1,896.00",
+          "low": "1,864.95",
+          "lastPrice": "1,876.45",
+          "prevClose": "1,889.95",
+          "change": "-13.50",
+          "percentGain": "-0.71"
+        },
+        {
+          "company": "Britannia",
+          "high": "4,806.95",
+          "low": "4,723.10",
+          "lastPrice": "4,787.10",
+          "prevClose": "4,794.75",
+          "change": "-7.65",
+          "percentGain": "-0.16"
+        }
+      ]
     }
   ]
 }
