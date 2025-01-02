@@ -3,12 +3,112 @@
     {
       "time": "3:51:18 AM",
       "data": []
+    },
+    {
+      "time": "4:18:38 AM",
+      "data": [
+        {
+          "company": "Bajaj Finance",
+          "high": "7,169.25",
+          "low": "6,971.00",
+          "lastPrice": "7,153.05",
+          "prevClose": "6,935.30",
+          "change": "217.75",
+          "percentGain": "3.14"
+        },
+        {
+          "company": "Bajaj Finserv",
+          "high": "1,613.05",
+          "low": "1,576.40",
+          "lastPrice": "1,610.90",
+          "prevClose": "1,576.40",
+          "change": "34.50",
+          "percentGain": "2.19"
+        },
+        {
+          "company": "Kotak Mahindra",
+          "high": "1,835.85",
+          "low": "1,796.90",
+          "lastPrice": "1,818.80",
+          "prevClose": "1,788.40",
+          "change": "30.40",
+          "percentGain": "1.70"
+        },
+        {
+          "company": "ONGC",
+          "high": "240.80",
+          "low": "237.00",
+          "lastPrice": "240.55",
+          "prevClose": "236.95",
+          "change": "3.60",
+          "percentGain": "1.52"
+        },
+        {
+          "company": "Shriram Finance",
+          "high": "2,972.00",
+          "low": "2,931.60",
+          "lastPrice": "2,962.90",
+          "prevClose": "2,918.65",
+          "change": "44.25",
+          "percentGain": "1.52"
+        }
+      ]
     }
   ],
   "losers": [
     {
       "time": "3:51:18 AM",
       "data": []
+    },
+    {
+      "time": "4:18:38 AM",
+      "data": [
+        {
+          "company": "Britannia",
+          "high": "4,806.95",
+          "low": "4,743.00",
+          "lastPrice": "4,752.30",
+          "prevClose": "4,794.75",
+          "change": "-42.45",
+          "percentGain": "-0.89"
+        },
+        {
+          "company": "NTPC",
+          "high": "334.80",
+          "low": "330.00",
+          "lastPrice": "331.00",
+          "prevClose": "333.65",
+          "change": "-2.65",
+          "percentGain": "-0.79"
+        },
+        {
+          "company": "Sun Pharma",
+          "high": "1,896.00",
+          "low": "1,873.20",
+          "lastPrice": "1,874.95",
+          "prevClose": "1,889.95",
+          "change": "-15.00",
+          "percentGain": "-0.79"
+        },
+        {
+          "company": "Adani Enterpris",
+          "high": "2,565.95",
+          "low": "2,538.00",
+          "lastPrice": "2,539.70",
+          "prevClose": "2,554.85",
+          "change": "-15.15",
+          "percentGain": "-0.59"
+        },
+        {
+          "company": "TATA Cons. Prod",
+          "high": "924.35",
+          "low": "913.05",
+          "lastPrice": "915.80",
+          "prevClose": "920.30",
+          "change": "-4.50",
+          "percentGain": "-0.49"
+        }
+      ]
     }
   ]
 }
