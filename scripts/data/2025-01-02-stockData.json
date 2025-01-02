@@ -411,6 +411,56 @@
           "percentGain": "4.24"
         }
       ]
+    },
+    {
+      "time": "7:27:30 AM",
+      "data": [
+        {
+          "company": "Bajaj Finserv",
+          "high": "1,711.30",
+          "low": "1,576.40",
+          "lastPrice": "1,706.30",
+          "prevClose": "1,576.40",
+          "change": "129.90",
+          "percentGain": "8.24"
+        },
+        {
+          "company": "Eicher Motors",
+          "high": "5,243.50",
+          "low": "4,867.25",
+          "lastPrice": "5,223.45",
+          "prevClose": "4,885.30",
+          "change": "338.15",
+          "percentGain": "6.92"
+        },
+        {
+          "company": "Bajaj Finance",
+          "high": "7,325.00",
+          "low": "6,971.00",
+          "lastPrice": "7,318.90",
+          "prevClose": "6,935.30",
+          "change": "383.60",
+          "percentGain": "5.53"
+        },
+        {
+          "company": "Maruti Suzuki",
+          "high": "11,779.05",
+          "low": "11,226.00",
+          "lastPrice": "11,761.15",
+          "prevClose": "11,208.30",
+          "change": "552.85",
+          "percentGain": "4.93"
+        },
+        {
+          "company": "M&M",
+          "high": "3,220.00",
+          "low": "3,085.05",
+          "lastPrice": "3,208.00",
+          "prevClose": "3,082.00",
+          "change": "126.00",
+          "percentGain": "4.09"
+        }
+      ]
     }
   ],
   "losers": [
@@ -822,6 +872,56 @@
           "lastPrice": "1,217.00",
           "prevClose": "1,218.70",
           "change": "-1.70",
+          "percentGain": "-0.14"
+        }
+      ]
+    },
+    {
+      "time": "7:27:30 AM",
+      "data": [
+        {
+          "company": "Britannia",
+          "high": "4,806.95",
+          "low": "4,723.10",
+          "lastPrice": "4,752.00",
+          "prevClose": "4,794.75",
+          "change": "-42.75",
+          "percentGain": "-0.89"
+        },
+        {
+          "company": "Sun Pharma",
+          "high": "1,896.00",
+          "low": "1,864.95",
+          "lastPrice": "1,876.30",
+          "prevClose": "1,889.95",
+          "change": "-13.65",
+          "percentGain": "-0.72"
+        },
+        {
+          "company": "Adani Ports",
+          "high": "1,224.45",
+          "low": "1,208.10",
+          "lastPrice": "1,215.00",
+          "prevClose": "1,218.70",
+          "change": "-3.70",
+          "percentGain": "-0.30"
+        },
+        {
+          "company": "Bharat Elec",
+          "high": "294.90",
+          "low": "291.35",
+          "lastPrice": "293.45",
+          "prevClose": "293.90",
+          "change": "-0.45",
+          "percentGain": "-0.15"
+        },
+        {
+          "company": "BPCL",
+          "high": "297.35",
+          "low": "291.80",
+          "lastPrice": "294.90",
+          "prevClose": "295.30",
+          "change": "-0.40",
           "percentGain": "-0.14"
         }
       ]
