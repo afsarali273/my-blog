@@ -673,6 +673,56 @@
           "percentGain": "4.70"
         }
       ]
+    },
+    {
+      "time": "9:50:16 AM",
+      "data": [
+        {
+          "company": "Eicher Motors",
+          "high": "5,330.00",
+          "low": "4,867.25",
+          "lastPrice": "5,311.30",
+          "prevClose": "4,885.30",
+          "change": "426.00",
+          "percentGain": "8.72"
+        },
+        {
+          "company": "Bajaj Finserv",
+          "high": "1,717.90",
+          "low": "1,576.40",
+          "lastPrice": "1,701.15",
+          "prevClose": "1,576.40",
+          "change": "124.75",
+          "percentGain": "7.91"
+        },
+        {
+          "company": "Bajaj Finance",
+          "high": "7,430.00",
+          "low": "6,971.00",
+          "lastPrice": "7,396.45",
+          "prevClose": "6,935.30",
+          "change": "461.15",
+          "percentGain": "6.65"
+        },
+        {
+          "company": "Maruti Suzuki",
+          "high": "11,859.15",
+          "low": "11,226.00",
+          "lastPrice": "11,842.20",
+          "prevClose": "11,208.30",
+          "change": "633.90",
+          "percentGain": "5.66"
+        },
+        {
+          "company": "Shriram Finance",
+          "high": "3,068.90",
+          "low": "2,931.60",
+          "lastPrice": "3,061.80",
+          "prevClose": "2,918.65",
+          "change": "143.15",
+          "percentGain": "4.90"
+        }
+      ]
     }
   ],
   "losers": [
@@ -1302,6 +1352,29 @@
           "prevClose": "4,794.75",
           "change": "-7.65",
           "percentGain": "-0.16"
+        }
+      ]
+    },
+    {
+      "time": "9:50:16 AM",
+      "data": [
+        {
+          "company": "Sun Pharma",
+          "high": "1,896.00",
+          "low": "1,864.95",
+          "lastPrice": "1,877.35",
+          "prevClose": "1,889.95",
+          "change": "-12.60",
+          "percentGain": "-0.67"
+        },
+        {
+          "company": "Britannia",
+          "high": "4,806.95",
+          "low": "4,723.10",
+          "lastPrice": "4,788.25",
+          "prevClose": "4,794.75",
+          "change": "-6.50",
+          "percentGain": "-0.14"
         }
       ]
     }
