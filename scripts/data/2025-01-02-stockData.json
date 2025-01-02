@@ -161,6 +161,56 @@
     {
       "time": "5:32:07 AM",
       "data": []
+    },
+    {
+      "time": "5:49:54 AM",
+      "data": [
+        {
+          "company": "Bajaj Finance",
+          "high": "7,199.90",
+          "low": "6,971.00",
+          "lastPrice": "7,196.50",
+          "prevClose": "6,935.30",
+          "change": "261.20",
+          "percentGain": "3.77"
+        },
+        {
+          "company": "Bajaj Finserv",
+          "high": "1,632.80",
+          "low": "1,576.40",
+          "lastPrice": "1,630.00",
+          "prevClose": "1,576.40",
+          "change": "53.60",
+          "percentGain": "3.40"
+        },
+        {
+          "company": "Maruti Suzuki",
+          "high": "11,575.00",
+          "low": "11,226.00",
+          "lastPrice": "11,574.00",
+          "prevClose": "11,208.30",
+          "change": "365.70",
+          "percentGain": "3.26"
+        },
+        {
+          "company": "M&M",
+          "high": "3,178.00",
+          "low": "3,085.05",
+          "lastPrice": "3,170.55",
+          "prevClose": "3,082.00",
+          "change": "88.55",
+          "percentGain": "2.87"
+        },
+        {
+          "company": "Infosys",
+          "high": "1,936.85",
+          "low": "1,885.30",
+          "lastPrice": "1,933.50",
+          "prevClose": "1,882.50",
+          "change": "51.00",
+          "percentGain": "2.71"
+        }
+      ]
     }
   ],
   "losers": [
@@ -325,6 +375,56 @@
     {
       "time": "5:32:07 AM",
       "data": []
+    },
+    {
+      "time": "5:49:54 AM",
+      "data": [
+        {
+          "company": "Britannia",
+          "high": "4,806.95",
+          "low": "4,723.10",
+          "lastPrice": "4,743.00",
+          "prevClose": "4,794.75",
+          "change": "-51.75",
+          "percentGain": "-1.08"
+        },
+        {
+          "company": "Sun Pharma",
+          "high": "1,896.00",
+          "low": "1,864.95",
+          "lastPrice": "1,873.55",
+          "prevClose": "1,889.95",
+          "change": "-16.40",
+          "percentGain": "-0.87"
+        },
+        {
+          "company": "BPCL",
+          "high": "297.35",
+          "low": "292.30",
+          "lastPrice": "293.10",
+          "prevClose": "295.30",
+          "change": "-2.20",
+          "percentGain": "-0.75"
+        },
+        {
+          "company": "NTPC",
+          "high": "334.80",
+          "low": "330.00",
+          "lastPrice": "332.35",
+          "prevClose": "333.65",
+          "change": "-1.30",
+          "percentGain": "-0.39"
+        },
+        {
+          "company": "Bharat Elec",
+          "high": "294.90",
+          "low": "292.25",
+          "lastPrice": "292.75",
+          "prevClose": "293.90",
+          "change": "-1.15",
+          "percentGain": "-0.39"
+        }
+      ]
     }
   ]
 }
