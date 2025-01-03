@@ -723,6 +723,56 @@
     {
       "time": "9:49:48 AM",
       "data": []
+    },
+    {
+      "time": "10:13:35 AM",
+      "data": [
+        {
+          "company": "ONGC",
+          "high": "262.75",
+          "low": "247.99",
+          "lastPrice": "258.89",
+          "prevClose": "246.07",
+          "change": "12.82",
+          "percentGain": "5.21"
+        },
+        {
+          "company": "Tata Motors",
+          "high": "800.60",
+          "low": "761.45",
+          "lastPrice": "790.40",
+          "prevClose": "765.05",
+          "change": "25.35",
+          "percentGain": "3.31"
+        },
+        {
+          "company": "Titan Company",
+          "high": "3,481.95",
+          "low": "3,377.95",
+          "lastPrice": "3,451.65",
+          "prevClose": "3,388.95",
+          "change": "62.70",
+          "percentGain": "1.85"
+        },
+        {
+          "company": "SBI Life Insura",
+          "high": "1,451.00",
+          "low": "1,424.90",
+          "lastPrice": "1,447.70",
+          "prevClose": "1,422.25",
+          "change": "25.45",
+          "percentGain": "1.79"
+        },
+        {
+          "company": "HUL",
+          "high": "2,414.60",
+          "low": "2,364.80",
+          "lastPrice": "2,406.25",
+          "prevClose": "2,370.00",
+          "change": "36.25",
+          "percentGain": "1.53"
+        }
+      ]
     }
   ],
   "losers": [
@@ -1449,6 +1499,56 @@
     {
       "time": "9:49:48 AM",
       "data": []
+    },
+    {
+      "time": "10:13:35 AM",
+      "data": [
+        {
+          "company": "Wipro",
+          "high": "303.80",
+          "low": "294.00",
+          "lastPrice": "294.45",
+          "prevClose": "303.80",
+          "change": "-9.35",
+          "percentGain": "-3.08"
+        },
+        {
+          "company": "HDFC Bank",
+          "high": "1,795.25",
+          "low": "1,746.30",
+          "lastPrice": "1,749.20",
+          "prevClose": "1,793.75",
+          "change": "-44.55",
+          "percentGain": "-2.48"
+        },
+        {
+          "company": "Tech Mahindra",
+          "high": "1,729.85",
+          "low": "1,681.35",
+          "lastPrice": "1,689.45",
+          "prevClose": "1,726.95",
+          "change": "-37.50",
+          "percentGain": "-2.17"
+        },
+        {
+          "company": "Adani Ports",
+          "high": "1,237.60",
+          "low": "1,197.00",
+          "lastPrice": "1,199.55",
+          "prevClose": "1,226.00",
+          "change": "-26.45",
+          "percentGain": "-2.16"
+        },
+        {
+          "company": "ICICI Bank",
+          "high": "1,288.00",
+          "low": "1,262.25",
+          "lastPrice": "1,265.05",
+          "prevClose": "1,290.60",
+          "change": "-25.55",
+          "percentGain": "-1.98"
+        }
+      ]
     }
   ]
 }
