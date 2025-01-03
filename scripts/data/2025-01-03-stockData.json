@@ -99,6 +99,56 @@
           "percentGain": "0.87"
         }
       ]
+    },
+    {
+      "time": "4:40:22 AM",
+      "data": [
+        {
+          "company": "ONGC",
+          "high": "255.30",
+          "low": "247.99",
+          "lastPrice": "252.90",
+          "prevClose": "246.07",
+          "change": "6.83",
+          "percentGain": "2.78"
+        },
+        {
+          "company": "Trent",
+          "high": "7,493.05",
+          "low": "7,308.05",
+          "lastPrice": "7,461.55",
+          "prevClose": "7,321.00",
+          "change": "140.55",
+          "percentGain": "1.92"
+        },
+        {
+          "company": "Titan Company",
+          "high": "3,455.00",
+          "low": "3,377.95",
+          "lastPrice": "3,452.45",
+          "prevClose": "3,388.95",
+          "change": "63.50",
+          "percentGain": "1.87"
+        },
+        {
+          "company": "Tata Motors",
+          "high": "773.90",
+          "low": "761.45",
+          "lastPrice": "772.90",
+          "prevClose": "765.05",
+          "change": "7.85",
+          "percentGain": "1.03"
+        },
+        {
+          "company": "Maruti Suzuki",
+          "high": "11,985.75",
+          "low": "11,787.95",
+          "lastPrice": "11,951.00",
+          "prevClose": "11,841.30",
+          "change": "109.70",
+          "percentGain": "0.93"
+        }
+      ]
     }
   ],
   "losers": [
@@ -199,6 +249,56 @@
           "prevClose": "1,837.15",
           "change": "-18.40",
           "percentGain": "-1.00"
+        }
+      ]
+    },
+    {
+      "time": "4:40:22 AM",
+      "data": [
+        {
+          "company": "Hero Motocorp",
+          "high": "4,299.80",
+          "low": "4,162.45",
+          "lastPrice": "4,234.40",
+          "prevClose": "4,311.50",
+          "change": "-77.10",
+          "percentGain": "-1.79"
+        },
+        {
+          "company": "Tech Mahindra",
+          "high": "1,729.85",
+          "low": "1,696.85",
+          "lastPrice": "1,700.00",
+          "prevClose": "1,726.95",
+          "change": "-26.95",
+          "percentGain": "-1.56"
+        },
+        {
+          "company": "HDFC Bank",
+          "high": "1,795.25",
+          "low": "1,767.25",
+          "lastPrice": "1,768.40",
+          "prevClose": "1,793.75",
+          "change": "-25.35",
+          "percentGain": "-1.41"
+        },
+        {
+          "company": "TCS",
+          "high": "4,179.95",
+          "low": "4,115.95",
+          "lastPrice": "4,118.25",
+          "prevClose": "4,175.75",
+          "change": "-57.50",
+          "percentGain": "-1.38"
+        },
+        {
+          "company": "Cipla",
+          "high": "1,539.00",
+          "low": "1,515.55",
+          "lastPrice": "1,518.10",
+          "prevClose": "1,537.90",
+          "change": "-19.80",
+          "percentGain": "-1.29"
         }
       ]
     }
