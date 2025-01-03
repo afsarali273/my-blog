@@ -1,0 +1,106 @@
+{
+  "gainers": [
+    {
+      "time": "3:51:36 AM",
+      "data": [
+        {
+          "company": "ONGC",
+          "high": "253.94",
+          "low": "247.99",
+          "lastPrice": "253.75",
+          "prevClose": "246.07",
+          "change": "7.68",
+          "percentGain": "3.12"
+        },
+        {
+          "company": "SBI",
+          "high": "808.95",
+          "low": "800.25",
+          "lastPrice": "807.20",
+          "prevClose": "801.20",
+          "change": "6.00",
+          "percentGain": "0.75"
+        },
+        {
+          "company": "SBI Life Insura",
+          "high": "1,435.00",
+          "low": "1,424.90",
+          "lastPrice": "1,431.90",
+          "prevClose": "1,422.25",
+          "change": "9.65",
+          "percentGain": "0.68"
+        },
+        {
+          "company": "Maruti Suzuki",
+          "high": "11,925.00",
+          "low": "11,787.95",
+          "lastPrice": "11,913.75",
+          "prevClose": "11,841.30",
+          "change": "72.45",
+          "percentGain": "0.61"
+        },
+        {
+          "company": "NTPC",
+          "high": "339.80",
+          "low": "337.05",
+          "lastPrice": "339.70",
+          "prevClose": "338.00",
+          "change": "1.70",
+          "percentGain": "0.50"
+        }
+      ]
+    }
+  ],
+  "losers": [
+    {
+      "time": "3:51:36 AM",
+      "data": [
+        {
+          "company": "Hero Motocorp",
+          "high": "4,299.80",
+          "low": "4,162.45",
+          "lastPrice": "4,205.40",
+          "prevClose": "4,311.50",
+          "change": "-106.10",
+          "percentGain": "-2.46"
+        },
+        {
+          "company": "Cipla",
+          "high": "1,539.00",
+          "low": "1,526.20",
+          "lastPrice": "1,527.60",
+          "prevClose": "1,537.90",
+          "change": "-10.30",
+          "percentGain": "-0.67"
+        },
+        {
+          "company": "Dr Reddys Labs",
+          "high": "1,378.15",
+          "low": "1,365.00",
+          "lastPrice": "1,366.00",
+          "prevClose": "1,375.05",
+          "change": "-9.05",
+          "percentGain": "-0.66"
+        },
+        {
+          "company": "TCS",
+          "high": "4,179.95",
+          "low": "4,143.90",
+          "lastPrice": "4,150.10",
+          "prevClose": "4,175.75",
+          "change": "-25.65",
+          "percentGain": "-0.61"
+        },
+        {
+          "company": "Apollo Hospital",
+          "high": "7,437.55",
+          "low": "7,384.20",
+          "lastPrice": "7,387.35",
+          "prevClose": "7,421.65",
+          "change": "-34.30",
+          "percentGain": "-0.46"
+        }
+      ]
+    }
+  ]
+}
