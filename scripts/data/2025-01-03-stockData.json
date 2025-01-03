@@ -257,6 +257,56 @@
           "percentGain": "1.38"
         }
       ]
+    },
+    {
+      "time": "6:21:30 AM",
+      "data": [
+        {
+          "company": "Tata Motors",
+          "high": "796.35",
+          "low": "761.45",
+          "lastPrice": "794.45",
+          "prevClose": "765.05",
+          "change": "29.40",
+          "percentGain": "3.84"
+        },
+        {
+          "company": "ONGC",
+          "high": "255.30",
+          "low": "247.99",
+          "lastPrice": "254.35",
+          "prevClose": "246.07",
+          "change": "8.28",
+          "percentGain": "3.36"
+        },
+        {
+          "company": "Titan Company",
+          "high": "3,481.95",
+          "low": "3,377.95",
+          "lastPrice": "3,467.60",
+          "prevClose": "3,388.95",
+          "change": "78.65",
+          "percentGain": "2.32"
+        },
+        {
+          "company": "IndusInd Bank",
+          "high": "1,015.00",
+          "low": "990.65",
+          "lastPrice": "1,014.00",
+          "prevClose": "991.35",
+          "change": "22.65",
+          "percentGain": "2.28"
+        },
+        {
+          "company": "NTPC",
+          "high": "343.80",
+          "low": "337.05",
+          "lastPrice": "343.50",
+          "prevClose": "338.00",
+          "change": "5.50",
+          "percentGain": "1.63"
+        }
+      ]
     }
   ],
   "losers": [
@@ -515,6 +565,56 @@
           "prevClose": "1,957.85",
           "change": "-34.55",
           "percentGain": "-1.76"
+        }
+      ]
+    },
+    {
+      "time": "6:21:30 AM",
+      "data": [
+        {
+          "company": "Wipro",
+          "high": "303.80",
+          "low": "295.50",
+          "lastPrice": "296.15",
+          "prevClose": "303.80",
+          "change": "-7.65",
+          "percentGain": "-2.52"
+        },
+        {
+          "company": "Hero Motocorp",
+          "high": "4,299.80",
+          "low": "4,162.45",
+          "lastPrice": "4,210.55",
+          "prevClose": "4,311.50",
+          "change": "-100.95",
+          "percentGain": "-2.34"
+        },
+        {
+          "company": "HDFC Bank",
+          "high": "1,795.25",
+          "low": "1,753.55",
+          "lastPrice": "1,762.45",
+          "prevClose": "1,793.75",
+          "change": "-31.30",
+          "percentGain": "-1.74"
+        },
+        {
+          "company": "Dr Reddys Labs",
+          "high": "1,378.15",
+          "low": "1,350.75",
+          "lastPrice": "1,351.30",
+          "prevClose": "1,375.05",
+          "change": "-23.75",
+          "percentGain": "-1.73"
+        },
+        {
+          "company": "Tech Mahindra",
+          "high": "1,729.85",
+          "low": "1,683.50",
+          "lastPrice": "1,698.00",
+          "prevClose": "1,726.95",
+          "change": "-28.95",
+          "percentGain": "-1.68"
         }
       ]
     }
