@@ -149,6 +149,56 @@
           "percentGain": "0.87"
         }
       ]
+    },
+    {
+      "time": "4:50:47 AM",
+      "data": [
+        {
+          "company": "Titan Company",
+          "high": "3,528.50",
+          "low": "3,471.65",
+          "lastPrice": "3,508.00",
+          "prevClose": "3,451.65",
+          "change": "56.35",
+          "percentGain": "1.63"
+        },
+        {
+          "company": "Bajaj Finance",
+          "high": "7,599.90",
+          "low": "7,420.00",
+          "lastPrice": "7,513.45",
+          "prevClose": "7,407.25",
+          "change": "106.20",
+          "percentGain": "1.43"
+        },
+        {
+          "company": "Infosys",
+          "high": "1,973.00",
+          "low": "1,945.00",
+          "lastPrice": "1,960.05",
+          "prevClose": "1,938.75",
+          "change": "21.30",
+          "percentGain": "1.10"
+        },
+        {
+          "company": "Tech Mahindra",
+          "high": "1,711.30",
+          "low": "1,689.30",
+          "lastPrice": "1,706.00",
+          "prevClose": "1,689.45",
+          "change": "16.55",
+          "percentGain": "0.98"
+        },
+        {
+          "company": "HCL Tech",
+          "high": "1,973.40",
+          "low": "1,945.60",
+          "lastPrice": "1,965.25",
+          "prevClose": "1,946.65",
+          "change": "18.60",
+          "percentGain": "0.96"
+        }
+      ]
     }
   ],
   "losers": [
@@ -299,6 +349,56 @@
           "prevClose": "2,232.70",
           "change": "-37.30",
           "percentGain": "-1.67"
+        }
+      ]
+    },
+    {
+      "time": "4:50:47 AM",
+      "data": [
+        {
+          "company": "Kotak Mahindra",
+          "high": "1,825.00",
+          "low": "1,793.05",
+          "lastPrice": "1,803.15",
+          "prevClose": "1,838.65",
+          "change": "-35.50",
+          "percentGain": "-1.93"
+        },
+        {
+          "company": "Tata Steel",
+          "high": "138.39",
+          "low": "135.12",
+          "lastPrice": "135.87",
+          "prevClose": "138.36",
+          "change": "-2.49",
+          "percentGain": "-1.80"
+        },
+        {
+          "company": "Nestle",
+          "high": "2,244.90",
+          "low": "2,192.75",
+          "lastPrice": "2,196.70",
+          "prevClose": "2,232.70",
+          "change": "-36.00",
+          "percentGain": "-1.61"
+        },
+        {
+          "company": "Adani Enterpris",
+          "high": "2,568.85",
+          "low": "2,517.05",
+          "lastPrice": "2,524.35",
+          "prevClose": "2,564.60",
+          "change": "-40.25",
+          "percentGain": "-1.57"
+        },
+        {
+          "company": "Hindalco",
+          "high": "593.85",
+          "low": "580.15",
+          "lastPrice": "582.35",
+          "prevClose": "591.15",
+          "change": "-8.80",
+          "percentGain": "-1.49"
         }
       ]
     }
