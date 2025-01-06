@@ -307,6 +307,56 @@
     {
       "time": "6:22:55 AM",
       "data": []
+    },
+    {
+      "time": "6:45:12 AM",
+      "data": [
+        {
+          "company": "Apollo Hospital",
+          "high": "7,414.00",
+          "low": "7,290.75",
+          "lastPrice": "7,406.80",
+          "prevClose": "7,298.35",
+          "change": "108.45",
+          "percentGain": "1.49"
+        },
+        {
+          "company": "Titan Company",
+          "high": "3,528.50",
+          "low": "3,441.20",
+          "lastPrice": "3,483.85",
+          "prevClose": "3,451.65",
+          "change": "32.20",
+          "percentGain": "0.93"
+        },
+        {
+          "company": "Hero Motocorp",
+          "high": "4,300.00",
+          "low": "4,212.10",
+          "lastPrice": "4,251.00",
+          "prevClose": "4,243.10",
+          "change": "7.90",
+          "percentGain": "0.19"
+        },
+        {
+          "company": "TATA Cons. Prod",
+          "high": "941.45",
+          "low": "929.10",
+          "lastPrice": "941.00",
+          "prevClose": "939.45",
+          "change": "1.55",
+          "percentGain": "0.16"
+        },
+        {
+          "company": "ICICI Bank",
+          "high": "1,277.75",
+          "low": "1,260.65",
+          "lastPrice": "1,266.70",
+          "prevClose": "1,265.05",
+          "change": "1.65",
+          "percentGain": "0.13"
+        }
+      ]
     }
   ],
   "losers": [
@@ -617,6 +667,56 @@
     {
       "time": "6:22:55 AM",
       "data": []
+    },
+    {
+      "time": "6:45:12 AM",
+      "data": [
+        {
+          "company": "Tata Steel",
+          "high": "138.39",
+          "low": "131.85",
+          "lastPrice": "132.60",
+          "prevClose": "138.36",
+          "change": "-5.76",
+          "percentGain": "-4.16"
+        },
+        {
+          "company": "BPCL",
+          "high": "297.25",
+          "low": "285.10",
+          "lastPrice": "286.85",
+          "prevClose": "296.40",
+          "change": "-9.55",
+          "percentGain": "-3.22"
+        },
+        {
+          "company": "Adani Enterpris",
+          "high": "2,568.85",
+          "low": "2,472.00",
+          "lastPrice": "2,490.35",
+          "prevClose": "2,564.60",
+          "change": "-74.25",
+          "percentGain": "-2.90"
+        },
+        {
+          "company": "Trent",
+          "high": "7,338.60",
+          "low": "7,045.20",
+          "lastPrice": "7,102.20",
+          "prevClose": "7,307.70",
+          "change": "-205.50",
+          "percentGain": "-2.81"
+        },
+        {
+          "company": "Kotak Mahindra",
+          "high": "1,825.00",
+          "low": "1,780.05",
+          "lastPrice": "1,788.85",
+          "prevClose": "1,838.65",
+          "change": "-49.80",
+          "percentGain": "-2.71"
+        }
+      ]
     }
   ]
 }
