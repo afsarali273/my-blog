@@ -511,6 +511,56 @@
           "percentGain": "0.26"
         }
       ]
+    },
+    {
+      "time": "8:20:34 AM",
+      "data": [
+        {
+          "company": "Apollo Hospital",
+          "high": "7,425.00",
+          "low": "7,290.75",
+          "lastPrice": "7,372.55",
+          "prevClose": "7,298.35",
+          "change": "74.20",
+          "percentGain": "1.02"
+        },
+        {
+          "company": "TATA Cons. Prod",
+          "high": "955.00",
+          "low": "929.10",
+          "lastPrice": "947.40",
+          "prevClose": "939.45",
+          "change": "7.95",
+          "percentGain": "0.85"
+        },
+        {
+          "company": "Titan Company",
+          "high": "3,528.50",
+          "low": "3,441.20",
+          "lastPrice": "3,476.00",
+          "prevClose": "3,451.65",
+          "change": "24.35",
+          "percentGain": "0.71"
+        },
+        {
+          "company": "HCL Tech",
+          "high": "1,973.40",
+          "low": "1,930.00",
+          "lastPrice": "1,950.70",
+          "prevClose": "1,946.65",
+          "change": "4.05",
+          "percentGain": "0.21"
+        },
+        {
+          "company": "TCS",
+          "high": "4,149.65",
+          "low": "4,066.40",
+          "lastPrice": "4,103.35",
+          "prevClose": "4,099.90",
+          "change": "3.45",
+          "percentGain": "0.08"
+        }
+      ]
     }
   ],
   "losers": [
@@ -1023,6 +1073,56 @@
           "prevClose": "296.40",
           "change": "-8.55",
           "percentGain": "-2.88"
+        }
+      ]
+    },
+    {
+      "time": "8:20:34 AM",
+      "data": [
+        {
+          "company": "Trent",
+          "high": "7,338.60",
+          "low": "6,972.55",
+          "lastPrice": "6,980.35",
+          "prevClose": "7,307.70",
+          "change": "-327.35",
+          "percentGain": "-4.48"
+        },
+        {
+          "company": "Tata Steel",
+          "high": "138.39",
+          "low": "131.85",
+          "lastPrice": "132.45",
+          "prevClose": "138.36",
+          "change": "-5.91",
+          "percentGain": "-4.27"
+        },
+        {
+          "company": "Coal India",
+          "high": "394.05",
+          "low": "378.60",
+          "lastPrice": "379.35",
+          "prevClose": "393.65",
+          "change": "-14.30",
+          "percentGain": "-3.63"
+        },
+        {
+          "company": "Adani Enterpris",
+          "high": "2,568.85",
+          "low": "2,472.00",
+          "lastPrice": "2,479.65",
+          "prevClose": "2,564.60",
+          "change": "-84.95",
+          "percentGain": "-3.31"
+        },
+        {
+          "company": "NTPC",
+          "high": "341.70",
+          "low": "328.60",
+          "lastPrice": "328.85",
+          "prevClose": "339.85",
+          "change": "-11.00",
+          "percentGain": "-3.24"
         }
       ]
     }
