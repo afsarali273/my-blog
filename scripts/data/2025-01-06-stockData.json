@@ -49,6 +49,56 @@
           "percentGain": "0.69"
         }
       ]
+    },
+    {
+      "time": "4:19:27 AM",
+      "data": [
+        {
+          "company": "Bajaj Finance",
+          "high": "7,599.90",
+          "low": "7,420.00",
+          "lastPrice": "7,553.90",
+          "prevClose": "7,407.25",
+          "change": "146.65",
+          "percentGain": "1.98"
+        },
+        {
+          "company": "Titan Company",
+          "high": "3,528.50",
+          "low": "3,471.65",
+          "lastPrice": "3,495.00",
+          "prevClose": "3,451.65",
+          "change": "43.35",
+          "percentGain": "1.26"
+        },
+        {
+          "company": "Infosys",
+          "high": "1,973.00",
+          "low": "1,945.00",
+          "lastPrice": "1,961.10",
+          "prevClose": "1,938.75",
+          "change": "22.35",
+          "percentGain": "1.15"
+        },
+        {
+          "company": "Bajaj Auto",
+          "high": "9,093.90",
+          "low": "8,980.00",
+          "lastPrice": "9,050.05",
+          "prevClose": "8,965.70",
+          "change": "84.35",
+          "percentGain": "0.94"
+        },
+        {
+          "company": "Wipro",
+          "high": "297.80",
+          "low": "294.55",
+          "lastPrice": "296.85",
+          "prevClose": "294.45",
+          "change": "2.40",
+          "percentGain": "0.82"
+        }
+      ]
     }
   ],
   "losers": [
@@ -99,6 +149,56 @@
           "prevClose": "1,511.25",
           "change": "-8.00",
           "percentGain": "-0.53"
+        }
+      ]
+    },
+    {
+      "time": "4:19:27 AM",
+      "data": [
+        {
+          "company": "Kotak Mahindra",
+          "high": "1,825.00",
+          "low": "1,795.05",
+          "lastPrice": "1,795.60",
+          "prevClose": "1,838.65",
+          "change": "-43.05",
+          "percentGain": "-2.34"
+        },
+        {
+          "company": "Tata Steel",
+          "high": "138.39",
+          "low": "135.12",
+          "lastPrice": "135.26",
+          "prevClose": "138.36",
+          "change": "-3.10",
+          "percentGain": "-2.24"
+        },
+        {
+          "company": "Cipla",
+          "high": "1,509.25",
+          "low": "1,482.70",
+          "lastPrice": "1,483.10",
+          "prevClose": "1,511.25",
+          "change": "-28.15",
+          "percentGain": "-1.86"
+        },
+        {
+          "company": "Hindalco",
+          "high": "593.85",
+          "low": "580.95",
+          "lastPrice": "581.35",
+          "prevClose": "591.15",
+          "change": "-9.80",
+          "percentGain": "-1.66"
+        },
+        {
+          "company": "ONGC",
+          "high": "259.50",
+          "low": "254.65",
+          "lastPrice": "254.79",
+          "prevClose": "258.89",
+          "change": "-4.10",
+          "percentGain": "-1.58"
         }
       ]
     }
