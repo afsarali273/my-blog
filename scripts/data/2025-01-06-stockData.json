@@ -1,0 +1,106 @@
+{
+  "gainers": [
+    {
+      "time": "3:51:34 AM",
+      "data": [
+        {
+          "company": "Titan Company",
+          "high": "3,525.80",
+          "low": "3,471.65",
+          "lastPrice": "3,525.80",
+          "prevClose": "3,451.65",
+          "change": "74.15",
+          "percentGain": "2.15"
+        },
+        {
+          "company": "Bajaj Finance",
+          "high": "7,598.30",
+          "low": "7,420.00",
+          "lastPrice": "7,490.00",
+          "prevClose": "7,407.25",
+          "change": "82.75",
+          "percentGain": "1.12"
+        },
+        {
+          "company": "Tech Mahindra",
+          "high": "1,707.50",
+          "low": "1,689.30",
+          "lastPrice": "1,705.35",
+          "prevClose": "1,689.45",
+          "change": "15.90",
+          "percentGain": "0.94"
+        },
+        {
+          "company": "Bajaj Finserv",
+          "high": "1,732.95",
+          "low": "1,710.10",
+          "lastPrice": "1,714.90",
+          "prevClose": "1,701.10",
+          "change": "13.80",
+          "percentGain": "0.81"
+        },
+        {
+          "company": "TCS",
+          "high": "4,132.50",
+          "low": "4,099.90",
+          "lastPrice": "4,128.05",
+          "prevClose": "4,099.90",
+          "change": "28.15",
+          "percentGain": "0.69"
+        }
+      ]
+    }
+  ],
+  "losers": [
+    {
+      "time": "3:51:34 AM",
+      "data": [
+        {
+          "company": "Kotak Mahindra",
+          "high": "1,825.00",
+          "low": "1,808.50",
+          "lastPrice": "1,813.25",
+          "prevClose": "1,838.65",
+          "change": "-25.40",
+          "percentGain": "-1.38"
+        },
+        {
+          "company": "ONGC",
+          "high": "259.50",
+          "low": "255.72",
+          "lastPrice": "255.72",
+          "prevClose": "258.89",
+          "change": "-3.17",
+          "percentGain": "-1.22"
+        },
+        {
+          "company": "Tata Steel",
+          "high": "138.39",
+          "low": "137.01",
+          "lastPrice": "137.13",
+          "prevClose": "138.36",
+          "change": "-1.23",
+          "percentGain": "-0.89"
+        },
+        {
+          "company": "TATA Cons. Prod",
+          "high": "936.00",
+          "low": "930.55",
+          "lastPrice": "933.80",
+          "prevClose": "939.45",
+          "change": "-5.65",
+          "percentGain": "-0.60"
+        },
+        {
+          "company": "Cipla",
+          "high": "1,503.85",
+          "low": "1,491.30",
+          "lastPrice": "1,503.25",
+          "prevClose": "1,511.25",
+          "change": "-8.00",
+          "percentGain": "-0.53"
+        }
+      ]
+    }
+  ]
+}
