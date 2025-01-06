@@ -461,6 +461,56 @@
           "percentGain": "0.44"
         }
       ]
+    },
+    {
+      "time": "7:49:54 AM",
+      "data": [
+        {
+          "company": "Apollo Hospital",
+          "high": "7,425.00",
+          "low": "7,290.75",
+          "lastPrice": "7,388.80",
+          "prevClose": "7,298.35",
+          "change": "90.45",
+          "percentGain": "1.24"
+        },
+        {
+          "company": "TATA Cons. Prod",
+          "high": "955.00",
+          "low": "929.10",
+          "lastPrice": "948.25",
+          "prevClose": "939.45",
+          "change": "8.80",
+          "percentGain": "0.94"
+        },
+        {
+          "company": "Titan Company",
+          "high": "3,528.50",
+          "low": "3,441.20",
+          "lastPrice": "3,483.60",
+          "prevClose": "3,451.65",
+          "change": "31.95",
+          "percentGain": "0.93"
+        },
+        {
+          "company": "TCS",
+          "high": "4,149.65",
+          "low": "4,066.40",
+          "lastPrice": "4,111.80",
+          "prevClose": "4,099.90",
+          "change": "11.90",
+          "percentGain": "0.29"
+        },
+        {
+          "company": "Infosys",
+          "high": "1,973.00",
+          "low": "1,928.00",
+          "lastPrice": "1,943.70",
+          "prevClose": "1,938.75",
+          "change": "4.95",
+          "percentGain": "0.26"
+        }
+      ]
     }
   ],
   "losers": [
@@ -923,6 +973,56 @@
           "prevClose": "2,335.95",
           "change": "-58.20",
           "percentGain": "-2.49"
+        }
+      ]
+    },
+    {
+      "time": "7:49:54 AM",
+      "data": [
+        {
+          "company": "Tata Steel",
+          "high": "138.39",
+          "low": "131.85",
+          "lastPrice": "133.12",
+          "prevClose": "138.36",
+          "change": "-5.24",
+          "percentGain": "-3.79"
+        },
+        {
+          "company": "Trent",
+          "high": "7,338.60",
+          "low": "7,006.80",
+          "lastPrice": "7,035.00",
+          "prevClose": "7,307.70",
+          "change": "-272.70",
+          "percentGain": "-3.73"
+        },
+        {
+          "company": "Kotak Mahindra",
+          "high": "1,825.00",
+          "low": "1,776.55",
+          "lastPrice": "1,777.10",
+          "prevClose": "1,838.65",
+          "change": "-61.55",
+          "percentGain": "-3.35"
+        },
+        {
+          "company": "Coal India",
+          "high": "394.05",
+          "low": "380.55",
+          "lastPrice": "380.75",
+          "prevClose": "393.65",
+          "change": "-12.90",
+          "percentGain": "-3.28"
+        },
+        {
+          "company": "BPCL",
+          "high": "297.25",
+          "low": "285.10",
+          "lastPrice": "287.85",
+          "prevClose": "296.40",
+          "change": "-8.55",
+          "percentGain": "-2.88"
         }
       ]
     }
