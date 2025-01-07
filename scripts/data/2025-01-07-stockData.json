@@ -161,6 +161,56 @@
     {
       "time": "5:31:47 AM",
       "data": []
+    },
+    {
+      "time": "5:50:08 AM",
+      "data": [
+        {
+          "company": "ONGC",
+          "high": "267.40",
+          "low": "258.05",
+          "lastPrice": "265.56",
+          "prevClose": "254.36",
+          "change": "11.20",
+          "percentGain": "4.40"
+        },
+        {
+          "company": "TATA Cons. Prod",
+          "high": "969.00",
+          "low": "951.95",
+          "lastPrice": "965.70",
+          "prevClose": "946.90",
+          "change": "18.80",
+          "percentGain": "1.99"
+        },
+        {
+          "company": "Titan Company",
+          "high": "3,576.70",
+          "low": "3,485.00",
+          "lastPrice": "3,537.95",
+          "prevClose": "3,470.40",
+          "change": "67.55",
+          "percentGain": "1.95"
+        },
+        {
+          "company": "Reliance",
+          "high": "1,243.00",
+          "low": "1,221.25",
+          "lastPrice": "1,239.40",
+          "prevClose": "1,218.00",
+          "change": "21.40",
+          "percentGain": "1.76"
+        },
+        {
+          "company": "Asian Paints",
+          "high": "2,316.00",
+          "low": "2,272.00",
+          "lastPrice": "2,306.25",
+          "prevClose": "2,267.15",
+          "change": "39.10",
+          "percentGain": "1.72"
+        }
+      ]
     }
   ],
   "losers": [
@@ -325,6 +375,56 @@
     {
       "time": "5:31:47 AM",
       "data": []
+    },
+    {
+      "time": "5:50:08 AM",
+      "data": [
+        {
+          "company": "TCS",
+          "high": "4,140.35",
+          "low": "4,021.65",
+          "lastPrice": "4,024.90",
+          "prevClose": "4,095.00",
+          "change": "-70.10",
+          "percentGain": "-1.71"
+        },
+        {
+          "company": "HCL Tech",
+          "high": "1,981.00",
+          "low": "1,922.20",
+          "lastPrice": "1,926.00",
+          "prevClose": "1,953.05",
+          "change": "-27.05",
+          "percentGain": "-1.39"
+        },
+        {
+          "company": "Tech Mahindra",
+          "high": "1,705.00",
+          "low": "1,661.50",
+          "lastPrice": "1,663.55",
+          "prevClose": "1,686.30",
+          "change": "-22.75",
+          "percentGain": "-1.35"
+        },
+        {
+          "company": "Wipro",
+          "high": "297.50",
+          "low": "291.30",
+          "lastPrice": "292.45",
+          "prevClose": "294.30",
+          "change": "-1.85",
+          "percentGain": "-0.63"
+        },
+        {
+          "company": "Eicher Motors",
+          "high": "5,292.00",
+          "low": "5,200.00",
+          "lastPrice": "5,218.00",
+          "prevClose": "5,250.10",
+          "change": "-32.10",
+          "percentGain": "-0.61"
+        }
+      ]
     }
   ]
 }
