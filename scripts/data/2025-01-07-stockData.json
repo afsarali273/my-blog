@@ -669,6 +669,56 @@
           "percentGain": "1.92"
         }
       ]
+    },
+    {
+      "time": "9:37:40 AM",
+      "data": [
+        {
+          "company": "ONGC",
+          "high": "267.40",
+          "low": "258.05",
+          "lastPrice": "263.21",
+          "prevClose": "254.36",
+          "change": "8.85",
+          "percentGain": "3.48"
+        },
+        {
+          "company": "SBI Life Insura",
+          "high": "1,490.80",
+          "low": "1,434.35",
+          "lastPrice": "1,480.35",
+          "prevClose": "1,434.65",
+          "change": "45.70",
+          "percentGain": "3.19"
+        },
+        {
+          "company": "Tata Motors",
+          "high": "796.95",
+          "low": "772.50",
+          "lastPrice": "793.75",
+          "prevClose": "776.25",
+          "change": "17.50",
+          "percentGain": "2.25"
+        },
+        {
+          "company": "HDFC Life",
+          "high": "620.25",
+          "low": "605.50",
+          "lastPrice": "619.40",
+          "prevClose": "605.95",
+          "change": "13.45",
+          "percentGain": "2.22"
+        },
+        {
+          "company": "Hindalco",
+          "high": "588.40",
+          "low": "572.05",
+          "lastPrice": "585.40",
+          "prevClose": "574.10",
+          "change": "11.30",
+          "percentGain": "1.97"
+        }
+      ]
     }
   ],
   "losers": [
@@ -1339,6 +1389,56 @@
           "prevClose": "6,998.35",
           "change": "-67.95",
           "percentGain": "-0.97"
+        }
+      ]
+    },
+    {
+      "time": "9:37:40 AM",
+      "data": [
+        {
+          "company": "HCL Tech",
+          "high": "1,981.00",
+          "low": "1,908.90",
+          "lastPrice": "1,910.15",
+          "prevClose": "1,953.05",
+          "change": "-42.90",
+          "percentGain": "-2.20"
+        },
+        {
+          "company": "TCS",
+          "high": "4,140.35",
+          "low": "4,011.55",
+          "lastPrice": "4,024.45",
+          "prevClose": "4,095.00",
+          "change": "-70.55",
+          "percentGain": "-1.72"
+        },
+        {
+          "company": "Trent",
+          "high": "7,085.00",
+          "low": "6,895.00",
+          "lastPrice": "6,895.00",
+          "prevClose": "6,998.35",
+          "change": "-103.35",
+          "percentGain": "-1.48"
+        },
+        {
+          "company": "Eicher Motors",
+          "high": "5,292.00",
+          "low": "5,166.50",
+          "lastPrice": "5,176.25",
+          "prevClose": "5,250.10",
+          "change": "-73.85",
+          "percentGain": "-1.41"
+        },
+        {
+          "company": "Tech Mahindra",
+          "high": "1,705.00",
+          "low": "1,661.50",
+          "lastPrice": "1,666.40",
+          "prevClose": "1,686.30",
+          "change": "-19.90",
+          "percentGain": "-1.18"
         }
       ]
     }
