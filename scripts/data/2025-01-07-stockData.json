@@ -57,6 +57,56 @@
     {
       "time": "4:39:30 AM",
       "data": []
+    },
+    {
+      "time": "4:50:07 AM",
+      "data": [
+        {
+          "company": "ONGC",
+          "high": "265.70",
+          "low": "258.05",
+          "lastPrice": "265.50",
+          "prevClose": "254.36",
+          "change": "11.14",
+          "percentGain": "4.38"
+        },
+        {
+          "company": "Titan Company",
+          "high": "3,576.70",
+          "low": "3,485.00",
+          "lastPrice": "3,551.35",
+          "prevClose": "3,470.40",
+          "change": "80.95",
+          "percentGain": "2.33"
+        },
+        {
+          "company": "Britannia",
+          "high": "4,885.50",
+          "low": "4,804.95",
+          "lastPrice": "4,885.50",
+          "prevClose": "4,791.25",
+          "change": "94.25",
+          "percentGain": "1.97"
+        },
+        {
+          "company": "Reliance",
+          "high": "1,239.30",
+          "low": "1,221.25",
+          "lastPrice": "1,238.35",
+          "prevClose": "1,218.00",
+          "change": "20.35",
+          "percentGain": "1.67"
+        },
+        {
+          "company": "Hindalco",
+          "high": "584.70",
+          "low": "572.05",
+          "lastPrice": "582.85",
+          "prevClose": "574.10",
+          "change": "8.75",
+          "percentGain": "1.52"
+        }
+      ]
     }
   ],
   "losers": [
@@ -117,6 +167,56 @@
     {
       "time": "4:39:30 AM",
       "data": []
+    },
+    {
+      "time": "4:50:07 AM",
+      "data": [
+        {
+          "company": "TCS",
+          "high": "4,140.35",
+          "low": "4,025.00",
+          "lastPrice": "4,035.50",
+          "prevClose": "4,095.00",
+          "change": "-59.50",
+          "percentGain": "-1.45"
+        },
+        {
+          "company": "Tech Mahindra",
+          "high": "1,705.00",
+          "low": "1,667.00",
+          "lastPrice": "1,670.70",
+          "prevClose": "1,686.30",
+          "change": "-15.60",
+          "percentGain": "-0.93"
+        },
+        {
+          "company": "Apollo Hospital",
+          "high": "7,466.25",
+          "low": "7,345.20",
+          "lastPrice": "7,378.00",
+          "prevClose": "7,429.15",
+          "change": "-51.15",
+          "percentGain": "-0.69"
+        },
+        {
+          "company": "HCL Tech",
+          "high": "1,981.00",
+          "low": "1,931.05",
+          "lastPrice": "1,941.00",
+          "prevClose": "1,953.05",
+          "change": "-12.05",
+          "percentGain": "-0.62"
+        },
+        {
+          "company": "Wipro",
+          "high": "297.50",
+          "low": "291.30",
+          "lastPrice": "292.70",
+          "prevClose": "294.30",
+          "change": "-1.60",
+          "percentGain": "-0.54"
+        }
+      ]
     }
   ]
 }
