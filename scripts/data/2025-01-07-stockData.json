@@ -215,6 +215,56 @@
     {
       "time": "6:22:40 AM",
       "data": []
+    },
+    {
+      "time": "6:44:38 AM",
+      "data": [
+        {
+          "company": "ONGC",
+          "high": "267.40",
+          "low": "258.05",
+          "lastPrice": "266.90",
+          "prevClose": "254.36",
+          "change": "12.54",
+          "percentGain": "4.93"
+        },
+        {
+          "company": "TATA Cons. Prod",
+          "high": "971.00",
+          "low": "951.95",
+          "lastPrice": "970.95",
+          "prevClose": "946.90",
+          "change": "24.05",
+          "percentGain": "2.54"
+        },
+        {
+          "company": "Tata Motors",
+          "high": "794.50",
+          "low": "772.50",
+          "lastPrice": "792.90",
+          "prevClose": "776.25",
+          "change": "16.65",
+          "percentGain": "2.14"
+        },
+        {
+          "company": "IndusInd Bank",
+          "high": "991.60",
+          "low": "970.15",
+          "lastPrice": "990.00",
+          "prevClose": "970.05",
+          "change": "19.95",
+          "percentGain": "2.06"
+        },
+        {
+          "company": "Reliance",
+          "high": "1,243.00",
+          "low": "1,221.25",
+          "lastPrice": "1,239.50",
+          "prevClose": "1,218.00",
+          "change": "21.50",
+          "percentGain": "1.77"
+        }
+      ]
     }
   ],
   "losers": [
@@ -433,6 +483,56 @@
     {
       "time": "6:22:40 AM",
       "data": []
+    },
+    {
+      "time": "6:44:38 AM",
+      "data": [
+        {
+          "company": "TCS",
+          "high": "4,140.35",
+          "low": "4,011.55",
+          "lastPrice": "4,013.80",
+          "prevClose": "4,095.00",
+          "change": "-81.20",
+          "percentGain": "-1.98"
+        },
+        {
+          "company": "HCL Tech",
+          "high": "1,981.00",
+          "low": "1,922.20",
+          "lastPrice": "1,925.90",
+          "prevClose": "1,953.05",
+          "change": "-27.15",
+          "percentGain": "-1.39"
+        },
+        {
+          "company": "BPCL",
+          "high": "290.50",
+          "low": "281.40",
+          "lastPrice": "281.50",
+          "prevClose": "284.85",
+          "change": "-3.35",
+          "percentGain": "-1.18"
+        },
+        {
+          "company": "Tech Mahindra",
+          "high": "1,705.00",
+          "low": "1,661.50",
+          "lastPrice": "1,667.55",
+          "prevClose": "1,686.30",
+          "change": "-18.75",
+          "percentGain": "-1.11"
+        },
+        {
+          "company": "Eicher Motors",
+          "high": "5,292.00",
+          "low": "5,193.05",
+          "lastPrice": "5,196.00",
+          "prevClose": "5,250.10",
+          "change": "-54.10",
+          "percentGain": "-1.03"
+        }
+      ]
     }
   ]
 }
