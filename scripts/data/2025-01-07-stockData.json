@@ -1,0 +1,106 @@
+{
+  "gainers": [
+    {
+      "time": "3:51:30 AM",
+      "data": [
+        {
+          "company": "ONGC",
+          "high": "264.36",
+          "low": "258.05",
+          "lastPrice": "262.13",
+          "prevClose": "254.36",
+          "change": "7.77",
+          "percentGain": "3.05"
+        },
+        {
+          "company": "TATA Cons. Prod",
+          "high": "969.00",
+          "low": "951.95",
+          "lastPrice": "966.25",
+          "prevClose": "946.90",
+          "change": "19.35",
+          "percentGain": "2.04"
+        },
+        {
+          "company": "Titan Company",
+          "high": "3,544.75",
+          "low": "3,485.00",
+          "lastPrice": "3,539.90",
+          "prevClose": "3,470.40",
+          "change": "69.50",
+          "percentGain": "2.00"
+        },
+        {
+          "company": "Shriram Finance",
+          "high": "3,017.30",
+          "low": "2,977.05",
+          "lastPrice": "3,014.25",
+          "prevClose": "2,969.55",
+          "change": "44.70",
+          "percentGain": "1.51"
+        },
+        {
+          "company": "BPCL",
+          "high": "290.50",
+          "low": "286.40",
+          "lastPrice": "289.05",
+          "prevClose": "284.85",
+          "change": "4.20",
+          "percentGain": "1.47"
+        }
+      ]
+    }
+  ],
+  "losers": [
+    {
+      "time": "3:51:30 AM",
+      "data": [
+        {
+          "company": "Apollo Hospital",
+          "high": "7,466.25",
+          "low": "7,353.80",
+          "lastPrice": "7,354.00",
+          "prevClose": "7,429.15",
+          "change": "-75.15",
+          "percentGain": "-1.01"
+        },
+        {
+          "company": "M&M",
+          "high": "3,115.00",
+          "low": "3,081.75",
+          "lastPrice": "3,095.60",
+          "prevClose": "3,105.70",
+          "change": "-10.10",
+          "percentGain": "-0.33"
+        },
+        {
+          "company": "Bajaj Auto",
+          "high": "8,887.95",
+          "low": "8,780.00",
+          "lastPrice": "8,805.00",
+          "prevClose": "8,823.85",
+          "change": "-18.85",
+          "percentGain": "-0.21"
+        },
+        {
+          "company": "Axis Bank",
+          "high": "1,066.70",
+          "low": "1,056.00",
+          "lastPrice": "1,062.65",
+          "prevClose": "1,063.40",
+          "change": "-0.75",
+          "percentGain": "-0.07"
+        },
+        {
+          "company": "Tata Motors",
+          "high": "782.15",
+          "low": "772.55",
+          "lastPrice": "775.80",
+          "prevClose": "776.25",
+          "change": "-0.45",
+          "percentGain": "-0.06"
+        }
+      ]
+    }
+  ]
+}
