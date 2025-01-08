@@ -161,6 +161,56 @@
     {
       "time": "5:32:26 AM",
       "data": []
+    },
+    {
+      "time": "5:49:41 AM",
+      "data": [
+        {
+          "company": "Reliance",
+          "high": "1,269.95",
+          "low": "1,245.35",
+          "lastPrice": "1,264.40",
+          "prevClose": "1,240.85",
+          "change": "23.55",
+          "percentGain": "1.90"
+        },
+        {
+          "company": "Dr Reddys Labs",
+          "high": "1,405.90",
+          "low": "1,358.00",
+          "lastPrice": "1,372.00",
+          "prevClose": "1,351.55",
+          "change": "20.45",
+          "percentGain": "1.51"
+        },
+        {
+          "company": "ONGC",
+          "high": "270.49",
+          "low": "265.75",
+          "lastPrice": "266.35",
+          "prevClose": "263.49",
+          "change": "2.86",
+          "percentGain": "1.09"
+        },
+        {
+          "company": "Maruti Suzuki",
+          "high": "11,810.00",
+          "low": "11,725.30",
+          "lastPrice": "11,797.60",
+          "prevClose": "11,721.30",
+          "change": "76.30",
+          "percentGain": "0.65"
+        },
+        {
+          "company": "BPCL",
+          "high": "286.90",
+          "low": "280.50",
+          "lastPrice": "284.30",
+          "prevClose": "282.80",
+          "change": "1.50",
+          "percentGain": "0.53"
+        }
+      ]
     }
   ],
   "losers": [
@@ -325,6 +375,56 @@
     {
       "time": "5:32:26 AM",
       "data": []
+    },
+    {
+      "time": "5:49:41 AM",
+      "data": [
+        {
+          "company": "Shriram Finance",
+          "high": "2,970.00",
+          "low": "2,866.00",
+          "lastPrice": "2,869.20",
+          "prevClose": "2,958.40",
+          "change": "-89.20",
+          "percentGain": "-3.02"
+        },
+        {
+          "company": "Trent",
+          "high": "6,873.50",
+          "low": "6,590.35",
+          "lastPrice": "6,671.90",
+          "prevClose": "6,874.30",
+          "change": "-202.40",
+          "percentGain": "-2.94"
+        },
+        {
+          "company": "Adani Ports",
+          "high": "1,183.55",
+          "low": "1,146.05",
+          "lastPrice": "1,147.35",
+          "prevClose": "1,174.00",
+          "change": "-26.65",
+          "percentGain": "-2.27"
+        },
+        {
+          "company": "Titan Company",
+          "high": "3,514.50",
+          "low": "3,425.95",
+          "lastPrice": "3,431.35",
+          "prevClose": "3,505.10",
+          "change": "-73.75",
+          "percentGain": "-2.10"
+        },
+        {
+          "company": "Infosys",
+          "high": "1,930.00",
+          "low": "1,888.75",
+          "lastPrice": "1,893.50",
+          "prevClose": "1,930.85",
+          "change": "-37.35",
+          "percentGain": "-1.93"
+        }
+      ]
     }
   ]
 }
