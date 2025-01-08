@@ -107,6 +107,56 @@
     {
       "time": "4:49:51 AM",
       "data": []
+    },
+    {
+      "time": "5:15:37 AM",
+      "data": [
+        {
+          "company": "Dr Reddys Labs",
+          "high": "1,405.90",
+          "low": "1,358.00",
+          "lastPrice": "1,375.75",
+          "prevClose": "1,351.55",
+          "change": "24.20",
+          "percentGain": "1.79"
+        },
+        {
+          "company": "Reliance",
+          "high": "1,269.95",
+          "low": "1,245.35",
+          "lastPrice": "1,260.00",
+          "prevClose": "1,240.85",
+          "change": "19.15",
+          "percentGain": "1.54"
+        },
+        {
+          "company": "ONGC",
+          "high": "270.49",
+          "low": "265.75",
+          "lastPrice": "266.70",
+          "prevClose": "263.49",
+          "change": "3.21",
+          "percentGain": "1.22"
+        },
+        {
+          "company": "BPCL",
+          "high": "286.90",
+          "low": "280.50",
+          "lastPrice": "284.45",
+          "prevClose": "282.80",
+          "change": "1.65",
+          "percentGain": "0.58"
+        },
+        {
+          "company": "Asian Paints",
+          "high": "2,304.85",
+          "low": "2,272.70",
+          "lastPrice": "2,301.00",
+          "prevClose": "2,292.60",
+          "change": "8.40",
+          "percentGain": "0.37"
+        }
+      ]
     }
   ],
   "losers": [
@@ -217,6 +267,56 @@
     {
       "time": "4:49:51 AM",
       "data": []
+    },
+    {
+      "time": "5:15:37 AM",
+      "data": [
+        {
+          "company": "Shriram Finance",
+          "high": "2,970.00",
+          "low": "2,878.05",
+          "lastPrice": "2,883.65",
+          "prevClose": "2,958.40",
+          "change": "-74.75",
+          "percentGain": "-2.53"
+        },
+        {
+          "company": "Trent",
+          "high": "6,873.50",
+          "low": "6,590.35",
+          "lastPrice": "6,706.35",
+          "prevClose": "6,874.30",
+          "change": "-167.95",
+          "percentGain": "-2.44"
+        },
+        {
+          "company": "Bharat Elec",
+          "high": "287.00",
+          "low": "280.50",
+          "lastPrice": "281.40",
+          "prevClose": "287.00",
+          "change": "-5.60",
+          "percentGain": "-1.95"
+        },
+        {
+          "company": "Titan Company",
+          "high": "3,514.50",
+          "low": "3,432.00",
+          "lastPrice": "3,438.00",
+          "prevClose": "3,505.10",
+          "change": "-67.10",
+          "percentGain": "-1.91"
+        },
+        {
+          "company": "Infosys",
+          "high": "1,930.00",
+          "low": "1,894.30",
+          "lastPrice": "1,895.85",
+          "prevClose": "1,930.85",
+          "change": "-35.00",
+          "percentGain": "-1.81"
+        }
+      ]
     }
   ]
 }
