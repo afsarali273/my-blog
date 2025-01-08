@@ -1,0 +1,106 @@
+{
+  "gainers": [
+    {
+      "time": "3:51:26 AM",
+      "data": [
+        {
+          "company": "Dr Reddys Labs",
+          "high": "1,405.90",
+          "low": "1,358.00",
+          "lastPrice": "1,401.35",
+          "prevClose": "1,351.55",
+          "change": "49.80",
+          "percentGain": "3.68"
+        },
+        {
+          "company": "ONGC",
+          "high": "270.49",
+          "low": "266.12",
+          "lastPrice": "269.30",
+          "prevClose": "263.49",
+          "change": "5.81",
+          "percentGain": "2.21"
+        },
+        {
+          "company": "Reliance",
+          "high": "1,256.30",
+          "low": "1,245.35",
+          "lastPrice": "1,255.20",
+          "prevClose": "1,240.85",
+          "change": "14.35",
+          "percentGain": "1.16"
+        },
+        {
+          "company": "Maruti Suzuki",
+          "high": "11,790.25",
+          "low": "11,725.30",
+          "lastPrice": "11,772.45",
+          "prevClose": "11,721.30",
+          "change": "51.15",
+          "percentGain": "0.44"
+        },
+        {
+          "company": "Cipla",
+          "high": "1,507.85",
+          "low": "1,495.00",
+          "lastPrice": "1,502.70",
+          "prevClose": "1,497.45",
+          "change": "5.25",
+          "percentGain": "0.35"
+        }
+      ]
+    }
+  ],
+  "losers": [
+    {
+      "time": "3:51:26 AM",
+      "data": [
+        {
+          "company": "Trent",
+          "high": "6,873.50",
+          "low": "6,712.05",
+          "lastPrice": "6,713.35",
+          "prevClose": "6,874.30",
+          "change": "-160.95",
+          "percentGain": "-2.34"
+        },
+        {
+          "company": "Shriram Finance",
+          "high": "2,970.00",
+          "low": "2,898.00",
+          "lastPrice": "2,900.15",
+          "prevClose": "2,958.40",
+          "change": "-58.25",
+          "percentGain": "-1.97"
+        },
+        {
+          "company": "Tech Mahindra",
+          "high": "1,669.65",
+          "low": "1,655.20",
+          "lastPrice": "1,656.05",
+          "prevClose": "1,671.15",
+          "change": "-15.10",
+          "percentGain": "-0.90"
+        },
+        {
+          "company": "SBI Life Insura",
+          "high": "1,484.65",
+          "low": "1,463.45",
+          "lastPrice": "1,465.05",
+          "prevClose": "1,477.75",
+          "change": "-12.70",
+          "percentGain": "-0.86"
+        },
+        {
+          "company": "Tata Motors",
+          "high": "792.95",
+          "low": "786.50",
+          "lastPrice": "786.90",
+          "prevClose": "793.25",
+          "change": "-6.35",
+          "percentGain": "-0.80"
+        }
+      ]
+    }
+  ]
+}
